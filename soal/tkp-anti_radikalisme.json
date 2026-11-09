@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0001",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf administrasi menerima tautan undangan kajian daring dari rekan satu ruangan. Poster acaranya bertema bahwa Pancasila tidak perlu lagi dijadikan pedoman hidup, dan peserta diminta merahasiakan kegiatan itu dari keluarga maupun kantor. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak bergabung, menyampaikan kepada rekan secara baik-baik alasan Anda tidak sependapat dengan tema itu, lalu melaporkan undangan beserta posternya kepada atasan",
+        "score": 5,
+        "rationale": "Ajakan tertutup untuk meninggalkan Pancasila ditolak dengan jelas, rekan tetap dirangkul lewat dialog, dan ajakan itu dilaporkan lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Tidak bergabung dan menjelaskan panjang lebar kepada rekan tersebut bahwa sebagai ASN Anda terikat sumpah setia kepada Pancasila, disertai kutipan peraturan agar ia sadar bahwa ajakan itu keliru",
+        "score": 4,
+        "rationale": "Sikapnya tegas dan meluruskan, tetapi ajakan yang berpotensi menjangkau ASN lain tidak dilaporkan."
+      },
+      {
+        "key": "C",
+        "text": "Membalas bahwa jadwal Anda sedang padat sehingga belum bisa mengikuti kajian tersebut",
+        "score": 3,
+        "rationale": "Menghindar dengan alasan sibuk tanpa menyatakan sikap terhadap paham yang ditawarkan."
+      },
+      {
+        "key": "D",
+        "text": "Bergabung karena rekan itu dikenal baik dan Anda tidak ingin dianggap menolak ajakan menambah ilmu",
+        "score": 1,
+        "rationale": "Ikut-ikutan karena sungkan berarti mendukung kegiatan yang menolak Pancasila."
+      },
+      {
+        "key": "E",
+        "text": "Bergabung sekali sebagai pendengar untuk menilai sendiri isi kajian sebelum menentukan sikap",
+        "score": 2,
+        "rationale": "Rasa ingin tahu membuka peluang terpapar dan memberi kesan menerima ajakan yang sejak awal tampak menolak dasar negara."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: setia pada Pancasila sebagai wujud nilai Loyal dalam BerAKHLAK. Ajakan anti-Pancasila ditolak tegas tanpa memutus hubungan, lalu dilaporkan lewat jalur resmi karena bersifat tertutup dan menyasar ASN.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0002",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pranata komputer menjadi anggota grup WhatsApp kantor. Seorang rekan mengunggah gambar lambang Garuda Pancasila yang diedit menjadi bahan lelucon dengan tulisan bahwa Pancasila sudah usang. Beberapa anggota menanggapinya dengan tawa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ikut menanggapi dan menunggu admin grup yang menegur",
+        "score": 3,
+        "rationale": "Tidak mendukung lelucon itu, tetapi pasif dan menyerahkan tanggung jawab kepada orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan tangkapan layar unggahan itu ke media sosial pribadi lengkap dengan nama pengunggah dan instansinya, agar ia mendapat sanksi sosial dan pegawai lain jera melakukan hal serupa",
+        "score": 2,
+        "rationale": "Niatnya membela lambang negara, tetapi caranya mempermalukan di depan umum dan memperluas penyebaran konten."
+      },
+      {
+        "key": "C",
+        "text": "Ikut menanggapi dengan tawa agar suasana grup tetap cair",
+        "score": 1,
+        "rationale": "Ikut-ikutan menertawakan berarti mendukung pelecehan terhadap lambang negara."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan di grup dengan bahasa sopan bahwa lambang negara wajib dihormati dan meminta gambar itu dihapus",
+        "score": 4,
+        "rationale": "Sikapnya benar dan santun, tetapi tanpa dialog pribadi maupun tindak lanjut bila terulang."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan di grup dengan sopan bahwa lambang negara wajib dihormati dan meminta gambar dihapus, lalu berdialog dengan pengunggah secara pribadi dan melapor ke atasan bila terulang",
+        "score": 5,
+        "rationale": "Meluruskan secara terbuka tanpa mempermalukan, merangkul pengunggah lewat dialog pribadi, dan menyiapkan jalur resmi bila pelanggaran berulang."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menghormati Pancasila dan lambang negara sebagai bagian nilai Loyal. Pelanggaran ditegur dengan santun, pelakunya diajak berdialog, dan jalur resmi dipakai bila berulang, bukan dengan mempermalukan di media sosial.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0003",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai anggota tim perencanaan memperhatikan seorang rekan yang dulu ramah kini menarik diri, menolak ikut kegiatan tim, dan mengirim pesan pribadi kepada pegawai baru bahwa hanya kelompoknya yang benar sedangkan yang lain harus dijauhi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena perubahan sikap adalah urusan pribadi selama pekerjaannya selesai",
+        "score": 2,
+        "rationale": "Pasif terhadap penyebaran paham eksklusif yang mulai menyasar orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Mengajak rekan itu berbincang secara pribadi dari hati ke hati, mendengarkan alasannya dengan sabar, lalu menjelaskan bahwa memusuhi kelompok lain tidak sejalan dengan semangat Bhinneka Tunggal Ika yang dijunjung kantor",
+        "score": 4,
+        "rationale": "Dialognya tepat, tetapi penyebaran pesan kepada pegawai baru belum ditangani lewat jalur organisasi."
+      },
+      {
+        "key": "C",
+        "text": "Mengajak anggota tim lain menjauhinya agar ia sadar bahwa sikapnya tidak disukai",
+        "score": 1,
+        "rationale": "Membalas eksklusivitas dengan pengucilan justru memperdalam keterasingan dan mendorongnya makin jauh."
+      },
+      {
+        "key": "D",
+        "text": "Berbincang pribadi dengan rekan itu untuk memahami dan meluruskan pandangannya, tetap melibatkannya dalam kegiatan tim, dan menginformasikan pesan-pesannya kepada atasan secara objektif",
+        "score": 5,
+        "rationale": "Merangkul dengan dialog, meluruskan paham eksklusif, dan melibatkan atasan secara objektif karena pesan itu sudah menyasar pegawai lain."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan pegawai baru agar tidak menanggapi pesan dari rekan tersebut",
+        "score": 3,
+        "rationale": "Melindungi pegawai baru, tetapi akar masalahnya dibiarkan dan rekan itu tidak dirangkul."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga kerukunan sesuai Bhinneka Tunggal Ika dan nilai Harmonis. Rekan yang mulai terpapar paham eksklusif dirangkul lewat dialog, bukan dikucilkan, sementara penyebarannya kepada pegawai lain ditangani lewat atasan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0004",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai ketua panitia peringatan hari besar keagamaan di kantor. Di tengah acara, penceramah tamu mulai menyampaikan bahwa pemeluk keyakinan lain tidak layak dijadikan rekan kerja dan negara tidak perlu dihormati. Sebagian hadirin terlihat gelisah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan ceramah selesai agar acara tidak terganggu, lalu mencatat seluruh pernyataan penceramah secara rinci untuk dibahas dalam rapat evaluasi panitia dan dijadikan dasar pemilihan narasumber berikutnya",
+        "score": 3,
+        "rationale": "Ada tindak lanjut, tetapi hadirin dibiarkan terus mendengar ujaran intoleran."
+      },
+      {
+        "key": "B",
+        "text": "Menghampiri penceramah saat ada jeda dan memintanya dengan sopan kembali ke tema yang disepakati",
+        "score": 4,
+        "rationale": "Tindakannya cepat dan santun, tetapi tidak ada pemulihan suasana maupun evaluasi agar kejadian serupa tidak berulang."
+      },
+      {
+        "key": "C",
+        "text": "Mematikan mikrofon dan menegur penceramah di depan hadirin",
+        "score": 2,
+        "rationale": "Niatnya menghentikan intoleransi, tetapi caranya mempermalukan di depan umum dan berisiko memicu kericuhan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta penceramah dengan sopan saat jeda untuk kembali ke tema, menegaskan komitmen kerukunan kantor setelah acara, dan melaporkan kejadian itu kepada pimpinan untuk evaluasi",
+        "score": 5,
+        "rationale": "Menghentikan ujaran intoleran tanpa mempermalukan penceramah, memulihkan suasana, dan menindaklanjuti lewat jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Membiarkan karena penceramah adalah tamu terhormat dan menegurnya akan dianggap tidak sopan",
+        "score": 1,
+        "rationale": "Diam karena sungkan membiarkan acara resmi kantor menjadi panggung ujaran kebencian."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kegiatan kantor harus menjaga kerukunan dan kesetiaan pada negara sesuai Pancasila dan nilai Loyal. Ujaran intoleran dihentikan dengan tenang, bukan dengan mempermalukan, lalu dievaluasi lewat jalur resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0005",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pegawai baru di sebuah dinas. Seorang senior yang berpengaruh mengajak seluruh pegawai muda ikut aksi massa pada jam kerja untuk menuntut penggantian dasar negara, dan mengatakan bahwa yang tidak ikut akan dianggap tidak solider. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut aksi karena menghormati senior dan ingin menjaga hubungan baik di tempat kerja",
+        "score": 1,
+        "rationale": "Ikut-ikutan dalam aksi yang menuntut penggantian dasar negara melanggar kewajiban setia ASN."
+      },
+      {
+        "key": "B",
+        "text": "Menolak ikut dengan sopan karena tuntutan itu bertentangan dengan sumpah ASN, mengajak sesama pegawai muda tetap bekerja, dan melaporkan rencana pengerahan itu kepada atasan",
+        "score": 5,
+        "rationale": "Menolak tegas tanpa konfrontasi, menjaga rekan agar tidak terseret, dan melapor lewat jalur resmi karena ada pengerahan pegawai."
+      },
+      {
+        "key": "C",
+        "text": "Menolak ikut dengan sopan dan menjelaskan kepada senior secara rinci bahwa tuntutan mengganti dasar negara bertentangan dengan sumpah ASN, sambil tetap menunjukkan rasa hormat agar hubungan kerja tidak rusak",
+        "score": 4,
+        "rationale": "Sikapnya jelas dan santun, tetapi pengerahan pegawai lain dibiarkan tanpa laporan."
+      },
+      {
+        "key": "D",
+        "text": "Ikut berangkat tetapi hanya menunggu di kendaraan agar tidak dianggap tidak solider",
+        "score": 2,
+        "rationale": "Takut dikucilkan membuatnya tetap hadir dan memberi kesan mendukung aksi."
+      },
+      {
+        "key": "E",
+        "text": "Tetap bekerja di kantor tanpa memberi tanggapan apa pun kepada senior",
+        "score": 3,
+        "rationale": "Tidak ikut, tetapi tidak menyatakan sikap dan tidak mencegah rekan lain terseret."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal, yaitu setia kepada Pancasila, UUD 1945, dan pemerintahan yang sah. Tekanan senior tidak membenarkan ikut aksi anti-Pancasila; tolak dengan sopan, jaga rekan, dan laporkan pengerahan kepada atasan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0006",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf bagian umum melihat kotak donasi tanpa izin di lobi kantor. Brosur di sampingnya meminta sumbangan untuk membiayai \"perjuangan bersenjata\" melawan aparat di suatu daerah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memindahkan kotak itu ke gudang agar tidak terlihat pengunjung dan memasang pengumuman bahwa semua penggalangan dana di kantor wajib berizin, supaya kejadian serupa tidak terulang di kemudian hari",
+        "score": 3,
+        "rationale": "Menghentikan penggalangan sementara dan membuat aturan umum, tetapi temuan tidak dilaporkan sehingga sumber masalahnya tidak tertangani."
+      },
+      {
+        "key": "B",
+        "text": "Meminta petugas pengamanan menyimpan kotak dan brosur tanpa dibuka, melapor kepada kepala bagian umum agar diteruskan ke aparat, dan tidak menebar dugaan soal pemasangnya",
+        "score": 5,
+        "rationale": "Bertindak sesuai tugas bagian umum, menjaga barang bukti, melapor lewat jalur resmi, dan tidak menebar prasangka."
+      },
+      {
+        "key": "C",
+        "text": "Memotret brosur itu dan menyebarkannya di grup kantor sambil menyebut rekan yang Anda curigai sebagai pemasangnya",
+        "score": 1,
+        "rationale": "Menyebarkan tuduhan tanpa bukti merupakan main hakim sendiri yang bisa memfitnah orang dan memicu konflik."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan karena mengira kotak itu sudah mendapat izin dari pimpinan",
+        "score": 2,
+        "rationale": "Pasif terhadap penggalangan dana yang jelas mendukung kekerasan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan keberadaan kotak dan brosur itu kepada kepala bagian umum",
+        "score": 4,
+        "rationale": "Jalur pelaporannya benar, tetapi barang bukti tidak diamankan sehingga sumbangan bisa terus terkumpul."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kewaspadaan terhadap pendanaan kekerasan dan kesetiaan pada NKRI sesuai nilai Loyal. Temuan diamankan dan dilaporkan lewat jalur resmi tanpa menuduh orang tertentu.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0007",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Adik kandung Anda yang sedang kuliah belakangan menyebut negara ini tidak sah dan menolak pulang saat hari raya. Suatu malam ia bercerita bahwa paspornya sudah jadi dan ia berencana berangkat ke luar negeri untuk bergabung dengan kelompok bersenjata. Orang tua Anda memohon agar hal ini tidak sampai ke pihak luar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan rencana keberangkatan itu kepada aparat berwenang agar adik dapat dicegah dan dibina",
+        "score": 4,
+        "rationale": "Langkah utamanya benar karena ada ancaman nyata, tetapi adik dan orang tua tidak didampingi lewat dialog."
+      },
+      {
+        "key": "B",
+        "text": "Menuruti permintaan orang tua untuk merahasiakannya dan berharap adik berubah pikiran sendiri",
+        "score": 1,
+        "rationale": "Diam demi menjaga nama keluarga membiarkan ancaman nyata terhadap keselamatan adik dan orang lain."
+      },
+      {
+        "key": "C",
+        "text": "Menyembunyikan paspor adik dan melarangnya keluar rumah sampai ia berubah pikiran",
+        "score": 2,
+        "rationale": "Tindakan sepihak tanpa dialog hanya menunda masalah dan bisa memperkeras sikap adik."
+      },
+      {
+        "key": "D",
+        "text": "Berdialog dari hati ke hati dengan adik, melibatkan orang tua dan tokoh agama moderat untuk mendampinginya, serta melaporkan rencana keberangkatannya kepada aparat demi keselamatannya",
+        "score": 5,
+        "rationale": "Kasih keluarga tetap dijaga lewat dialog dan pendampingan, sementara ancaman nyata kekerasan dilaporkan lewat jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak adik berdialog setiap hari dan meminta tokoh agama yang ia hormati menasihatinya, tanpa melibatkan pihak berwenang sesuai permintaan orang tua agar nama baik keluarga tetap terjaga",
+        "score": 3,
+        "rationale": "Pendekatan keluarganya baik, tetapi rencana bergabung dengan kelompok bersenjata terlalu berbahaya untuk ditangani sendiri."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada NKRI sebagai wujud nilai Loyal tetap berlaku walaupun pelakunya keluarga sendiri. Skor tertinggi memadukan dialog dan pendampingan keluarga dengan pelaporan ancaman nyata lewat jalur resmi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0008",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai analis kebijakan di pemerintah kabupaten. Menjelang pilkada, seorang rekan meminta Anda memasang poster salah satu pasangan calon di status media sosial karena calon itu dinilai akan memajukan daerah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengatakan akan memikirkannya, lalu tidak memasang poster itu",
+        "score": 3,
+        "rationale": "Netralitas terjaga, tetapi sikapnya tidak jelas dan rekan tidak diluruskan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan sambil menjelaskan kewajiban netralitas ASN, mengingatkan rekan agar ia juga tidak menyebarkan materi kampanye, dan tetap menjaga hubungan baik dengannya",
+        "score": 5,
+        "rationale": "Menjaga netralitas, meluruskan rekan tanpa konfrontasi, dan hubungan kerja tetap terjaga."
+      },
+      {
+        "key": "C",
+        "text": "Memasang poster itu di status karena Anda setuju dengan program calon tersebut",
+        "score": 1,
+        "rationale": "Terang-terangan berkampanye melanggar kewajiban netralitas ASN."
+      },
+      {
+        "key": "D",
+        "text": "Memasang poster itu hanya untuk kontak dekat yang sudah dikenal dan mengatur agar unggahan hilang dalam sehari, supaya tidak terlihat publik, tidak tersimpan, dan tidak dianggap berkampanye",
+        "score": 2,
+        "rationale": "Membatasi penonton tidak menghapus pelanggaran netralitas ASN."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan sambil menjelaskan kewajiban netralitas ASN",
+        "score": 4,
+        "rationale": "Sikapnya benar, tetapi rekan yang juga ASN tidak diingatkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dalam pemilihan. ASN boleh memiliki pilihan, tetapi tidak menunjukkan keberpihakan di ruang publik; menolak dengan sopan dan mengingatkan rekan menjaga kepercayaan publik serta persatuan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0009",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf bagian perencanaan mengikuti forum diskusi internal. Seorang rekan mengkritik tajam kebijakan baru pimpinan dengan menyertakan data dan usulan perbaikan. Setelah forum, rekan lain menyebut pengkritik itu \"radikal\" dan mengajak Anda ikut melaporkannya kepada inspektorat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan rekan itu bertanya dulu kepada atasan apakah kritik tersebut pantas dilaporkan",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi menyerahkan penilaian yang sebenarnya sudah jelas kepada pihak lain."
+      },
+      {
+        "key": "B",
+        "text": "Ikut melapor karena khawatir dianggap mendukung pengkritik pimpinan",
+        "score": 1,
+        "rationale": "Ikut-ikutan melabeli kritik sah sebagai radikalisme merupakan tuduhan keliru yang merugikan rekan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak ikut melapor karena kritik itu disampaikan di forum resmi dan disertai data",
+        "score": 4,
+        "rationale": "Penilaiannya tepat, tetapi rekan yang salah memahami radikalisme tidak diluruskan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak ikut melapor, tetapi menasihati pengkritik secara pribadi agar lain kali tidak usah mengkritik kebijakan pimpinan di forum mana pun supaya kariernya aman dan ia tidak dicap negatif oleh rekan-rekan",
+        "score": 2,
+        "rationale": "Menghindari konflik dengan cara membungkam masukan yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menolak ikut melapor, menjelaskan bahwa kritik berbasis data di forum resmi adalah masukan sah dan bukan radikalisme, serta mengajak rekan menjawab kritik itu dengan argumen",
+        "score": 5,
+        "rationale": "Membedakan kritik sah dari radikalisme dengan tepat, mencegah pelaporan yang keliru, dan mendorong dialog yang sehat."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kritik terhadap kebijakan, yang sah dalam demokrasi Pancasila, dari ajakan mengganti dasar negara. Label radikal tidak boleh dipakai untuk membungkam masukan; ASN tetap Loyal dengan menyalurkan kritik secara santun di forum resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0010",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala seksi ketenteraman dan ketertiban di kelurahan. Pagi hari warga melapor bahwa bendera organisasi yang telah dibubarkan pemerintah terpasang di pagar balai warga oleh orang tak dikenal. Warga mulai berkerumun dan sebagian ingin mencari pelakunya sendiri. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendokumentasikan bendera itu dari berbagai sisi, mencatat waktu dan lokasi pemasangannya, lalu melaporkannya kepada lurah serta Bhabinkamtibmas agar segera diturunkan dan pelakunya ditelusuri",
+        "score": 4,
+        "rationale": "Jalurnya tepat dan rapi, tetapi kerumunan warga yang ingin bertindak sendiri tidak ditenangkan."
+      },
+      {
+        "key": "B",
+        "text": "Menurunkan bendera itu sendiri dan menyimpannya di kantor kelurahan",
+        "score": 3,
+        "rationale": "Cepat menghilangkan simbol terlarang, tetapi tanpa dokumentasi dan koordinasi sehingga penelusuran pelaku terhambat."
+      },
+      {
+        "key": "C",
+        "text": "Menenangkan warga agar tidak bertindak sendiri, mendokumentasikan bendera, lalu berkoordinasi dengan lurah, Bhabinkamtibmas, dan Babinsa untuk penurunan dan penelusuran sesuai prosedur",
+        "score": 5,
+        "rationale": "Bertindak dalam wewenang, mencegah main hakim sendiri, dan melibatkan aparat berwenang secara tertib."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu arahan lurah sebelum melakukan apa pun",
+        "score": 2,
+        "rationale": "Menunda padahal persoalan ketertiban ini berada dalam lingkup tugasnya."
+      },
+      {
+        "key": "E",
+        "text": "Mempersilakan warga mencari dan menangkap pelakunya sendiri",
+        "score": 1,
+        "rationale": "Membiarkan main hakim sendiri berisiko menimbulkan kekerasan dan salah sasaran."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga NKRI dan ketertiban sesuai wewenang. Simbol organisasi terlarang ditangani lewat koordinasi resmi dengan aparat, sementara warga dicegah main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0011",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang menjadi admin grup WhatsApp warga perumahan. Menjelang pilkada, seorang anggota membagikan pesan bahwa salah satu calon akan menutup rumah ibadah kelompok tertentu bila menang. Pesan itu tidak mencantumkan sumber dan mulai memancing komentar bernada kebencian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas dengan membagikan informasi negatif tentang calon lain yang Anda temukan di media sosial, agar warga mendapat gambaran berimbang tentang kedua calon sebelum menentukan pilihan",
+        "score": 1,
+        "rationale": "Ikut menyebarkan isu yang memecah belah sekaligus melanggar netralitas ASN."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan diskusi berjalan karena admin tidak berhak membatasi pendapat warga",
+        "score": 2,
+        "rationale": "Pasif terhadap hoaks SARA yang memancing kebencian."
+      },
+      {
+        "key": "C",
+        "text": "Mengunci grup sementara agar komentar berhenti",
+        "score": 3,
+        "rationale": "Meredam sesaat tanpa meluruskan informasi yang keliru."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus pesan itu sesuai aturan grup, menyampaikan dengan tenang bahwa informasinya belum terverifikasi, mengingatkan pengirim secara pribadi, dan tidak mengomentari calon mana pun",
+        "score": 5,
+        "rationale": "Meredam provokasi SARA, merangkul pengirim, dan tetap menjaga netralitas sebagai ASN."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan di grup bahwa informasi itu belum terverifikasi dan meminta warga tidak meneruskannya",
+        "score": 4,
+        "rationale": "Meluruskan dengan tepat, tetapi pesan provokatif masih tersedia di grup dan pengirim tidak diajak bicara."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga persatuan dalam Bhinneka Tunggal Ika dan netralitas ASN. Hoaks SARA diredam dengan klarifikasi yang tenang tanpa memihak calon mana pun.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0012",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Sahabat Anda sejak kuliah, juga seorang ASN, bercerita bahwa ia rutin mentransfer donasi ke sebuah yayasan yang kini sedang diselidiki aparat karena diduga menyalurkan dana ke jaringan teror. Ia mengaku tidak tahu, takut kariernya hancur, dan meminta Anda merahasiakannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan informasi itu kepada aparat berwenang tanpa terlebih dahulu membicarakannya dengan sahabat Anda",
+        "score": 4,
+        "rationale": "Informasi sampai ke jalur resmi, tetapi sahabat tidak didampingi dan tidak diberi kesempatan menunjukkan iktikad baik."
+      },
+      {
+        "key": "B",
+        "text": "Membantunya menghapus riwayat transfer agar ia tidak terseret penyelidikan",
+        "score": 1,
+        "rationale": "Ikut menghilangkan jejak melanggar hukum dan menghambat pengungkapan pendanaan teror."
+      },
+      {
+        "key": "C",
+        "text": "Menenangkannya, menyarankan ia menghentikan donasi dan melapor sendiri kepada aparat dengan Anda sebagai pendamping, serta jujur bahwa Anda tidak dapat ikut merahasiakannya",
+        "score": 5,
+        "rationale": "Tetap merangkul sahabat sambil memastikan informasi penting sampai ke jalur resmi, dengan memberinya kesempatan melapor lebih dulu."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan agar ia segera menghentikan donasi dan mengklarifikasi kepada aparat sebelum dipanggil, menjelaskan untung ruginya, tetapi menyerahkan sepenuhnya keputusan akhir kepadanya karena itu urusan pribadinya",
+        "score": 3,
+        "rationale": "Arah nasihatnya benar, tetapi tidak ada jaminan informasi penting itu sampai ke pihak berwenang."
+      },
+      {
+        "key": "E",
+        "text": "Memintanya berhenti berdonasi dan berjanji merahasiakan cerita itu demi kariernya",
+        "score": 2,
+        "rationale": "Melindungi sahabat dengan cara menutupi informasi yang dibutuhkan penyelidikan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada negara dan nilai Loyal di atas kepentingan persahabatan. Sahabat tetap dirangkul dan diberi kesempatan beriktikad baik, tetapi informasi pendanaan teror harus sampai ke aparat lewat jalur resmi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0013",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf keuangan sedang beristirahat di pantry kantor. Seorang rekan melontarkan lelucon yang merendahkan suku tertentu, dan beberapa rekan tertawa. Seorang rekan dari suku tersebut ada di ruangan dan terlihat tidak nyaman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menegur rekan yang melucu dengan keras di depan semua orang di pantry dan memintanya langsung meminta maaf, supaya semua yang tertawa juga sadar bahwa lelucon seperti itu tidak bisa diterima",
+        "score": 2,
+        "rationale": "Niatnya benar, tetapi mempermalukan di depan umum berpotensi memicu pertengkaran."
+      },
+      {
+        "key": "B",
+        "text": "Ikut tertawa agar tidak dianggap terlalu serius",
+        "score": 1,
+        "rationale": "Ikut-ikutan menertawakan lelucon SARA berarti mendukung sikap merendahkan kelompok lain."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut tertawa dan menyampaikan kepada rekan yang melucu secara pribadi bahwa lelucon seperti itu tidak pantas",
+        "score": 4,
+        "rationale": "Teguran pribadinya tepat, tetapi rekan yang tersinggung tidak diperhatikan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak ikut tertawa, mengalihkan pembicaraan, lalu menegur rekan yang melucu secara pribadi bahwa lelucon itu menyakitkan, serta menyapa rekan yang tersinggung",
+        "score": 5,
+        "rationale": "Menghentikan intoleransi tanpa mempermalukan pelaku dan tetap memperhatikan rekan yang dirugikan."
+      },
+      {
+        "key": "E",
+        "text": "Tidak ikut tertawa dan segera meninggalkan pantry",
+        "score": 3,
+        "rationale": "Tidak mendukung, tetapi pasif dan tidak meluruskan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menghargai keberagaman sesuai Bhinneka Tunggal Ika dan nilai Harmonis. Intoleransi dalam candaan dihentikan dengan tenang dan teguran pribadi, bukan dengan mempermalukan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0014",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai guru PPKn di SMA negeri. Seorang rekan guru membagikan modul tambahan dari internet untuk dipakai bersama. Setelah Anda baca, beberapa bagiannya menyebut bahwa keberagaman adalah ancaman dan siswa sebaiknya hanya bergaul dengan kelompoknya sendiri. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak memakai modul itu dan menggunakan bahan ajar sendiri",
+        "score": 3,
+        "rationale": "Siswa Anda terlindungi, tetapi rekan dan kelas lain tidak mendapat informasi."
+      },
+      {
+        "key": "B",
+        "text": "Memakai modul itu sambil melewati bagian yang bermasalah agar tidak menyinggung rekan",
+        "score": 2,
+        "rationale": "Sungkan membuat materi intoleran tetap beredar di tangan siswa."
+      },
+      {
+        "key": "C",
+        "text": "Tidak memakai modul itu, menunjukkan bagian yang bermasalah kepada rekan guru secara baik-baik, dan melaporkannya kepada wakil kepala sekolah bidang kurikulum agar peredarannya dihentikan",
+        "score": 5,
+        "rationale": "Menolak materi intoleran, berdialog tanpa menuduh rekan, dan memakai jalur sekolah untuk mencegah penyebaran."
+      },
+      {
+        "key": "D",
+        "text": "Mengunggah halaman modul itu ke media sosial dengan sindiran bahwa ada guru di sekolah yang menyebarkan intoleransi",
+        "score": 1,
+        "rationale": "Mempermalukan rekan dan sekolah di depan umum tanpa klarifikasi dan tanpa jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Tidak memakai modul itu, lalu menemui rekan guru secara baik-baik, menunjukkan halaman-halaman yang bermasalah satu per satu, dan menyarankan agar ia menarik modul itu dari kelas-kelas yang diajarnya",
+        "score": 4,
+        "rationale": "Dialognya tepat, tetapi peredaran modul di sekolah bergantung pada kesediaan satu rekan tanpa melibatkan jalur kurikulum."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menanamkan Bhinneka Tunggal Ika di sekolah. Materi intoleran ditolak dan ditangani lewat dialog serta jalur kurikulum, bukan lewat penghakiman di media sosial.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0015",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah dinas. Atasan Anda meminta seluruh staf menghadiri acara deklarasi dukungan untuk calon kepala daerah petahana pada akhir pekan, dengan alasan sebagai bentuk terima kasih atas program yang telah berjalan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak hadir dengan alasan ada acara keluarga yang sudah lama direncanakan, sehingga atasan tidak tersinggung, hubungan kerja tetap baik, dan Anda tetap tidak melanggar aturan netralitas",
+        "score": 3,
+        "rationale": "Netralitas terjaga, tetapi menghindar tanpa menyatakan sikap."
+      },
+      {
+        "key": "B",
+        "text": "Hadir dan mengajak keluarga karena perintah atasan wajib dipatuhi",
+        "score": 1,
+        "rationale": "Menaati perintah yang tidak sah sekaligus melanggar netralitas ASN."
+      },
+      {
+        "key": "C",
+        "text": "Tidak menghadiri acara itu dan menjelaskan kepada atasan secara sopan alasan netralitas ASN",
+        "score": 4,
+        "rationale": "Sikapnya tepat dan santun, tetapi rekan lain yang mungkin terdorong hadir tidak diingatkan."
+      },
+      {
+        "key": "D",
+        "text": "Hadir sebentar tanpa memakai atribut kampanye agar tidak terlalu terlihat",
+        "score": 2,
+        "rationale": "Kehadiran di deklarasi dukungan tetap merupakan pelanggaran netralitas."
+      },
+      {
+        "key": "E",
+        "text": "Tidak hadir, menjelaskan secara sopan kepada atasan soal aturan netralitas ASN, mengingatkan rekan yang ragu, dan mengadu ke inspektorat bila pengerahan berlanjut",
+        "score": 5,
+        "rationale": "Menjaga netralitas dengan menolak secara sopan, mengingatkan rekan, dan menyiapkan jalur resmi bila pengerahan berlanjut."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dan kepatuhan hanya pada perintah atasan yang sah dan wajar. Menolak dengan sopan menjaga kepercayaan publik sekaligus persatuan masyarakat yang berbeda pilihan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0016",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai dosen pengampu mata kuliah kewarganegaraan. Dalam sesi debat dengan mosi tentang sistem pemilu, seorang mahasiswa keluar dari mosi dan berargumen bahwa Pancasila sebaiknya diganti dengan ideologi lain. Kelas memanas dan beberapa mahasiswa berteriak akan melaporkannya ke polisi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan pembahasan itu dan meminta debat kembali ke mosi tanpa menanggapi isinya",
+        "score": 3,
+        "rationale": "Kelas tenang, tetapi pandangan yang keliru dibiarkan tanpa pelurusan."
+      },
+      {
+        "key": "B",
+        "text": "Menenangkan kelas, lalu meluruskan pandangan mahasiswa itu dengan memaparkan sejarah perumusan Pancasila, putusan konstitusi, dan pendapat para ahli secara rinci sebelum debat dilanjutkan sesuai mosi",
+        "score": 4,
+        "rationale": "Pelurusan dan pengendalian kelasnya tepat, tetapi tidak ada tindak lanjut untuk memahami sumber pandangan mahasiswa."
+      },
+      {
+        "key": "C",
+        "text": "Menenangkan kelas, menegaskan bahwa forum ini untuk menguji gagasan, meluruskan pandangan mahasiswa itu dengan data sejarah dan konstitusi, lalu mengajaknya berdiskusi lanjut secara pribadi",
+        "score": 5,
+        "rationale": "Menjaga ruang akademik, meluruskan dengan data, mencegah penghakiman massa, dan merangkul mahasiswa lewat dialog lanjutan."
+      },
+      {
+        "key": "D",
+        "text": "Menegur mahasiswa itu dengan keras di depan kelas dan membiarkan mahasiswa lain melaporkannya ke polisi",
+        "score": 1,
+        "rationale": "Mempermalukan di depan umum dan membiarkan penghakiman massa menutup ruang dialog."
+      },
+      {
+        "key": "E",
+        "text": "Langsung melaporkan mahasiswa itu kepada pimpinan fakultas sebagai penganut paham radikal",
+        "score": 2,
+        "rationale": "Melapor sebelum memahami konteks dan tanpa dialog berisiko melabeli pendapat di forum akademik secara gegabah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kebebasan akademik dari ajakan nyata mengganti dasar negara. Pendapat yang keliru dijawab dengan argumen dan data tentang Pancasila serta dirangkul lewat dialog; pelaporan baru tepat bila muncul ajakan atau tindakan nyata.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0017",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai anggota grup alumni SMA. Seorang anggota membagikan ajakan donasi ke rekening pribadinya untuk \"membantu saudara di wilayah konflik\", disertai foto orang bersenjata dan seruan agar kelompok lain diperangi. Beberapa anggota sudah mengirim bukti transfer. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut berdonasi dalam jumlah kecil karena tujuannya terlihat membantu sesama yang tertindas, sambil berniat menanyakan laporan penggunaan dananya kepada pengirim setelah bantuan tersalurkan",
+        "score": 1,
+        "rationale": "Rasa iba tanpa verifikasi berarti ikut mendanai kelompok yang menyerukan kekerasan."
+      },
+      {
+        "key": "B",
+        "text": "Tidak berdonasi dan diam agar tidak bersitegang dengan teman lama",
+        "score": 2,
+        "rationale": "Menghindari konflik dengan membiarkan anggota lain terus mentransfer dana."
+      },
+      {
+        "key": "C",
+        "text": "Tidak berdonasi dan menanyakan kepada pengirim apakah penggalangan dana itu berizin",
+        "score": 3,
+        "rationale": "Ada kewaspadaan, tetapi seruan kekerasan dibiarkan dan anggota lain tidak diingatkan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak berdonasi, mengingatkan grup bahwa ajakan ini memuat seruan kekerasan dan bantuan sebaiknya lewat lembaga resmi, lalu melaporkan rekeningnya ke kanal aduan resmi",
+        "score": 5,
+        "rationale": "Mencegah anggota lain terseret pendanaan kekerasan, menawarkan jalan bantuan yang sah, dan melapor lewat jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Tidak berdonasi dan mengingatkan anggota grup agar menyalurkan bantuan lewat lembaga resmi yang terdaftar",
+        "score": 4,
+        "rationale": "Mencegah dengan cara yang baik, tetapi indikasi pendanaan kekerasan tidak dilaporkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kewaspadaan terhadap pendanaan kekerasan dan menjaga persatuan sesuai nilai Loyal. Bantuan kemanusiaan disalurkan lewat lembaga resmi, sedangkan ajakan donasi yang memuat seruan kekerasan dilaporkan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0018",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pegawai di kantor kecamatan. Menjelang upacara Hari Kesadaran Nasional, seorang rekan mengajak Anda tetap di ruangan karena menurutnya menghormat bendera adalah perbuatan yang sia-sia. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap mengikuti upacara dan mengajak rekan itu ikut serta",
+        "score": 4,
+        "rationale": "Sikapnya benar dan merangkul, tetapi pandangan rekan tidak diluruskan."
+      },
+      {
+        "key": "B",
+        "text": "Tetap mengikuti upacara, mengajak rekan itu ikut serta, dan setelahnya berbincang dengannya secara baik-baik tentang makna penghormatan bendera",
+        "score": 5,
+        "rationale": "Menjalankan kewajiban, merangkul rekan, dan meluruskan pandangannya lewat dialog yang tenang."
+      },
+      {
+        "key": "C",
+        "text": "Tetap mengikuti upacara tanpa menanggapi ajakan rekan",
+        "score": 3,
+        "rationale": "Kewajiban dijalankan, tetapi rekan dibiarkan dengan pandangannya."
+      },
+      {
+        "key": "D",
+        "text": "Tetap di ruangan karena setuju bahwa upacara hanya formalitas",
+        "score": 1,
+        "rationale": "Ikut menolak penghormatan bendera bertentangan dengan kewajiban setia ASN."
+      },
+      {
+        "key": "E",
+        "text": "Tetap di ruangan menemani rekan sambil menyelesaikan laporan yang tenggatnya hari ini, karena pekerjaan itu juga bagian dari pengabdian kepada negara",
+        "score": 2,
+        "rationale": "Memakai alasan pekerjaan untuk ikut menghindari upacara."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal, yaitu setia kepada NKRI dan menghormati simbol negara. Rekan yang menolak dirangkul dan diluruskan lewat dialog, bukan dibiarkan atau dihakimi.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0019",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala subbagian umum. Anda melihat seorang pegawai honorer di unit Anda menempelkan stiker berlogo organisasi yang telah dibubarkan pemerintah di lemari arsip dan laptopnya. Rekan-rekannya mulai berbisik dan menjauhinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memanggil pegawai itu secara pribadi, menanyakan alasannya, menjelaskan status organisasi tersebut, meminta stiker dilepas, lalu melaporkan hasil pembinaan kepada atasan untuk pemantauan",
+        "score": 5,
+        "rationale": "Pembinaan dilakukan dalam wewenang dengan dialog yang tidak mempermalukan, lalu ditindaklanjuti lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan temuan itu kepada atasan dan menunggu arahan sebelum berbicara dengan pegawai tersebut",
+        "score": 3,
+        "rationale": "Jalurnya resmi, tetapi menunda pembinaan yang sebenarnya menjadi wewenangnya."
+      },
+      {
+        "key": "C",
+        "text": "Melepas stiker itu sendiri saat pegawai tersebut tidak ada di kantor",
+        "score": 2,
+        "rationale": "Menghilangkan simbol tanpa dialog sehingga akar masalahnya tidak tersentuh."
+      },
+      {
+        "key": "D",
+        "text": "Menegur pegawai itu di depan rekan-rekannya dan memintanya melepas stiker saat itu juga, agar menjadi pelajaran bagi semua pegawai bahwa simbol organisasi terlarang tidak boleh ada di kantor",
+        "score": 1,
+        "rationale": "Mempermalukan di depan umum memperkuat pengucilan dan menutup ruang pembinaan."
+      },
+      {
+        "key": "E",
+        "text": "Memanggil pegawai itu secara pribadi, menjelaskan status hukum organisasi tersebut, dan memintanya melepas stiker",
+        "score": 4,
+        "rationale": "Pembinaannya tepat, tetapi tidak ada pelaporan atau pemantauan lanjutan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga kesetiaan pada Pancasila dan NKRI di lingkungan kerja sesuai nilai Loyal. Atasan langsung membina lewat dialog pribadi, meminta simbol terlarang dilepas, dan melaporkan untuk pemantauan tanpa mempermalukan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0020",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai anggota grup WhatsApp unit kerja. Setelah terjadi aksi teror di kota lain, seorang rekan membagikan video kejadian itu dan memuji pelakunya sebagai pahlawan yang berani melawan negara. Anggota lain belum menanggapi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak meneruskan video, menyatakan di grup dengan tenang bahwa kekerasan tidak dapat dibenarkan dan meminta video dihapus, lalu melaporkan unggahan itu kepada atasan",
+        "score": 5,
+        "rationale": "Menolak glorifikasi terorisme dengan tenang, menghormati korban, dan melapor lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan video itu ke grup lain agar orang-orang mengetahui kejadiannya",
+        "score": 1,
+        "rationale": "Menyebarkan konten teror memperluas propaganda dan ketakutan."
+      },
+      {
+        "key": "C",
+        "text": "Membalas di grup dengan kata-kata keras bahwa rekan itu tidak pantas menjadi ASN dan sebaiknya dipecat, agar anggota lain tahu bahwa memuji teroris tidak bisa ditoleransi sedikit pun",
+        "score": 2,
+        "rationale": "Emosional dan menghakimi di depan umum sehingga memicu konflik tanpa menyelesaikan masalah."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan unggahan itu kepada admin grup dan menunggu admin bertindak",
+        "score": 3,
+        "rationale": "Ada tindakan, tetapi menyerahkan sepenuhnya kepada orang lain tanpa menyatakan sikap."
+      },
+      {
+        "key": "E",
+        "text": "Tidak meneruskan video itu, menyampaikan di grup dengan tenang bahwa kekerasan tidak dapat dibenarkan, dan meminta video dihapus",
+        "score": 4,
+        "rationale": "Meluruskan dengan tepat, tetapi dukungan terhadap terorisme oleh ASN tidak dilaporkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menolak kekerasan dan propaganda terorisme sesuai nilai Loyal kepada NKRI. Konten teror tidak disebarkan, glorifikasinya diluruskan dengan tenang, dan ASN yang mendukung terorisme dilaporkan lewat jalur resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0021",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Paman Anda yang sangat dihormati keluarga besar sering mengirim konten di grup keluarga yang menyebut kelompok tertentu sebagai musuh dan mengajak tidak mengakui pemerintah. Anggota keluarga lain enggan menegur karena segan, dan sepupu-sepupu remaja mulai ikut membagikan konten serupa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membisukan grup keluarga agar tidak terganggu konten tersebut",
+        "score": 3,
+        "rationale": "Menjaga diri sendiri, tetapi membiarkan konten kebencian terus menyebar di keluarga."
+      },
+      {
+        "key": "B",
+        "text": "Menemui paman secara pribadi dengan hormat, menunjukkan klarifikasi resmi atas kontennya dan memintanya berhenti meneruskan, serta mengajak sepupu remaja belajar memeriksa informasi",
+        "score": 5,
+        "rationale": "Menghormati orang tua sambil meluruskan dengan data, serta melindungi anggota keluarga yang mulai terpapar."
+      },
+      {
+        "key": "C",
+        "text": "Menegur paman secara terbuka di grup keluarga dengan menyebut kontennya menyesatkan",
+        "score": 2,
+        "rationale": "Isinya benar, tetapi mempermalukan orang tua di depan keluarga besar justru menutup ruang dialog."
+      },
+      {
+        "key": "D",
+        "text": "Membagikan klarifikasi dari sumber resmi di grup keluarga tanpa menyebut nama paman, disertai ajakan umum agar seluruh anggota keluarga memeriksa kebenaran setiap informasi sebelum meneruskannya",
+        "score": 4,
+        "rationale": "Meluruskan dengan santun, tetapi tidak ada dialog pribadi dengan paman maupun pendampingan khusus bagi sepupu remaja."
+      },
+      {
+        "key": "E",
+        "text": "Ikut meneruskan sebagian konten itu karena menghormati paman dan menganggapnya lebih berpengalaman",
+        "score": 1,
+        "rationale": "Ikut-ikutan karena segan berarti turut menyebarkan kebencian dan sikap anti-pemerintah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: persatuan dalam Bhinneka Tunggal Ika dan nilai Loyal tetap dijaga walaupun pelakunya keluarga yang dihormati. Pendekatan pribadi yang hormat, disertai data dan pendampingan bagi anggota keluarga yang terpapar, lebih tepat daripada diam atau mempermalukan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0022",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang mengunggah foto kegiatan bakti sosial lintas komunitas di media sosial pribadi. Seorang kenalan menulis komentar yang menghina suku salah satu peserta, dan komentar itu mendapat beberapa tanda suka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghapus komentar itu dan menghubungi kenalan tersebut secara pribadi untuk mengingatkannya",
+        "score": 4,
+        "rationale": "Langkahnya tepat, tetapi tidak ada penegasan nilai persatuan bagi pembaca lain."
+      },
+      {
+        "key": "B",
+        "text": "Membalas komentar itu dengan sindiran tajam tentang latar belakang kenalan tersebut agar ia merasakan sendiri rasanya dihina dan pembaca lain melihat bahwa penghinaan pasti dibalas",
+        "score": 2,
+        "rationale": "Membalas kebencian dengan sindiran yang mempermalukan hanya memperpanjang pertikaian."
+      },
+      {
+        "key": "C",
+        "text": "Ikut menyukai komentar itu supaya kenalan tidak merasa diabaikan",
+        "score": 1,
+        "rationale": "Memberi tanda suka berarti ikut mendukung penghinaan terhadap suku lain."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan komentar itu karena pembaca dianggap bisa menilai sendiri",
+        "score": 3,
+        "rationale": "Pasif terhadap ujaran kebencian di unggahan sendiri."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus komentar itu, menulis tanggapan singkat bahwa kegiatan ini merayakan kebersamaan semua suku, dan mengingatkan kenalan tersebut lewat pesan pribadi",
+        "score": 5,
+        "rationale": "Menghentikan ujaran kebencian di ruang yang Anda kelola, menegaskan nilai persatuan, dan merangkul pelaku lewat pesan pribadi."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menghargai keberagaman sesuai Bhinneka Tunggal Ika dan nilai Harmonis. Ujaran kebencian di ruang yang kita kelola dihentikan dengan tenang, disertai penegasan nilai persatuan dan teguran pribadi kepada pelaku.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0023",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang aktif di komunitas sepeda motor. Ketua komunitas mengajak anggota mengikuti latihan bela diri tertutup bersama sebuah kelompok yang mensyaratkan sumpah setia kepada pemimpinnya dan menyebut aparat negara sebagai musuh. Sebagian besar anggota sudah mendaftar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan, mengingatkan anggota bahwa sumpah setia kepada kelompok yang memusuhi aparat bertentangan dengan kesetiaan pada negara, dan melaporkan latihan itu kepada aparat",
+        "score": 5,
+        "rationale": "Menolak tegas tanpa konfrontasi, mengingatkan anggota lain, dan melaporkan potensi ancaman lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Menolak ikut dengan sopan dan mengingatkan ketua serta anggota tentang bahaya sumpah setia kepada kelompok yang memusuhi aparat",
+        "score": 4,
+        "rationale": "Penolakan dan pelurusannya tepat, tetapi potensi ancaman tidak dilaporkan."
+      },
+      {
+        "key": "C",
+        "text": "Mendaftar agar tetap kompak, tetapi berniat tidak mengucapkan sumpah setia",
+        "score": 2,
+        "rationale": "Tekanan kelompok membuatnya tetap masuk ke lingkungan yang berbahaya."
+      },
+      {
+        "key": "D",
+        "text": "Tidak mendaftar dan berhenti datang ke kegiatan komunitas untuk sementara waktu sampai rencana latihan itu selesai, agar Anda tidak terseret dan tidak perlu berselisih dengan ketua maupun anggota lain",
+        "score": 3,
+        "rationale": "Menjaga diri, tetapi meninggalkan anggota lain tanpa peringatan dan tanpa laporan."
+      },
+      {
+        "key": "E",
+        "text": "Ikut mendaftar dan mengucapkan sumpah setia karena latihan bela diri bermanfaat untuk kesehatan",
+        "score": 1,
+        "rationale": "Ikut-ikutan bersumpah setia kepada kelompok yang memusuhi negara."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal, yaitu setia kepada NKRI dan pemerintahan yang sah. Tekanan kelompok dihadapi dengan menolak secara sopan, mengingatkan anggota lain, dan melaporkan kegiatan yang berpotensi kekerasan kepada aparat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0024",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pengelola media sosial dinas. Unggahan tentang sebuah program dinas dibanjiri komentar: sebagian warga mengkritik tajam keterlambatan program dengan data, sementara satu akun mengajak warga tidak mengakui pemerintah dan mengganti dasar negara. Atasan meminta Anda menghapus semua komentar negatif agar citra dinas terjaga. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan kepada atasan bahwa kritik warga sebaiknya dijawab dengan data dan rencana perbaikan, lalu segera menanggapi kritik itu dan menyembunyikan komentar ajakan mengganti dasar negara tanpa melaporkannya",
+        "score": 4,
+        "rationale": "Pembedaannya tepat dan dikomunikasikan, tetapi ajakan anti-Pancasila tidak dilaporkan ke kanal resmi."
+      },
+      {
+        "key": "B",
+        "text": "Menghapus semua komentar negatif dan memblokir akun-akun pengkritik sesuai perintah atasan",
+        "score": 1,
+        "rationale": "Membungkam kritik sah dan menyamakannya dengan ancaman terhadap dasar negara."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan kepada atasan bahwa kritik warga perlu dijawab dengan data, sedangkan ajakan mengganti dasar negara disembunyikan dan dilaporkan ke kanal aduan, lalu menjalankannya setelah disetujui",
+        "score": 5,
+        "rationale": "Membedakan kritik sah dari ajakan anti-Pancasila, memberi solusi kepada atasan, dan menempuh jalur resmi."
+      },
+      {
+        "key": "D",
+        "text": "Menonaktifkan kolom komentar sementara agar tidak ada lagi komentar negatif",
+        "score": 2,
+        "rationale": "Membungkam semua suara tanpa membedakan kritik sah dari ajakan anti-Pancasila."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus komentar ajakan mengganti dasar negara saja dan membiarkan kritik warga tanpa tanggapan",
+        "score": 3,
+        "rationale": "Bagian yang berbahaya ditangani, tetapi kritik sah diabaikan dan tidak ada komunikasi dengan atasan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kritik terhadap kinerja pemerintah, yang sah dan perlu dijawab, dari ajakan mengganti dasar negara, yang harus ditangani dan dilaporkan. ASN tetap Loyal kepada Pancasila sekaligus patuh hanya pada perintah atasan yang sah dan wajar.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0025",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai coach pelatihan dasar CPNS. Dalam diskusi kelompok, seorang peserta menyatakan bahwa Pancasila hanya formalitas dan sumpah PNS tidak benar-benar mengikat, lalu beberapa peserta lain mengangguk setuju. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa topik itu di luar materi sesi dan mengalihkan diskusi",
+        "score": 3,
+        "rationale": "Menghindari perdebatan, tetapi pandangan yang keliru dibiarkan berkembang."
+      },
+      {
+        "key": "B",
+        "text": "Langsung melaporkan peserta itu kepada penyelenggara beserta nama peserta yang mengangguk setuju, agar mereka diperiksa lebih lanjut dan dipertimbangkan untuk dinyatakan tidak lulus pelatihan",
+        "score": 2,
+        "rationale": "Melompat ke sanksi tanpa dialog dan ikut melabeli peserta lain padahal ruang pembinaan masih terbuka."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan alasannya, memandu peserta menelaah kedudukan Pancasila dan makna sumpah PNS berdasarkan konstitusi, lalu berbincang pribadi dengannya dan mencatatnya dalam laporan pembinaan",
+        "score": 5,
+        "rationale": "Meluruskan lewat dialog yang mendidik, merangkul peserta, dan menindaklanjuti lewat mekanisme pelatihan."
+      },
+      {
+        "key": "D",
+        "text": "Mendengarkan alasannya, lalu memandu diskusi agar peserta menelaah kedudukan Pancasila dan makna sumpah PNS",
+        "score": 4,
+        "rationale": "Pelurusannya mendidik, tetapi tidak ada pendekatan pribadi maupun tindak lanjut pembinaan."
+      },
+      {
+        "key": "E",
+        "text": "Membenarkan bahwa sumpah memang sering dianggap formalitas agar diskusi tidak tegang",
+        "score": 1,
+        "rationale": "Ikut melemahkan makna kesetiaan ASN pada Pancasila."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada Pancasila dan makna sumpah ASN sebagai inti nilai Loyal. Pandangan keliru calon ASN diluruskan lewat dialog yang mendidik dan dibina lewat mekanisme resmi pelatihan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0026",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai petugas loket pelayanan di kantor kecamatan. Seorang pengunjung membagikan selebaran kepada warga yang mengantre. Isinya mengajak memboikot pemilu karena negara dianggap tidak sah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga yang mengantre agar tidak membaca selebaran itu",
+        "score": 3,
+        "rationale": "Ada upaya mencegah, tetapi penyebarannya tidak dihentikan dan tidak dilaporkan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan kejadian itu kepada atasan dan petugas keamanan",
+        "score": 4,
+        "rationale": "Jalurnya tepat, tetapi selebaran terus beredar selama menunggu tindakan."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena tugas Anda hanya melayani berkas warga",
+        "score": 2,
+        "rationale": "Pasif terhadap ajakan anti-negara di area pelayanan publik."
+      },
+      {
+        "key": "D",
+        "text": "Meminta pengunjung itu dengan sopan menghentikan pembagian selebaran di area pelayanan, mengumpulkan sisanya, dan melaporkannya kepada atasan serta petugas keamanan",
+        "score": 5,
+        "rationale": "Bertindak dalam wewenang di area pelayanan dengan sopan dan melapor lewat jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Mengusir pengunjung itu dengan suara keras di depan warga yang mengantre",
+        "score": 1,
+        "rationale": "Kasar dan mempermalukan di depan umum sehingga berisiko memicu keributan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga ruang pelayanan publik dari ajakan yang menolak negara dan pemilu sebagai wujud nilai Loyal. Penyebaran dihentikan dengan sopan dan dilaporkan lewat jalur resmi, bukan dengan kekerasan verbal.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0027",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai ketua tim di sebuah biro. Kantor mengadakan syukuran ulang tahun instansi yang dihadiri pegawai dari beragam latar belakang. Seorang anggota tim Anda mengajak rekan-rekannya tidak hadir karena menurutnya berkumpul dengan orang yang berbeda keyakinan harus dihindari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengumumkan dalam rapat tim bahwa acara kantor terbuka bagi semua pegawai tanpa memandang keyakinan, lalu mengajak seluruh anggota hadir bersama dan menunjuk beberapa orang membantu panitia",
+        "score": 4,
+        "rationale": "Mengajak kebersamaan dengan baik, tetapi anggota yang menyebarkan paham eksklusif tidak diajak berdialog."
+      },
+      {
+        "key": "B",
+        "text": "Mengancam akan memberi nilai kinerja buruk kepada siapa pun yang tidak hadir",
+        "score": 1,
+        "rationale": "Memaksa dengan ancaman menyalahgunakan wewenang dan memperdalam perpecahan."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena kehadiran di acara syukuran tidak wajib",
+        "score": 2,
+        "rationale": "Pasif terhadap ajakan yang memecah tim berdasarkan keyakinan."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan anggota itu kepada kepala biro dan menunggu arahan",
+        "score": 3,
+        "rationale": "Masalah dalam wewenang ketua tim dilempar ke atasan sebelum dicoba diselesaikan."
+      },
+      {
+        "key": "E",
+        "text": "Berbicara pribadi dengan anggota itu, menjelaskan bahwa acara kantor tidak memaksakan keyakinan apa pun, tetap mengundangnya, dan mengingatkan bahwa ajakan boikot merusak kerukunan",
+        "score": 5,
+        "rationale": "Dalam wewenang ketua tim, ia merangkul lewat dialog, meluruskan paham eksklusif, dan menjaga kerukunan tanpa paksaan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kerukunan dalam keberagaman sesuai Bhinneka Tunggal Ika dan nilai Harmonis. Ajakan eksklusif dihadapi dengan dialog dan rangkulan oleh pihak yang berwenang, bukan dibiarkan atau dipaksa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0028",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala seksi. Seorang staf Anda mengunggah tulisan yang menyudutkan etnis tertentu di akun media sosial pribadinya yang mencantumkan nama instansi. Unggahan itu mulai viral dan banyak warganet mempertanyakan sikap instansi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memanggil staf itu secara pribadi, memintanya menghapus unggahan dan menyampaikan permintaan maaf",
+        "score": 4,
+        "rationale": "Tindakannya cepat dan tepat, tetapi tidak ada pelaporan maupun koordinasi untuk penjelasan resmi instansi."
+      },
+      {
+        "key": "B",
+        "text": "Membalas komentar warganet dengan menyatakan bahwa unggahan itu pendapat pribadi staf",
+        "score": 2,
+        "rationale": "Membela diri tanpa menyelesaikan ujaran kebencian dan tanpa kewenangan berbicara atas nama instansi."
+      },
+      {
+        "key": "C",
+        "text": "Memanggil staf itu secara pribadi, memintanya menghapus unggahan dan meminta maaf, membinanya soal kode etik, lalu melapor kepada atasan dan berkoordinasi dengan humas",
+        "score": 5,
+        "rationale": "Menangani dalam wewenang dengan pembinaan tanpa mempermalukan, memulihkan dampak publik, dan melapor lewat jalur resmi."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kejadian itu kepada atasan disertai tangkapan layar unggahan dan komentar warganet, lalu menyerahkan sepenuhnya penanganan staf tersebut kepada atasan dan bagian kepegawaian",
+        "score": 3,
+        "rationale": "Jalurnya resmi, tetapi pembinaan yang menjadi wewenang kepala seksi tidak dilakukan."
+      },
+      {
+        "key": "E",
+        "text": "Menyindir staf itu di grup kantor agar semua pegawai tahu kesalahannya",
+        "score": 1,
+        "rationale": "Mempermalukan di depan rekan kerja tanpa menyelesaikan masalah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga persatuan sesuai Bhinneka Tunggal Ika dan nama baik instansi sebagai bagian nilai Loyal. Atasan langsung membina, memulihkan dampak, dan melapor lewat jalur resmi tanpa mempermalukan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0029",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Pasangan Anda belakangan aktif dalam kelompok yang melarang hormat bendera. Ia meminta Anda berhenti mengikuti upacara di kantor dan mempertimbangkan keluar dari ASN karena menurut kelompoknya bekerja untuk negara tidak dibenarkan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap menjalankan kewajiban ASN, berdialog dengan pasangan secara sabar, mengajaknya berkonsultasi dengan tokoh agama moderat atau konselor, dan melapor bila ditemukan ajakan kekerasan",
+        "score": 5,
+        "rationale": "Kewajiban tetap dijalankan dan keluarga dirangkul lewat dialog serta pendampingan, dengan jalur resmi disiapkan bila ada ancaman nyata."
+      },
+      {
+        "key": "B",
+        "text": "Mulai mencari alasan untuk tidak mengikuti upacara demi keharmonisan rumah tangga",
+        "score": 1,
+        "rationale": "Menuruti tekanan berarti mengabaikan kewajiban setia ASN kepada simbol negara."
+      },
+      {
+        "key": "C",
+        "text": "Tetap mengikuti upacara diam-diam tanpa membahasnya dengan pasangan, karena menurut Anda perdebatan hanya akan memicu pertengkaran dan lebih baik menunggu suasana rumah tangga lebih tenang",
+        "score": 3,
+        "rationale": "Kewajiban dijalankan, tetapi menghindari dialog sehingga pengaruh kelompok makin kuat."
+      },
+      {
+        "key": "D",
+        "text": "Menceritakan masalah itu di grup keluarga besar agar keluarga ikut menekan pasangan Anda",
+        "score": 2,
+        "rationale": "Mempermalukan pasangan di depan keluarga besar dapat memperkeras sikapnya."
+      },
+      {
+        "key": "E",
+        "text": "Tetap menjalankan kewajiban sebagai ASN dan menjelaskan alasan Anda kepada pasangan dengan sabar",
+        "score": 4,
+        "rationale": "Sikap dan dialognya tepat, tetapi tidak ada upaya mencari pendampingan atas pengaruh kelompok tersebut."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal kepada NKRI tetap dijaga di tengah tekanan keluarga. Skor tertinggi memadukan keteguhan menjalankan kewajiban, dialog yang sabar, pendampingan, dan kesiapan melapor bila muncul ancaman nyata.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0030",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang guru ASN. Di grup alumni kampus beredar pesan berantai yang mengajak anggota mengganti foto profil dengan bendera organisasi yang telah dibubarkan pemerintah sebagai bentuk solidaritas. Beberapa teman sudah mengganti foto profilnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak mengganti foto profil, mengingatkan grup dengan sopan bahwa bendera itu milik organisasi terlarang disertai sumber resmi, dan melaporkan pesan berantai itu ke kanal aduan",
+        "score": 5,
+        "rationale": "Menolak ikut, meluruskan dengan sumber resmi tanpa menyerang, dan melapor lewat jalur yang benar."
+      },
+      {
+        "key": "B",
+        "text": "Keluar dari grup alumni agar tidak terlibat",
+        "score": 2,
+        "rationale": "Menjaga diri sendiri tanpa meluruskan atau melaporkan."
+      },
+      {
+        "key": "C",
+        "text": "Tidak mengganti foto profil dan mengingatkan anggota grup dengan sopan bahwa bendera itu milik organisasi terlarang",
+        "score": 4,
+        "rationale": "Meluruskan dengan baik, tetapi pesan berantai tidak dilaporkan sehingga terus menyebar."
+      },
+      {
+        "key": "D",
+        "text": "Mengganti foto profil karena menganggapnya hanya bentuk solidaritas sesama alumni",
+        "score": 1,
+        "rationale": "Ikut-ikutan menampilkan simbol organisasi terlarang."
+      },
+      {
+        "key": "E",
+        "text": "Tidak mengganti foto profil dan tidak menanggapi pesan itu",
+        "score": 3,
+        "rationale": "Tidak ikut, tetapi teman-teman yang keliru dibiarkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada Pancasila dan NKRI sesuai nilai Loyal. Simbol organisasi terlarang tidak ditampilkan, teman diluruskan dengan sumber resmi, dan pesan berantai dilaporkan lewat kanal aduan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0031",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai penyuluh pertanian di sebuah desa. Usai penyuluhan, beberapa warga bercerita bahwa ada kelompok pendatang yang mengadakan pertemuan tertutup dan meminta warga tidak mengurus KTP atau ikut pemilu karena negara dianggap tidak sah. Warga bertanya bagaimana sebaiknya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengatakan bahwa itu urusan masing-masing warga dan tidak perlu dibesar-besarkan",
+        "score": 2,
+        "rationale": "Membiarkan ajakan menolak negara dan hak warga terus menyebar."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan dengan tenang kepada warga bahwa dokumen kependudukan dan hak pilih adalah hak warga yang dijamin negara",
+        "score": 4,
+        "rationale": "Pelurusannya tepat, tetapi informasi tentang ajakan anti-negara tidak diteruskan ke pihak berwenang."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga menanyakan hal itu langsung kepada kepala desa, karena urusan kependudukan dan pemilu berada di luar tugas penyuluhan pertanian dan Anda khawatir memberi jawaban yang keliru",
+        "score": 3,
+        "rationale": "Mengarahkan ke pihak yang tepat, tetapi tidak memberi pelurusan dan tidak meneruskan informasi."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa KTP dan hak pilih adalah hak warga, menyarankan tidak mengikuti ajakan itu tanpa memusuhi kelompoknya, lalu menyampaikan informasinya kepada kepala desa dan Bhabinkamtibmas",
+        "score": 5,
+        "rationale": "Meluruskan warga, tidak menebar permusuhan, dan meneruskan informasi lewat jalur resmi setempat."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak warga mendatangi tempat pertemuan kelompok itu dan meminta mereka meninggalkan desa",
+        "score": 1,
+        "rationale": "Main hakim sendiri di luar wewenang berisiko memicu konflik dan kekerasan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada negara dan hak warga negara sesuai nilai Loyal. ASN di lapangan meluruskan dengan tenang, tidak menebar permusuhan, dan meneruskan informasi kepada pihak berwenang setempat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0032",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang menjadi salah satu admin grup alumni. Menjelang pemilu, anggota grup saling hujat soal pilihan presiden, dan sebagian menuduh pendukung kubu lain sebagai pengkhianat bangsa. Beberapa anggota meminta Anda sebagai admin menyatakan dukungan agar perdebatan berakhir. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menutup sementara fitur kirim pesan di grup sampai pemilu selesai",
+        "score": 3,
+        "rationale": "Meredam secara sepihak tanpa membangun pemahaman tentang perbedaan pilihan."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkan aturan grup dengan bahasa netral, mengajak anggota menghormati perbedaan pilihan sebagai hal wajar dalam demokrasi, dan membagikan pedoman diskusi sehat agar perdebatan kembali tertib",
+        "score": 4,
+        "rationale": "Netral dan menyejukkan, tetapi unggahan tuduhan masih dibiarkan dan permintaan dukungan tidak dijawab."
+      },
+      {
+        "key": "C",
+        "text": "Menyatakan dukungan pada salah satu kubu agar perdebatan segera berakhir",
+        "score": 1,
+        "rationale": "Melanggar netralitas ASN dan justru memperuncing polarisasi."
+      },
+      {
+        "key": "D",
+        "text": "Mengundurkan diri sebagai admin agar tidak terseret perdebatan",
+        "score": 2,
+        "rationale": "Menghindar dari tanggung jawab moderasi saat grup membutuhkan penengah."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan aturan grup dengan bahasa netral, mengajak menghormati perbedaan pilihan, menghapus unggahan bernada tuduhan, dan menolak menyatakan dukungan karena wajib netral sebagai ASN",
+        "score": 5,
+        "rationale": "Meredam polarisasi tanpa memihak, menjaga persatuan alumni, dan tegas menjaga netralitas."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dan persatuan dalam perbedaan pilihan politik. Perbedaan pendapat politik bukan radikalisme, sehingga cukup dimoderasi dengan netral dan santun tanpa perlu dilaporkan kepada aparat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0033",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang tinggal di sebuah kompleks perumahan. Akun anonim di grup warga membagikan daftar nama dan alamat beberapa warga yang disebut sebagai musuh kelompoknya, disertai ajakan untuk \"menertibkan\" mereka pada malam tertentu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyimpan tangkapan layar tanpa meneruskannya, segera melapor kepada ketua RT dan kepolisian, serta mengingatkan grup agar tidak menanggapi ajakan itu dan menyerahkannya kepada aparat",
+        "score": 5,
+        "rationale": "Ancaman nyata dilaporkan cepat lewat jalur resmi dengan bukti, sementara warga dicegah bertindak sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkan anggota grup agar tidak menanggapi ajakan itu dan menunggu ketua RT bertindak",
+        "score": 3,
+        "rationale": "Mencegah warga terpancing, tetapi ancaman nyata tidak segera dilaporkan."
+      },
+      {
+        "key": "C",
+        "text": "Menghubungi warga yang namanya tercantum dan menyarankan mereka pindah sementara",
+        "score": 2,
+        "rationale": "Niatnya melindungi, tetapi menebar ketakutan tanpa melibatkan aparat."
+      },
+      {
+        "key": "D",
+        "text": "Menyimpan tangkapan layar dan segera melaporkannya kepada kepolisian setempat",
+        "score": 4,
+        "rationale": "Pelaporannya tepat, tetapi warga di grup tidak diingatkan agar tidak terpancing."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak warga lain mencari tahu pemilik akun dan mendatanginya beramai-ramai",
+        "score": 1,
+        "rationale": "Main hakim sendiri berisiko menimbulkan kekerasan dan salah sasaran."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menolak ajakan kekerasan dan menjaga keselamatan warga. Ancaman nyata harus segera dilaporkan kepada aparat berwenang dengan bukti, tanpa disebarkan dan tanpa main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0034",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN dan pengurus karang taruna. Sahabat masa SMA Anda baru kembali ke kampung setelah menjalani hukuman kasus terorisme dan mengikuti program deradikalisasi. Sebagian warga menolak kehadirannya dan meminta Anda ikut menandatangani surat penolakan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak menandatangani surat itu dan menjelaskan kepada warga bahwa ia telah menjalani hukuman dan pembinaan",
+        "score": 4,
+        "rationale": "Sikapnya tepat, tetapi kekhawatiran warga belum dijawab lewat koordinasi dan dialog bersama pihak berwenang."
+      },
+      {
+        "key": "B",
+        "text": "Tidak menandatangani, bersilaturahmi dengan sahabat Anda, berkoordinasi dengan perangkat desa dan petugas pendampingnya, lalu memfasilitasi dialog agar kekhawatiran warga terjawab",
+        "score": 5,
+        "rationale": "Mendukung reintegrasi yang dibina negara, menjawab kekhawatiran warga lewat dialog, dan bekerja melalui jalur resmi."
+      },
+      {
+        "key": "C",
+        "text": "Ikut menandatangani karena khawatir warga menganggap Anda membela teroris",
+        "score": 1,
+        "rationale": "Ikut-ikutan karena takut menekan mantan narapidana yang sedang dibina dan berisiko mendorongnya kembali ke kelompok lamanya."
+      },
+      {
+        "key": "D",
+        "text": "Tidak menandatangani dan tidak ikut campur dalam persoalan itu",
+        "score": 3,
+        "rationale": "Netral, tetapi melewatkan peran sebagai penghubung antara sahabat dan warga."
+      },
+      {
+        "key": "E",
+        "text": "Tetap bersilaturahmi dengan sahabat Anda, tetapi menyarankannya pindah ke kota lain untuk memulai hidup baru agar tidak terjadi keributan di kampung dan ia tidak terus menjadi bahan pembicaraan",
+        "score": 2,
+        "rationale": "Hubungan pribadi terjaga, tetapi ikut mendorong pengucilan dan mempersulit pembinaan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: persatuan dan kemanusiaan sesuai Pancasila serta nilai Harmonis. Mantan narapidana yang telah dibina perlu diterima kembali agar tidak kembali ke jaringan lamanya, sambil kekhawatiran warga dijawab lewat koordinasi dengan pihak berwenang.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0035",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang menghadiri reuni sekolah. Saat sesi foto bersama, seorang teman yang menjadi tim sukses mengajak semua peserta berpose dengan jari membentuk nomor urut pasangan calon tertentu. Foto itu akan diunggah ke media sosial. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut berpose, lalu meminta agar wajah Anda disamarkan sebelum foto diunggah supaya status ASN Anda tetap aman dan suasana reuni tidak rusak karena penolakan Anda",
+        "score": 2,
+        "rationale": "Pose dukungan tetap dilakukan dan bergantung pada kesediaan orang lain menyamarkan."
+      },
+      {
+        "key": "B",
+        "text": "Menghindari sesi foto dengan alasan ke toilet",
+        "score": 3,
+        "rationale": "Netralitas terjaga, tetapi menghindar tanpa menyatakan sikap."
+      },
+      {
+        "key": "C",
+        "text": "Ikut berfoto dengan pose biasa, menjelaskan secara ringan bahwa ASN wajib netral, dan menyarankan sesi foto bersama tanpa simbol kampanye",
+        "score": 5,
+        "rationale": "Menjaga netralitas tanpa merusak suasana dan menawarkan jalan tengah yang menghormati semua peserta."
+      },
+      {
+        "key": "D",
+        "text": "Ikut berpose karena hanya acara reuni dan tidak ada maksud berkampanye",
+        "score": 1,
+        "rationale": "Pose simbol nomor urut yang diunggah merupakan bentuk keberpihakan yang melanggar netralitas ASN."
+      },
+      {
+        "key": "E",
+        "text": "Ikut berfoto dengan pose biasa dan menjelaskan secara ringan kepada teman tersebut bahwa Anda wajib netral",
+        "score": 4,
+        "rationale": "Netralitas terjaga dengan santun, tetapi tidak ada jalan tengah bagi peserta lain."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN, termasuk dalam gestur dan unggahan media sosial. Menolak dengan santun dan menawarkan jalan tengah menjaga netralitas sekaligus keakraban.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0036",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pengelola perpustakaan di SMP negeri. Sekolah menerima sumbangan puluhan buku dari seorang donatur. Saat mendata, Anda menemukan beberapa judul berisi ajakan memusuhi kelompok lain dan menolak NKRI. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyimpan buku-buku itu di gudang tanpa memberi tahu siapa pun",
+        "score": 3,
+        "rationale": "Siswa terlindungi, tetapi persoalan tidak dilaporkan sehingga sumbangan serupa bisa terulang."
+      },
+      {
+        "key": "B",
+        "text": "Memusnahkan sendiri buku-buku itu dan mengumumkan nama donaturnya di grup orang tua siswa sebagai peringatan, agar tidak ada lagi pihak yang berani menyumbangkan bacaan seperti itu ke sekolah",
+        "score": 1,
+        "rationale": "Tindakan sepihak yang mempermalukan donatur di depan umum melampaui wewenang dan menghilangkan dasar penanganan resmi."
+      },
+      {
+        "key": "C",
+        "text": "Menyisihkan buku itu dari rak, mencatat judul dan bagian bermasalah, melaporkannya kepada kepala sekolah, dan mengusulkan agar donatur dihubungi secara baik-baik untuk klarifikasi",
+        "score": 5,
+        "rationale": "Mencegah materi intoleran sampai ke siswa, melapor lewat jalur sekolah, dan tetap menghormati donatur lewat klarifikasi."
+      },
+      {
+        "key": "D",
+        "text": "Menyisihkan buku-buku itu dan melaporkannya kepada kepala sekolah",
+        "score": 4,
+        "rationale": "Langkah utamanya tepat, tetapi tanpa catatan rinci dan tanpa usulan klarifikasi kepada donatur."
+      },
+      {
+        "key": "E",
+        "text": "Memajang buku-buku itu di rak belakang yang jarang dikunjungi siswa",
+        "score": 2,
+        "rationale": "Setengah hati menangani sehingga materi intoleran tetap dapat diakses siswa."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: melindungi siswa dari paham yang menolak NKRI dan keberagaman sesuai Bhinneka Tunggal Ika. Temuan ditangani lewat jalur sekolah dengan catatan yang jelas, tanpa main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0037",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai guru pembina OSIS di SMA negeri. Menjelang pemilihan ketua OSIS, tim sukses salah satu kandidat menempelkan poster yang mengajak siswa tidak memilih kandidat lain karena berbeda suku dan agama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendiskualifikasi kandidat itu dan mengumumkan alasannya saat upacara sekolah, agar seluruh siswa memahami bahwa kampanye bernuansa SARA adalah pelanggaran berat yang tidak akan ditoleransi",
+        "score": 2,
+        "rationale": "Sanksi tanpa dialog dan pengumuman di depan umum mempermalukan siswa."
+      },
+      {
+        "key": "B",
+        "text": "Menurunkan poster sesuai aturan pemilihan, berdialog dengan tim sukses dan kandidatnya tentang bahaya kampanye SARA, memberi sanksi pembinaan, dan mengajak semua kandidat adu program",
+        "score": 5,
+        "rationale": "Menegakkan aturan dalam wewenang, membina tanpa mempermalukan, dan mengarahkan kompetisi ke hal yang mempersatukan."
+      },
+      {
+        "key": "C",
+        "text": "Menurunkan poster itu dan memanggil tim sukses serta kandidatnya untuk berdialog tentang bahaya kampanye SARA",
+        "score": 4,
+        "rationale": "Tindakan dan pembinaannya tepat, tetapi tidak ada upaya pencegahan bagi seluruh kandidat."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kejadian itu kepada wakil kepala sekolah bidang kesiswaan dan menunggu keputusannya",
+        "score": 3,
+        "rationale": "Menyerahkan masalah yang sebenarnya berada dalam wewenang pembina OSIS."
+      },
+      {
+        "key": "E",
+        "text": "Membiarkan karena kampanye adalah bagian dari kebebasan siswa berekspresi",
+        "score": 1,
+        "rationale": "Membiarkan kampanye SARA mengajarkan bahwa intoleransi boleh dipakai untuk menang."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menanamkan Bhinneka Tunggal Ika sejak sekolah. Kampanye berbasis SARA dihentikan dan dibina sesuai aturan, lalu kompetisi diarahkan pada adu program.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0038",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala seksi. Anda mengetahui bahwa staf terbaik Anda, yang juga sahabat dekat Anda sejak lama, ternyata mengelola akun anonim yang rutin menyebarkan ujaran kebencian terhadap kelompok minoritas dan ajakan menolak Pancasila. Ia mengakuinya dan memohon agar tidak dilaporkan karena sedang mengurus kenaikan pangkat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memintanya menghapus akun itu, membinanya secara pribadi, lalu tetap melaporkan kasusnya kepada atasan dan pejabat kepegawaian sambil menyampaikan bahwa ia kooperatif dan bersedia dibina",
+        "score": 5,
+        "rationale": "Menjalankan kewajiban melapor tanpa meninggalkan staf, dengan pembinaan dan catatan yang adil tentang sikapnya."
+      },
+      {
+        "key": "B",
+        "text": "Membantunya menghapus jejak akun agar proses kenaikan pangkatnya tidak terganggu",
+        "score": 1,
+        "rationale": "Ikut menutupi pelanggaran berat merupakan bentuk keterlibatan."
+      },
+      {
+        "key": "C",
+        "text": "Memintanya menghapus akun itu hari ini juga, membuat surat pernyataan tidak akan mengulangi, dan memberinya kesempatan terakhir tanpa melaporkan, dengan catatan Anda akan melapor bila ia mengulanginya",
+        "score": 3,
+        "rationale": "Ada pembinaan, tetapi pelanggaran serius terhadap kesetiaan ASN ditutupi."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kasus itu kepada atasan dan pejabat kepegawaian sesuai ketentuan disiplin",
+        "score": 4,
+        "rationale": "Kewajiban melapor dijalankan, tetapi tanpa pembinaan pribadi kepada staf."
+      },
+      {
+        "key": "E",
+        "text": "Berpura-pura tidak tahu karena kinerjanya sangat dibutuhkan seksi",
+        "score": 2,
+        "rationale": "Mengorbankan kewajiban demi kepentingan kinerja unit."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal dan akuntabilitas atasan. Kedekatan dan kinerja tidak menghapus kewajiban melapor pelanggaran anti-Pancasila, tetapi pelaporan disertai pembinaan dan penilaian yang adil.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0039",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di kantor wilayah sebuah kementerian. Seorang teman lama mengirim tautan petisi daring yang tampak membela warga di daerah tertinggal, tetapi isi tuntutannya adalah memisahkan daerah itu dari NKRI. Ia meminta Anda ikut menandatangani dan menyebarkannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak menandatangani dan tidak membalas pesan teman Anda",
+        "score": 3,
+        "rationale": "Tidak ikut, tetapi menghindar tanpa sikap."
+      },
+      {
+        "key": "B",
+        "text": "Menandatangani dan menyebarkannya ke grup kantor agar lebih banyak yang peduli",
+        "score": 1,
+        "rationale": "Ikut-ikutan menyebarkan tuntutan yang mengancam keutuhan NKRI."
+      },
+      {
+        "key": "C",
+        "text": "Tidak menandatangani, menyampaikan bahwa Anda peduli pada daerah tertinggal tetapi tidak dapat mendukung pemisahan dari NKRI, dan mengajaknya menyalurkan aspirasi lewat jalur resmi",
+        "score": 5,
+        "rationale": "Menolak dengan jelas, tetap menghargai kepedulian teman, dan menawarkan saluran aspirasi yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Tidak menandatangani dan menjelaskan kepada teman Anda bahwa tuntutan petisi itu bertentangan dengan keutuhan NKRI",
+        "score": 4,
+        "rationale": "Sikapnya tegas, tetapi kepedulian teman tidak diarahkan ke saluran yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menandatangani tanpa menyebarkannya karena kasihan pada warga daerah itu",
+        "score": 2,
+        "rationale": "Rasa iba tanpa mencermati tuntutan tetap berarti mendukung pemisahan wilayah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: setia kepada NKRI sebagai bagian nilai Loyal. Kepedulian pada daerah tertinggal disalurkan lewat jalur aspirasi yang sah, bukan lewat tuntutan memisahkan diri.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0040",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pegawai di bagian keuangan. Seorang rekan baru berpenampilan sangat religius dan rajin beribadah. Beberapa rekan mulai bergosip bahwa ia pasti radikal dan mengajak Anda menjauhinya, padahal ia bekerja dengan baik dan ramah kepada semua orang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjaga jarak dengan rekan baru untuk sementara sambil mengamati perilakunya",
+        "score": 2,
+        "rationale": "Ikut terpengaruh prasangka walaupun tidak menyebarkannya."
+      },
+      {
+        "key": "B",
+        "text": "Tidak ikut bergosip dan mengingatkan rekan-rekan bahwa menilai seseorang dari penampilan atau cara beribadahnya adalah prasangka yang bisa berujung fitnah dan merusak suasana kerja di bagian keuangan",
+        "score": 4,
+        "rationale": "Meluruskan dengan tepat, tetapi tidak ada upaya aktif merangkul rekan baru."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut bergosip, mengingatkan rekan bahwa radikalisme dinilai dari perilaku seperti menolak Pancasila atau membenarkan kekerasan, bukan penampilan, dan tetap merangkul rekan baru",
+        "score": 5,
+        "rationale": "Mencegah prasangka dengan pemahaman yang benar dan menjaga kerukunan dengan tetap merangkul rekan baru."
+      },
+      {
+        "key": "D",
+        "text": "Tidak ikut bergosip dan bersikap biasa saja kepada rekan baru",
+        "score": 3,
+        "rationale": "Tidak berprasangka, tetapi gosip yang merugikan dibiarkan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan rekan baru kepada atasan sebagai orang yang berpotensi radikal",
+        "score": 1,
+        "rationale": "Melapor tanpa dasar perilaku nyata merupakan tuduhan berbasis prasangka yang merugikan orang."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: anti radikalisme berfokus pada perilaku, bukan penampilan atau keyakinan. Menghormati cara beribadah setiap orang sesuai Pancasila dan Bhinneka Tunggal Ika, serta mencegah stigma, sama pentingnya dengan waspada terhadap paham kekerasan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0041",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah badan. Grup WhatsApp kantor ramai oleh perdebatan pilihan politik menjelang pemilu. Seorang rekan memojokkan Anda di grup karena tidak pernah menyatakan dukungan dan menuduh Anda tidak peduli pada nasib bangsa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyatakan dukungan pada salah satu kubu agar tidak dianggap apatis",
+        "score": 1,
+        "rationale": "Tekanan kelompok membuatnya melanggar kewajiban netralitas ASN."
+      },
+      {
+        "key": "B",
+        "text": "Menanggapi dengan tenang bahwa sebagai ASN Anda wajib netral dan peduli pada bangsa lewat tugas sehari-hari, lalu mengajak grup menjaga percakapan tetap sejuk",
+        "score": 5,
+        "rationale": "Menjaga netralitas tanpa terpancing, meredakan ketegangan, dan mengembalikan fungsi grup kantor."
+      },
+      {
+        "key": "C",
+        "text": "Membalas dengan menyindir pilihan politik rekan tersebut",
+        "score": 2,
+        "rationale": "Terpancing emosi dan ikut memperuncing perdebatan politik."
+      },
+      {
+        "key": "D",
+        "text": "Menanggapi dengan tenang bahwa sebagai ASN Anda wajib netral",
+        "score": 4,
+        "rationale": "Menjaga netralitas dengan santun, tetapi suasana grup yang memanas tidak ikut diredakan."
+      },
+      {
+        "key": "E",
+        "text": "Tidak menanggapi dan menunggu perdebatan mereda sendiri",
+        "score": 3,
+        "rationale": "Netralitas terjaga, tetapi grup kantor dibiarkan terus terpolarisasi."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dan menjaga persatuan di tempat kerja. Tekanan untuk memihak dijawab dengan tenang sambil mengajak grup kantor kembali sejuk.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0042",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Keponakan Anda yang masih SMP bercerita bahwa ia berkenalan dengan seorang \"kakak mentor\" dari komunitas gim daring yang sering mengirim video kekerasan, mengajarinya bahwa aparat adalah musuh, dan mengajaknya bertemu di luar kota. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendengarkan tanpa menghakimi, menyimpan bukti percakapan, memberi tahu orang tuanya, lalu bersama mereka melaporkan akun itu ke polisi dan mendampingi keponakan",
+        "score": 5,
+        "rationale": "Melindungi anak lewat pendampingan yang tenang dan melaporkan upaya perekrutan lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Memberi tahu orang tuanya dan menyarankan agar akun itu segera dilaporkan kepada kepolisian",
+        "score": 4,
+        "rationale": "Langkahnya tepat, tetapi bukti tidak diamankan dan keponakan tidak didampingi langsung."
+      },
+      {
+        "key": "C",
+        "text": "Menyamar sebagai keponakan untuk menjebak akun itu agar mau bertemu",
+        "score": 2,
+        "rationale": "Bertindak sendiri di luar wewenang dan berisiko membahayakan keluarga."
+      },
+      {
+        "key": "D",
+        "text": "Menganggapnya hanya pertemanan dunia maya yang biasa di kalangan remaja",
+        "score": 1,
+        "rationale": "Mengabaikan tanda perekrutan anak oleh kelompok yang membenarkan kekerasan."
+      },
+      {
+        "key": "E",
+        "text": "Melarang keponakan bermain gim daring itu lagi, meminta orang tuanya memasang aplikasi pengawasan di ponselnya, dan memblokir akun kakak mentor tersebut agar tidak bisa menghubunginya lagi",
+        "score": 3,
+        "rationale": "Memutus akses, tetapi upaya perekrutan tidak dilaporkan dan anak tidak diberi pemahaman."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kewaspadaan terhadap perekrutan anak secara daring dan kesetiaan pada NKRI. Anak didampingi dengan tenang, bukti diamankan, dan perekrutan dilaporkan kepada aparat berwenang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0043",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang menjadi pengurus komunitas literasi di kota Anda. Komunitas berencana membedah buku yang mengkritik keras kebijakan pemerintah di bidang lingkungan. Sebagian anggota mendesak agar acara dibatalkan karena menganggapnya makar, sementara anggota lain mengancam akan mengunggah daftar penolak sebagai musuh kebebasan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda acara sampai suasana komunitas lebih tenang",
+        "score": 3,
+        "rationale": "Menghindari konflik, tetapi mengorbankan ruang diskusi yang sah."
+      },
+      {
+        "key": "B",
+        "text": "Mendukung pengunggahan daftar penolak agar mereka jera menghalangi kebebasan berpendapat",
+        "score": 1,
+        "rationale": "Mempermalukan kelompok yang berbeda pendapat justru menjadi bentuk intoleransi baru."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui pembatalan agar Anda sebagai ASN tidak dianggap melawan pemerintah",
+        "score": 2,
+        "rationale": "Keliru menyamakan kritik kebijakan dengan sikap anti-negara dan ikut membungkam ruang publik."
+      },
+      {
+        "key": "D",
+        "text": "Mendukung acara dengan narasumber pembanding, menjelaskan bahwa kritik kebijakan bukan makar, menetapkan aturan diskusi bebas kebencian, dan meminta kedua kubu berhenti saling mengancam",
+        "score": 5,
+        "rationale": "Membedakan kritik sah dari makar, menjaga forum tetap berimbang, dan meredam permusuhan di kedua kubu."
+      },
+      {
+        "key": "E",
+        "text": "Tetap mendukung acara berjalan dan menjelaskan panjang lebar kepada anggota bahwa kritik terhadap kebijakan lingkungan adalah hak warga yang dijamin konstitusi, sehingga tidak dapat disebut makar",
+        "score": 4,
+        "rationale": "Pembedaannya tepat, tetapi forum tidak dibuat berimbang dan ancaman antarkubu dibiarkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kritik terhadap kebijakan, yang sah dalam demokrasi Pancasila, dari ajakan mengganti dasar negara atau ujaran kebencian. Forum yang berimbang dan bebas permusuhan menjaga kebebasan berpendapat sekaligus persatuan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0044",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah kantor dinas. Seorang rekan memutar video ceramah dengan suara keras di ruang kerja. Isinya menyebut kelompok lain harus diperangi, dan beberapa rekan dari latar belakang berbeda terlihat tidak nyaman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan itu dengan sopan mematikan video karena membuat rekan lain tidak nyaman",
+        "score": 4,
+        "rationale": "Tindakannya cepat dan santun, tetapi isi ajakan kekerasannya tidak diluruskan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta rekan itu dengan sopan mematikan video, lalu berbincang pribadi bahwa ajakan memerangi kelompok lain melukai rekan kerja, dan melapor ke atasan bila terulang",
+        "score": 5,
+        "rationale": "Menghentikan konten kekerasan dengan sopan, merangkul lewat dialog, dan menyiapkan jalur resmi bila berulang."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena khawatir dianggap tidak menghormati keyakinan rekan",
+        "score": 1,
+        "rationale": "Diam karena takut membuat ajakan kekerasan terus diperdengarkan di kantor."
+      },
+      {
+        "key": "D",
+        "text": "Pindah ke ruangan lain sampai video itu selesai diputar",
+        "score": 3,
+        "rationale": "Menghindar tanpa memperhatikan rekan lain dan tanpa meluruskan."
+      },
+      {
+        "key": "E",
+        "text": "Menegur rekan itu dengan keras dan menyebutnya teroris di depan rekan-rekan lain",
+        "score": 2,
+        "rationale": "Niatnya menghentikan, tetapi caranya menuduh dan mempermalukan di depan umum."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kerukunan dan penolakan terhadap ajakan kekerasan sesuai Bhinneka Tunggal Ika dan nilai Harmonis. Konten dihentikan dengan sopan, rekan diajak berdialog, dan jalur resmi dipakai bila perilaku berulang.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0045",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang juga menjabat ketua RT. Menjelang peringatan kemerdekaan, seorang warga memasang bendera organisasi yang telah dibubarkan pemerintah di depan rumahnya berdampingan dengan bendera Merah Putih. Beberapa warga mengeluh kepada Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga yang mengeluh bersabar sampai peringatan kemerdekaan selesai",
+        "score": 2,
+        "rationale": "Menunda penanganan simbol organisasi terlarang."
+      },
+      {
+        "key": "B",
+        "text": "Langsung melaporkannya kepada Bhabinkamtibmas tanpa berbicara dengan warga tersebut",
+        "score": 3,
+        "rationale": "Jalurnya resmi, tetapi melewatkan pendekatan dialog yang menjadi peran ketua RT."
+      },
+      {
+        "key": "C",
+        "text": "Menurunkan bendera itu sendiri bersama beberapa warga saat pemiliknya tidak di rumah",
+        "score": 1,
+        "rationale": "Main hakim sendiri di rumah orang dapat memicu konflik antarwarga."
+      },
+      {
+        "key": "D",
+        "text": "Mendatangi warga tersebut dengan sopan bersama seorang pengurus RT, menjelaskan status organisasi itu berdasarkan informasi resmi pemerintah, dan memintanya menurunkan bendera tersebut sebelum upacara",
+        "score": 4,
+        "rationale": "Dialognya tepat, tetapi belum ada langkah lanjutan bila ia menolak."
+      },
+      {
+        "key": "E",
+        "text": "Mendatangi warga itu dengan sopan, menanyakan alasannya, menjelaskan status organisasi itu dan memintanya menurunkan bendera, serta berkoordinasi dengan Bhabinkamtibmas bila ia menolak",
+        "score": 5,
+        "rationale": "Bertindak sesuai peran ketua RT lewat dialog dan melibatkan aparat bila perlu, tanpa main hakim sendiri."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada NKRI dan penyelesaian persoalan lingkungan secara musyawarah. Simbol organisasi terlarang ditangani lewat dialog dan koordinasi dengan aparat, bukan dengan main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0046",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pegawai bagian kepegawaian yang menyiapkan acara pengambilan sumpah PNS. Sehari sebelum acara, seorang CPNS menyampaikan bahwa ia tidak mau mengucapkan bagian sumpah tentang setia kepada Pancasila karena menurut kelompok kajian yang ia ikuti hal itu bertentangan dengan keyakinannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendengarkan alasannya, menjelaskan bahwa Pancasila tidak bertentangan dengan keyakinan dan sumpah adalah syarat PNS, menawarkan pertemuan dengan rohaniwan, dan melapor kepada kepala bagian",
+        "score": 5,
+        "rationale": "Merangkul lewat dialog dan pendampingan, sekaligus memastikan persoalan ditangani pejabat berwenang sesuai aturan."
+      },
+      {
+        "key": "B",
+        "text": "Memperbolehkannya diam saat bagian itu diucapkan agar acara tetap lancar",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur dan ikut membiarkan penolakan terhadap Pancasila dalam sumpah resmi."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan alasannya dan melaporkan hal itu kepada kepala bagian kepegawaian untuk penanganan sesuai ketentuan",
+        "score": 4,
+        "rationale": "Jalurnya tepat, tetapi tidak ada upaya meluruskan atau mendampingi CPNS tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan agar ia mengucapkan sumpah sesuai teks lebih dahulu supaya pengangkatannya tidak tertunda, lalu memikirkan maknanya kemudian bersama keluarga atau guru yang ia percayai dan hormati",
+        "score": 3,
+        "rationale": "Mengejar kelancaran pengangkatan tanpa menyentuh pemahamannya yang keliru tentang Pancasila."
+      },
+      {
+        "key": "E",
+        "text": "Menceritakan penolakan itu kepada CPNS lain agar mereka berhati-hati berteman dengannya",
+        "score": 2,
+        "rationale": "Menyebarkan cerita pribadi dan mendorong pengucilan tanpa menyelesaikan masalah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada Pancasila sebagai syarat utama ASN dan inti nilai Loyal. Penolakan ditangani dengan dialog, pendampingan, dan jalur kepegawaian yang sah, bukan diloloskan atau dipergunjingkan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0047",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Setelah terjadi kerusuhan di suatu daerah, seorang tokoh terkenal mengunggah tulisan yang menyalahkan satu suku secara keseluruhan. Banyak teman Anda membagikan unggahan itu disertai komentar marah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak membagikan unggahan itu dan tidak berkomentar apa pun",
+        "score": 3,
+        "rationale": "Tidak ikut menyebarkan, tetapi pasif di tengah gelombang kebencian."
+      },
+      {
+        "key": "B",
+        "text": "Tidak membagikannya, menyebarkan informasi resmi yang menyejukkan tentang penanganan kerusuhan, dan melaporkan unggahan itu lewat fitur pelaporan platform",
+        "score": 5,
+        "rationale": "Menolak generalisasi kebencian, menyebarkan informasi resmi, dan melapor lewat kanal yang tersedia."
+      },
+      {
+        "key": "C",
+        "text": "Membalas unggahan tokoh itu dengan kata-kata kasar tentang latar belakang pribadinya",
+        "score": 2,
+        "rationale": "Membalas kebencian dengan kebencian memperkeruh suasana."
+      },
+      {
+        "key": "D",
+        "text": "Tidak membagikan unggahan itu dan membagikan informasi resmi tentang penanganan kerusuhan",
+        "score": 4,
+        "rationale": "Menjadi penyejuk dengan informasi resmi, tetapi konten yang menyudutkan suku tidak dilaporkan."
+      },
+      {
+        "key": "E",
+        "text": "Ikut membagikan unggahan itu karena tokoh tersebut dikenal kredibel, memiliki banyak pengikut, dan menurut Anda warga di daerah lain perlu tahu siapa yang memicu kerusuhan",
+        "score": 1,
+        "rationale": "Ikut-ikutan menyebarkan generalisasi yang memicu kebencian terhadap suatu suku."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: Bhinneka Tunggal Ika menolak menyalahkan satu kelompok secara pukul rata. ASN menjadi penyejuk dengan informasi resmi dan melaporkan konten kebencian lewat kanal yang tersedia.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0048",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Sahabat Anda yang dulu membantu biaya kuliah Anda kini mencalonkan diri sebagai anggota legislatif. Ia meminta Anda menyebarkan konten yang menyerang lawannya dengan isu suku dan agama, sambil mengingatkan jasanya selama ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak menyebarkan konten SARA, tetapi ikut membagikan materi kampanye programnya sebagai balas budi",
+        "score": 2,
+        "rationale": "Menghindari isu SARA, tetapi tetap melanggar netralitas ASN."
+      },
+      {
+        "key": "B",
+        "text": "Mengiyakan permintaannya agar ia senang dan tidak merasa dilupakan, tetapi diam-diam tidak menyebarkan konten itu dengan harapan ia tidak memeriksa dan masa kampanye segera berakhir",
+        "score": 3,
+        "rationale": "Tidak melanggar, tetapi tidak jujur dan tidak meluruskan cara kampanye yang memecah belah."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan sambil menjelaskan kewajiban netralitas ASN",
+        "score": 4,
+        "rationale": "Sikapnya tepat, tetapi bahaya isu SARA tidak diluruskan dan tidak ada saran yang membangun."
+      },
+      {
+        "key": "D",
+        "text": "Menyebarkan konten itu lewat akun anonim agar status ASN Anda tidak terlacak",
+        "score": 1,
+        "rationale": "Ikut menyebarkan isu SARA yang memecah belah dan sengaja menyiasati aturan netralitas."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan sambil berterima kasih atas jasanya, menjelaskan netralitas ASN dan bahaya isu SARA, menyarankan kampanye adu program, dan tetap menjaga silaturahmi",
+        "score": 5,
+        "rationale": "Menjaga netralitas dan persatuan tanpa memutus hubungan baik, serta memberi saran yang membangun."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dan persatuan dalam Bhinneka Tunggal Ika di atas utang budi pribadi. Menolak dengan sopan, berterima kasih, dan memberi saran kampanye yang sehat menjaga prinsip sekaligus persahabatan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0049",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah kantor. Saat mengambil cetakan di printer bersama, Anda menemukan beberapa lembar dokumen tanpa nama berisi rencana aksi menyerang sebuah tempat ibadah pada tanggal tertentu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembalikan dokumen itu ke printer dan mengawasi siapa yang mengambilnya",
+        "score": 3,
+        "rationale": "Waspada, tetapi menunda laporan atas ancaman nyata."
+      },
+      {
+        "key": "B",
+        "text": "Memotret dokumen itu dan melaporkannya kepada atasan, lalu mengembalikan dokumennya ke printer agar pemiliknya tidak curiga dan bisa dipantau",
+        "score": 4,
+        "rationale": "Melapor lewat jalur yang benar, tetapi barang bukti tidak diamankan sehingga bisa diambil kembali oleh pemiliknya."
+      },
+      {
+        "key": "C",
+        "text": "Membuang dokumen itu karena mengira hanya coretan iseng",
+        "score": 2,
+        "rationale": "Menghilangkan barang bukti dan mengabaikan ancaman nyata."
+      },
+      {
+        "key": "D",
+        "text": "Memotret dokumen itu dan menyebarkannya di grup kantor untuk mencari tahu pemiliknya secepat mungkin, karena makin banyak rekan yang melihat makin besar peluang pelakunya dikenali",
+        "score": 1,
+        "rationale": "Menyebarkan kepanikan dan prasangka sekaligus merusak penanganan oleh aparat."
+      },
+      {
+        "key": "E",
+        "text": "Menyimpan dokumen itu tanpa menyebarkannya, segera melapor kepada atasan dan pengamanan kantor agar diteruskan ke aparat, dan tidak menebar dugaan soal pemiliknya",
+        "score": 5,
+        "rationale": "Ancaman nyata dilaporkan cepat lewat jalur resmi dengan barang bukti terjaga dan tanpa menebar prasangka."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kewaspadaan terhadap ancaman kekerasan dan penghormatan pada kebebasan beribadah sesuai Pancasila. Ancaman nyata segera dilaporkan lewat jalur resmi dengan barang bukti utuh, tanpa menebar kepanikan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0050",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang aktif di media sosial. Anda menemukan sebuah akun anonim yang rutin mengunggah ajakan menyerang aparat beserta panduan membuat senjata rakitan, dan pengikutnya terus bertambah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagikan ulang unggahan itu disertai kecaman agar banyak orang waspada",
+        "score": 1,
+        "rationale": "Menyebarkan ulang konten berbahaya, walaupun disertai kecaman, memperluas jangkauan propagandanya."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan akun itu lewat fitur pelaporan platform media sosial",
+        "score": 4,
+        "rationale": "Langkahnya benar, tetapi ancaman kekerasan nyata perlu sampai ke aparat penegak hukum."
+      },
+      {
+        "key": "C",
+        "text": "Memblokir akun itu agar tidak muncul lagi di beranda Anda",
+        "score": 3,
+        "rationale": "Melindungi diri sendiri tanpa menghentikan ancaman terhadap orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Tidak berinteraksi dengan akun itu, menyimpan tautan dan tangkapan layarnya, lalu melaporkannya ke polisi lewat kanal aduan siber resmi dan fitur pelaporan platform",
+        "score": 5,
+        "rationale": "Menghindari amplifikasi, menyimpan bukti, dan melapor lewat jalur resmi yang berwenang menindak."
+      },
+      {
+        "key": "E",
+        "text": "Membalas unggahan akun itu dengan argumen panjang dan data resmi untuk menyadarkan para pengikutnya, karena menurut Anda konten seperti itu harus dilawan dengan narasi tandingan secara terbuka",
+        "score": 2,
+        "rationale": "Niatnya meluruskan, tetapi interaksi justru menaikkan jangkauan konten berbahaya."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menolak ajakan kekerasan terhadap negara dan mengetahui jalur pelaporan yang benar. Konten berbahaya tidak diperluas, bukti disimpan, dan dilaporkan kepada aparat berwenang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0051",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN di dinas kesehatan. Seorang tetangga yang menjadi koordinator relawan pasangan calon bupati meminta Anda menjadi admin grup relawan karena Anda dikenal cakap mengelola informasi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengatakan sedang sibuk sehingga tidak bisa membantu",
+        "score": 3,
+        "rationale": "Netralitas terjaga, tetapi alasan yang sebenarnya tidak disampaikan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan sambil menjelaskan bahwa ASN wajib netral dan tidak boleh terlibat dalam kegiatan pemenangan",
+        "score": 4,
+        "rationale": "Sikapnya tepat, tetapi tidak ada langkah pencegahan bagi ASN lain di lingkungan."
+      },
+      {
+        "key": "C",
+        "text": "Bersedia membantu di balik layar tanpa tercatat sebagai admin",
+        "score": 2,
+        "rationale": "Tetap terlibat dalam kegiatan pemenangan walaupun tidak terlihat."
+      },
+      {
+        "key": "D",
+        "text": "Menerima tawaran itu karena kegiatannya dilakukan di luar jam kerja",
+        "score": 1,
+        "rationale": "Terlibat langsung dalam pemenangan calon melanggar netralitas ASN."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan karena ASN wajib netral, berterima kasih atas kepercayaannya, dan memberi tahu bahwa ASN lain di lingkungan juga terikat aturan yang sama",
+        "score": 5,
+        "rationale": "Menjaga netralitas dengan santun, tetap menghargai tetangga, dan mencegah ASN lain ikut terseret."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN berlaku juga di luar jam kerja. Menolak dengan sopan dan memberi pemahaman menjaga netralitas sekaligus hubungan sosial dan persatuan warga.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0052",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pengawas sekolah di dinas pendidikan. Seorang rekan sejawat bercerita bahwa ia ingin berhenti menjadi ASN karena menurut kelompok kajian yang baru ia ikuti, bekerja untuk negara bertentangan dengan keyakinannya. Ia juga mulai sering izin untuk menghadiri pertemuan kelompok itu di luar kota. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendengarkan ceritanya dengan empati dan mengajaknya berdiskusi bahwa mengabdi kepada negara sejalan dengan nilai kebaikan",
+        "score": 4,
+        "rationale": "Dialognya baik, tetapi tanda-tanda keterpaparan tidak diteruskan kepada atasan untuk pembinaan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkannya kepada atasan sebagai anggota jaringan radikal dan menceritakannya kepada rekan-rekan lain",
+        "score": 1,
+        "rationale": "Melabeli tanpa bukti dan menyebarkan cerita pribadi justru mempermalukan dan mengucilkan."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan dengan empati, mendiskusikan bahwa mengabdi kepada negara sejalan dengan kebaikan, menyarankan konsultasi dengan tokoh agama moderat, dan melapor secara objektif kepada atasan",
+        "score": 5,
+        "rationale": "Merangkul lewat dialog, membuka akses pendampingan, dan melibatkan atasan untuk pembinaan secara objektif."
+      },
+      {
+        "key": "D",
+        "text": "Menghormati keputusannya karena itu hak pribadi dan tidak membahasnya lagi",
+        "score": 2,
+        "rationale": "Membiarkan tanda keterpaparan dengan dalih menghormati privasi."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankannya memikirkan kembali keputusan itu dengan matang, karena mencari pekerjaan lain tidak mudah dan masa kerja serta hak pensiunnya sebagai ASN akan hilang bila ia berhenti sekarang",
+        "score": 3,
+        "rationale": "Menahan dengan alasan ekonomi tanpa menyentuh paham yang memengaruhinya."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: merangkul rekan yang mulai terpapar paham anti-negara sesuai nilai Loyal dan Harmonis. Dialog yang empatik, pendampingan, dan pelaporan objektif kepada atasan lebih tepat daripada membiarkan atau melabeli.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0053",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN dan orang tua dari remaja berusia 16 tahun. Anda menemukan simbol organisasi terlarang tersimpan di kamar anak Anda dan mendapati ia aktif di forum daring yang memuji aksi kekerasan terhadap aparat. Saat ditanya, ia menjawab hanya penasaran. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berbicara dengan tenang tanpa menghakimi, mendampingi dan membatasi aksesnya ke forum itu, melibatkan guru BK atau psikolog, dan melapor ke aparat bila ditemukan perekrut atau rencana kekerasan",
+        "score": 5,
+        "rationale": "Melindungi anak lewat kedekatan dan pendampingan profesional, dengan jalur resmi dipakai bila ada ancaman nyata."
+      },
+      {
+        "key": "B",
+        "text": "Memarahinya dengan keras, menyita semua barangnya yang berkaitan dengan organisasi itu, dan mengancam akan melaporkannya sendiri ke polisi bila ia masih berani membuka forum tersebut sekali lagi",
+        "score": 2,
+        "rationale": "Emosi dan ancaman merusak kepercayaan anak sehingga ia cenderung menyembunyikan aktivitasnya."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya karena menganggap rasa penasaran itu wajar pada usia remaja",
+        "score": 1,
+        "rationale": "Mengabaikan tanda keterpaparan anak terhadap paham kekerasan."
+      },
+      {
+        "key": "D",
+        "text": "Menyita gawainya dan melarangnya keluar rumah tanpa banyak penjelasan",
+        "score": 3,
+        "rationale": "Memutus akses sesaat, tetapi tanpa dialog sehingga rasa penasarannya bisa berpindah ke tempat lain."
+      },
+      {
+        "key": "E",
+        "text": "Mengajaknya berbicara dengan tenang dan membatasi aksesnya ke forum itu",
+        "score": 4,
+        "rationale": "Pendekatannya tepat, tetapi tanpa dukungan pihak lain dan tanpa kesiapan melapor bila ada perekrut."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada NKRI dimulai dari keluarga. Anak yang mulai terpapar dirangkul lewat dialog dan pendampingan profesional, dengan pelaporan kepada aparat bila muncul ancaman nyata.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0054",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf protokol yang menyusun naskah sambutan pimpinan untuk acara warga. Seorang pejabat di bagian Anda meminta agar naskah memuat kalimat yang menyindir kelompok agama minoritas di daerah itu supaya sambutan lebih disukai mayoritas warga. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan dengan sopan bahwa kalimat itu berisiko melukai warga dan bertentangan dengan tugas pimpinan mengayomi semua golongan, sambil menawarkan kalimat pengganti yang mempersatukan",
+        "score": 5,
+        "rationale": "Menolak muatan intoleran dengan santun sambil memberi solusi yang tetap memenuhi tujuan sambutan."
+      },
+      {
+        "key": "B",
+        "text": "Memasukkan kalimat itu sesuai permintaan karena pejabat lebih memahami kondisi warga",
+        "score": 1,
+        "rationale": "Mengikuti permintaan bermuatan intoleransi berarti ikut menyebarkan sikap diskriminatif."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada pejabat tersebut dengan sopan bahwa kalimat itu berisiko melukai sebagian warga",
+        "score": 4,
+        "rationale": "Keberatannya tepat, tetapi tidak disertai alternatif yang memudahkan pejabat menerima masukan."
+      },
+      {
+        "key": "D",
+        "text": "Memasukkan kalimat itu dengan bahasa yang diperhalus agar sindirannya tidak terlalu terlihat",
+        "score": 2,
+        "rationale": "Berkompromi sehingga muatan intoleran tetap ada dalam naskah."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus kalimat itu diam-diam dari naskah akhir tanpa memberi tahu pejabat tersebut, dengan pertimbangan pimpinan pasti tidak ingin menyinggung warga dan perubahan kecil itu tidak akan dipersoalkan",
+        "score": 3,
+        "rationale": "Hasilnya tidak intoleran, tetapi caranya tidak transparan dan berpotensi merusak kepercayaan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: pimpinan dan ASN wajib mengayomi semua golongan sesuai Bhinneka Tunggal Ika dan nilai Loyal. Permintaan bermuatan intoleran ditolak dengan sopan dan disertai alternatif yang mempersatukan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0055",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah dinas. Beberapa rekan di grup kantor mengajak ikut kegiatan \"penertiban\" bersama sebuah ormas pada akhir pekan untuk mendatangi tempat berkumpul kelompok yang mereka anggap menyimpang. Mereka menyebutnya sebagai bentuk kepedulian moral. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut hadir tanpa terlibat langsung, hanya untuk mengawasi dan menenangkan rekan-rekan bila suasana memanas, karena menurut Anda lebih baik ada yang mengingatkan dari dalam daripada membiarkan",
+        "score": 2,
+        "rationale": "Kehadiran tetap memberi legitimasi pada tindakan main hakim sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Tidak ikut, mengingatkan rekan bahwa penertiban adalah wewenang aparat dan keberatan bisa lewat pengaduan resmi, lalu melaporkan rencana itu kepada aparat karena berpotensi ricuh",
+        "score": 5,
+        "rationale": "Menolak main hakim sendiri, menawarkan jalur yang sah, dan mencegah kekerasan lewat aparat berwenang."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut dan mengingatkan rekan-rekan bahwa penertiban adalah kewenangan aparat",
+        "score": 4,
+        "rationale": "Meluruskan dengan tepat, tetapi potensi kekerasan tidak dilaporkan."
+      },
+      {
+        "key": "D",
+        "text": "Tidak ikut dengan alasan ada acara keluarga pada akhir pekan",
+        "score": 3,
+        "rationale": "Tidak terlibat, tetapi menghindar tanpa menyatakan sikap."
+      },
+      {
+        "key": "E",
+        "text": "Ikut serta karena merasa wajib membela nilai moral di masyarakat",
+        "score": 1,
+        "rationale": "Ikut-ikutan main hakim sendiri yang melanggar hukum dan hak warga lain."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: negara hukum dan penghormatan pada hak setiap warga sesuai Pancasila. Keberatan terhadap kelompok lain disalurkan lewat jalur resmi, bukan dengan main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0056",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di kantor kecamatan. Di grup WhatsApp kantor, seorang rekan sering mengirim stiker bergambar simbol kelompok teror sebagai bahan lelucon dalam percakapan sehari-hari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung melaporkan rekan itu kepada atasan sebagai simpatisan teroris",
+        "score": 2,
+        "rationale": "Berlebihan dan melabeli tanpa terlebih dahulu memahami niatnya dan mengingatkan."
+      },
+      {
+        "key": "B",
+        "text": "Ikut mengirim stiker serupa agar percakapan tetap seru",
+        "score": 1,
+        "rationale": "Ikut-ikutan menormalkan simbol terorisme."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan di grup bahwa stiker seperti itu sebaiknya tidak dipakai lagi",
+        "score": 4,
+        "rationale": "Tegurannya tepat, tetapi disampaikan terbuka tanpa pendekatan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Tidak menanggapi stiker itu dalam percakapan",
+        "score": 3,
+        "rationale": "Tidak mendukung, tetapi kebiasaan itu dibiarkan."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan rekan itu secara pribadi bahwa simbol kelompok teror tidak pantas dijadikan lelucon karena menyakiti korban, memintanya berhenti, dan memberi tahu admin bila berlanjut",
+        "score": 5,
+        "rationale": "Meluruskan tanpa mempermalukan dan menyiapkan langkah lanjutan agar kebiasaan itu tidak berulang."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menolak normalisasi simbol terorisme dan menghormati korban sesuai nilai Loyal. Teguran pribadi yang jelas namun santun lebih tepat daripada ikut-ikutan atau melabeli secara berlebihan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0057",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai dosen pembimbing skripsi di perguruan tinggi negeri. Seorang mahasiswa mengajukan judul penelitian tentang pola perekrutan kelompok radikal di media sosial. Rekan dosen menyarankan agar judul itu ditolak karena khawatir mahasiswa terpapar dan kampus dicap mendukung radikalisme. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan mahasiswa itu kepada pimpinan fakultas karena tertarik pada topik radikalisme",
+        "score": 1,
+        "rationale": "Menganggap minat meneliti sebagai tanda radikal adalah prasangka yang merugikan mahasiswa."
+      },
+      {
+        "key": "B",
+        "text": "Menerima judul itu dengan bimbingan ketat soal metodologi dan etika penelitian, termasuk mewajibkan mahasiswa hanya memakai data terbuka dan menyerahkan catatan lapangan setiap bulan untuk diperiksa",
+        "score": 4,
+        "rationale": "Keputusan dan pendampingannya tepat, tetapi kekhawatiran rekan dosen tidak dijawab."
+      },
+      {
+        "key": "C",
+        "text": "Menolak judul itu sesuai saran rekan dosen tanpa memberi penjelasan kepada mahasiswa",
+        "score": 2,
+        "rationale": "Mengikuti kekhawatiran tanpa pertimbangan akademik dan menutup ruang dialog."
+      },
+      {
+        "key": "D",
+        "text": "Menerima judul itu dengan bimbingan ketat soal metodologi dan etika, mengarahkan pada sumber resmi, memantau secara berkala, dan menjelaskan kepada rekan dosen manfaatnya bagi pencegahan",
+        "score": 5,
+        "rationale": "Menjaga kebebasan akademik sekaligus mengelola risiko, dan meyakinkan rekan lewat dialog."
+      },
+      {
+        "key": "E",
+        "text": "Meminta mahasiswa mengganti judul dengan topik yang lebih umum agar tidak menimbulkan polemik",
+        "score": 3,
+        "rationale": "Menghindari risiko dengan mengorbankan penelitian yang bermanfaat."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kajian akademik tentang radikalisme dari keterlibatan dalam radikalisme. Kebebasan akademik dijaga dengan pendampingan dan etika penelitian, sejalan dengan upaya pencegahan dan nilai Loyal.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0058",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai notulis dalam forum konsultasi publik yang diadakan dinas. Seorang warga menyampaikan kritik keras bahwa proyek dinas merusak lingkungan dan merugikan petani. Setelah forum, seorang pejabat meminta Anda tidak mencatat kritik itu dan menyebut warga tersebut provokator. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda penyelesaian notulen sambil menunggu keputusan pejabat yang lebih tinggi, agar Anda tidak salah langkah dan tidak berselisih dengan pejabat yang meminta kritik itu dihapus",
+        "score": 2,
+        "rationale": "Menghindari keputusan yang seharusnya mengikuti prosedur."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat kritik itu apa adanya, menjelaskan dengan sopan kepada pejabat bahwa kritik itu masukan sah, dan mengusulkan agar dinas menyiapkan jawaban berbasis data",
+        "score": 5,
+        "rationale": "Menjaga akurasi notulen, membedakan kritik sah dari provokasi, dan memberi solusi kepada pejabat."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat kritik itu apa adanya dan menjelaskan kepada pejabat dengan sopan bahwa kritik tersebut adalah masukan yang sah",
+        "score": 4,
+        "rationale": "Integritas dan pembedaannya tepat, tetapi belum ada usulan tindak lanjut."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus kritik itu dari notulen dan mencatat warga tersebut sebagai provokator",
+        "score": 1,
+        "rationale": "Memanipulasi catatan resmi dan melabeli kritik sah sebagai ancaman."
+      },
+      {
+        "key": "E",
+        "text": "Mencatat kritik itu secara ringkas tanpa menyebut rincian keberatan warga",
+        "score": 3,
+        "rationale": "Kompromi yang mengurangi akurasi dan melemahkan masukan warga."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kritik warga terhadap kebijakan adalah bagian sah dari demokrasi Pancasila dan tidak boleh disamakan dengan provokasi atau radikalisme. ASN tetap Loyal kepada pemerintah dengan menyampaikan masukan secara utuh dan jujur.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0059",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Sahabat dekat Anda di kantor dikenal kritis dan sering mengulas kebijakan pemerintah di media sosial pribadinya dengan data. Belakangan, unggahannya bergeser menjadi ajakan tidak mengakui pemerintahan yang sah dan mengganti dasar negara. Ia mulai mendapat banyak pengikut baru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan unggahan-unggahan terbarunya beserta tangkapan layar dan tanggal unggahnya kepada atasan, dengan catatan bahwa unggahan sebelumnya masih berupa kritik kebijakan yang sah",
+        "score": 4,
+        "rationale": "Jalurnya resmi karena unggahan sudah menolak dasar negara, tetapi sahabat tidak diberi kesempatan berdialog."
+      },
+      {
+        "key": "B",
+        "text": "Berhenti mengikuti akunnya agar tidak ikut terseret",
+        "score": 3,
+        "rationale": "Menjaga diri sendiri tanpa meluruskan atau melapor."
+      },
+      {
+        "key": "C",
+        "text": "Memberi tanda suka dan membagikan unggahannya agar persahabatan tetap terjaga",
+        "score": 1,
+        "rationale": "Ikut menyebarkan ajakan anti-Pancasila demi menjaga hubungan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Menemuinya secara pribadi, menghargai haknya mengkritik, menunjukkan bahwa unggahan terbarunya menolak dasar negara, memintanya menghapus, dan melapor ke atasan bila berlanjut",
+        "score": 5,
+        "rationale": "Membedakan kritik sah dari ajakan anti-Pancasila, merangkul sahabat lewat dialog, dan menyiapkan jalur resmi bila berlanjut."
+      },
+      {
+        "key": "E",
+        "text": "Membiarkan karena selama ini ia memang dikenal kritis dan itu haknya berpendapat",
+        "score": 2,
+        "rationale": "Keliru menyamakan ajakan mengganti dasar negara dengan kebebasan berpendapat."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kebebasan mengkritik kebijakan dilindungi, tetapi ajakan mengganti dasar negara bertentangan dengan Pancasila dan nilai Loyal ASN. Persahabatan dijaga lewat dialog yang jujur, dengan jalur resmi bila pelanggaran berlanjut.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0060",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang mengikuti rapat warga di lingkungan rumah. Seorang warga mengusulkan aturan agar rumah kontrakan di lingkungan itu tidak disewakan kepada pendatang dari suku tertentu karena dianggap sering membuat masalah. Sebagian warga mengangguk setuju. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menyetujui karena khawatir dianggap tidak peduli keamanan lingkungan",
+        "score": 1,
+        "rationale": "Ikut-ikutan mendukung aturan diskriminatif berbasis suku."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan pendapat dengan tenang bahwa aturan berdasarkan suku bersifat diskriminatif",
+        "score": 4,
+        "rationale": "Penolakannya tepat, tetapi kekhawatiran warga tidak dijawab dengan alternatif."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan dengan tenang bahwa aturan berbasis suku diskriminatif, lalu mengusulkan aturan yang sama bagi semua penghuni seperti wajib lapor diri dan menjaga ketertiban",
+        "score": 5,
+        "rationale": "Menolak diskriminasi dengan santun sambil memberi solusi yang menjawab kekhawatiran warga secara adil."
+      },
+      {
+        "key": "D",
+        "text": "Abstain saat pemungutan suara dan menyerahkan keputusan kepada mayoritas",
+        "score": 3,
+        "rationale": "Netral, tetapi membiarkan aturan diskriminatif berpeluang disahkan."
+      },
+      {
+        "key": "E",
+        "text": "Diam dalam rapat lalu mengeluhkan usulan itu kepada tetangga sesudahnya",
+        "score": 2,
+        "rationale": "Tidak berani bersikap di forum yang tepat dan hanya menambah gunjingan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: Bhinneka Tunggal Ika dan kesamaan hak setiap warga negara. Kekhawatiran keamanan dijawab dengan aturan yang adil bagi semua, bukan dengan diskriminasi suku.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0061",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf pelayanan di kantor kelurahan. Seorang warga mengajukan permohonan surat keterangan untuk kegiatan penggalangan dana yang diselenggarakan sebuah perkumpulan tidak terdaftar. Dalam proposalnya tercantum logo dan nama tokoh organisasi yang telah dibubarkan pemerintah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak permohonan itu dengan sopan karena penyelenggaranya bukan perkumpulan terdaftar, sambil menjelaskan syarat pendaftaran perkumpulan dan memberikan daftar dokumen yang harus dilengkapi",
+        "score": 4,
+        "rationale": "Keputusannya beralasan dan informatif, tetapi temuan simbol organisasi terlarang tidak dilaporkan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga itu datang kembali minggu depan tanpa memberi alasan yang jelas",
+        "score": 3,
+        "rationale": "Menunda tanpa kejelasan dan tanpa menangani temuan."
+      },
+      {
+        "key": "C",
+        "text": "Menegur warga itu di depan pengunjung lain dan menuduhnya anggota organisasi terlarang",
+        "score": 1,
+        "rationale": "Menuduh dan mempermalukan di depan umum tanpa verifikasi."
+      },
+      {
+        "key": "D",
+        "text": "Menerbitkan surat keterangan karena berkas administrasinya lengkap",
+        "score": 2,
+        "rationale": "Mengabaikan indikasi keterkaitan dengan organisasi terlarang."
+      },
+      {
+        "key": "E",
+        "text": "Menerima berkas dengan sopan, menjelaskan bahwa permohonan perlu diverifikasi, lalu melaporkan temuan logo dan nama tokoh itu kepada lurah untuk dikoordinasikan dengan pihak berwenang",
+        "score": 5,
+        "rationale": "Melayani dengan sopan, tidak melampaui wewenang, dan meneruskan temuan lewat jalur resmi."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: pelayanan yang sopan tanpa memberi ruang bagi organisasi terlarang, sesuai nilai Loyal. Temuan diteruskan lewat jalur resmi untuk diverifikasi, tanpa menuduh atau mempermalukan pemohon.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0062",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah dinas. Rekan di grup kantor membagikan pesan bahwa kelompok etnis tertentu sengaja menimbun bahan pokok untuk menguasai ekonomi daerah. Pesan itu tidak mencantumkan sumber dan mulai memancing komentar bernada kebencian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak meneruskan pesan itu, memeriksa kebenarannya di sumber resmi, lalu menyampaikan hasilnya di grup dengan tenang dan mengingatkan bahwa menuduh satu etnis dapat memicu konflik",
+        "score": 5,
+        "rationale": "Menghentikan hoaks bermuatan SARA dengan data dan cara yang menyejukkan."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan pesan itu ke grup keluarga agar mereka berhati-hati berbelanja",
+        "score": 1,
+        "rationale": "Ikut menyebarkan hoaks yang memicu kebencian terhadap satu etnis."
+      },
+      {
+        "key": "C",
+        "text": "Tidak meneruskan pesan itu dan mengingatkan grup bahwa informasi tersebut belum jelas sumbernya",
+        "score": 4,
+        "rationale": "Mencegah penyebaran, tetapi tanpa klarifikasi dari sumber resmi."
+      },
+      {
+        "key": "D",
+        "text": "Tidak meneruskan pesan itu dan tidak ikut berkomentar",
+        "score": 3,
+        "rationale": "Tidak ikut menyebarkan, tetapi membiarkan kebencian berkembang di grup."
+      },
+      {
+        "key": "E",
+        "text": "Membalas dengan menyebut pengirim pesan sebagai penyebar hoaks yang rasis",
+        "score": 2,
+        "rationale": "Menyerang pribadi di depan umum sehingga memperkeruh suasana."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: Bhinneka Tunggal Ika dan sikap kritis terhadap hoaks SARA. Informasi diperiksa ke sumber resmi lalu diluruskan dengan tenang tanpa menyerang pribadi.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0063",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai pengelola sarana di kantor dinas. Sebuah perkumpulan pemuda mengajukan peminjaman aula untuk pelatihan kepemimpinan. Dari brosur yang dilampirkan, Anda mendapati acara itu ditutup dengan pengucapan janji setia kepada pemimpin perkumpulan dan menyebut pemerintah sebagai lawan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda persetujuan, menyampaikan dengan sopan bahwa permohonan perlu ditelaah, menyimpan salinan berkas, dan melaporkan isi brosur kepada atasan untuk diputuskan bersama pihak berwenang",
+        "score": 5,
+        "rationale": "Mencegah fasilitas negara dipakai untuk kegiatan anti-pemerintah, bertindak sesuai prosedur, dan melapor lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Menolak peminjaman itu dengan sopan dan menjelaskan bahwa fasilitas negara tidak dapat dipakai untuk kegiatan yang memusuhi pemerintah",
+        "score": 4,
+        "rationale": "Keputusannya tepat dan jujur, tetapi temuan dalam brosur tidak dilaporkan."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui peminjaman dengan syarat tertulis bahwa acara tidak memuat janji setia kepada pemimpin perkumpulan, karena pelatihan kepemimpinan bagi pemuda pada dasarnya kegiatan positif yang patut didukung",
+        "score": 2,
+        "rationale": "Mengandalkan janji pemohon sehingga fasilitas negara berisiko dipakai untuk kegiatan anti-pemerintah."
+      },
+      {
+        "key": "D",
+        "text": "Menyetujui peminjaman karena persyaratan administrasinya lengkap",
+        "score": 1,
+        "rationale": "Membiarkan fasilitas negara digunakan untuk kegiatan yang memusuhi pemerintah."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan berkas permohonan itu kepada atasan tanpa catatan apa pun",
+        "score": 3,
+        "rationale": "Mengikuti jalur, tetapi temuan penting dalam brosur tidak disampaikan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menjaga barang milik negara dan kesetiaan pada pemerintahan yang sah sesuai nilai Loyal dan Akuntabel. Temuan ditelaah dan dilaporkan lewat jalur resmi, bukan diloloskan karena administrasi lengkap.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0064",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala seksi perizinan. Kakak kandung Anda, yang dulu membiayai sekolah Anda, aktif di organisasi yang telah dibubarkan pemerintah dan kini beroperasi dengan nama baru. Ia meminta Anda mempermudah izin kegiatan organisasinya dan berkata bahwa keluarga harus saling membantu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan kakak mengajukan izin seperti biasa tanpa bantuan Anda dan tidak ikut memprosesnya",
+        "score": 3,
+        "rationale": "Menghindari keterlibatan, tetapi membiarkan organisasi terlarang menempuh perizinan tanpa diketahui atasan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa Anda tidak boleh menyalahgunakan jabatan",
+        "score": 4,
+        "rationale": "Sikapnya tepat, tetapi organisasi berganti nama itu tidak dilaporkan dan kakak tidak diajak berdialog."
+      },
+      {
+        "key": "C",
+        "text": "Memproses izin itu sesuai prosedur biasa tanpa kemudahan khusus, karena menurut Anda menolak berkas keluarga justru tidak adil dan setiap pemohon berhak diperlakukan sama di hadapan aturan",
+        "score": 2,
+        "rationale": "Tampak adil, tetapi menangani perkara keluarga sendiri dan mengabaikan status organisasi yang dilarang."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan sambil berterima kasih, menjelaskan larangan menyalahgunakan jabatan, tetap berdialog dengannya, serta melapor ke atasan dan menyerahkan berkasnya ke pejabat lain",
+        "score": 5,
+        "rationale": "Menolak penyalahgunaan jabatan, tetap merangkul keluarga, melapor lewat jalur resmi, dan menghindari benturan kepentingan."
+      },
+      {
+        "key": "E",
+        "text": "Mempermudah izin itu karena merasa berutang budi kepada kakak",
+        "score": 1,
+        "rationale": "Menyalahgunakan jabatan demi keluarga dan memberi ruang bagi organisasi terlarang."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: nilai Loyal dan Akuntabel di atas utang budi keluarga. ASN menolak menyalahgunakan jabatan, menghindari konflik kepentingan, melaporkan organisasi terlarang lewat jalur resmi, dan tetap menjaga hubungan kekeluargaan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0065",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf bagian humas di pemerintah kota. Menjelang pilkada, atasan meminta Anda menyusun materi sosialisasi program kota yang menonjolkan foto dan slogan kampanye wali kota petahana yang kembali mencalonkan diri. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun materi sesuai permintaan karena atasan yang bertanggung jawab atas isinya",
+        "score": 1,
+        "rationale": "Mematuhi perintah yang melanggar netralitas ASN dan menyalahgunakan sarana pemerintah."
+      },
+      {
+        "key": "B",
+        "text": "Menunda penyusunan materi sampai masa kampanye selesai dengan alasan menunggu data capaian program terbaru, agar tidak perlu menolak atasan secara langsung dan tidak melanggar aturan netralitas",
+        "score": 3,
+        "rationale": "Menghindari pelanggaran, tetapi tidak jujur kepada atasan dan tugas sosialisasi kepada warga ikut terhambat."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun materi yang berfokus pada informasi program tanpa unsur kampanye, lalu menjelaskan dengan sopan kepada atasan bahwa slogan kampanye dalam materi resmi melanggar netralitas",
+        "score": 5,
+        "rationale": "Tugas tetap dijalankan secara profesional, netralitas dijaga, dan atasan diberi penjelasan yang membangun."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun materi sesuai permintaan, tetapi memperkecil ukuran slogan kampanyenya",
+        "score": 2,
+        "rationale": "Tetap memasukkan unsur kampanye ke dalam materi resmi."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan kepada atasan dengan sopan bahwa memuat slogan kampanye dalam materi resmi melanggar netralitas ASN",
+        "score": 4,
+        "rationale": "Sikapnya tepat, tetapi tidak disertai alternatif agar tugas sosialisasi tetap berjalan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: netralitas ASN dan kepatuhan hanya pada perintah yang sah. Informasi program tetap disampaikan kepada warga secara profesional tanpa dimanfaatkan untuk kepentingan kampanye.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0066",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Seorang warganet mengunggah tulisan yang menghina keyakinan yang Anda anut. Teman-teman Anda mengajak membalas dengan menghina keyakinan warganet itu dan melacak alamat rumahnya untuk didatangi beramai-ramai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menahan diri dan memilih tidak membaca unggahan itu lagi",
+        "score": 3,
+        "rationale": "Tenang, tetapi tidak menempuh jalur resmi dan tidak mencegah teman."
+      },
+      {
+        "key": "B",
+        "text": "Ikut menyebarkan alamat warganet itu agar ia mendapat pelajaran dan berpikir dua kali sebelum menghina keyakinan orang lain, karena laporan resmi menurut teman-teman Anda jarang ditindaklanjuti",
+        "score": 1,
+        "rationale": "Main hakim sendiri yang membahayakan keselamatan orang dan melanggar hukum."
+      },
+      {
+        "key": "C",
+        "text": "Menahan diri untuk tidak membalas dan melaporkan unggahan itu lewat kanal aduan resmi",
+        "score": 4,
+        "rationale": "Jalurnya tepat, tetapi teman-teman yang hendak bertindak sendiri tidak dicegah."
+      },
+      {
+        "key": "D",
+        "text": "Tidak membalas, mengajak teman-teman tetap tenang dan tidak mendatangi rumahnya, lalu melaporkan unggahan itu lewat fitur platform dan kanal aduan resmi",
+        "score": 5,
+        "rationale": "Menolak membalas kebencian dan main hakim sendiri, meredam teman, dan menempuh jalur hukum."
+      },
+      {
+        "key": "E",
+        "text": "Menulis balasan bernada keras yang menyatakan bahwa warganet itu keliru",
+        "score": 2,
+        "rationale": "Terpancing berdebat dan ikut memperpanjang polemik."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menghadapi penghinaan dengan cara yang sesuai hukum dan menjaga kerukunan sesuai Pancasila. Membalas kebencian dan main hakim sendiri justru memperluas konflik, sehingga jalur resmi lebih tepat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0067",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai anggota panitia seleksi pegawai non-ASN di sebuah dinas. Dalam rapat, seorang anggota panitia mengusulkan agar pelamar dari golongan agama tertentu diprioritaskan supaya suasana kantor lebih seragam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam dalam rapat, tetapi menilai pelamar secara objektif saat seleksi berlangsung",
+        "score": 3,
+        "rationale": "Penilaian pribadinya adil, tetapi usulan diskriminatif tidak dicegah."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan sopan bahwa seleksi harus berdasarkan kompetensi dan tidak boleh membeda-bedakan agama",
+        "score": 4,
+        "rationale": "Penolakannya tepat, tetapi tidak ada langkah agar seleksi terjaga objektif."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui usulan itu untuk sementara agar rapat cepat selesai",
+        "score": 2,
+        "rationale": "Membiarkan diskriminasi demi kelancaran rapat."
+      },
+      {
+        "key": "D",
+        "text": "Mendukung usulan itu karena keseragaman dianggap membuat kerja tim lebih kompak",
+        "score": 1,
+        "rationale": "Ikut membenarkan diskriminasi berbasis agama dalam seleksi pegawai."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan sopan bahwa seleksi harus berbasis kompetensi tanpa membeda-bedakan agama, lalu mengusulkan kriteria penilaian objektif yang disepakati dan dicatat dalam notulen",
+        "score": 5,
+        "rationale": "Menolak diskriminasi dengan santun dan memberi solusi agar seleksi tetap adil."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesamaan hak dan Bhinneka Tunggal Ika dalam pengelolaan pegawai. Seleksi berbasis kompetensi menjaga keadilan dan kerukunan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0068",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai kepala seksi kebudayaan di dinas pariwisata. Sebuah komunitas seni mengajukan rekomendasi pertunjukan teater yang mengkritik praktik korupsi pejabat. Sekelompok massa mengancam akan membubarkan pertunjukan itu secara paksa karena dianggap menghina pemerintah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memproses rekomendasi sesuai ketentuan dan berkoordinasi dengan kepolisian agar pengamanan pertunjukan diperketat, termasuk meminta petugas berjaga sejak persiapan hingga penonton bubar",
+        "score": 4,
+        "rationale": "Keputusan dan langkah pengamanannya tepat, tetapi tidak ada upaya dialog dengan kelompok penolak."
+      },
+      {
+        "key": "B",
+        "text": "Menunda rekomendasi sampai suasana lebih kondusif",
+        "score": 3,
+        "rationale": "Menghindari risiko, tetapi tunduk pada ancaman dan mengorbankan ekspresi yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Menolak rekomendasi karena pertunjukan itu dianggap menyerang pemerintah",
+        "score": 1,
+        "rationale": "Menyamakan kritik dengan sikap anti-negara dan membenarkan tekanan kelompok massa."
+      },
+      {
+        "key": "D",
+        "text": "Memproses rekomendasi sesuai ketentuan karena kritik terhadap korupsi adalah ekspresi sah, berkoordinasi dengan polisi untuk pengamanan, dan mengajak kelompok penolak berdialog",
+        "score": 5,
+        "rationale": "Melindungi kritik yang sah, mencegah main hakim sendiri, dan menjembatani perbedaan lewat dialog."
+      },
+      {
+        "key": "E",
+        "text": "Meminta komunitas seni menghapus adegan yang menyinggung pejabat sebagai syarat rekomendasi",
+        "score": 2,
+        "rationale": "Membatasi kritik yang sah tanpa dasar aturan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: membedakan kritik yang sah dari ancaman terhadap dasar negara. Pejabat melindungi kebebasan berekspresi sesuai aturan, mencegah pembubaran paksa, dan menjaga persatuan lewat dialog.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0069",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai dosen pembina kemahasiswaan. Seorang mahasiswa baru melapor bahwa kakak tingkatnya mengajak ikut kelompok kajian tertutup yang memintanya merahasiakan kegiatan, memutus hubungan dengan keluarga yang tidak sepaham, dan menganggap Pancasila tidak wajib dipatuhi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan informasi itu kepada pimpinan bidang kemahasiswaan untuk ditelusuri",
+        "score": 4,
+        "rationale": "Jalurnya tepat, tetapi mahasiswa pelapor tidak didampingi dan identitasnya tidak dijaga."
+      },
+      {
+        "key": "B",
+        "text": "Menasihati mahasiswa itu agar tidak ikut kelompok tersebut, fokus pada kuliah, dan menjaga hubungan baik dengan keluarganya, serta memintanya segera menemui Anda bila kakak tingkat itu terus mendesak",
+        "score": 3,
+        "rationale": "Melindungi satu mahasiswa, tetapi perekrutan terhadap mahasiswa lain dibiarkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengapresiasi keberanian mahasiswa itu, mendampinginya, menjaga kerahasiaan identitasnya, lalu melaporkan informasi itu kepada pimpinan bidang kemahasiswaan untuk ditelusuri",
+        "score": 5,
+        "rationale": "Melindungi pelapor, merangkul mahasiswa baru, dan menindaklanjuti lewat jalur resmi kampus."
+      },
+      {
+        "key": "D",
+        "text": "Memanggil kakak tingkat itu dan menyebut nama mahasiswa yang melapor",
+        "score": 2,
+        "rationale": "Membuka identitas pelapor membahayakan dan membuat mahasiswa lain enggan melapor."
+      },
+      {
+        "key": "E",
+        "text": "Menganggap laporan itu berlebihan karena kelompok kajian di kampus adalah hal biasa",
+        "score": 1,
+        "rationale": "Mengabaikan tanda perekrutan paham anti-Pancasila di lingkungan kampus."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: pencegahan perekrutan paham anti-Pancasila di kampus sesuai nilai Loyal. Pelapor dilindungi dan didampingi, lalu informasinya ditindaklanjuti lewat mekanisme resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0070",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai guru kelas di SD negeri. Seorang siswa menolak duduk dan bermain dengan teman sekelasnya yang berbeda suku, dan berkata bahwa orang tuanya melarangnya bergaul dengan suku tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengajak siswa itu berbincang dengan lembut, membuat kegiatan kelompok yang mencampur siswa, dan mengundang orang tuanya berdiskusi secara santun tentang pentingnya keberagaman",
+        "score": 5,
+        "rationale": "Menanamkan nilai kebinekaan secara mendidik dan menjangkau akar masalah di rumah tanpa menyalahkan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan hal itu kepada kepala sekolah dan menunggu arahan",
+        "score": 3,
+        "rationale": "Masalah yang berada dalam wewenang guru kelas dilempar ke atasan."
+      },
+      {
+        "key": "C",
+        "text": "Mengajak siswa itu berbincang dengan lembut dan menanamkan nilai menghargai teman lewat kegiatan kelompok",
+        "score": 4,
+        "rationale": "Pendekatannya mendidik, tetapi pengaruh dari rumah tidak disentuh."
+      },
+      {
+        "key": "D",
+        "text": "Menegur siswa itu di depan kelas agar teman-temannya tahu sikapnya salah",
+        "score": 1,
+        "rationale": "Mempermalukan anak di depan umum tanpa mendidik."
+      },
+      {
+        "key": "E",
+        "text": "Memindahkan tempat duduk siswa itu untuk sementara agar kelas tetap tenang, sambil menunggu waktu yang tepat untuk membicarakan masalah ini dalam pertemuan rutin dengan para orang tua",
+        "score": 2,
+        "rationale": "Meredam masalah sesaat, tetapi justru menuruti sikap diskriminatif."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: menanamkan Bhinneka Tunggal Ika sejak dini. Guru meluruskan sikap diskriminatif secara mendidik dan melibatkan orang tua tanpa mempermalukan anak.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0071",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai staf di sebuah kementerian. Sebuah kelompok kajian internal yang dulu terbuka kini mewajibkan anggotanya tidak bergaul dengan pegawai di luar kelompok dan membentuk struktur kepengurusan sendiri yang tidak dikenal kantor. Anda diajak menjadi bendahara karena dianggap amanah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan dan menyampaikan kepada pengurus bahwa aturan membatasi pergaulan bertentangan dengan semangat kebersamaan",
+        "score": 4,
+        "rationale": "Sikap dan pelurusannya tepat, tetapi perubahan kelompok tidak diketahui pihak yang berwenang membina."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan, menyampaikan kepada pengurus bahwa membatasi pergaulan bertentangan dengan kebersamaan di kantor, dan menginformasikannya kepada pembina kerohanian resmi atau atasan",
+        "score": 5,
+        "rationale": "Menolak eksklusivitas tanpa konfrontasi dan memakai jalur resmi agar kegiatan kembali terbuka."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan alasan tidak pandai mengelola uang",
+        "score": 3,
+        "rationale": "Tidak terlibat, tetapi menghindar tanpa menyatakan sikap."
+      },
+      {
+        "key": "D",
+        "text": "Menerima jabatan itu karena merasa dihargai dan dipercaya",
+        "score": 1,
+        "rationale": "Ikut-ikutan memperkuat kelompok eksklusif yang memisahkan diri dari lingkungan kerja."
+      },
+      {
+        "key": "E",
+        "text": "Menerima jabatan itu dengan niat mengubah kelompok dari dalam",
+        "score": 2,
+        "rationale": "Niatnya baik, tetapi justru memperkuat struktur eksklusif yang bermasalah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kerukunan dan kebersamaan di lingkungan kerja sesuai nilai Harmonis dan Bhinneka Tunggal Ika. Kegiatan internal yang menjadi eksklusif ditolak dengan sopan dan ditata lewat pembina resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0072",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN di dinas perhubungan. Anda tidak setuju dengan kebijakan baru pemerintah daerah tentang tarif parkir karena menurut kajian Anda kebijakan itu memberatkan pedagang kecil. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengajak pedagang menolak membayar parkir sampai kebijakan dicabut",
+        "score": 1,
+        "rationale": "Menghasut warga untuk tidak mematuhi aturan bukan cara kritik yang sah bagi ASN."
+      },
+      {
+        "key": "B",
+        "text": "Mengeluhkan kebijakan itu dengan nada sinis di grup kantor",
+        "score": 2,
+        "rationale": "Ketidaksetujuan disalurkan secara tidak membangun dan bisa memancing antipati."
+      },
+      {
+        "key": "C",
+        "text": "Memendam ketidaksetujuan itu dan tetap menjalankan kebijakan seperti biasa",
+        "score": 3,
+        "rationale": "Patuh, tetapi masukan yang bermanfaat tidak tersampaikan."
+      },
+      {
+        "key": "D",
+        "text": "Menulis ulasan yang santun dan berbasis data di media sosial pribadi, lengkap dengan grafik dampaknya bagi pedagang, agar masyarakat luas ikut memahami persoalan dan pemerintah daerah terdorong meninjau ulang",
+        "score": 4,
+        "rationale": "Isinya sah dan santun, tetapi saluran publik kurang efektif dan lebih mudah disalahartikan dibanding jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kajian dan usulan perbaikan lewat forum internal atau saluran resmi kepada atasan dan pembuat kebijakan, dengan data lengkap dan bahasa yang santun",
+        "score": 5,
+        "rationale": "Kritik yang sah disalurkan lewat jalur resmi dengan data sehingga bisa ditindaklanjuti."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kritik terhadap kebijakan adalah hal yang sah dan berbeda dari sikap anti-negara. ASN tetap Loyal dengan menyalurkan kritik berbasis data lewat jalur resmi, bukan lewat hasutan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0073",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN. Sahabat karib Anda baru kehilangan pekerjaan. Ia mulai rutin mendatangi sebuah kelompok yang memberinya bantuan uang dan memintanya ikut latihan fisik tertutup di hutan, dengan pesan bahwa negara adalah musuh yang harus dilawan. Ia meminta Anda tidak memberi tahu siapa pun karena malu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut datang sekali ke kelompok itu untuk menemaninya agar ia tidak merasa sendirian",
+        "score": 1,
+        "rationale": "Ikut-ikutan mendatangi kelompok yang memusuhi negara membuka peluang ikut terpapar dan memberi legitimasi."
+      },
+      {
+        "key": "B",
+        "text": "Membantunya mencari pekerjaan atau bantuan resmi, berdialog tentang bahaya kelompok itu, dan tetap melaporkan latihan tertutup itu kepada aparat sambil menjelaskan bahwa itu untuk melindunginya",
+        "score": 5,
+        "rationale": "Merangkul sahabat dengan solusi nyata atas masalahnya, sekaligus melaporkan ancaman nyata lewat jalur resmi."
+      },
+      {
+        "key": "C",
+        "text": "Membantunya mencari pekerjaan, rutin menemaninya agar tidak kesepian, dan menasihatinya menjauhi kelompok itu tanpa memberi tahu siapa pun, karena Anda yakin dukungan sahabat sudah cukup untuk menyadarkannya",
+        "score": 3,
+        "rationale": "Dukungannya nyata, tetapi latihan tertutup yang memusuhi negara dibiarkan tanpa laporan."
+      },
+      {
+        "key": "D",
+        "text": "Merahasiakannya sesuai permintaan dan berharap ia sadar sendiri",
+        "score": 2,
+        "rationale": "Diam demi persahabatan membiarkan ancaman nyata terus berkembang."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan informasi tentang latihan tertutup itu kepada aparat berwenang",
+        "score": 4,
+        "rationale": "Ancaman nyata dilaporkan, tetapi sahabat tidak didampingi dan masalah ekonominya tidak disentuh."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kesetiaan pada NKRI dan nilai Loyal tetap di atas permintaan sahabat. Orang yang rentan direkrut dirangkul dengan solusi nyata, sementara ancaman nyata dilaporkan kepada aparat berwenang.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0074",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda sebagai petugas lapangan dinas sosial yang menyalurkan bantuan pangan. Seorang warga menolak menerima bantuan sambil menyatakan bahwa pemerintah tidak sah, lalu mengajak warga lain yang mengantre ikut menolak. Suasana mulai tegang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan penyaluran sementara dan menunggu kepala desa datang",
+        "score": 3,
+        "rationale": "Menghindari ketegangan, tetapi pelayanan bagi warga yang berhak ikut tertunda."
+      },
+      {
+        "key": "B",
+        "text": "Tetap tenang dan menghormati penolakannya, menjelaskan kepada antrean bahwa bantuan adalah hak mereka, melanjutkan penyaluran, lalu melapor objektif kepada atasan dan perangkat desa",
+        "score": 5,
+        "rationale": "Menjaga pelayanan tetap berjalan, tidak memaksa, dan meneruskan indikasi paham anti-negara lewat jalur resmi."
+      },
+      {
+        "key": "C",
+        "text": "Mencoret nama warga itu dan keluarganya dari daftar penerima bantuan berikutnya",
+        "score": 1,
+        "rationale": "Menghukum secara sepihak di luar wewenang dan melanggar hak warga."
+      },
+      {
+        "key": "D",
+        "text": "Berdebat dengan warga itu di depan antrean untuk membuktikan bahwa pemerintah sah",
+        "score": 2,
+        "rationale": "Terpancing berdebat di depan umum sehingga suasana makin panas."
+      },
+      {
+        "key": "E",
+        "text": "Tetap tenang, menjelaskan kepada warga yang mengantre bahwa bantuan pangan ini adalah hak mereka yang dijamin program pemerintah, lalu melanjutkan penyaluran dengan tertib sesuai daftar penerima",
+        "score": 4,
+        "rationale": "Pelayanan tetap berjalan dengan baik, tetapi indikasi paham anti-negara tidak dilaporkan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: pelayanan yang tidak diskriminatif dan kesetiaan pada pemerintahan yang sah. Petugas tetap tenang, tidak memaksa atau menghukum, lalu melaporkan indikasi paham anti-negara lewat jalur resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-anti_radikalisme-anti_radikalisme-0075",
+    "subtest": "TKP",
+    "group": "anti_radikalisme",
+    "tag": "anti_radikalisme",
+    "stem": "Anda seorang ASN yang menjadi moderator diskusi publik tentang kebijakan pendidikan. Seorang narasumber mulai menyampaikan bahwa kelompok minoritas tertentu tidak layak mendapat beasiswa pemerintah. Saat ditegur peserta, ia berdalih sedang menggunakan kebebasan berpendapat. Suasana mulai riuh. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempercepat sesi narasumber itu dan beralih ke narasumber berikutnya",
+        "score": 3,
+        "rationale": "Menghindari ketegangan, tetapi pernyataan diskriminatif dibiarkan tanpa pelurusan."
+      },
+      {
+        "key": "B",
+        "text": "Menenangkan forum dan mengingatkan narasumber dengan sopan agar tidak menyinggung identitas kelompok mana pun, karena diskusi ini disiarkan langsung dan dapat memicu reaksi luas dari masyarakat yang menontonnya",
+        "score": 4,
+        "rationale": "Menjaga forum dengan santun, tetapi alasannya sebatas citra acara dan batas antara kritik kebijakan dan diskriminasi tidak dijelaskan."
+      },
+      {
+        "key": "C",
+        "text": "Mematikan mikrofon narasumber dan memintanya meninggalkan forum di depan peserta",
+        "score": 1,
+        "rationale": "Mempermalukan di depan umum dan menutup ruang dialog sehingga konflik makin meruncing."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan narasumber melanjutkan karena moderator harus netral terhadap semua pendapat",
+        "score": 2,
+        "rationale": "Keliru memahami netralitas sehingga diskriminasi mendapat panggung."
+      },
+      {
+        "key": "E",
+        "text": "Menenangkan forum, menegaskan dengan sopan bahwa kebijakan beasiswa boleh dikritik tetapi menolak hak kelompok karena identitasnya melanggar kesetaraan, lalu melanjutkan diskusi dengan argumen kebijakan",
+        "score": 5,
+        "rationale": "Menjaga kebebasan berpendapat dalam batas yang benar, menolak diskriminasi tanpa mempermalukan, dan memulihkan dialog."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai: kebebasan berpendapat dilindungi, tetapi tidak mencakup penolakan hak warga karena identitasnya. Moderator menjaga kesetaraan sesuai Pancasila dan Bhinneka Tunggal Ika dengan meluruskan secara santun dan memulihkan dialog.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

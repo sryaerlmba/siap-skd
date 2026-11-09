@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0001",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Setiap 20 Mei bangsa Indonesia memperingati Hari Kebangkitan Nasional. Tanggal tersebut dipilih karena bertepatan dengan berdirinya ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sarekat Islam di Surakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Budi Utomo di Batavia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Indische Partij di Bandung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Taman Siswa di Yogyakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Perhimpunan Indonesia di Belanda",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Budi Utomo berdiri pada 20 Mei 1908 di STOVIA, Batavia, dan dipandang sebagai awal pergerakan nasional yang terorganisasi secara modern.",
+    "difficulty": 1,
+    "source": "Keppres 316/1959 tentang Hari-Hari Nasional",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0002",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Gagasan dr. Wahidin Sudirohusodo tentang dana pendidikan bagi pemuda bumiputra disambut para pelajar STOVIA hingga lahir Budi Utomo. Pelajar STOVIA yang memimpin pendirian organisasi itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tjipto Mangoenkoesoemo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Soewardi Soerjaningrat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mohammad Tabrani",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Soetomo",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "H.O.S. Tjokroaminoto",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Soetomo bersama rekan-rekannya di STOVIA mendirikan Budi Utomo pada 20 Mei 1908, sedangkan dr. Wahidin Sudirohusodo adalah penggagasnya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0003",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Kongres pertama Budi Utomo di Yogyakarta pada 3-5 Oktober 1908 memilih ketua pengurus besar dari kalangan priayi senior. Tokoh tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "R.T. Tirtokusumo",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "dr. Wahidin Sudirohusodo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Soetomo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Goenawan Mangoenkoesoemo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "H. Samanhudi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kongres I memilih R.T. Tirtokusumo, Bupati Karanganyar, sehingga kepemimpinan Budi Utomo beralih dari para pelajar STOVIA ke kalangan priayi tua.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0004",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Sarekat Dagang Islam yang dirintis H. Samanhudi berganti nama menjadi Sarekat Islam pada 1912 dan tumbuh menjadi organisasi massa terbesar pada masanya. Tokoh yang memimpin Sarekat Islam pada masa perkembangan pesat itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "H. Agus Salim",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semaoen",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Abdoel Moeis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "K.H. Ahmad Dahlan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "H.O.S. Tjokroaminoto",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "H.O.S. Tjokroaminoto memimpin Sarekat Islam ketika organisasi itu berkembang menjadi gerakan massa; Agus Salim dan Abdoel Moeis tokoh SI lainnya, sedangkan Semaoen memimpin SI Semarang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0005",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Organisasi yang tercatat sebagai partai politik pertama di Hindia Belanda dan sejak awal menuntut kemerdekaan dengan semboyan \"Indië voor de Indiërs\" adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Budi Utomo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sarekat Islam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Indische Partij",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Perhimpunan Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Partai Nasional Indonesia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Indische Partij didirikan Tiga Serangkai pada 25 Desember 1912 di Bandung sebagai partai politik pertama yang terang-terangan menuntut Hindia merdeka.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0006",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Salah satu anggota Tiga Serangkai kemudian mendirikan Perguruan Taman Siswa di Yogyakarta pada 3 Juli 1922 dan dikenal dengan semboyan \"tut wuri handayani\". Nama asli tokoh tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Soewardi Soerjaningrat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tjipto Mangoenkoesoemo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ernest Douwes Dekker",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mohammad Sjafei",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Soegondo Djojopoespito",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Soewardi Soerjaningrat, yang kemudian bernama Ki Hajar Dewantara, mendirikan Taman Siswa; Douwes Dekker dan Tjipto Mangoenkoesoemo adalah dua anggota Tiga Serangkai lainnya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0007",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Kongres Pemuda I yang dipimpin Mohammad Tabrani pada 30 April-2 Mei 1926 belum mencapai kesepakatan bulat. Persoalan yang tertunda dan baru diputuskan pada Kongres Pemuda II adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pembubaran perkumpulan pemuda kedaerahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pembentukan pemerintahan Indonesia sementara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "penentuan bentuk negara Indonesia merdeka",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penyebutan bahasa persatuan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pembentukan partai politik khusus pemuda",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam Kongres Pemuda I, Tabrani mengusulkan nama bahasa Indonesia sedangkan Yamin mengusulkan bahasa Melayu, sehingga soal bahasa persatuan baru dirumuskan pada Kongres Pemuda II tahun 1928.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0008",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Dalam Kongres Pemuda II, rumusan ikrar yang kemudian dikenal sebagai Sumpah Pemuda ditulis oleh sekretaris kongres, yaitu ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Soegondo Djojopoespito",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mohammad Yamin",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Amir Sjarifuddin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Djoko Marsaid",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Wage Rudolf Supratman",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mohammad Yamin selaku sekretaris merumuskan ikrar; Soegondo Djojopoespito adalah ketua, Djoko Marsaid wakil ketua, dan Amir Sjarifuddin bendahara kongres.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0009",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Butir ketiga Sumpah Pemuda sengaja dirumuskan berbeda dari dua butir sebelumnya. Rumusan yang tepat beserta maknanya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "\"mengaku berbahasa satu, bahasa Indonesia\", sehingga bahasa daerah tidak lagi dipakai",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "\"mengaku berbahasa satu, bahasa Indonesia\", sehingga bahasa Indonesia menggantikan bahasa daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "\"menjunjung bahasa persatuan, bahasa Melayu\", sehingga bahasa Melayu menjadi bahasa resmi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "\"mengaku bahasa persatuan, bahasa Indonesia\", sehingga bahasa daerah tetap dihormati",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "\"menjunjung bahasa persatuan, bahasa Indonesia\", sehingga bahasa daerah tetap dihormati",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Butir ketiga memakai kata menjunjung, bukan mengaku, sehingga bahasa Indonesia diangkat sebagai bahasa persatuan tanpa meniadakan bahasa daerah.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0010",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Lagu \"Indonesia Raya\" pertama kali diperdengarkan di depan umum oleh penciptanya, W.R. Supratman, dengan biola pada ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kongres Pemuda I di Batavia, 2 Mei 1926",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pembukaan Kongres Pemuda II, 27 Oktober 1928",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "penutupan Kongres Pemuda II, 28 Oktober 1928",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kongres Bahasa Indonesia I di Solo, Juni 1938",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "upacara Proklamasi Kemerdekaan, 17 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "W.R. Supratman memainkan \"Indonesia Raya\" dengan biola menjelang penutupan Kongres Pemuda II pada 28 Oktober 1928, sebelum hasil kongres dibacakan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0011",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Rapat terakhir Kongres Pemuda II berlangsung di sebuah gedung pondokan pelajar yang kini menjadi Museum Sumpah Pemuda. Alamat gedung tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Jalan Pegangsaan Timur 56, Jakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Jalan Kramat Raya 106, Jakarta",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Jalan Imam Bonjol 1, Jakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Jalan Menteng Raya 31, Jakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jalan Medan Merdeka Utara, Jakarta",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rapat ketiga Kongres Pemuda II diadakan di Indonesische Clubgebouw, Jalan Kramat Raya 106, yang kini menjadi Museum Sumpah Pemuda; Pegangsaan Timur 56 dan Imam Bonjol 1 terkait peristiwa proklamasi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0012",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Rapat koordinasi di sebuah kantor wilayah dihadiri pegawai dari berbagai suku. Seorang peserta terus memakai bahasa daerahnya sehingga sebagian peserta tidak memahami pembahasan. Sebagai pemimpin rapat, sikap yang sesuai dengan semangat Sumpah Pemuda adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengingatkan dengan santun agar rapat memakai bahasa Indonesia, tanpa melarang bahasa daerah di luar forum resmi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Membiarkannya karena bahasa daerah juga warisan budaya yang dilindungi negara, lalu meminta peserta lain bertanya kepada rekan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menyediakan penerjemah bahasa daerah bagi setiap peserta yang tidak memahami agar suasana rapat tetap nyaman bagi semua pihak",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Melarang pemakaian bahasa daerah di seluruh lingkungan kantor agar kejadian serupa tidak terulang dan semua pegawai merasa setara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menunda rapat sampai seluruh peserta sepakat memilih satu bahasa daerah yang paling banyak dipahami oleh para pegawai",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bahasa Indonesia dijunjung sebagai bahasa persatuan dan wajib dalam komunikasi resmi di lingkungan kerja, sedangkan bahasa daerah tetap dihormati di luar forum resmi.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 33",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0013",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Menjelang peringatan Hari Sumpah Pemuda, beberapa paguyuban mahasiswa daerah di sebuah kampus bersaing menonjolkan budaya masing-masing hingga muncul saling ejek di media sosial. Sebagai panitia, langkah yang paling mencerminkan semangat Kongres Pemuda II adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan acara kepada paguyuban terbesar agar persaingan cepat berakhir dan acara tetap berjalan sesuai rencana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Meniadakan penampilan budaya daerah sama sekali dan menggantinya dengan seminar umum agar tidak ada pihak yang tersinggung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Membuat lomba antarpaguyuban dengan hadiah besar supaya persaingan menjadi lebih sehat dan kreatif bagi semua peserta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengajak semua paguyuban menyusun satu pentas bersama yang menampilkan budaya tiap daerah dalam tema persatuan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan akun yang saling ejek kepada pihak kampus dan membatalkan seluruh rangkaian peringatan tahun ini",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pada 1928 perkumpulan seperti Jong Java, Jong Sumatranen Bond, dan Jong Ambon bersatu tanpa menghapus identitas daerahnya; kolaborasi lintas paguyuban meneladani semangat itu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0014",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Dalam diskusi daring, seorang warganet meragukan nasionalisme seorang ASN berprestasi hanya karena ia berdarah campuran Indonesia-Eropa. Fakta sejarah pergerakan yang paling tepat untuk meluruskan anggapan itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Budi Utomo sejak berdiri terbuka bagi semua keturunan dan menjadikan kesetaraan ras sebagai tujuan utamanya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sarekat Islam dipimpin oleh tokoh Indo-Eropa yang memperjuangkan nasib pedagang bumiputra di Surakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Indische Partij turut didirikan Douwes Dekker, seorang Indo-Eropa yang menuntut kemerdekaan Hindia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sumpah Pemuda dirumuskan oleh Douwes Dekker selaku sekretaris Kongres Pemuda II di Batavia tahun 1928",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Taman Siswa didirikan oleh Tjipto Mangoenkoesoemo untuk menampung anak-anak keturunan campuran",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Douwes Dekker (Danudirja Setiabudi) berdarah Indo-Eropa, tetapi bersama Tjipto Mangoenkoesoemo dan Soewardi Soerjaningrat mendirikan Indische Partij yang menuntut Hindia merdeka; nasionalisme tidak ditentukan oleh keturunan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-sejarah_pergerakan-0015",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "sejarah_pergerakan",
+    "stem": "Sarekat Dagang Islam lahir dari upaya pedagang bumiputra mempertahankan usaha mereka di tengah persaingan yang timpang. Seorang pegawai dinas koperasi ingin meneladani semangat itu untuk membantu perajin batik yang kalah bersaing dengan produk impor murah di lokapasar. Langkah yang paling tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengimbau masyarakat memboikot semua lokapasar daring yang menjual produk impor sampai perajin lokal kembali laku",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Memberikan bantuan uang tunai kepada setiap perajin tanpa pendampingan agar mereka bebas menentukan penggunaannya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Meminta perajin menurunkan harga di bawah biaya produksi agar mampu menyaingi harga produk impor di lokapasar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menyebarkan unggahan yang menjelek-jelekkan produk impor agar konsumen beralih ke batik buatan daerah sendiri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Membina perajin dalam mutu, desain, dan pemasaran digital, serta mendorong mereka berhimpun dalam koperasi",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Semangat Sarekat Dagang Islam adalah memperkuat ekonomi rakyat secara terorganisasi; pembinaan mutu, pemasaran, dan koperasi meningkatkan daya saing tanpa melanggar hukum atau etika.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0001",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Pada dini hari 16 Agustus 1945, golongan muda membawa Soekarno dan Hatta ke Rengasdengklok. Tujuan utama tindakan tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "melindungi keduanya dari tentara Sekutu yang mulai mendarat di Jakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "mempertemukan keduanya dengan pimpinan PETA untuk menyusun rencana perang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "menjauhkan keduanya dari pengaruh Jepang agar proklamasi segera dilakukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "memaksa keduanya mundur dari PPKI karena dianggap terlalu dekat dengan Jepang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "mengamankan keduanya sambil menunggu kepastian resmi tentang kekalahan Jepang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Golongan muda seperti Sukarni, Wikana, dan Chaerul Saleh ingin proklamasi dilakukan segera tanpa campur tangan Jepang, sehingga Soekarno dan Hatta dibawa ke Rengasdengklok.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0002",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Naskah proklamasi dirumuskan pada malam 16 menuju 17 Agustus 1945 di ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "rumah Djiaw Kie Siong di Rengasdengklok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "rumah Soekarno di Jalan Pegangsaan Timur 56",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Gedung Chuo Sangi In di Pejambon",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "asrama pemuda di Jalan Menteng Raya 31",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "rumah Laksamana Maeda di Jalan Imam Bonjol 1",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perumusan berlangsung di rumah Laksamana Muda Tadashi Maeda yang kini menjadi Museum Perumusan Naskah Proklamasi; Pegangsaan Timur 56 adalah tempat pembacaan proklamasi.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0003",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Saat naskah proklamasi akan disahkan, muncul usul agar naskah cukup ditandatangani Soekarno dan Hatta atas nama bangsa Indonesia, bukan oleh semua yang hadir. Usul tersebut datang dari ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sukarni",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sayuti Melik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ahmad Soebardjo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "B.M. Diah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Chaerul Saleh",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sukarni dari golongan muda mengusulkan agar Soekarno dan Hatta menandatangani atas nama bangsa Indonesia; Sayuti Melik adalah pengetik naskah.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0004",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Pada upacara 17 Agustus 1945 di Jalan Pegangsaan Timur 56, bendera Merah Putih jahitan Fatmawati dinaikkan oleh ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sukarni dan Wikana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Chaerul Saleh dan Sayuti Melik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sudiro dan B.M. Diah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Latief Hendraningrat dan Suhud",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ahmad Soebardjo dan Sukarni",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Latief Hendraningrat, perwira PETA, dibantu Suhud mengibarkan bendera pusaka yang dijahit Fatmawati.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0005",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Sehari setelah proklamasi, PPKI menggelar sidang pertamanya pada 18 Agustus 1945. Hasil sidang tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "membagi wilayah Indonesia menjadi delapan provinsi dan membentuk dua belas kementerian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "mengesahkan UUD 1945 serta memilih presiden dan wakil presiden",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "membentuk Komite Nasional Indonesia Pusat dan menetapkan PNI sebagai partai negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "menetapkan Piagam Jakarta sebagai pembukaan undang-undang dasar tanpa perubahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "menyetujui hasil Konferensi Meja Bundar dan membentuk Republik Indonesia Serikat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sidang 18 Agustus 1945 mengesahkan UUD 1945 dan memilih Soekarno-Hatta secara aklamasi; pembagian provinsi dan kementerian diputuskan 19 Agustus, sedangkan KNIP 22 Agustus.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0006",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Keputusan PPKI membagi wilayah Republik Indonesia menjadi delapan provinsi dan membentuk dua belas kementerian diambil dalam sidang tanggal ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "17 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "18 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "19 Agustus 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "22 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sidang PPKI 19 Agustus 1945 menetapkan delapan provinsi dan dua belas kementerian; 7 Agustus adalah tanggal PPKI dibentuk dan 18 Agustus tanggal pengesahan UUD 1945.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0007",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Dalam sidang 22 Agustus 1945, PPKI memutuskan pembentukan lembaga yang bertugas membantu presiden sebelum MPR dan DPR terbentuk. Lembaga tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Komite Nasional Indonesia Pusat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dewan Pertimbangan Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Badan Penyelidik Usaha Persiapan Kemerdekaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Panitia Sembilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kabinet Presidensial",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sidang 22 Agustus 1945 membentuk KNIP yang menurut Aturan Peralihan membantu presiden sebelum MPR dan DPR terbentuk; BPUPK dan Panitia Sembilan sudah bekerja sebelum proklamasi.",
+    "difficulty": 2,
+    "source": "UUD 1945 Aturan Peralihan Pasal IV (naskah asli)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0008",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Perundingan Linggarjati yang ditengahi Lord Killearn dari Inggris diparaf pada 15 November 1946. Salah satu isi pokoknya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "gencatan senjata di sepanjang Garis Van Mook dan penarikan TNI dari kantong-kantong gerilya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pengembalian pemerintah Republik Indonesia ke Yogyakarta oleh pihak Belanda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "penyerahan kedaulatan kepada Republik Indonesia Serikat paling lambat akhir tahun 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penyelesaian masalah Irian Barat dalam waktu satu tahun setelah penyerahan kedaulatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pengakuan de facto Belanda atas Jawa, Sumatra, dan Madura sebagai wilayah RI",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Linggarjati memuat pengakuan de facto atas Jawa, Sumatra, dan Madura serta rencana pembentukan RIS; opsi lain adalah isi Renville, Roem-Roijen, dan KMB.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0009",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Dalam Komisi Tiga Negara yang menengahi Perundingan Renville, setiap pihak memilih satu negara, lalu kedua negara pilihan itu menunjuk negara ketiga. Negara yang dipilih Indonesia adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Belgia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Australia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Amerika Serikat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "India",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Inggris",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Indonesia memilih Australia (Richard Kirby), Belanda memilih Belgia (Paul van Zeeland), dan keduanya menunjuk Amerika Serikat (Frank Graham).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0010",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Perundingan Roem-Roijen yang ditengahi UNCI dimulai pada April 1949 dan menghasilkan pernyataan bersama yang ditandatangani pada ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 Maret 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "14 April 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "7 Mei 1949",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "6 Juli 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "23 Agustus 1949",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pernyataan Roem-Roijen ditandatangani 7 Mei 1949; 14 April adalah awal perundingan, 6 Juli kembalinya pemerintah RI ke Yogyakarta, dan 23 Agustus pembukaan KMB.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0011",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Konferensi Meja Bundar di Den Haag (23 Agustus-2 November 1949) mengakhiri konflik Indonesia-Belanda, tetapi meninggalkan satu persoalan yang memicu sengketa hingga 1962. Persoalan tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "status Irian Barat yang akan dirundingkan dalam waktu satu tahun",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "batas wilayah Republik menurut Garis Van Mook hasil Perjanjian Renville",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pengakuan de facto Belanda atas Jawa, Sumatra, dan Madura saja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kembalinya pemerintah Republik Indonesia ke Yogyakarta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pembentukan negara-negara bagian baru oleh pihak Belanda",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "KMB menunda status Irian Barat untuk dirundingkan dalam setahun setelah penyerahan kedaulatan; sengketanya baru selesai lewat Persetujuan New York 1962.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0012",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Peristiwa Rengasdengklok memperlihatkan perbedaan pendapat golongan muda dan golongan tua yang akhirnya diselesaikan lewat jaminan Ahmad Soebardjo dan perumusan naskah bersama. Di kantor Anda, pegawai muda mendesak layanan segera dialihkan ke aplikasi daring, sedangkan pegawai senior khawatir warga lansia tertinggal. Sikap yang paling meneladani peristiwa itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendukung pegawai muda karena seperti pada 1945, desakan golongan muda terbukti benar dan harus dituruti",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mendukung pegawai senior karena pengalaman mereka lebih panjang sehingga pendapatnya pasti lebih tepat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mempertemukan kedua pihak untuk menyepakati tenggat peralihan sekaligus layanan pendamping bagi lansia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan keputusan sepenuhnya kepada atasan agar tidak ikut terlibat dalam perselisihan antargenerasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menunda peralihan layanan sampai seluruh pegawai senior benar-benar siap menggunakan aplikasi yang baru",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perbedaan pendapat dalam peristiwa Rengasdengklok berujung pada kesepakatan bersama tentang waktu proklamasi; tujuan yang sama dicapai dengan menyatukan pandangan, bukan memenangkan satu pihak.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0013",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Sebuah unggahan viral menyebut kemerdekaan Indonesia hanya diputuskan oleh tokoh-tokoh dari satu pulau sehingga daerah lain tidak ikut memilikinya. Fakta yang paling tepat untuk meluruskan unggahan tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Proklamasi dibacakan serentak di semua ibu kota keresidenan pada 17 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Naskah proklamasi ditandatangani oleh perwakilan seluruh suku bangsa di Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kemerdekaan Indonesia ditetapkan oleh Sekutu setelah berunding dengan wakil semua daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sumpah Pemuda 1928 telah menetapkan batas wilayah negara yang kemudian diproklamasikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Anggota PPKI yang mengesahkan UUD 1945 berasal dari Jawa dan berbagai daerah di luar Jawa",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PPKI beranggotakan wakil luar Jawa seperti Teuku Mohammad Hasan, Sam Ratulangi, A.A. Hamidhan, I Gusti Ketut Pudja, dan Johannes Latuharhary, sehingga keputusan kenegaraan awal diambil bersama.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0014",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Para pendiri bangsa mempertahankan kemerdekaan tidak hanya dengan senjata, tetapi juga lewat meja perundingan dari Linggarjati hingga KMB. Dua desa di wilayah kerja Anda bersengketa soal tapal batas dan warga mulai berencana mendatangi desa tetangga beramai-ramai. Langkah yang paling meneladani perjuangan diplomasi itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan warga menyelesaikan sendiri karena sengketa tapal batas termasuk urusan adat setempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Memfasilitasi musyawarah kedua desa dengan peta resmi dan penengah dari pemerintah daerah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menetapkan batas menurut klaim desa yang penduduknya lebih banyak agar sengketa cepat selesai",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Meminta aparat menjaga perbatasan desa tanpa perlu mempertemukan kedua pihak yang bersengketa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengunggah peta versi desa sendiri ke media sosial agar publik mendukung klaim desa tersebut",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Seperti perundingan yang memakai penengah (Lord Killearn, KTN, UNCI), sengketa diselesaikan lewat dialog berbasis data dengan penengah netral, bukan pengerahan massa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-proklamasi_kemerdekaan-0015",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "proklamasi_kemerdekaan",
+    "stem": "Saat Belanda menduduki Yogyakarta dalam Agresi Militer II, Sjafruddin Prawiranegara memimpin Pemerintah Darurat Republik Indonesia sehingga pemerintahan tetap berjalan. Ketika kantor pelayanan Anda rusak akibat gempa, sikap yang paling meneladani peristiwa itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghentikan layanan sampai gedung baru selesai dibangun agar pegawai dan warga tetap aman",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menunggu instruksi tertulis dari pusat sebelum mengambil langkah apa pun terkait layanan warga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengalihkan seluruh warga ke kantor kabupaten lain yang jaraknya jauh tanpa pemberitahuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Membuka layanan darurat di lokasi aman dan memanfaatkan layanan daring agar warga tetap terlayani",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengutamakan pendataan kerusakan aset kantor dan menunda pelayanan kepada warga terdampak",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PDRI menjaga keberlangsungan pemerintahan RI ketika para pemimpin ditawan; ASN meneladaninya dengan memastikan layanan publik tetap berjalan dalam keadaan darurat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0001",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Bahasa Indonesia, bendera Merah Putih, lambang Garuda Pancasila, dan lagu \"Indonesia Raya\" tergolong identitas nasional yang bersifat ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "fundamental",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "alamiah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "primordial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "instrumental",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "etnis",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Identitas instrumental adalah sarana pemersatu seperti UUD 1945, bahasa, bendera, lambang, dan lagu kebangsaan; Pancasila adalah identitas fundamental, sedangkan negara kepulauan yang majemuk adalah identitas alamiah.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 35, 36, 36A, dan 36B",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0002",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Anda pejabat pengadaan yang akan membeli laptop untuk kantor. Produk impor sedikit lebih murah, sementara produk dalam negeri bersertifikat TKDN juga memenuhi spesifikasi dan tersedia. Keputusan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memilih produk dalam negeri ber-TKDN karena pengadaan pemerintah wajib mengutamakannya bila tersedia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Memilih produk impor karena prinsip efisiensi anggaran mengharuskan harga termurah dalam setiap pengadaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Membagi pembelian setengah impor dan setengah dalam negeri agar kedua penyedia sama-sama diuntungkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menunda pengadaan sampai harga produk dalam negeri turun setara dengan harga produk impor di pasaran",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan pilihan kepada pegawai pengguna laptop karena merekalah yang paling memahami kebutuhannya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengadaan pemerintah wajib menggunakan produk dalam negeri bila tersedia produk ber-TKDN yang memenuhi kebutuhan; mengutamakannya adalah wujud nasionalisme ekonomi ASN.",
+    "difficulty": 2,
+    "source": "UU 3/2014 tentang Perindustrian; Perpres 16/2018 jo. Perpres 12/2021",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0003",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Beredar video yang tampak menunjukkan seorang kepala daerah menghina suku tertentu. Video itu ramai dibagikan dan warga dua kampung mulai saling ancam. Anda ASN di daerah tersebut dan menduga video itu hasil rekayasa kecerdasan buatan. Langkah yang paling tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagikan video itu disertai komentar bahwa video tersebut mungkin palsu agar warga lebih berhati-hati",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menunggu kepala daerah memberi klarifikasi sendiri karena urusan pribadinya bukan tanggung jawab Anda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Membuat video tandingan yang menyindir pembuat video agar warga tahu pihak mana yang memulai konflik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan semua warga yang membagikan video tersebut ke polisi agar mereka jera dan tidak mengulanginya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memeriksa kebenarannya lewat cek fakta resmi, tidak menyebarkannya, dan melapor ke instansi berwenang",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konten yang berpotensi memicu konflik SARA harus diverifikasi dulu dan tidak ikut disebarkan, bahkan dengan niat memperingatkan; pelaporan lewat jalur resmi mencegah konflik meluas.",
+    "difficulty": 2,
+    "source": "UU 11/2008 jo. UU 19/2016 jo. UU 1/2024 tentang ITE",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0004",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Seorang ASN asal provinsi lain diangkat menjadi kepala dinas di sebuah kabupaten melalui seleksi terbuka. Sekelompok tokoh setempat menolak dengan alasan jabatan itu harus dipegang putra daerah. Sikap yang mencerminkan nasionalisme dan bukan primordialisme adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendukung penolakan karena putra daerah pasti lebih memahami adat dan kebutuhan warga setempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menghormati hasil seleksi berbasis merit sambil mendorong pejabat itu berdialog dengan tokoh setempat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Meminta pejabat itu mundur secara sukarela agar suasana daerah tetap kondusif dan tidak memanas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan pembagian jabatan secara bergiliran antara putra daerah dan pendatang di setiap dinas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bersikap netral dengan tidak mendukung pihak mana pun hingga tokoh setempat mencabut penolakannya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Primordialisme adalah keterikatan berlebihan pada suku atau daerah asal; jabatan ASN diisi berdasarkan sistem merit dan ASN dapat ditempatkan di seluruh wilayah NKRI.",
+    "difficulty": 3,
+    "source": "UU 20/2023 tentang Aparatur Sipil Negara",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0005",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Setelah tim nasional kalah dalam laga final, sebagian warganet menyerbu akun media sosial pemain lawan dengan hinaan bernada rasial terhadap bangsanya. Sikap yang sesuai dengan nasionalisme Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menyerbu akun lawan karena membela nama bangsa adalah kewajiban setiap warga negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menilai bangsa lawan memang lebih rendah karena menang dengan cara yang tidak terhormat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tetap mendukung tim nasional secara sportif dan menghormati pemain serta bangsa lawan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Berhenti mendukung tim nasional karena kekalahan itu memalukan seluruh bangsa Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengajak warganet memboikot semua produk dari negara lawan sebagai bentuk solidaritas",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nasionalisme Pancasila mencintai bangsa sendiri tanpa merendahkan bangsa lain; menghina bangsa lain mencerminkan chauvinisme.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0006",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Menjelang 17 Agustus, Anda melihat bendera Merah Putih di halaman kantor sudah robek di ujungnya dan warnanya kusam, tetapi petugas berencana tetap mengibarkannya karena anggaran pengadaan belum cair. Tindakan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya dikibarkan karena yang terpenting adalah semangat memperingati hari kemerdekaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menjahit bagian yang robek lalu mengibarkannya setengah tiang agar kerusakannya tidak terlihat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengganti bendera dengan umbul-umbul merah putih yang masih baru sampai anggaran tersedia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak mengibarkan bendera sama sekali tahun ini sambil menunggu anggaran pengadaan cair",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengusulkan bendera segera diganti dengan yang layak karena bendera rusak dilarang dikibarkan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 24/2009 Pasal 24 melarang mengibarkan bendera yang rusak, robek, luntur, kusut, atau kusam, sedangkan pada 17 Agustus bendera tetap wajib dikibarkan.",
+    "difficulty": 1,
+    "source": "UU 24/2009 Pasal 24",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0007",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Seorang pelaku UMKM binaan dinas Anda ingin memakai gambar Garuda Pancasila yang sedikit dimodifikasi sebagai logo merek keripiknya agar terkesan nasionalis. Saran yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Boleh, asalkan warna dan bentuk Garuda diubah sehingga tidak persis sama dengan lambang negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak boleh, karena lambang yang sama atau menyerupai lambang negara dilarang dipakai perusahaan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Boleh, karena penggunaan lambang negara oleh UMKM ikut mempromosikan cinta produk dalam negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Boleh, asalkan pelaku UMKM terlebih dahulu meminta izin tertulis kepada kepala dinas setempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak boleh, kecuali produknya sudah bersertifikat TKDN dan diekspor dengan merek Indonesia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 24/2009 Pasal 57 melarang membuat lambang untuk perseorangan, partai politik, perkumpulan, organisasi, atau perusahaan yang sama atau menyerupai lambang negara.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 57",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0008",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Sebuah akun hiburan membuat video iklan berbayar untuk produk minuman dengan melodi \"Indonesia Raya\" yang liriknya diganti dengan kalimat promosi. Penilaian yang tepat terhadap konten itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melanggar, karena lagu kebangsaan dilarang digunakan untuk iklan komersial",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Diperbolehkan, karena lagu kebangsaan adalah milik publik yang bebas dimanfaatkan siapa saja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Diperbolehkan, selama video itu juga menampilkan bendera Merah Putih dan pesan cinta tanah air",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Melanggar hanya jika video itu ditayangkan di luar negeri karena dapat mempermalukan bangsa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Diperbolehkan, asalkan akun tersebut menyumbangkan sebagian keuntungan iklannya kepada negara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 24/2009 Pasal 64 melarang penggunaan lagu kebangsaan untuk iklan komersial serta pengubahan lagu kebangsaan untuk menghina atau merendahkan kehormatannya.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 64",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0009",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Pemerintah kabupaten akan meresmikan gedung pelayanan terpadu. Desainer mengusulkan papan nama hanya bertuliskan \"Public Service Center\" agar terlihat modern dan menarik wisatawan asing. Sebagai ASN yang membidangi, sikap yang sesuai ketentuan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyetujui usulan karena istilah bahasa Inggris sudah dipahami luas oleh masyarakat perkotaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menolak penggunaan bahasa asing sama sekali, termasuk sebagai terjemahan pendamping pada papan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menggunakan bahasa daerah saja agar papan nama mencerminkan identitas lokal kabupaten tersebut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mewajibkan nama dalam bahasa Indonesia, dan bila perlu menambahkan terjemahan asing di bawahnya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan keputusan kepada desainer karena papan nama termasuk urusan estetika, bukan aturan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 24/2009 mewajibkan bahasa Indonesia untuk nama gedung dan informasi pelayanan umum; bahasa daerah atau asing boleh menyertai, tetapi tidak menggantikan.",
+    "difficulty": 3,
+    "source": "UU 24/2009 Pasal 36 dan Pasal 38",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-identitas_nasional-0010",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "identitas_nasional",
+    "stem": "Sebuah akun luar negeri mengunggah video yang mengklaim salah satu tarian daerah Indonesia sebagai budaya negaranya, dan warganet ramai mengajak meretas akun tersebut. Sikap nasionalisme di era digital yang paling tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut meretas akun tersebut karena tindakan itu merupakan bentuk bela negara di dunia maya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Membanjiri kolom komentar akun itu dengan hinaan agar pemiliknya jera dan menghapus unggahannya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menyebarkan informasi asal-usul tarian itu dengan sumber tepercaya dan ikut melestarikannya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mendesak pemerintah memutus hubungan diplomatik dengan negara asal akun tersebut secepatnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengabaikannya karena klaim budaya di media sosial tidak berpengaruh pada identitas bangsa",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nasionalisme digital diwujudkan dengan edukasi berbasis fakta dan pelestarian budaya, bukan peretasan atau ujaran kebencian yang melanggar hukum.",
+    "difficulty": 1,
+    "source": "UU 5/2017 tentang Pemajuan Kebudayaan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0001",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Deklarasi Djuanda 13 Desember 1957 menjadi tonggak wawasan nusantara karena mengubah ketentuan warisan kolonial dalam TZMKO 1939. Perubahan pokok yang dibawanya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "laut di antara pulau-pulau Indonesia menjadi bagian wilayah negara, bukan lagi laut bebas",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "laut teritorial setiap pulau ditetapkan sejauh 3 mil diukur dari garis pantai masing-masing",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "zona ekonomi eksklusif selebar 200 mil langsung diakui sebagai wilayah berdaulat penuh",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kapal asing dilarang sama sekali melintasi perairan antarpulau Indonesia dalam keadaan apa pun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "batas wilayah Indonesia ditetapkan mengikuti batas bekas wilayah keresidenan Hindia Belanda",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "TZMKO 1939 hanya memberi laut teritorial 3 mil dari tiap pulau sehingga laut antarpulau menjadi laut bebas; Deklarasi Djuanda menjadikan perairan antarpulau bagian wilayah Indonesia dengan garis pangkal lurus.",
+    "difficulty": 2,
+    "source": "Deklarasi Djuanda 1957; UU 4/Prp/1960",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0002",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Dalam paradigma nasional, Pancasila berkedudukan sebagai landasan idiil dan UUD 1945 sebagai landasan konstitusional. Wawasan nusantara berkedudukan sebagai landasan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "konsepsional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "operasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "visional",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "struktural",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "historis",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan nusantara adalah landasan visional, yaitu cara pandang dalam penyelenggaraan negara, sedangkan ketahanan nasional adalah landasan konsepsional.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0003",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Pemerintah provinsi A mengirim tenaga medis dan bahan pangan ke provinsi B di pulau lain yang dilanda gempa, walaupun keduanya tidak memiliki hubungan administratif. Asas wawasan nusantara yang paling tampak dalam tindakan itu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "keadilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "solidaritas",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kejujuran",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kesetiaan terhadap kesepakatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "kedaulatan rakyat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Asas solidaritas menuntut rasa setia kawan dan kesediaan membantu bagian bangsa lain tanpa pamrih dan tanpa menghilangkan identitas masing-masing.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0004",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Pemerintah menerapkan program BBM Satu Harga agar warga di pedalaman Papua dapat membeli bahan bakar dengan harga yang sama seperti warga di Jawa. Kebijakan tersebut paling mencerminkan perwujudan kepulauan nusantara sebagai satu kesatuan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "politik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "sosial budaya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pertahanan keamanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "ideologi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "ekonomi",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kesatuan ekonomi berarti kekayaan wilayah dan tingkat kemajuan ekonomi harus merata di seluruh nusantara; harga BBM yang seragam mengurangi kesenjangan antarwilayah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0005",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Sebuah kabupaten menyusun rancangan perda yang mewajibkan pencari kerja dari provinsi lain membayar retribusi khusus sebelum boleh bekerja di wilayahnya. Ditinjau dari wawasan nusantara, rancangan itu bermasalah karena ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kabupaten tidak berwenang menyusun perda apa pun yang berkaitan dengan ketenagakerjaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "retribusi hanya boleh dipungut oleh pemerintah pusat dan tidak boleh oleh pemerintah daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pencari kerja dari provinsi lain seharusnya cukup mendaftar ke kantor desa tempat tinggalnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "nusantara adalah satu kesatuan politik dan hukum yang menjamin hak setiap warga untuk bekerja",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "perda hanya boleh mengatur warga asli daerah, sedangkan pendatang diatur peraturan presiden",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan nusantara memandang seluruh kepulauan sebagai satu kesatuan politik dan hukum nasional, sehingga perda tidak boleh membatasi hak warga dari daerah lain untuk bekerja.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 25A dan Pasal 27 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0006",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Dinas pendidikan provinsi menggelar program pertukaran pelajar antarprovinsi agar siswa dari Aceh hingga Papua saling mengenal budaya satu sama lain. Program tersebut terutama mewujudkan kepulauan nusantara sebagai satu kesatuan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ekonomi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "sosial budaya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pertahanan keamanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "politik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "geografis",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kesatuan sosial budaya berarti masyarakat Indonesia satu, dengan keragaman budaya sebagai kekayaan bersama yang menumbuhkan rasa senasib dan sepenanggungan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0007",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Kapal asing berulang kali menangkap ikan secara ilegal di perairan Natuna. Sebagian warga di daerah lain berpendapat masalah itu cukup diurus warga Natuna sendiri. Menurut wawasan nusantara, pendapat itu keliru karena ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "perairan Natuna termasuk laut bebas sehingga penanganannya menjadi tugas organisasi internasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "urusan perikanan termasuk kewenangan daerah yang sepenuhnya diserahkan kepada pemerintah kabupaten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "warga Natuna tidak mampu menghadapi kapal asing sehingga perlu meminta bantuan negara tetangga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penangkapan ikan ilegal hanya merugikan nelayan setempat dan tidak berdampak pada negara secara luas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "ancaman terhadap satu pulau atau daerah pada hakikatnya adalah ancaman terhadap seluruh bangsa",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam kesatuan pertahanan keamanan, ancaman terhadap satu daerah dipandang sebagai ancaman terhadap seluruh bangsa dan negara sehingga dihadapi bersama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0008",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Sekelompok tokoh di daerah penghasil tambang mengancam memisahkan diri dari NKRI bila bagi hasil sumber daya alam tidak dinaikkan. Sikap ASN yang sesuai dengan wawasan nusantara adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendukung ancaman itu sebagai alat tawar agar pemerintah pusat lebih memperhatikan daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menilai tuntutan kenaikan bagi hasil itu sendiri sebagai tindakan makar yang harus dipidana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mendorong aspirasi itu disalurkan lewat jalur konstitusional seperti DPRD dan DPD",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan agar seluruh hasil tambang dikelola daerah tanpa campur tangan pemerintah pusat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menghindari pembahasan isu itu karena urusan bagi hasil bukan kewenangan pegawai daerah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tuntutan keadilan bagi hasil sah disalurkan melalui jalur konstitusional, tetapi ancaman memisahkan diri bertentangan dengan asas kesetiaan terhadap kesepakatan bangsa dan kesatuan wilayah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0009",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Seorang CPNS yang lolos formasi di kabupaten kepulauan terpencil meminta pindah ke kota besar pada bulan ketiga dengan alasan daerah itu bukan kampung halamannya. Ditinjau dari wawasan nusantara, sikap yang seharusnya dimiliki CPNS tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memandang seluruh wilayah Indonesia sebagai tanah air sendiri dan bertugas di tempat penempatannya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mengajukan pindah karena ASN berhak memilih bekerja di daerah asal agar lebih memahami warganya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bertahan sementara sambil mencari cara agar penempatannya dialihkan ke daerah yang lebih maju",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengundurkan diri karena penempatan di luar daerah asal melanggar hak asasi pegawai negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Meminta tunjangan tambahan sebagai syarat bersedia bertahan di daerah kepulauan terpencil itu",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan nusantara memandang seluruh kepulauan sebagai satu tanah air; pelamar CPNS sejak awal menyatakan bersedia ditempatkan di seluruh wilayah NKRI.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-nasionalisme-wawasan_nusantara-0010",
+    "subtest": "TWK",
+    "group": "nasionalisme",
+    "tag": "wawasan_nusantara",
+    "stem": "Bappeda sebuah kabupaten kepulauan sedang menyusun rencana pembangunan. Sesuai konsep wawasan nusantara, perairan di antara pulau-pulau di kabupaten itu sebaiknya dipandang sebagai ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "batas alami yang memisahkan wilayah administrasi antarpulau di kabupaten itu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kawasan bebas yang boleh dimanfaatkan siapa saja tanpa pengaturan pemerintah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "wilayah pinggiran yang pembangunannya ditunda sampai daratan selesai dibangun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penghubung dan pemersatu pulau-pulau sehingga konektivitas laut diprioritaskan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "sumber pendapatan utama yang hasilnya hanya dinikmati pulau terbesar di kabupaten",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan nusantara memandang laut sebagai pemersatu, bukan pemisah, sehingga transportasi dan konektivitas laut menjadi kunci kesatuan wilayah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

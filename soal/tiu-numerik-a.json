@@ -1,0 +1,3742 @@
+[
+  {
+    "id": "tiu-numerik-berhitung-0001",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 48 − 18 ÷ 3 × 2 + 5 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "10",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "25",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "31",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "41",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kali dan bagi dikerjakan lebih dulu dari kiri ke kanan: 18 ÷ 3 × 2 = 6 × 2 = 12. Lalu 48 − 12 + 5 = 41; menjumlahkan 2 + 5 lebih dulu menghasilkan pengecoh 6.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0002",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 3/4 + 5/6 − 1/3 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7/15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1 1/4",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "1 1/3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1 11/12",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Samakan penyebut ke 12: 9/12 + 10/12 − 4/12 = 15/12 = 1 1/4. Jangan menjumlahkan pembilang dengan pembilang dan penyebut dengan penyebut.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0003",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 0,25 × 4,8 + 1,2 ÷ 0,4 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1,5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2,4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "3,12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3,75",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "4,2",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "0,25 × 4,8 sama dengan 4,8 ÷ 4 = 1,2, dan 1,2 ÷ 0,4 = 12 ÷ 4 = 3. Jumlahnya 1,2 + 3 = 4,2.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0004",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "15% dari 240 ditambah 40% dari 65 sama dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "29,6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "62",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "167,75",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "296",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "386",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "15% dari 240 = 10% + 5% = 24 + 12 = 36, dan 40% dari 65 = 4 × 6,5 = 26. Jumlahnya 62.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0005",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "FPB dari 84 dan 126 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "14",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "28",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "42",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "84 = 2² × 3 × 7 dan 126 = 2 × 3² × 7. FPB mengambil faktor sekutu dengan pangkat terkecil: 2 × 3 × 7 = 42.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0006",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari (−7) × 4 − (−36) ÷ (−9) adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−32",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "−24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "−8/9",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "0",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kerjakan kali dan bagi dulu: (−7) × 4 = −28 dan (−36) ÷ (−9) = 4. Hasilnya −28 − 4 = −32; mengerjakan lurus dari kiri ke kanan menghasilkan pengecoh −8/9.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0007",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 2⁵ + 3³ − 4² adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "25",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "43",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "51",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "75",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "97",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "2⁵ = 32, 3³ = 27, dan 4² = 16, jadi 32 + 27 − 16 = 43. Pangkat bukan perkalian bilangan dengan pangkatnya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0008",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari √196 + √225 − √121 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "10√3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "18",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "40",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "√196 = 14, √225 = 15, dan √121 = 11, jadi 14 + 15 − 11 = 18. Akar tidak boleh digabung: menghitung √(196 + 225 − 121) = √300 = 10√3 adalah kekeliruan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0009",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 125 × 48 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "600",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6.125",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "6.250",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "12.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kali 125 sama dengan kali 1.000 lalu dibagi 8: 48.000 ÷ 8 = 6.000.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0010",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 86 × 11 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "846",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "871",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "886",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "946",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "8.146",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Trik ×11: tulis 8, lalu 8 + 6 = 14, lalu 6. Angka 1 dari 14 disimpan ke digit depan sehingga hasilnya 946; lupa menyimpan menghasilkan 846.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0011",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "36% dari 25 ditambah 25% dari 44 sama dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "10,1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "11,9",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "17,8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "20",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pakai a% dari b = b% dari a: 36% dari 25 = 25% dari 36 = 9, dan 25% dari 44 = 44 ÷ 4 = 11. Jumlahnya 20.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0012",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 0,6 + 2/5 × 1,5 − 20% adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−0,8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "0,96",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "1,3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1,4",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kerjakan perkalian dulu: 2/5 × 1,5 = 0,4 × 1,5 = 0,6. Lalu 0,6 + 0,6 − 0,2 = 1; 20% di sini adalah bilangan 0,2, bukan potongan 20%.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0013",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Jika a : b = 3 : 5 dan b : c = 2 : 7, maka a : b : c adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6 : 10 : 35",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "3 : 5 : 7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6 : 10 : 21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3 : 10 : 35",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "15 : 10 : 35",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Samakan nilai b ke KPK 5 dan 2, yaitu 10: 3 : 5 dikali 2 menjadi 6 : 10, dan 2 : 7 dikali 5 menjadi 10 : 35. Jadi a : b : c = 6 : 10 : 35.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0014",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 98 × 97 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "9.406",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "9.494",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "9.500",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "9.506",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "10.006",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "98 × 97 = (100 − 2)(100 − 3) = 10.000 − 500 + 6 = 9.506. Hasil kali dua bilangan negatif (−2)(−3) bertanda plus.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0015",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 65² − 35² adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "900",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2.400",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "3.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3.300",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "10.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gunakan a² − b² = (a + b)(a − b): (65 + 35)(65 − 35) = 100 × 30 = 3.000. Opsi 900 muncul dari kekeliruan a² − b² = (a − b)².",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0016",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Nilai yang paling dekat dengan √80 × √45,2 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "54",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "56",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "60",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "3.616",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gabungkan akarnya: √80 × √45,2 = √(80 × 45,2) = √3.616, sedikit di atas √3.600 = 60. Membulatkan tiap akar ke bilangan bulat (8 × 7 atau 9 × 6) menjauh dari jawaban, dan 3.616 adalah hasil lupa mengakarkan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0017",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 27^(2/3) + 16^(3/4) adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "14",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "17",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1.267",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Penyebut pangkat adalah akar, pembilangnya pangkat: 27^(2/3) = (∛27)² = 3² = 9 dan 16^(3/4) = (⁴√16)³ = 2³ = 8. Jumlahnya 17; pengecoh 1.267 muncul jika notasinya dibaca 27²/3 + 16³/4.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0018",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 9⁴ × 27³ ÷ 3¹⁵ adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/27",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1/3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "9",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ubah ke basis 3: 9⁴ = (3²)⁴ = 3⁸ dan 27³ = (3³)³ = 3⁹. Hasilnya 3⁸⁺⁹⁻¹⁵ = 3² = 9.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0019",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari √3.249 − ∛1.728 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "35",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "39",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "41",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "45",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "69",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "3.249 berakhiran 9 dan lebih besar dari 55² = 3.025, jadi akarnya 57 (bukan 53). 1.728 berakhiran 8 sehingga akar pangkat tiganya berakhiran 2, yaitu 12; hasilnya 57 − 12 = 45.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0020",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "KPK dari 12, 18, dan 30 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "90",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "180",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "6.480",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "12 = 2² × 3, 18 = 2 × 3², 30 = 2 × 3 × 5. KPK mengambil semua faktor dengan pangkat tertinggi: 2² × 3² × 5 = 180.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0021",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 0,875 × 64 − 12,5% × 96 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "32",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "44",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "54,8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "68",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "548",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "0,875 = 7/8 sehingga 7/8 × 64 = 56, dan 12,5% = 1/8 sehingga 96 ÷ 8 = 12. Hasilnya 56 − 12 = 44.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0022",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari (−2)⁴ − 2⁴ + (−3)² × (−1)³ adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−41",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "−23",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "−9",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "9",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "23",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bilangan negatif berpangkat genap menjadi positif, berpangkat ganjil tetap negatif: (−2)⁴ = 16, (−3)² = 9, (−1)³ = −1. Jadi 16 − 16 + 9 × (−1) = −9.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0023",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Nilai yang paling dekat dengan 0,98 × 199,6 ÷ 4,02 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "100",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "200",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "500",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "800",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bulatkan: 0,98 ≈ 1, 199,6 ≈ 200, 4,02 ≈ 4, sehingga 1 × 200 ÷ 4 = 50. Nilai pastinya sekitar 48,7, tetap paling dekat ke 50.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0024",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 2 1/3 × 1 2/7 ÷ 1 1/2 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2/3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "2 4/21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "4 1/2",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ubah ke pecahan biasa: 7/3 × 9/7 × 2/3 = 3 × 2/3 = 2. Membagi dengan 1 1/2 = 3/2 sama dengan mengalikan dengan 2/3.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0025",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "12,5% dari 96 ditambah 87,5% dari 32 sama dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "14,8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "29,2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "32",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "40",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "12,5% = 1/8 sehingga 96 ÷ 8 = 12, dan 87,5% = 7/8 sehingga 7/8 × 32 = 28. Jumlahnya 40.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0026",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Jika x : y = 4 : 7 dan x + y = 132, maka y − x = ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3/11",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "36",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "44",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "84",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah perbandingan 4 + 7 = 11 bagian, jadi satu bagian = 132 ÷ 11 = 12. Selisihnya 7 − 4 = 3 bagian = 36; 48 dan 84 adalah nilai x dan y sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0027",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 1,44 ÷ 0,12 + 0,5 × 0,8 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "12,4",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "16",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "120,4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "124",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Geser koma pada pembagian: 1,44 ÷ 0,12 = 144 ÷ 12 = 12, lalu 0,5 × 0,8 = 0,4. Jumlahnya 12,4.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0028",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari √0,0049 + √0,64 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0,087",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "0,15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "0,78",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "0,807",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "0,87",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Banyak angka di belakang koma pada hasil akar adalah separuh dari bilangan asalnya: √0,0049 = 0,07 dan √0,64 = 0,8. Jumlahnya 0,87.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0029",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 75² + 25² adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5.350",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "5.550",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6.050",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "6.250",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "10.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kuadrat berakhiran 5: 75² = (7 × 8) disambung 25 = 5.625 dan 25² = (2 × 3) disambung 25 = 625. Jumlahnya 6.250; memakai 7 × 7 atau 2 × 2 menghasilkan pengecoh.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0030",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 999 × 37 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "36.963",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "36.973",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "36.999",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "37.037",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "37.963",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "999 × 37 = (1.000 − 1) × 37 = 37.000 − 37 = 36.963. Yang dikurangkan 37, bukan 1.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0031",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari −5 × (−3)² − (−4)³ ÷ 8 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−53",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "−37",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "2,375",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "37",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "233",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pangkat dulu: (−3)² = 9 dan (−4)³ = −64. Lalu −5 × 9 = −45 dan −64 ÷ 8 = −8, sehingga −45 − (−8) = −37; mengerjakan pengurangan sebelum pembagian menghasilkan 19 ÷ 8 = 2,375.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0032",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Selisih KPK dan FPB dari 36 dan 60 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "168",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "174",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "192",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "348",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "2.148",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "36 = 2² × 3² dan 60 = 2² × 3 × 5, jadi FPB = 2² × 3 = 12 dan KPK = 2² × 3² × 5 = 180. Selisihnya 168; cek cepat dengan FPB × KPK = 12 × 180 = 36 × 60.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0033",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 1/2 + 1/6 + 1/12 + 1/20 + 1/30 + 1/42 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "5/6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6/7",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "7/8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "41/42",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Penyebutnya 1 × 2, 2 × 3, ..., 6 × 7, dan 1/(n(n + 1)) = 1/n − 1/(n + 1). Suku-suku tengah saling menghapus sehingga tersisa 1 − 1/7 = 6/7.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0034",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 1 − 2 + 3 − 4 + 5 − 6 + ... + 99 − 100 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−50",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "−49",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "0",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "50",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "5.050",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasangkan (1 − 2) + (3 − 4) + ... + (99 − 100): ada 100 ÷ 2 = 50 pasangan yang masing-masing bernilai −1. Hasilnya −50; 5.050 adalah jumlah 1 sampai 100 tanpa memperhatikan tanda.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0035",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Angka satuan dari 7²⁰²⁶ adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "9",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Angka satuan pangkat 7 berulang tiap 4 langkah: 7, 9, 3, 1. Sisa 2026 ÷ 4 adalah 2, jadi angka satuannya sama dengan 7², yaitu 9.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0036",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari (2¹⁰ + 2⁹) ÷ (2⁹ − 2⁸) adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "768",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Faktorkan: pembilang 2⁹(2 + 1) = 3 × 2⁹ dan penyebut 2⁸(2 − 1) = 2⁸. Hasilnya 3 × 2⁹ ÷ 2⁸ = 3 × 2 = 6; membagi suku per suku (hasil 4) adalah kekeliruan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0037",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Jika a : b = 2 : 3, b : c = 4 : 5, dan c : d = 6 : 7, maka a : d adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16 : 35",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2 : 7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "4 : 7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8 : 15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "72 : 105",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kalikan rantai perbandingannya: a/d = (a/b)(b/c)(c/d) = 2/3 × 4/5 × 6/7 = 48/105 = 16/35. Jadi a : d = 16 : 35.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0038",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari (√72 + √50 − √18) ÷ √2 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "8",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "8√2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "14",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "16",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "14√2",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sederhanakan: √72 = 6√2, √50 = 5√2, √18 = 3√2, sehingga pembilangnya 8√2. Dibagi √2 hasilnya 8.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0039",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Nilai yang paling dekat dengan 4.012 × 0,049 ÷ 0,0198 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "100",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "10.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "100.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bulatkan: 4.000 × 0,05 = 200, lalu 200 ÷ 0,02 = 20.000 ÷ 2 = 10.000. Nilai pastinya sekitar 9.929; opsi lain muncul dari salah letak koma, misalnya ÷ 0,02 dikerjakan sebagai × 0,02 (hasil 4).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-berhitung-0040",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "berhitung",
+    "stem": "Hasil dari 2026² − 2025² + 2024² − 2023² adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "4.051",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8.096",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "8.098",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pakai a² − b² = (a + b)(a − b) dengan a − b = 1: 2026² − 2025² = 4.051 dan 2024² − 2023² = 4.047. Jumlahnya 8.098.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0001",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n7, 13, 19, 25, 31, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "36",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "37",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "38",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "43",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "49",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisihnya tetap +6, jadi 31 + 6 = 37.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0002",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n94, 87, 80, 73, 66, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "52",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "58",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "59",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "73",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku dikurangi 7, jadi 66 − 7 = 59.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0003",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 6, 12, 24, 48, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "54",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "72",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "84",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "96",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rasionya tetap ×2, jadi 48 × 2 = 96. Selisih yang membesar cepat (3, 6, 12, 24) adalah tanda deret geometri.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0004",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1.458, 486, 162, 54, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "18",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "27",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "36",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "108",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku dibagi 3 (162 ÷ 3 = 54), jadi 54 ÷ 3 = 18.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0005",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n4, 9, 16, 25, 36, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "46",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "47",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "49",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "64",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Deret kuadrat 2², 3², 4², 5², 6², jadi berikutnya 7² = 49. Selisihnya (5, 7, 9, 11) juga naik 2 sehingga selisih berikutnya 13.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0006",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 4, 6, 9, 13, 18, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "24",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "25",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "27",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "31",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "36",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisihnya +1, +2, +3, +4, +5, jadi berikutnya +6: 18 + 6 = 24.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0007",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 4, 7, 11, 18, 29, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "46",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "47",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "58",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "76",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola Fibonacci: setiap suku adalah jumlah dua suku sebelumnya (3 + 4 = 7, 4 + 7 = 11). Jadi 18 + 29 = 47.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0008",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf berikutnya.\nB, D, F, H, J, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "L",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "M",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "N",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "O",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Posisi hurufnya 2, 4, 6, 8, 10 (melompati satu huruf), jadi berikutnya huruf ke-12, yaitu L.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0009",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan bilangan yang tepat untuk mengisi titik-titik.\n8, 17, ..., 35, 44, 53",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "22",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "25",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "26",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "27",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisihnya tetap +9 (35 → 44 → 53), jadi 17 + 9 = 26. Cek cepat: suku yang hilang adalah rata-rata 17 dan 35.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0010",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1, 10, 2, 20, 3, 30, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "31",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "33",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Deret selang-seling: suku ganjil 1, 2, 3 dan suku genap 10, 20, 30. Suku ke-7 termasuk suku ganjil, jadi 4.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0011",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 3, 5, 7, 11, 13, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "14",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "16",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "17",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "19",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ini deret bilangan prima berurutan. Prima sesudah 13 adalah 17, karena 15 = 3 × 5 bukan prima.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0012",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf yang tepat untuk mengisi titik-titik.\nD, G, ..., M, P",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "H",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "I",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "J",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "L",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Posisi D = 4, G = 7, M = 13, P = 16, selisihnya +3. Huruf yang hilang berposisi 7 + 3 = 10, yaitu J.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0013",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n10, 13, 12, 15, 14, 17, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "16",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "18",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "19",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "20",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya bergantian +3 lalu −1. Sesudah 17 giliran −1, jadi 16.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0014",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n5, 7, 11, 17, 25, 35, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "43",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "46",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "47",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "61",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Deret bertingkat: selisihnya 2, 4, 6, 8, 10 (naik 2). Selisih berikutnya 12, jadi 35 + 12 = 47.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0015",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 4, 7, 14, 17, 34, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "37",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "51",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "68",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "74",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Operasi bergantian ×2 lalu +3: 2 × 2 = 4, 4 + 3 = 7, 7 × 2 = 14, dan seterusnya. Sesudah 34 giliran +3, jadi 37.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0016",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan dua suku berikutnya.\n3, 25, 6, 22, 9, 19, 12, ..., ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16, 15",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "15, 16",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "15, 18",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "16, 13",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "16, 19",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pisahkan suku ganjil 3, 6, 9, 12 (+3) dan suku genap 25, 22, 19 (−3). Suku ke-8 adalah suku genap (16), lalu suku ke-9 suku ganjil (15).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0017",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 5, 10, 17, 26, 37, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "46",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "49",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "50",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "65",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya n² + 1: 1 + 1, 4 + 1, 9 + 1, sampai 36 + 1. Berikutnya 7² + 1 = 50.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0018",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 9, 28, 65, 126, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "187",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "211",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "215",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "216",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "217",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya n³ + 1: 1 + 1, 8 + 1, 27 + 1, 64 + 1, 125 + 1. Berikutnya 6³ + 1 = 217; opsi 216 adalah jebakan lupa +1.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0019",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1, 3, 7, 15, 31, 63, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "95",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "126",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "127",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "128",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "255",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku dikali 2 lalu ditambah 1 (setara 2ⁿ − 1). Jadi 63 × 2 + 1 = 127.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0020",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n6, 9, 15, 21, 33, 39, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "42",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "51",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "57",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku adalah 3 × bilangan prima: 3 × 2, 3 × 3, 3 × 5, 3 × 7, 3 × 11, 3 × 13. Berikutnya 3 × 17 = 51.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0021",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1, 1, 2, 4, 7, 13, 24, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "35",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "37",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "44",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "81",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Variasi Fibonacci: setiap suku adalah jumlah tiga suku sebelumnya (1 + 1 + 2 = 4, 1 + 2 + 4 = 7). Jadi 7 + 13 + 24 = 44.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0022",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, −6, 12, −24, 48, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "−96",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "−48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "72",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "96",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rasionya −2: tanda selalu berganti dan nilainya berlipat dua. Jadi 48 × (−2) = −96.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0023",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf berikutnya.\nB, C, E, H, L, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "R",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "V",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "W",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Posisi B = 2, C = 3, E = 5, H = 8, L = 12, selisihnya 1, 2, 3, 4. Berikutnya 12 + 5 = 17, yaitu Q (patokan O = 15).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0024",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan dua huruf berikutnya.\nA, Z, C, X, E, V, ..., ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "F, U",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "G, S",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "G, U",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "T, G",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "G, T",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Suku ganjil A, C, E maju 2 huruf, jadi G. Suku genap Z, X, V mundur 2 huruf, jadi T. Urutannya suku ke-7 (G) lalu suku ke-8 (T).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0025",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\nB3, D6, G10, K15, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "O20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "O21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Q21",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P21",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Huruf B, D, G, K berposisi 2, 4, 7, 11 (selisih 2, 3, 4), jadi berikutnya 11 + 5 = 16 = P. Angka 3, 6, 10, 15 bertambah 3, 4, 5, jadi berikutnya 15 + 6 = 21.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0026",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan bilangan yang tepat untuk mengisi titik-titik.\n4, 6, 10, ..., 24, 34",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "14",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "16",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "17",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "18",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "20",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisih yang terlihat 2, 4, dan 10 (34 − 24) cocok dengan pola 2, 4, 6, 8, 10. Suku yang hilang 10 + 6 = 16, dicek dengan 16 + 8 = 24.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0027",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 2, 4, 12, 48, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "96",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "144",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "192",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "240",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengalinya bertambah satu setiap langkah: ×1, ×2, ×3, ×4. Berikutnya 48 × 5 = 240.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0028",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 5, 14, 41, 122, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "203",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "244",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "364",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "365",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1.094",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya ×3 − 1: 2 × 3 − 1 = 5, 5 × 3 − 1 = 14, dan seterusnya. Jadi 122 × 3 − 1 = 365; selisihnya (3, 9, 27, 81) juga berlipat tiga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0029",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan bilangan yang tepat untuk mengisi titik-titik.\n5, 30, 8, 26, ..., 22, 14, 18",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "11",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "13",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pisahkan suku ganjil 5, 8, ..., 14 (+3) dan suku genap 30, 26, 22, 18 (−4). Titik-titik ada di suku ke-5 (ganjil), jadi 8 + 3 = 11.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0030",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan dua suku berikutnya.\n1, 3, 4, 7, 11, 18, ..., ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "29, 47",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "25, 32",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "29, 40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "29, 58",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "47, 29",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku adalah jumlah dua suku sebelumnya: 11 + 18 = 29, lalu 18 + 29 = 47.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0031",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf berikutnya.\nZ, Y, W, T, P, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "E",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "J",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "K",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "L",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "M",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Posisi Z = 26, Y = 25, W = 23, T = 20, P = 16, mundur 1, 2, 3, 4. Berikutnya mundur 5: 16 − 5 = 11, yaitu K.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0032",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n4, 9, 25, 49, 121, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "144",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "169",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "196",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "225",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "289",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ini kuadrat bilangan prima: 2², 3², 5², 7², 11². Prima berikutnya 13, jadi 13² = 169; 144 = 12² adalah jebakan karena 12 bukan prima.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0033",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 4, 6, 10, 18, 34, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "50",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "52",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "66",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "68",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "130",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisihnya 1, 2, 4, 8, 16 (berlipat dua), jadi selisih berikutnya 32: 34 + 32 = 66. Bisa juga dibaca setiap suku ×2 − 2.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0034",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf berikutnya.\nT, X, B, F, J, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "M",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "N",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "O",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "R",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap huruf maju 4: T(20), X(24), lalu melewati Z dan kembali ke awal: B(2), F(6), J(10). Berikutnya 10 + 4 = 14, yaitu N.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0035",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan dua suku berikutnya.\n5, 10, 7, 14, 11, 22, ..., ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "19, 38",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "19, 16",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "38, 35",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "25, 50",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "44, 41",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Operasi bergantian ×2 lalu −3: 5, 10, 7, 14, 11, 22. Sesudah 22 giliran −3 menjadi 19, lalu 19 × 2 = 38.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0036",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 6, 11, 20, 37, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "54",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "64",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "70",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "74",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "135",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya 2ⁿ + n: 2 + 1, 4 + 2, 8 + 3, 16 + 4, 32 + 5. Berikutnya 64 + 6 = 70.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0037",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 10, 30, 68, 130, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "192",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "216",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "217",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "222",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "350",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya n³ + n: 1 + 1, 8 + 2, 27 + 3, 64 + 4, 125 + 5. Berikutnya 216 + 6 = 222.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0038",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1, 2, 2, 4, 8, 32, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "64",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "96",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "128",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "256",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku adalah hasil kali dua suku sebelumnya (2 × 2 = 4, 2 × 4 = 8, 4 × 8 = 32). Jadi 8 × 32 = 256; opsi 40 muncul jika dijumlah seperti Fibonacci.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0039",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan dua suku berikutnya.\n2, 1, 4, 4, 8, 7, 16, ..., ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10, 13",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "10, 24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "32, 10",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "32, 64",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "10, 32",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Suku ganjil 2, 4, 8, 16 dikali 2, suku genap 1, 4, 7 ditambah 3. Suku ke-8 (genap) = 7 + 3 = 10, suku ke-9 (ganjil) = 16 × 2 = 32.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0040",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n3, 4, 6, 9, 14, 22, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "35",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "36",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "44",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "56",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku = jumlah dua suku sebelumnya dikurangi 1 (3 + 4 − 1 = 6, 4 + 6 − 1 = 9). Jadi 14 + 22 − 1 = 35; selisihnya 1, 2, 3, 5, 8 memang deret Fibonacci.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0041",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n2, 6, 15, 28, 55, 78, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "91",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "101",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "105",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "119",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "152",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap suku = bilangan prima ke-n × n: 2 × 1, 3 × 2, 5 × 3, 7 × 4, 11 × 5, 13 × 6. Berikutnya 17 × 7 = 119; selisih yang tidak beraturan adalah tanda pola prima.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0042",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan huruf berikutnya.\nA, D, I, P, Y, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "J",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "L",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "W",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Z",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Posisi hurufnya bilangan kuadrat 1, 4, 9, 16, 25. Berikutnya 36; karena melewati Z, hitung ulang dari A sehingga 36 − 26 = 10, yaitu J.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0043",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1Z, 2X, 6U, 24Q, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "120L",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "96L",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "120K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "120M",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "48L",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Angka dikali 2, 3, 4, jadi berikutnya 24 × 5 = 120. Huruf Z(26), X(24), U(21), Q(17) mundur 2, 3, 4, jadi berikutnya mundur 5: 17 − 5 = 12, yaitu L.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0044",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan suku berikutnya.\n1, 4, 27, 256, ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "625",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1.024",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1.280",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3.125",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "46.656",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Polanya nⁿ: 1¹, 2², 3³, 4⁴. Berikutnya 5⁵ = 3.125; 625 = 5⁴ dan 1.024 = 4⁵ adalah jebakan salah pangkat.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-deret_angka-0045",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "deret_angka",
+    "stem": "Tentukan bilangan yang tepat untuk mengisi titik-titik.\n1, 2, 6, 15, ..., 56, 92",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "27",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "31",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisihnya bilangan kuadrat: 1, 4, 9, lalu 16, 25, dan 36 (92 − 56). Suku yang hilang 15 + 16 = 31, dicek dengan 31 + 25 = 56.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

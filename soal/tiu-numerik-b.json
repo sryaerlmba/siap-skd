@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0001",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 18% dari 450\nQ = 9% dari 900\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 0,18 × 450 = 81 dan Q = 0,09 × 900 = 81, jadi P = Q. Trik: persentase dibagi 2 sementara bilangannya dikali 2 memberi hasil yang sama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0002",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 3/8 + 1/4\nQ = 0,6\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P − Q = 0,25",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "3/8 + 1/4 = 3/8 + 2/8 = 5/8 = 0,625, lebih besar dari 0,6. Jangan menjumlahkan pembilang dengan pembilang dan penyebut dengan penyebut (4/12).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0003",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Harga barang X dinaikkan 20%, sedangkan harga barang Y diturunkan 20%. Harga awal kedua barang tidak diketahui.\nP = harga barang X setelah kenaikan\nQ = harga barang Y setelah penurunan\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 1,5Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika harga awal X dan Y sama-sama Rp100.000, P = 120.000 > Q = 80.000; jika X = Rp50.000 dan Y = Rp100.000, P = 60.000 < Q = 80.000. Relasi P = 1,5Q hanya berlaku bila harga awalnya sama, jadi hubungan tidak dapat ditentukan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0004",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x + y = 10 dan x − y = 4\nP = x + 2y\nQ = 2x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlahkan kedua persamaan: 2x = 14, sehingga x = 7 dan y = 3. P = 7 + 6 = 13 dan Q = 14, jadi P < Q.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0005",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "a adalah bilangan real.\nP = 6a − 4\nQ = 3a − 2\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 2(3a − 2) = 2Q untuk semua a, tetapi urutannya tidak tetap: a = 1 memberi P = 2 > Q = 1, a = 0 memberi P = −4 < Q = −2. Karena relasi P = 2Q selalu benar, jawaban paling tepat adalah E.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0006",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = luas lingkaran berjari-jari 7 cm (π = 22/7)\nQ = luas persegi bersisi 12 cm\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 300",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 22/7 × 7 × 7 = 154 cm² dan Q = 12 × 12 = 144 cm², jadi P > Q.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0007",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 6²⁰\nQ = 3⁴⁰\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q = 2P",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Q = 3⁴⁰ = (3²)²⁰ = 9²⁰. Dengan eksponen yang sama, cukup bandingkan basisnya: 6 < 9, jadi P < Q.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0008",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = luas segitiga dengan alas 12 cm dan tinggi 10 cm\nQ = luas trapesium dengan sisi sejajar 7 cm dan 8 cm serta tinggi 8 cm\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = ½ × 12 × 10 = 60 cm² dan Q = ½ × (7 + 8) × 8 = 60 cm², jadi P = Q. Lupa faktor ½ pada luas segitiga menghasilkan 120 (jebakan P = 2Q).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0009",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Sebuah segitiga memiliki dua sisi dengan panjang 5 cm dan 8 cm.\nP = panjang sisi ketiga segitiga tersebut\nQ = 7 cm\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 6 cm",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sisi ketiga harus lebih dari 8 − 5 = 3 cm dan kurang dari 8 + 5 = 13 cm. Sisi 6 cm memberi P < Q, sisi 10 cm memberi P > Q, jadi hubungan tidak dapat ditentukan; P = 13 cm (opsi E) mustahil.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0010",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x² = 16\nP = x²\nQ = x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 4Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 16, sedangkan x = 4 atau x = −4 sehingga Q paling besar 4. Pada kedua kemungkinan P > Q; relasi P = 4Q hanya benar untuk x = 4.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0011",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = (1/2)⁻³\nQ = (−3)²\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pangkat negatif membalik pecahan: (1/2)⁻³ = 2³ = 8, bukan −8. Q = 9, jadi P < Q; opsi E muncul jika P dikira −8.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0012",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "2x + 5 = 17\nP = x² − x\nQ = 5x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 6",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "2x = 12, sehingga x = 6. P = 36 − 6 = 30 dan Q = 5 × 6 = 30, jadi P = Q.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0013",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "a + b = 10, dengan a dan b bilangan real.\nP = a − 5\nQ = b − 5\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 0",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P + Q = (a + b) − 10 = 0 untuk semua a dan b. Urutannya bergantung pada a (a = 7 memberi P = 2 > Q = −2, a = 3 memberi P = −2 < Q = 2), jadi relasi yang selalu benar adalah P + Q = 0.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0014",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x > 0\nP = x²\nQ = 2x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P − Q = x(x − 2). Untuk x = 1, P = 1 < Q = 2; untuk x = 3, P = 9 > Q = 6; untuk x = 2 keduanya sama, jadi hubungan tidak dapat ditentukan (P = 2Q hanya benar saat x = 4).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0015",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 5²⁰\nQ = 2⁴⁵\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Samakan eksponennya menjadi 5: P = (5⁴)⁵ = 625⁵ dan Q = (2⁹)⁵ = 512⁵. Karena 625 > 512, P > Q.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0016",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Harga sebuah tas Rp200.000.\nP = harga tas setelah diskon 30%\nQ = harga tas setelah diskon 20% dilanjutkan diskon 10%\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q − P = Rp2.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 0,7 × 200.000 = Rp140.000, sedangkan Q = 0,8 × 0,9 × 200.000 = Rp144.000 (diskon bertingkat setara 28%, bukan 30%). Jadi P < Q.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0017",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 2¹⁰ + 2¹⁰\nQ = 2¹¹\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2⁹Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "2¹⁰ + 2¹⁰ = 2 × 2¹⁰ = 2¹¹, jadi P = Q. Jebakannya menulis 2¹⁰ + 2¹⁰ = 2²⁰, padahal eksponen dijumlahkan hanya pada perkalian.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0018",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Persegi panjang K memiliki keliling 20 cm dan persegi panjang L memiliki keliling 24 cm.\nP = luas persegi panjang K\nQ = luas persegi panjang L\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q − P = 11 cm²",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Keliling tidak menentukan luas. K berukuran 6 × 4 (luas 24) dan L berukuran 11 × 1 (luas 11) memberi P > Q, sedangkan K 9 × 1 (luas 9) dan L 7 × 5 (luas 35) memberi P < Q; selisih 11 cm² hanya muncul jika keduanya dianggap persegi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0019",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Rata-rata 6 bilangan adalah 14. Salah satu bilangan, yaitu 24, dikeluarkan dari kelompok tersebut.\nP = rata-rata 5 bilangan yang tersisa\nQ = 11,5\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah awal 6 × 14 = 84. Setelah 24 dikeluarkan jumlahnya 60, sehingga P = 60 ÷ 5 = 12 > 11,5.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0020",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "k adalah bilangan real.\nP = 150% dari k\nQ = k/2\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 3Q",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 1,5k dan Q = 0,5k, jadi P = 3Q untuk semua k. Urutannya bergantung pada tanda k (k = 2 memberi P = 3 > Q = 1, k = −2 memberi P = −3 < Q = −1), sehingga yang selalu benar adalah P = 3Q.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0021",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = 40% dari 75\nQ = 75% dari 42\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q − P = 3",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 0,4 × 75 = 30 dan Q = 0,75 × 42 = 31,5, jadi P < Q. Pola a% dari b = b% dari a tidak berlaku karena bilangannya 40 dan 42, bukan sama.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0022",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x adalah bilangan real.\nP = (x + 3)² − (x − 3)²\nQ = 12x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 12Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gunakan a² − b² = (a + b)(a − b): P = (2x)(6) = 12x = Q. Nilai x tidak diketahui, tetapi P dan Q selalu sama.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0023",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x dan y adalah bilangan bulat dengan x > y.\nP = x²\nQ = y²\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "x > y tidak menjamin x² > y². Untuk x = 3 dan y = 1, P = 9 > Q = 1; untuk x = −1 dan y = −3, P = 1 < Q = 9, jadi hubungan tidak dapat ditentukan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0024",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "a/b = 3/4 dengan b ≠ 0\nP = (a + b)/b\nQ = 1,7\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 0,5",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "(a + b)/b = a/b + 1 = 3/4 + 1 = 1,75, berapa pun nilai b. Jadi P = 1,75 > 1,7.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0025",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = besar satu sudut dalam segi lima beraturan\nQ = besar satu sudut dalam segi enam beraturan\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 240°",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sudut dalam segi-n beraturan = (n − 2) × 180° ÷ n. P = 540° ÷ 5 = 108° dan Q = 720° ÷ 6 = 120°, jadi P < Q.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0026",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Harga sebuah kipas angin Rp80.000 dinaikkan 25%, kemudian harga barunya diturunkan 20%.\nP = harga akhir kipas angin\nQ = Rp80.000\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + Rp4.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Faktor perubahannya 1,25 × 0,8 = 1, sehingga harga kembali menjadi Rp80.000. Jebakannya mengira naik 25% lalu turun 20% sama dengan naik 5%.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0027",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Rata-rata nilai ujian Dika dan Eko adalah 78.\nP = nilai ujian Dika\nQ = nilai ujian Eko\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 156",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rata-rata 78 berarti P + Q = 2 × 78 = 156. Nilai masing-masing tidak diketahui (80 dan 76 memberi P > Q, 70 dan 86 memberi P < Q), jadi yang pasti benar hanya P + Q = 156.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0028",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Kelompok I terdiri atas 20 orang dengan rata-rata nilai 70. Kelompok II terdiri atas 30 orang dengan rata-rata nilai 80.\nP = rata-rata nilai gabungan kedua kelompok\nQ = 75\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q − 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = (20 × 70 + 30 × 80) ÷ 50 = 3.800 ÷ 50 = 76 > 75. Rata-rata gabungan condong ke kelompok yang anggotanya lebih banyak; bobot yang tertukar menghasilkan 74 (opsi E).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0029",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Rata-rata lima bilangan bulat positif adalah 10.\nP = bilangan terbesar di antara kelima bilangan tersebut\nQ = 12\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q − 2",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah kelima bilangan 50. Jika semuanya 10, P = 10 < 12; jika bilangannya 1, 1, 1, 1, 46, P = 46 > 12, jadi hubungan tidak dapat ditentukan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0030",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Rata-rata nilai 9 pegawai adalah 72. Setelah satu pegawai pindah tugas, rata-rata nilai 8 pegawai yang tersisa menjadi 73.\nP = nilai pegawai yang pindah tugas\nQ = 65\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 6",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P = 9 × 72 − 8 × 73 = 648 − 584 = 64 < 65. Cara cepat: rata-rata 8 orang naik 1, jadi nilai yang keluar 72 − 8 × 1 = 64.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0031",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = (∛27)²\nQ = √81\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 3Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "∛27 = 3, jadi P = 3² = 9, dan Q = √81 = 9. Jadi P = Q.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0032",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "0 < x < 1\nP = √x\nQ = x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q²",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Untuk 0 < x < 1 berlaku x < √x, misalnya x = 0,25 memberi √x = 0,5. Jadi P > Q; yang benar justru Q = P², bukan P = Q².",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0033",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x² − 5x + 6 = 0\nP = x\nQ = 2,5\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q + 0,5",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "(x − 2)(x − 3) = 0, jadi x = 2 atau x = 3. Untuk x = 2, P < Q; untuk x = 3, P > Q, sehingga hubungan tidak dapat ditentukan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0034",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x dan y adalah bilangan real yang tidak sama dengan nol.\nP = x/y\nQ = y/x\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "PQ = 1",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PQ = (x/y)(y/x) = 1 untuk semua x dan y. Urutannya tidak tetap (x = 2, y = 1 memberi P = 2 > Q = 0,5; x = 1, y = 2 memberi P = 0,5 < Q = 2), jadi yang selalu benar adalah PQ = 1.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0035",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "x² − 7x + 12 = 0\nP = x\nQ = 5\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = Q − 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "(x − 3)(x − 4) = 0, jadi x = 3 atau x = 4. Kedua nilai kurang dari 5 sehingga P < Q pasti; dua akar tidak otomatis berarti tidak dapat ditentukan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0036",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "P = √50 + √2\nQ = √70\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P² + 18 = Q²",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "√50 = 5√2, jadi P = 6√2 = √72 > √70. Jebakan √50 + √2 = √52 menghasilkan P < Q dan relasi pada opsi E.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0037",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Rata-rata tiga bilangan x, y, dan z adalah 4.\nP = x + y − 8\nQ = 4 − z\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P + Q = 0",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "x + y + z = 12, sehingga x + y = 12 − z dan P = 12 − z − 8 = 4 − z = Q. Walaupun x, y, dan z tidak diketahui, P selalu sama dengan Q.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0038",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "n adalah bilangan bulat positif.\nP = 2ⁿ\nQ = n²\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P = 2Q",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "n = 1 memberi P = 2 > Q = 1, n = 3 memberi P = 8 < Q = 9, dan n = 5 memberi P = 32 > Q = 25. Hubungan bergantung pada n sehingga tidak dapat ditentukan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0039",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "Sebuah persegi memiliki luas 49 cm². Sebuah lingkaran memiliki diameter 9 cm (π = 22/7).\nP = keliling persegi\nQ = keliling lingkaran\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q − P = 2 cm",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sisi persegi 7 cm sehingga P = 28 cm, sedangkan Q = 22/7 × 9 = 198/7 ≈ 28,29 cm. Jadi P < Q dengan selisih hanya 2/7 cm.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-perbandingan_kuantitatif-0040",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "perbandingan_kuantitatif",
+    "stem": "n adalah bilangan bulat positif.\nP = (−2)ⁿ\nQ = (−2)ⁿ⁺¹\nHubungan yang tepat antara P dan Q adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P > Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P < Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P = Q",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hubungan P dan Q tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Q = −2P",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Q = (−2)ⁿ × (−2) = −2P untuk semua n. Urutannya berganti-ganti (n = 1 memberi P = −2 < Q = 4, n = 2 memberi P = 4 > Q = −8), tetapi Q = −2P selalu benar.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0001",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah kereta api melaju dari Jakarta ke arah Cirebon dengan kecepatan rata-rata 80 km/jam selama 2 jam 15 menit. Jarak yang ditempuh kereta tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "160 km",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "172 km",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "175 km",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "180 km",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "200 km",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "2 jam 15 menit = 2,25 jam, jadi jarak = 80 × 2,25 = 180 km. Pengecoh 172 km muncul jika 2 jam 15 menit ditulis 2,15 jam, dan 200 km jika 15 menit dianggap setengah jam.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0002",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Jarak Jakarta–Cirebon melalui jalan tol dianggap 210 km. Pukul 08.00 sebuah mobil berangkat dari Jakarta menuju Cirebon dengan kecepatan 80 km/jam. Pada saat yang sama sebuah bus berangkat dari Cirebon menuju Jakarta melalui jalan yang sama dengan kecepatan 60 km/jam. Kedua kendaraan berpapasan pukul ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "09.30",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "09.45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "09.50",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "11.00",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "18.30",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Berangkat bersamaan dan saling mendekat: t = 210 ÷ (80 + 60) = 1,5 jam = 1 jam 30 menit, jadi berpapasan pukul 09.30. Selisih kecepatan hanya dipakai untuk kasus menyusul, dan 1,5 jam bukan 1 jam 50 menit.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0003",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Rina bersepeda dari kantor kelurahan menuju pasar yang berjarak 15 km dengan kecepatan 12 km/jam, berangkat pukul 07.00. Pukul 07.30 kakaknya menyusul dengan sepeda motor melalui jalan yang sama dengan kecepatan 36 km/jam. Kakak berhasil menyusul Rina pada pukul ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "07.15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "07.40",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "07.45",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "07.55",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "08.00",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pukul 07.30 Rina sudah menempuh 12 × 0,5 = 6 km. Waktu menyusul = 6 ÷ (36 − 12) = 0,25 jam = 15 menit, jadi pukul 07.45.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0004",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Pak Joko berangkat dari rumah ke kantor dengan kecepatan rata-rata 60 km/jam, lalu pulang melalui jalan yang sama. Agar kecepatan rata-rata untuk seluruh perjalanan pulang-pergi tepat 48 km/jam, kecepatan rata-rata saat pulang haruslah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12 km/jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24 km/jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "36 km/jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "40 km/jam",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "240 km/jam",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rata-rata pulang-pergi = 2 × 60 × v ÷ (60 + v) = 48, sehingga 120v = 2.880 + 48v dan v = 40 km/jam. Cek cepat: 2 × 60 × 40 ÷ 100 = 48; pengecoh 36 berasal dari rata-rata biasa (60 + v) ÷ 2 = 48.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0005",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah kereta api yang panjangnya 200 m melaju dengan kecepatan tetap 72 km/jam dan melewati terowongan sepanjang 400 m. Waktu sejak ujung depan kereta masuk terowongan sampai ujung belakang kereta keluar dari terowongan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "8,3 detik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "10 detik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "20 detik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30 detik",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "40 detik",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "72 km/jam = 20 m/detik. Jarak yang ditempuh = panjang terowongan + panjang kereta = 600 m, jadi waktunya 600 ÷ 20 = 30 detik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0006",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Jarak kota P dan kota Q adalah 220 km. Sebuah truk berangkat dari kota P menuju kota Q pukul 07.00 dengan kecepatan 40 km/jam. Pukul 07.30 sebuah mobil berangkat dari kota Q menuju kota P melalui jalan yang sama dengan kecepatan 60 km/jam. Kedua kendaraan berpapasan pukul ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "09.00",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "09.12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "09.30",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "09.42",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "09.50",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sampai pukul 07.30 truk sudah menempuh 40 × 0,5 = 20 km, sisa jarak 200 km. Waktu berpapasan = 200 ÷ (40 + 60) = 2 jam dihitung dari 07.30, jadi pukul 09.30.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0007",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Jumlah usia ayah dan anaknya sekarang 50 tahun, sedangkan selisih usia mereka 26 tahun. Usia ayah 5 tahun yang akan datang adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "17 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "24 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "38 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "43 tahun",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Usia ayah = (50 + 26) ÷ 2 = 38 tahun, jadi 5 tahun lagi 43 tahun. Pengecoh 38 lupa menambah 5 tahun, sedangkan 12 dan 17 adalah usia anak.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0008",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Lima tahun yang lalu usia Rani 3 kali usia adiknya. Tiga tahun yang akan datang usia Rani 2 kali usia adiknya. Usia Rani sekarang adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "13 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "16 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "24 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "29 tahun",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "32 tahun",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Misalkan usia adik 5 tahun lalu a dan Rani 3a. Tiga tahun lagi: 3a + 8 = 2(a + 8), sehingga a = 8 dan usia Rani sekarang 3 × 8 + 5 = 29 tahun (uji: 32 = 2 × 16).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0009",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Perbandingan usia Dimas dan Eka sekarang 5 : 3, dan selisih usia mereka 8 tahun. Pada saat perbandingan usia mereka menjadi 3 : 2, jumlah usia mereka adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "20 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "32 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "36 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "40 tahun",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Selisih usia tidak pernah berubah. Pada 5 : 3, selisih 8 = 2 bagian sehingga Dimas 20 dan Eka 12; pada 3 : 2, selisih 8 = 1 bagian sehingga Dimas 24 dan Eka 16, jumlahnya 40 tahun.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0010",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Lima tahun yang lalu usia Pak Hadi 7 kali usia cucunya. Lima tahun yang akan datang usia Pak Hadi 4 kali usia cucunya. Jumlah usia Pak Hadi dan cucunya sekarang adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "70 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "75 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "80 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "90 tahun",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "100 tahun",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Misalkan usia cucu 5 tahun lalu c dan Pak Hadi 7c. Lima tahun lagi: 7c + 10 = 4(c + 10), sehingga c = 10; sekarang cucu 15 tahun dan Pak Hadi 75 tahun, jumlahnya 90 tahun.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0011",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Adi dapat mengecat pagar kantor kelurahan sendirian dalam 6 jam, sedangkan Beni dapat mengecat pagar yang sama sendirian dalam 12 jam. Jika mereka bekerja bersama, pagar selesai dicat dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 jam",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6 jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "9 jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "18 jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "72 jam",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "1/6 + 1/12 = 3/12 = 1/4, jadi bersama 4 jam (cepat: 6 × 12 ÷ 18 = 4). Kerja bersama pasti lebih cepat daripada pekerja tercepat (6 jam), sehingga opsi B sampai E langsung gugur.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0012",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah bak penampungan air di balai desa dapat diisi penuh oleh keran A dalam 3 jam dan oleh keran B dalam 6 jam. Bak yang penuh dapat dikosongkan oleh saluran pembuangan C dalam 4 jam. Jika bak dalam keadaan kosong lalu keran A, keran B, dan saluran C dibuka bersamaan, bak akan penuh dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 jam 20 menit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2 jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "4 jam",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "5 jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "13 jam",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Laju bersih = 1/3 + 1/6 − 1/4 = (4 + 2 − 3)/12 = 1/4 bak per jam, jadi bak penuh dalam 4 jam. Saluran pembuangan dikurangkan, bukan dijumlahkan (1 jam 20 menit) atau diabaikan (2 jam).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0013",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah pekerjaan dapat diselesaikan Sari sendirian dalam 10 hari dan Tono sendirian dalam 15 hari. Mereka mulai bekerja bersama, tetapi Tono berhenti 5 hari sebelum pekerjaan selesai sehingga Sari menyelesaikan sisanya sendirian. Berapa hari Tono bekerja?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 hari",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "5 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "6 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "11 hari",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika total waktu T hari, Sari bekerja T hari dan Tono T − 5 hari: T/10 + (T − 5)/15 = 1, sehingga 3T + 2T − 10 = 30 dan T = 8. Tono bekerja 8 − 5 = 3 hari (8 hari adalah total waktu, bukan yang ditanyakan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0014",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Tiga petugas kelurahan dapat menginput 600 data penduduk dalam 4 jam. Dengan kecepatan kerja setiap petugas yang sama, banyak petugas yang diperlukan untuk menginput 1.500 data dalam 3 jam adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "7 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "10 orang",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Satu petugas menginput 600 ÷ (3 × 4) = 50 data per jam. Petugas yang diperlukan = 1.500 ÷ (50 × 3) = 10 orang; 7 orang hanyalah tambahannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0015",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Persediaan pakan di sebuah peternakan cukup untuk 40 ekor ayam selama 15 hari. Jika ayam ditambah 20 ekor, persediaan pakan yang sama akan habis dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 hari",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "15 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "22,5 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "45 hari",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Berbalik nilai: 40 × 15 = 60 × t, sehingga t = 600 ÷ 60 = 10 hari. Ayam bertambah berarti pakan lebih cepat habis, jadi jawaban harus kurang dari 15 hari.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0016",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Renovasi balai desa direncanakan selesai dalam 20 hari oleh 18 pekerja. Setelah 8 hari bekerja, 6 pekerja dipindahkan ke proyek lain dan sisa pekerjaan dilanjutkan oleh pekerja yang ada. Waktu total renovasi dari awal sampai selesai adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "12 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "16 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "18 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "20 hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "26 hari",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sisa pekerjaan = 18 pekerja × 12 hari = 216 orang-hari. Dikerjakan 12 orang perlu 216 ÷ 12 = 18 hari, sehingga total 8 + 18 = 26 hari.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0017",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah mobil dinas menghabiskan 8 liter bensin untuk menempuh 96 km. Jika harga bensin Rp10.000 per liter, biaya bensin untuk menempuh 150 km adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp51.200",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp80.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp125.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp150.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp187.500",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konsumsinya 96 ÷ 8 = 12 km per liter, jadi 150 km memerlukan 12,5 liter × Rp10.000 = Rp125.000. Pengecoh Rp187.500 muncul dari 150 ÷ 8 (membagi jarak dengan liter yang salah).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0018",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Uang Rp840.000 dibagikan kepada Ani, Budi, dan Cici dengan perbandingan 2 : 3 : 7. Selisih bagian Cici dan bagian Budi adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp210.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp280.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp350.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp490.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp700.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Satu bagian = 840.000 ÷ (2 + 3 + 7) = Rp70.000. Selisih Cici dan Budi = (7 − 3) × 70.000 = Rp280.000.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0019",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Pembangunan sebuah pos ronda dapat diselesaikan oleh 6 orang dalam 12 hari. Agar pos ronda selesai dalam 8 hari, banyak pekerja tambahan yang diperlukan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "3 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "4 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "6 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "9 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Berbalik nilai: 6 × 12 = 72 orang-hari, sehingga untuk 8 hari diperlukan 72 ÷ 8 = 9 orang. Tambahannya 9 − 6 = 3 orang; perhatikan yang ditanyakan tambahan, bukan jumlah pekerja.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0020",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Seorang pedagang di pasar mencampur 15 kg beras seharga Rp12.000 per kg dengan 10 kg beras seharga Rp14.500 per kg. Harga rata-rata beras campuran per kg adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp13.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp13.250",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp13.500",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp26.500",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp325.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Harga rata-rata = (15 × 12.000 + 10 × 14.500) ÷ 25 = 325.000 ÷ 25 = Rp13.000. Hasilnya lebih dekat ke Rp12.000 karena beras itu lebih banyak, jadi Rp13.250 (rata-rata biasa) salah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0021",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Terdapat 40 liter larutan gula dengan kadar 15%. Agar kadarnya turun menjadi 12%, banyak air yang harus ditambahkan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1,2 liter",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6 liter",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "8 liter",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "10 liter",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "50 liter",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Banyak gula tetap 15% × 40 = 6 liter. Volume akhir = 6 ÷ 12% = 50 liter, jadi air yang ditambahkan 50 − 40 = 10 liter.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0022",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebanyak 30 liter larutan alkohol berkadar 20% dicampur dengan x liter larutan alkohol berkadar 50% sehingga kadar campurannya 30%. Nilai x adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "15",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "60",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "30 × 20% + x × 50% = (30 + x) × 30%, sehingga 6 + 0,5x = 9 + 0,3x dan x = 15. Cara silang: volume 20% : volume 50% = (50 − 30) : (30 − 20) = 2 : 1, jadi x = 30 ÷ 2 = 15 (membalik perbandingan menghasilkan 60).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0023",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Pedagang kopi mencampur kopi arabika seharga Rp120.000 per kg dan kopi robusta seharga Rp80.000 per kg dengan perbandingan berat 1 : 3. Agar memperoleh untung 20%, harga jual kopi campuran per kg adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp90.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp108.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp110.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp120.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp132.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Harga pokok campuran = (1 × 120.000 + 3 × 80.000) ÷ 4 = Rp90.000. Harga jual = 1,2 × 90.000 = Rp108.000.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0024",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Seorang pedagang membeli sepasang sepatu seharga Rp150.000 dan ingin memperoleh keuntungan 20% dari harga beli. Harga jual sepatu tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp30.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp120.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp125.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp170.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp180.000",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Harga jual = 150.000 × 1,2 = Rp180.000. Rp30.000 hanya besar keuntungannya, dan Rp170.000 muncul jika 20% dibaca Rp20.000.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0025",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah toko memberi diskon 25% ditambah diskon lanjutan 20% untuk kemeja berlabel Rp240.000. Harga yang harus dibayar pembeli adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp96.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp132.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp144.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp180.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp192.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Diskon bertingkat dikalikan: 240.000 × 0,75 × 0,8 = Rp144.000. Menjumlahkan diskon menjadi 45% menghasilkan Rp132.000 yang salah, dan Rp96.000 adalah besar potongannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0026",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Seorang pedagang membeli 50 kg jeruk seharga Rp600.000. Ternyata 10 kg jeruk busuk dan tidak dapat dijual. Sisanya dijual dengan harga Rp18.000 per kg. Persentase keuntungan pedagang tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16,7%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "20%",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "25%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "50%",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hasil penjualan 40 × 18.000 = Rp720.000, sehingga untung Rp120.000. Persentase untung = 120.000 ÷ 600.000 × 100% = 20% (dibagi modal seluruhnya, bukan hasil penjualan atau modal 40 kg).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0027",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah barang dibeli seharga Rp200.000. Pedagang ingin tetap memperoleh untung 30% dari harga beli meskipun memberi diskon 20% dari harga label. Harga label barang tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp220.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp260.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp300.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp312.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp325.000",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Harga jual = 1,3 × 200.000 = Rp260.000 dan harga jual = 0,8 × harga label, jadi label = 260.000 ÷ 0,8 = Rp325.000. Pengecoh Rp312.000 muncul dari 260.000 × 1,2, padahal diskon 20% tidak dibatalkan oleh kenaikan 20%.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0028",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Seorang pedagang menjual dua sepeda dengan harga masing-masing Rp1.200.000. Sepeda pertama dijual dengan untung 20% dan sepeda kedua dengan rugi 20%, keduanya dihitung dari harga beli. Secara keseluruhan pedagang tersebut ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "untung Rp100.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tidak untung dan tidak rugi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "rugi Rp48.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "rugi Rp96.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "rugi Rp100.000",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Harga beli sepeda pertama 1.200.000 ÷ 1,2 = Rp1.000.000 dan sepeda kedua 1.200.000 ÷ 0,8 = Rp1.500.000. Total beli Rp2.500.000 dan total jual Rp2.400.000, jadi rugi Rp100.000; untung 20% dan rugi 20% tidak saling meniadakan karena dasar harga belinya berbeda.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0029",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Bu Ani menabung Rp2.000.000 di koperasi dengan bunga tunggal 6% per tahun. Besar tabungan Bu Ani setelah 9 bulan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp90.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp2.090.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp2.120.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp2.160.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp3.080.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bunga = 2.000.000 × 6% × 9/12 = Rp90.000, sehingga tabungan menjadi Rp2.090.000. Rp90.000 hanya bunganya, Rp2.120.000 memakai bunga setahun penuh, dan Rp3.080.000 menganggap 9 bulan sebagai 9 tahun.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0030",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Pak Darto meminjam Rp6.000.000 di koperasi dengan bunga tunggal 12% per tahun. Pinjaman beserta bunganya dilunasi dengan 10 kali angsuran bulanan yang sama besar. Besar setiap angsuran adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp600.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp606.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp650.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp660.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp672.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bunga 10 bulan = 6.000.000 × 12% × 10/12 = Rp600.000. Total pengembalian Rp6.600.000 dibagi 10 angsuran = Rp660.000; Rp672.000 muncul jika bunga setahun penuh (Rp720.000) yang dipakai.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0031",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Tabungan awal Rp1.500.000 di sebuah bank menjadi Rp1.620.000 setelah 10 bulan dengan sistem bunga tunggal. Suku bunga per tahun bank tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0,8%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6,7%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "8%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8,9%",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "9,6%",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bunga 10 bulan = Rp120.000 = 8% dari Rp1.500.000, atau 0,8% per bulan. Suku bunga per tahun = 0,8% × 12 = 9,6%; jawaban 8% lupa menyetahunkan, sedangkan 0,8% adalah bunga per bulan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0032",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Jarak sebenarnya antara dua kantor kecamatan adalah 36 km. Pada sebuah peta, jarak kedua kantor itu 4,5 cm. Skala peta tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1 : 80.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1 : 800.000",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1 : 8.000.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "1 : 16.200.000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1 : 80.000.000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "36 km = 3.600.000 cm, jadi skala = 4,5 : 3.600.000 = 1 : 800.000. Ingat 1 km = 100.000 cm; opsi 1 : 16.200.000 muncul karena jarak dikalikan, bukan dibagi.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0033",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah lapangan berbentuk persegi panjang berukuran 60 m × 40 m digambar pada denah berskala 1 : 800. Luas lapangan pada denah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0,375 cm²",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "3,75 cm²",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "37,5 cm²",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "375 cm²",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "30.000 cm²",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ukuran pada denah: 6.000 cm ÷ 800 = 7,5 cm dan 4.000 cm ÷ 800 = 5 cm, jadi luasnya 37,5 cm². Luas diperkecil dengan faktor 800², bukan 800 (yang menghasilkan 30.000 cm²).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0034",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Jarak dua desa pada peta berskala 1 : 250.000 adalah 6 cm. Jika kedua desa itu digambar pada peta berskala 1 : 400.000, jaraknya pada peta tersebut menjadi ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3,75 cm",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6 cm",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "9,6 cm",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "15 cm",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "37,5 cm",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jarak sebenarnya = 6 × 250.000 = 1.500.000 cm (15 km), sehingga pada skala 1 : 400.000 jaraknya 1.500.000 ÷ 400.000 = 3,75 cm. Penyebut skala yang lebih besar membuat jarak di peta lebih pendek, jadi 9,6 cm (perbandingan dibalik) pasti salah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0035",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Nilai ujian tujuh peserta seleksi perangkat desa adalah 70, 85, 60, 90, 75, 85, 80. Median data tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "75",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "77,9",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "80",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "85",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "90",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutkan dulu: 60, 70, 75, 80, 85, 85, 90, sehingga data ke-4 (median) adalah 80. Pengecoh 90 adalah data ke-4 sebelum diurutkan, 85 adalah modus, dan 77,9 adalah rata-rata.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0036",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Rata-rata nilai 40 siswa adalah 75. Jika rata-rata nilai 25 siswa di antaranya adalah 72, rata-rata nilai 15 siswa lainnya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "48",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "76,8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "78",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "80",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah nilai seluruhnya 40 × 75 = 3.000 dan jumlah nilai 25 siswa 25 × 72 = 1.800. Sisanya 1.200 dibagi 15 siswa = 80; jawaban 78 berasal dari rata-rata biasa yang mengabaikan banyak siswa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0037",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Rata-rata berat 10 karung beras di gudang kelurahan adalah 48 kg. Setelah 2 karung diambil, rata-rata berat 8 karung sisanya menjadi 47,5 kg. Jumlah berat 2 karung yang diambil adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "4 kg",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "50 kg",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "95 kg",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "96 kg",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "100 kg",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah awal 10 × 48 = 480 kg dan jumlah sisa 8 × 47,5 = 380 kg, jadi dua karung yang diambil beratnya 100 kg. Angka 50 kg adalah rata-rata kedua karung, bukan jumlahnya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0038",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Data 4, 9, 6, x, 8, 6 memiliki rata-rata 7. Median dan modus data tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "median 6; modus 6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "median 7; modus 6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "median 7,5; modus 6 dan 9",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "median 7; modus 6 dan 9",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "median 7; tidak ada modus",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah data = 6 × 7 = 42, jadi x = 42 − 33 = 9. Data terurut 4, 6, 6, 8, 9, 9 memberi median (6 + 8) ÷ 2 = 7 dan modus 6 dan 9 karena keduanya muncul dua kali; median 7,5 muncul jika data tidak diurutkan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0039",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Rata-rata enam bilangan adalah 15. Jika setiap bilangan dikalikan 2 lalu dikurangi 3, rata-rata bilangan yang baru adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "27",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "33",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "36",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "162",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Operasi yang dikenakan pada setiap data berlaku juga pada rata-ratanya: 2 × 15 − 3 = 27. Angka 162 adalah jumlah data baru, bukan rata-ratanya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0040",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dari 45 pegawai kantor kelurahan, 28 orang dapat mengemudikan mobil, 20 orang dapat mengemudikan sepeda motor, dan 8 orang dapat mengemudikan keduanya. Banyak pegawai yang tidak dapat mengemudikan keduanya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "5 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "13 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "17 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "25 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "n(mobil ∪ motor) = 28 + 20 − 8 = 40, jadi yang tidak dapat keduanya 45 − 40 = 5 orang. Jawaban 3 muncul jika irisan tidak dikurangkan (48 − 45).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0041",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dalam survei terhadap 80 warga, 50 orang membaca koran, 42 orang menonton berita televisi, dan 12 orang tidak melakukan keduanya. Banyak warga yang hanya menonton berita televisi adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "18 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "24 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "26 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "30 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "42 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "n(koran ∪ televisi) = 80 − 12 = 68, sehingga irisannya 50 + 42 − 68 = 24. Yang hanya menonton televisi = 42 − 24 = 18 orang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0042",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dari 100 peserta pelatihan komputer di kantor kecamatan, 45 orang memilih kelas Excel, 40 orang kelas Word, dan 35 orang kelas PowerPoint. Sebanyak 15 orang memilih Excel dan Word, 12 orang Excel dan PowerPoint, 10 orang Word dan PowerPoint (masing-masing sudah termasuk yang memilih ketiganya), dan 5 orang memilih ketiga kelas. Banyak peserta yang tidak memilih satu kelas pun adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "12 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "17 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "22 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "27 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "n(gabungan) = 45 + 40 + 35 − 15 − 12 − 10 + 5 = 88, jadi yang tidak memilih satu kelas pun 100 − 88 = 12 orang. Lupa menambahkan kembali 5 orang di irisan ketiganya menghasilkan 17.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0043",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dari 60 siswa, 35 siswa mengikuti pramuka dan 30 siswa mengikuti PMR. Banyak siswa yang mengikuti kedua kegiatan tersebut paling sedikit adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "5 siswa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "25 siswa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "30 siswa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "35 siswa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "65 siswa",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gabungan kedua kegiatan paling banyak 60 siswa, sehingga irisan paling sedikit 35 + 30 − 60 = 5 siswa. Angka 30 adalah irisan paling banyak, bukan paling sedikit.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0044",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dua buah dadu dilempar bersamaan satu kali. Peluang munculnya mata dadu berjumlah 8 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1/11",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "5/36",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "1/7",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1/6",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasangan berjumlah 8 adalah (2,6), (3,5), (4,4), (5,3), (6,2), yaitu 5 dari 36 hasil, jadi peluangnya 5/36. Pasangan (2,6) dan (6,2) dihitung terpisah; 1/6 adalah peluang jumlah 7.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0045",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Sebuah kotak berisi 4 kelereng merah dan 6 kelereng putih. Dua kelereng diambil satu per satu tanpa pengembalian. Peluang terambil kelereng merah pada pengambilan pertama dan kelereng putih pada pengambilan kedua adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "2/15",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6/25",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "4/15",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "2/5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "8/15",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Peluangnya 4/10 × 6/9 = 24/90 = 4/15. Dengan pengembalian hasilnya 6/25, sedangkan 8/15 adalah peluang satu merah dan satu putih tanpa memperhatikan urutan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0046",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Dari 6 pria dan 4 wanita akan dipilih 3 orang secara acak untuk menjadi panitia peringatan HUT RI di kelurahan. Peluang terpilih tepat 2 wanita adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/20",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1/10",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "36/125",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "3/10",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1/3",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Banyak cara memilih 2 wanita dan 1 pria = C(4,2) × C(6,1) = 36 dari C(10,3) = 120 cara, jadi peluangnya 36/120 = 3/10. Pengecoh 1/3 adalah peluang paling sedikit 2 wanita (40/120).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0047",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Peluang Ani lulus seleksi CPNS adalah 0,7 dan peluang Budi lulus adalah 0,4. Kelulusan keduanya saling bebas. Peluang tepat satu di antara mereka yang lulus adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "0,12",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "0,18",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "0,28",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "0,42",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "0,54",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tepat satu lulus = (Ani lulus, Budi gagal) + (Ani gagal, Budi lulus) = 0,7 × 0,6 + 0,3 × 0,4 = 0,42 + 0,12 = 0,54. Opsi 0,42 dan 0,12 hanya menghitung salah satu kasus.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0048",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Di sebuah terminal, bus jurusan A berangkat setiap 12 menit, bus jurusan B setiap 18 menit, dan bus jurusan C setiap 30 menit. Ketiga bus berangkat bersamaan pukul 06.00. Ketiganya akan berangkat bersamaan lagi untuk pertama kalinya pukul ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "06.06",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "06.36",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "07.00",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "07.30",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "09.00",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "KPK(12, 18, 30) = 180 menit = 3 jam, jadi 06.00 + 3 jam = 09.00. FPB (6 menit) dan KPK dua jurusan saja (36 atau 90 menit) adalah pengecoh.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0049",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Tanggal 1 Januari 2027 jatuh pada hari Jumat. Tanggal 17 Agustus 2027 jatuh pada hari ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sabtu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Minggu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Senin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Selasa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rabu",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dari 1 Januari ke 17 Agustus ada 30 + 28 + 31 + 30 + 31 + 30 + 31 + 17 = 228 hari (sisa Januari 30 hari, Februari 28 hari karena 2027 bukan tahun kabisat). 228 = 7 × 32 + 4, jadi Jumat + 4 hari = Selasa.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-numerik-soal_cerita-0050",
+    "subtest": "TIU",
+    "group": "numerik",
+    "tag": "soal_cerita",
+    "stem": "Posyandu Melati memberikan pelayanan setiap 9 hari sekali. Pelayanan pertama jatuh pada hari Senin. Pelayanan ke-10 jatuh pada hari ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rabu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kamis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Jumat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sabtu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Minggu",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dari pelayanan pertama ke pelayanan ke-10 ada 9 selang × 9 hari = 81 hari. 81 = 7 × 11 + 4, jadi Senin + 4 hari = Jumat; memakai 10 × 9 = 90 hari menghasilkan Minggu yang salah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

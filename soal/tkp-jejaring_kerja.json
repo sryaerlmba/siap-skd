@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0001",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda pegawai baru di bagian perencanaan sebuah dinas. Pekerjaan Anda sering membutuhkan data dari bidang lain, tetapi Anda belum mengenal satu pun pegawai di bidang-bidang tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendatangi tiap bidang untuk memperkenalkan diri dan menyampaikan bahwa Anda akan sering membutuhkan data dari mereka",
+        "score": 4,
+        "rationale": "Proaktif membuka hubungan, tetapi belum memastikan mekanisme permintaan datanya."
+      },
+      {
+        "key": "B",
+        "text": "Meminta rekan satu bagian yang lebih lama bekerja dan sudah dikenal di semua bidang agar selalu menjadi perantara setiap kali Anda membutuhkan data, supaya permintaan Anda lebih cepat dilayani",
+        "score": 2,
+        "rationale": "Menghindari kontak langsung dan menambah beban rekan sehingga jejaring Anda sendiri tidak terbangun."
+      },
+      {
+        "key": "C",
+        "text": "Meminta atasan atau rekan satu bagian memperkenalkan Anda kepada penanggung jawab data di tiap bidang, lalu menemui mereka untuk memahami jenis data dan cara permintaannya",
+        "score": 5,
+        "rationale": "Proaktif membangun relasi lewat jalur yang tepat sekaligus memahami mekanisme kerja sama sejak awal."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu sampai ada tugas yang benar-benar membutuhkan data, lalu menghubungi bidang terkait saat itu",
+        "score": 3,
+        "rationale": "Wajar, tetapi reaktif sehingga hubungan kerja baru dibangun ketika keadaan sudah mendesak."
+      },
+      {
+        "key": "E",
+        "text": "Mencari data yang dibutuhkan dari dokumen lama atau internet saja agar tidak perlu merepotkan bidang lain",
+        "score": 1,
+        "rationale": "Bekerja sendiri dengan data yang mungkin usang serta menutup kesempatan bekerja sama."
+      }
+    ],
+    "explanation": "Aspek jejaring kerja menilai kemauan membangun hubungan kerja sejak awal. Pegawai baru yang proaktif memperkenalkan diri melalui jalur yang tepat dan memahami mekanisme berbagi data mencerminkan nilai Kolaboratif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0002",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang rekan satu tim hampir selalu datang terlambat 15 sampai 20 menit pada rapat koordinasi mingguan. Rapat sering ditunda menunggunya karena ia memegang data capaian tim. Anda anggota tim, bukan pemimpin rapat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berbicara dengannya secara pribadi untuk menanyakan kendalanya, lalu bersama-sama mengusulkan solusi kepada pemimpin rapat, misalnya jam rapat disesuaikan atau data dikirim lebih awal",
+        "score": 5,
+        "rationale": "Mencari akar masalah lewat dialog langsung dan menghasilkan solusi bersama tanpa melangkahi pemimpin rapat."
+      },
+      {
+        "key": "B",
+        "text": "Menyapanya secara pribadi di luar rapat dan mengingatkan dengan sopan bahwa keterlambatannya membuat rapat sering molor dan peserta lain harus menunggu data capaian yang ia pegang",
+        "score": 4,
+        "rationale": "Komunikasi langsung dan santun, tetapi belum menggali kendala atau menawarkan jalan keluar."
+      },
+      {
+        "key": "C",
+        "text": "Menyindir keterlambatannya di depan peserta rapat agar ia merasa malu dan berubah",
+        "score": 1,
+        "rationale": "Mempermalukan rekan di depan umum merusak hubungan dan suasana kerja."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan kepada pemimpin rapat agar rapat tetap dimulai tepat waktu tanpa menunggu siapa pun",
+        "score": 3,
+        "rationale": "Menjaga ketepatan waktu, tetapi tidak menyentuh penyebab keterlambatan dan data tetap belum tersedia saat dibutuhkan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan kebiasaan terlambatnya kepada atasan agar ia ditegur",
+        "score": 2,
+        "rationale": "Eskalasi sebelum mencoba berkomunikasi langsung sehingga berisiko merusak hubungan kerja."
+      }
+    ],
+    "explanation": "Masalah kebiasaan rekan sebaiknya diselesaikan lewat komunikasi langsung yang mencari penyebabnya, lalu solusinya disepakati melalui pihak yang berwenang atas rapat. Ini mencerminkan nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0003",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Atasan menunjuk Anda sebagai koordinator tim lintas bidang untuk menyusun buku profil daerah. Sebagian anggota tim berasal dari bidang lain dan memiliki masa kerja jauh lebih lama daripada Anda. Langkah apa yang Anda ambil di awal?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengerjakan sebagian besar bagian sendiri agar tidak perlu meminta tolong anggota senior yang mungkin enggan diatur",
+        "score": 1,
+        "rationale": "Memutus kerja sama tim dan tidak menjalankan peran koordinator yang diberikan."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun pembagian tugas dan tenggat, lalu membahasnya dalam rapat awal untuk mendapat persetujuan anggota",
+        "score": 4,
+        "rationale": "Terstruktur dan tetap melibatkan anggota, tetapi pengalaman anggota senior belum dimanfaatkan sejak perencanaan."
+      },
+      {
+        "key": "C",
+        "text": "Mengadakan rapat awal untuk menyamakan tujuan, meminta masukan anggota senior tentang pengalaman penyusunan sebelumnya, lalu menyepakati pembagian tugas, tenggat, dan jadwal pemantauan bersama",
+        "score": 5,
+        "rationale": "Memimpin secara partisipatif, menghargai pengalaman senior, dan membangun kesepakatan yang jelas sejak awal."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun pembagian tugas dan tenggat secara rinci untuk setiap anggota, lalu mengedarkannya lewat surat dinas yang ditandatangani atasan agar seluruh anggota, termasuk yang senior, tidak dapat membantah",
+        "score": 2,
+        "rationale": "Tertata, tetapi kaku dan menghindari dialog sehingga anggota merasa tidak dilibatkan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta salah satu anggota senior mengatur pembagian tugas karena ia lebih berpengalaman",
+        "score": 3,
+        "rationale": "Menghormati senior, tetapi menyerahkan tanggung jawab koordinasi yang ditugaskan kepada Anda."
+      }
+    ],
+    "explanation": "Koordinator tim lintas bidang dinilai dari kemampuannya menggerakkan semua anggota untuk tujuan bersama, termasuk yang lebih senior. Melibatkan, menghargai pengalaman, dan menyepakati aturan main bersama adalah wujud nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0004",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Tim Anda harus menyerahkan laporan evaluasi program kepada ketua tim besok sore. Seorang rekan dekat mengaku bagiannya baru setengah jadi karena beberapa hari ini ia merawat orang tuanya yang sakit. Ia meminta Anda tidak memberi tahu ketua tim karena khawatir dianggap tidak bertanggung jawab. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak terlibat dan menyampaikan bahwa bagiannya adalah tanggung jawabnya sendiri",
+        "score": 1,
+        "rationale": "Egois dan memutus dukungan kepada rekan yang sedang kesulitan, sementara hasil tim terancam."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan dengan sopan agar ia sendiri segera memberi tahu ketua tim tentang kondisinya, sambil menawarkan bantuan seperlunya",
+        "score": 4,
+        "rationale": "Mendorong keterbukaan dan peduli, tetapi tanpa memastikan langkah itu benar-benar dilakukan hari ini."
+      },
+      {
+        "key": "C",
+        "text": "Membantunya menyelesaikan bagian itu malam ini dan sepakat merahasiakan keterlambatannya dari ketua tim",
+        "score": 2,
+        "rationale": "Menolong, tetapi menutupi masalah dari tim sehingga risiko keterlambatan dan kualitas tidak dikelola secara terbuka."
+      },
+      {
+        "key": "D",
+        "text": "Memberi tahu ketua tim secara langsung bahwa bagian rekan Anda terancam terlambat agar tenggat dapat diantisipasi, tanpa menceritakan urusan pribadinya dan tanpa membicarakannya dulu dengan rekan itu",
+        "score": 3,
+        "rationale": "Menjaga kepentingan tim dan privasi rekan, tetapi melangkahi rekan yang sedang meminta kepercayaan Anda."
+      },
+      {
+        "key": "E",
+        "text": "Menunjukkan empati, membantu sebatas kemampuan, dan mengajaknya menyampaikan kondisinya kepada ketua tim hari ini, bahkan menemaninya, agar tenggat atau tugas dapat disesuaikan",
+        "score": 5,
+        "rationale": "Menyeimbangkan kepedulian pada rekan dengan keterbukaan kepada tim sehingga masalah diselesaikan lewat pihak yang berwenang."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan kepedulian pada rekan (Harmonis) dengan keterbukaan kepada tim (Akuntabel dan Kolaboratif). Skor tertinggi menjaga keduanya: rekan dibantu dan didampingi, sementara masalahnya dibawa secara terbuka kepada ketua tim agar dicarikan solusi bersama.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0005",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang rekan satu tim menyimpan sendiri daftar kontak narasumber dan arsip kegiatan tahun lalu di laptop pribadinya. Setiap kali tim membutuhkannya, ia hanya memberi sebagian dan sering lambat merespons. Anda anggota tim yang kini bertugas menyiapkan kegiatan serupa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menemuinya untuk meminta data lengkap yang Anda butuhkan untuk kegiatan kali ini",
+        "score": 4,
+        "rationale": "Komunikasi langsung dan kebutuhan saat ini terpenuhi, tetapi pola penyimpanan yang tertutup belum diselesaikan."
+      },
+      {
+        "key": "B",
+        "text": "Menemuinya langsung, menjelaskan kebutuhan kegiatan, menanyakan alasan ia menyimpannya sendiri, lalu mengusulkan agar arsip disimpan di folder bersama tim dengan dia tetap sebagai pengelolanya dan menawarkan bantuan merapikannya",
+        "score": 5,
+        "rationale": "Dialog langsung yang menghargai kontribusinya sekaligus membangun sistem berbagi informasi untuk tim."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun ulang daftar kontak sendiri dari nol agar tidak bergantung padanya",
+        "score": 2,
+        "rationale": "Menghindari rekan dan membuang waktu, sementara masalah berbagi informasi tetap ada."
+      },
+      {
+        "key": "D",
+        "text": "Mengeluhkan sikapnya kepada rekan-rekan lain agar ia sadar bahwa sikapnya tidak disukai",
+        "score": 1,
+        "rationale": "Menyebarkan keluhan di belakang rekan merusak hubungan dan tidak menyelesaikan masalah."
+      },
+      {
+        "key": "E",
+        "text": "Meminta ketua tim menginstruksikan agar semua arsip diserahkan ke folder bersama",
+        "score": 3,
+        "rationale": "Bisa efektif, tetapi menyerahkan persoalan ke pihak lain sebelum mencoba berbicara langsung."
+      }
+    ],
+    "explanation": "Berbagi informasi adalah inti jejaring kerja. Skor tertinggi memenuhi kebutuhan saat ini sekaligus membangun kebiasaan berbagi melalui dialog yang menghargai rekan, sesuai nilai Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0006",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda baru kembali dari pelatihan teknis penyusunan anggaran berbasis kinerja yang dibiayai kantor. Rekan-rekan di unit Anda juga menangani penyusunan anggaran, tetapi tidak ikut pelatihan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerapkan ilmu pelatihan pada dokumen anggaran yang Anda tangani, menyempurnakan formatnya, dan menunjukkan hasilnya kepada atasan sebagai bukti manfaat pelatihan",
+        "score": 2,
+        "rationale": "Bermanfaat dan terlihat oleh atasan, tetapi tidak menularkan kompetensi kepada tim."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun ringkasan materi, membagikannya kepada rekan, lalu mengusulkan sesi berbagi singkat di unit dan menawarkan diri membantu saat rekan menerapkannya",
+        "score": 5,
+        "rationale": "Menyebarkan manfaat pelatihan secara aktif sehingga kompetensi tim ikut meningkat."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan materi kepada rekan yang datang bertanya",
+        "score": 3,
+        "rationale": "Mau berbagi, tetapi pasif dan hanya menjangkau rekan yang bertanya."
+      },
+      {
+        "key": "D",
+        "text": "Membagikan bahan pelatihan kepada rekan-rekan lewat surel atau folder bersama",
+        "score": 4,
+        "rationale": "Berbagi informasi, tetapi tanpa upaya memastikan rekan memahami dan dapat menerapkannya."
+      },
+      {
+        "key": "E",
+        "text": "Menyimpan materi pelatihan untuk diri sendiri agar Anda menjadi satu-satunya yang menguasainya di unit",
+        "score": 1,
+        "rationale": "Egois dan sengaja menahan informasi demi keuntungan pribadi."
+      }
+    ],
+    "explanation": "Nilai Kompeten mencakup membantu orang lain belajar, dan nilai Kolaboratif mendorong berbagi sumber daya. Ilmu dari pelatihan yang dibiayai kantor sebaiknya dibagikan secara aktif kepada tim.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0007",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Besok ada rapat koordinasi penyaluran bantuan sosial. Saat menyiapkan bahan, Anda mendapati jumlah penerima bantuan versi unit Anda berbeda cukup jauh dengan data yang dipegang dinas sosial. Anda staf pengolah data. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun tabel perbandingan kedua data, lalu melaporkannya kepada atasan agar perbedaan itu dibahas dalam rapat besok",
+        "score": 4,
+        "rationale": "Terbuka dan tepat jalur, tetapi penyebab selisih belum ditelusuri bersama mitra."
+      },
+      {
+        "key": "B",
+        "text": "Menyiapkan bahan sesuai data unit Anda dan menambahkan catatan bahwa data mungkin berbeda dengan dinas sosial",
+        "score": 3,
+        "rationale": "Jujur, tetapi minim upaya menyelesaikan perbedaan sebelum rapat."
+      },
+      {
+        "key": "C",
+        "text": "Memakai data dinas sosial saja agar tidak terjadi perdebatan di rapat",
+        "score": 2,
+        "rationale": "Menghindari perbedaan tanpa memeriksa data mana yang benar."
+      },
+      {
+        "key": "D",
+        "text": "Menghubungi petugas data di dinas sosial hari ini untuk menelusuri bersama penyebab selisih data, lalu melaporkan hasilnya kepada atasan sebagai bahan rapat",
+        "score": 5,
+        "rationale": "Proaktif memverifikasi langsung dengan mitra sehingga perbedaan data terselesaikan sebelum rapat."
+      },
+      {
+        "key": "E",
+        "text": "Tetap memakai data unit Anda karena diolah langsung dari laporan lapangan terbaru, lalu menyiapkan argumen di rapat bahwa data dinas sosial yang keliru dan perlu mereka perbaiki",
+        "score": 1,
+        "rationale": "Defensif dan menyalahkan pihak lain tanpa verifikasi sehingga berpotensi memicu konflik di rapat."
+      }
+    ],
+    "explanation": "Perbedaan data antarinstansi sebaiknya diselesaikan lewat komunikasi langsung dan verifikasi bersama, bukan dibiarkan atau dipertentangkan. Ini wujud nilai Kolaboratif dan sikap cermat dalam berbagi data.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0008",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang pegawai pindahan baru bergabung di ruangan Anda. Ia terlihat kebingungan menggunakan aplikasi persuratan elektronik yang dipakai kantor. Pekerjaan Anda hari itu tidak terlalu padat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu sampai ia sendiri meminta bantuan, karena pegawai pindahan biasanya ingin membuktikan kemampuannya dan bisa tersinggung bila langsung dibantu tanpa diminta",
+        "score": 2,
+        "rationale": "Pasif, padahal kebutuhan rekan sudah terlihat jelas."
+      },
+      {
+        "key": "B",
+        "text": "Menawarkan bantuan dan mengerjakan surat yang perlu ia kirim hari itu",
+        "score": 4,
+        "rationale": "Membantu dan ramah, tetapi ia belum belajar menggunakan aplikasinya sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Memberitahunya bahwa ada buku panduan aplikasi di laman internal kantor",
+        "score": 3,
+        "rationale": "Memberi informasi yang benar, tetapi minim keterlibatan."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkannya karena menurut Anda setiap pegawai seharusnya sudah bisa memakai aplikasi kantor",
+        "score": 1,
+        "rationale": "Tidak peduli dan menghakimi sehingga menghambat rekan beradaptasi."
+      },
+      {
+        "key": "E",
+        "text": "Menawarkan bantuan, menunjukkan langkah penggunaan aplikasi sambil ia mencoba sendiri, lalu memberi tahu letak panduan resmi dan kontak admin",
+        "score": 5,
+        "rationale": "Peduli, membantu ia belajar mandiri, dan memberi sumber bantuan lanjutan."
+      }
+    ],
+    "explanation": "Menyambut dan membantu rekan baru beradaptasi membangun lingkungan kerja yang kondusif (Harmonis) dan membantu orang lain belajar (Kompeten).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0009",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda ditugasi memimpin rapat teknis yang dihadiri perwakilan beberapa bidang. Sejak awal, seorang peserta senior mendominasi pembicaraan dan peserta lain tampak enggan menyampaikan pendapat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merangkum masukan peserta senior, lalu memberi giliran kepada setiap perwakilan bidang untuk menyampaikan pandangan dan mencatat semua usulan sebagai bahan keputusan",
+        "score": 5,
+        "rationale": "Mengelola rapat secara inklusif tanpa mempermalukan siapa pun sehingga semua pihak berkontribusi."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan sopan bahwa waktu terbatas dan meminta peserta lain ikut menyampaikan pendapat",
+        "score": 4,
+        "rationale": "Membuka ruang bicara, tetapi belum ada mekanisme yang memastikan semua bidang mendapat giliran."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan rapat berjalan dan meminta masukan tertulis dari peserta lain setelah rapat",
+        "score": 3,
+        "rationale": "Masukan tetap terkumpul, tetapi dinamika rapat tidak dikelola."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti arah pembicaraan peserta senior karena ia paling berpengalaman, lalu merumuskan kesimpulan rapat berdasarkan pandangannya agar rapat selesai tepat waktu dan tidak berlarut-larut",
+        "score": 2,
+        "rationale": "Pasif sebagai pemimpin rapat dan mengabaikan kontribusi pihak lain."
+      },
+      {
+        "key": "E",
+        "text": "Memotong pembicaraan peserta senior dan mengatakan bahwa ia terlalu banyak bicara",
+        "score": 1,
+        "rationale": "Kasar dan mempermalukan peserta sehingga merusak hubungan antarbidang."
+      }
+    ],
+    "explanation": "Nilai Kolaboratif menekankan pemberian kesempatan kepada berbagai pihak untuk berkontribusi. Pemimpin rapat yang baik menyeimbangkan partisipasi sambil tetap menghormati semua peserta.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0010",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda staf pengelola data penduduk rentan di dinas Anda. Unit lain di pemerintah daerah yang menjalankan program pelatihan kerja meminta data lengkap beserta NIK dan alamat agar bantuan lebih tepat sasaran. Programnya baik, tetapi belum ada perjanjian berbagi data antara kedua unit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim seluruh data lengkap beserta NIK dan alamat, karena sama-sama instansi pemerintah daerah, tujuannya untuk warga rentan, dan penundaan berarti bantuan pelatihan makin lama sampai",
+        "score": 1,
+        "rationale": "Melanggar pelindungan data pribadi meskipun niatnya baik."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan aturan pelindungan data pribadi, menawarkan data agregat per wilayah untuk perencanaan program, dan mengusulkan kepada atasan agar dibuat dasar berbagi data yang sah",
+        "score": 5,
+        "rationale": "Mendukung kolaborasi tanpa melanggar pelindungan data dan langsung membuka jalan resmi untuk berbagi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak permintaan itu karena data penduduk rentan bersifat rahasia",
+        "score": 2,
+        "rationale": "Menjaga data, tetapi menutup peluang kerja sama tanpa memberi solusi."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa data pribadi hanya dapat dibagikan dengan dasar yang sah dan menyarankan unit tersebut mengajukan permohonan resmi kepada pimpinan dinas",
+        "score": 4,
+        "rationale": "Taat aturan dan memberi arah, tetapi belum menawarkan dukungan nyata agar program tetap berjalan."
+      },
+      {
+        "key": "E",
+        "text": "Meneruskan permintaan itu kepada atasan dan menunggu keputusannya",
+        "score": 3,
+        "rationale": "Aman, tetapi pasif dan tidak membantu unit mitra memahami jalan keluarnya."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan nilai Kolaboratif (berbagi data untuk program bersama) dengan Akuntabel dan pelindungan data pribadi (UU 27/2022). Skor tertinggi tetap berbagi sesuai mekanisme: data agregat lebih dulu, sedangkan data pribadi menunggu dasar yang sah.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0011",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dinas Anda akan mengadakan kegiatan bersih-bersih sungai. Sebuah komunitas relawan lingkungan menghubungi Anda, salah satu panitia, dan menawarkan diri membantu dengan anggota serta peralatan mereka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyambut tawaran itu, mengundang perwakilan komunitas ke rapat persiapan untuk menyepakati peran, titik kerja, dan aturan keselamatan, lalu melaporkannya kepada ketua panitia",
+        "score": 5,
+        "rationale": "Membuka ruang kontribusi masyarakat secara tertata dan tetap dalam koordinasi panitia."
+      },
+      {
+        "key": "B",
+        "text": "Menerima tawaran itu dan meminta komunitas datang pada hari pelaksanaan",
+        "score": 4,
+        "rationale": "Terbuka pada kerja sama, tetapi tanpa koordinasi peran sehingga bantuan bisa kurang efektif."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dan menyampaikan bahwa kegiatan dinas tidak perlu dicampuri pihak luar",
+        "score": 1,
+        "rationale": "Tertutup dan meremehkan peran masyarakat sehingga merusak hubungan dengan mitra potensial."
+      },
+      {
+        "key": "D",
+        "text": "Berterima kasih, tetapi menolak secara halus dengan alasan jumlah peserta dan peralatan sudah mencukupi, karena khawatir koordinasi dengan pihak luar akan merepotkan panitia menjelang hari pelaksanaan",
+        "score": 2,
+        "rationale": "Sopan, tetapi menutup partisipasi masyarakat demi menghindari repot."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa Anda akan menanyakan dulu kepada ketua panitia dan mengabari mereka nanti",
+        "score": 3,
+        "rationale": "Sesuai jalur, tetapi menunda dan belum menunjukkan sikap terbuka."
+      }
+    ],
+    "explanation": "Kerja sama dengan masyarakat adalah bagian dari jejaring kerja ASN. Skor tertinggi membuka kesempatan berbagai pihak berkontribusi (Kolaboratif) sambil tetap mengaturnya dalam koordinasi yang jelas.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0012",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dua rekan satu ruangan berselisih soal pembagian tugas pengarsipan. Mereka saling tidak menyapa, dan pekerjaan ruangan mulai terhambat karena keduanya enggan berkoordinasi. Anda rekan sejawat mereka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berbicara dengan masing-masing secara pribadi untuk memahami pokok masalahnya, lalu menawarkan diri memfasilitasi pertemuan bertiga untuk menyepakati pembagian tugas yang jelas, dan bila tidak berhasil mengusulkannya kepada atasan",
+        "score": 5,
+        "rationale": "Menjadi penengah yang netral, mencari akar masalah, dan menempuh eskalasi hanya bila perlu."
+      },
+      {
+        "key": "B",
+        "text": "Menjaga jarak dari keduanya agar tidak terseret dalam perselisihan",
+        "score": 2,
+        "rationale": "Menghindar, sementara pekerjaan ruangan terus terhambat."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan kepada atasan agar pembagian tugas pengarsipan ditetapkan ulang",
+        "score": 3,
+        "rationale": "Bisa menyelesaikan pembagian tugas, tetapi langsung menyerahkan persoalan ke atasan tanpa upaya dialog."
+      },
+      {
+        "key": "D",
+        "text": "Mengajak keduanya duduk bersama untuk menyelesaikan perselisihan",
+        "score": 4,
+        "rationale": "Mendorong dialog, tetapi tanpa memahami pokok masalah dari masing-masing pihak lebih dulu."
+      },
+      {
+        "key": "E",
+        "text": "Memihak rekan yang menurut Anda benar dan ikut tidak menyapa rekan yang lain",
+        "score": 1,
+        "rationale": "Memperkeruh konflik dan merusak hubungan kerja."
+      }
+    ],
+    "explanation": "Menyelesaikan konflik melalui dialog dan menjadi penengah yang netral adalah indikator jejaring kerja. Nilai Harmonis menuntut ASN membangun lingkungan kerja yang kondusif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0013",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda bertugas menggabungkan laporan bulanan dari lima rekan. Satu rekan hampir selalu mengirim bagiannya beberapa jam menjelang tenggat, sehingga Anda sering harus lembur untuk menyunting dan menggabungkannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan keterlambatannya kepada atasan setiap bulan",
+        "score": 2,
+        "rationale": "Eskalasi tanpa upaya komunikasi langsung sehingga hubungan kerja terganggu."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkannya secara pribadi beberapa hari sebelum tenggat setiap bulan",
+        "score": 4,
+        "rationale": "Komunikatif dan membantu, tetapi bergantung pada pengingat tanpa memperbaiki penyebabnya."
+      },
+      {
+        "key": "C",
+        "text": "Membicarakannya langsung dengan rekan itu untuk mengetahui kendalanya, lalu menyepakati tenggat internal yang lebih awal dan format yang seragam untuk semua rekan agar penggabungan lebih mudah",
+        "score": 5,
+        "rationale": "Dialog langsung yang menyentuh akar masalah dan memperbaiki sistem kerja untuk seluruh tim."
+      },
+      {
+        "key": "D",
+        "text": "Menetapkan sendiri bahwa bagian yang belum masuk sehari sebelum tenggat tidak akan digabungkan, lalu mengirim laporan tanpa bagian rekan itu dan menjelaskan kepada atasan bahwa keterlambatan berasal darinya",
+        "score": 1,
+        "rationale": "Memutus kerja sama, merugikan hasil tim, dan melempar kesalahan kepada rekan."
+      },
+      {
+        "key": "E",
+        "text": "Terus lembur karena yang penting laporan selesai tepat waktu",
+        "score": 3,
+        "rationale": "Bertanggung jawab atas hasil, tetapi masalah kerja sama tidak pernah dibahas."
+      }
+    ],
+    "explanation": "Pola keterlambatan rekan sebaiknya diselesaikan dengan dialog dan kesepakatan sistem kerja, bukan ditanggung sendiri terus-menerus atau dilaporkan tanpa upaya. Ini mencerminkan nilai Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0014",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda menjadi notulis rapat tim. Rapat selesai dengan beberapa keputusan, tetapi tidak dibahas siapa yang mengerjakan apa dan kapan tenggatnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat hanya poin yang berkaitan dengan pekerjaan Anda sendiri karena tidak ada pembagian tugas yang jelas",
+        "score": 1,
+        "rationale": "Mengabaikan tugas notulis demi kepentingan sendiri sehingga hasil rapat hilang bagi tim."
+      },
+      {
+        "key": "B",
+        "text": "Mengirim notula hanya kepada pemimpin rapat disertai catatan bahwa penanggung jawab dan tenggat belum ditetapkan, lalu menunggu ia menetapkan pembagian tugas sebelum notula disebarkan kepada peserta",
+        "score": 3,
+        "rationale": "Sesuai hierarki dan sudah menandai kekosongan, tetapi informasi tertahan dan tindak lanjut tetap menunggu."
+      },
+      {
+        "key": "C",
+        "text": "Membagikan notula berisi keputusan rapat kepada semua peserta",
+        "score": 4,
+        "rationale": "Menjalankan tugas dan berbagi informasi, tetapi kekosongan tindak lanjut belum diatasi."
+      },
+      {
+        "key": "D",
+        "text": "Menyimpan notula sebagai arsip dan baru membagikannya bila ada yang meminta",
+        "score": 2,
+        "rationale": "Pasif sehingga hasil rapat tidak tersebar dan mudah terlupakan."
+      },
+      {
+        "key": "E",
+        "text": "Menyusun notula berisi keputusan dan usulan tindak lanjut, mengonfirmasi penanggung jawab dan tenggatnya kepada pemimpin rapat, lalu membagikannya kepada semua peserta",
+        "score": 5,
+        "rationale": "Proaktif dalam peran notulis, memastikan tindak lanjut jelas dan semua pihak mendapat informasi yang sama."
+      }
+    ],
+    "explanation": "Berbagi informasi hasil rapat dan memastikan tindak lanjutnya jelas adalah bagian dari jejaring kerja yang efektif. Notulis yang proaktif membantu seluruh tim bergerak bersama (Kolaboratif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0015",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Besok pagi tim Anda mempresentasikan bahan paparan kepada kepala dinas. Malam ini Anda menemukan bahwa grafik yang disusun seorang rekan senior, yang sangat Anda hormati, memuat angka keliru. Senior itu dikenal tidak suka dikoreksi oleh pegawai yang lebih muda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan angka itu tetap ditampilkan agar tidak menyinggung senior",
+        "score": 1,
+        "rationale": "Menghindari rasa tidak enak dengan mengorbankan ketepatan data yang disampaikan kepada pimpinan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan temuan itu kepada senior besok pagi sebelum presentasi dimulai",
+        "score": 4,
+        "rationale": "Jujur dan menghormati senior, tetapi waktu perbaikan menjadi sangat sempit."
+      },
+      {
+        "key": "C",
+        "text": "Memberi tahu ketua tim agar ia yang menyampaikan koreksi kepada senior",
+        "score": 3,
+        "rationale": "Koreksi tetap sampai, tetapi Anda menghindari komunikasi langsung dan melibatkan pihak lain tanpa perlu."
+      },
+      {
+        "key": "D",
+        "text": "Menghubunginya secara pribadi malam ini dengan sopan, menunjukkan sumber angka yang benar, dan menawarkan bantuan memperbaiki grafiknya sebelum presentasi",
+        "score": 5,
+        "rationale": "Menjaga mutu hasil tim sekaligus menghormati senior dengan menyampaikan koreksi secara pribadi dan disertai bukti."
+      },
+      {
+        "key": "E",
+        "text": "Memperbaiki angka dan grafik itu sendiri di berkas paparan malam ini, mencocokkannya dengan sumber data, lalu mengirim berkas final kepada tim tanpa memberi tahu senior",
+        "score": 2,
+        "rationale": "Angka menjadi benar, tetapi mengubah pekerjaan orang lain diam-diam merusak kepercayaan."
+      }
+    ],
+    "explanation": "Dilema antara menghormati senior (Harmonis) dan menjaga mutu hasil tim (Akuntabel, Kolaboratif). Skor tertinggi tidak mengorbankan salah satunya: koreksi disampaikan secara pribadi, santun, berbasis data, dan disertai tawaran membantu.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0016",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda telah memesan ruang rapat untuk pertemuan dengan tamu dari instansi lain yang akan tiba 30 menit lagi. Saat dicek, ruangan itu sedang dipakai rapat oleh unit lain yang tampaknya belum akan selesai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi pengelola ruangan untuk meminta ruang pengganti bagi pertemuan Anda",
+        "score": 4,
+        "rationale": "Solutif untuk kegiatan Anda, tetapi tanpa komunikasi dengan unit yang memakai ruangan sehingga kekeliruan jadwal bisa terulang."
+      },
+      {
+        "key": "B",
+        "text": "Masuk ke ruangan dan meminta peserta rapat segera keluar karena ruangan sudah Anda pesan",
+        "score": 1,
+        "rationale": "Tidak santun dan mempermalukan unit lain di depan peserta rapatnya."
+      },
+      {
+        "key": "C",
+        "text": "Menemui penanggung jawab rapat itu dengan sopan, menunjukkan bukti pemesanan, menanyakan perkiraan selesainya, dan bersama mencari jalan keluar",
+        "score": 5,
+        "rationale": "Komunikasi langsung yang santun dan berorientasi solusi sehingga kedua kegiatan tetap berjalan."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu dengan sabar di depan ruangan sampai rapat mereka selesai, sambil menyiapkan bahan dan mengatur kursi di luar agar tamu dapat menunggu dengan nyaman",
+        "score": 3,
+        "rationale": "Sopan, tetapi pasif dan berisiko membuat tamu menunggu."
+      },
+      {
+        "key": "E",
+        "text": "Meminta tamu menunda kedatangan tanpa memberi tahu unit yang memakai ruangan",
+        "score": 2,
+        "rationale": "Membebani tamu dan menghindari komunikasi dengan unit lain."
+      }
+    ],
+    "explanation": "Benturan jadwal antarunit diselesaikan dengan komunikasi langsung yang santun dan pencarian solusi bersama. Sikap ini mencerminkan nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0017",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Atasan menunjuk Anda sebagai mentor bagi seorang CPNS yang baru ditempatkan di unit Anda selama masa orientasi. Bagaimana Anda menjalankan peran itu di awal masa bimbingan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengenal latar belakang dan harapannya, menyusun rencana belajar bersama, memperkenalkannya kepada rekan dan unit terkait, serta menyepakati jadwal diskusi rutin",
+        "score": 5,
+        "rationale": "Membimbing secara terencana dan membuka jejaring kerja bagi pegawai baru."
+      },
+      {
+        "key": "B",
+        "text": "Memberinya pekerjaan administratif rutin Anda agar beban Anda berkurang",
+        "score": 1,
+        "rationale": "Memanfaatkan peran mentor untuk kepentingan diri sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu ia datang bertanya, karena CPNS perlu dilatih proaktif sejak awal dan terlalu banyak arahan dari mentor justru bisa membuatnya terus bergantung pada Anda",
+        "score": 2,
+        "rationale": "Pasif dan tidak menjalankan peran mentor yang ditugaskan."
+      },
+      {
+        "key": "D",
+        "text": "Memberinya dokumen tugas dan fungsi unit serta mempersilakan ia bertanya kapan saja",
+        "score": 4,
+        "rationale": "Memberi bekal dan membuka komunikasi, tetapi belum terencana dan belum mengenalkan jejaring kerja."
+      },
+      {
+        "key": "E",
+        "text": "Mengajaknya mengikuti pekerjaan Anda sehari-hari agar ia belajar dengan melihat",
+        "score": 3,
+        "rationale": "Ada pembelajaran, tetapi tanpa arah dan tanpa memperhatikan kebutuhannya."
+      }
+    ],
+    "explanation": "Mentoring adalah wujud nilai Kompeten (membantu orang lain belajar) dan Kolaboratif. Mentor yang baik membimbing secara terencana dan membukakan jejaring kerja bagi pegawai baru.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0018",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "CPNS yang Anda bimbing ternyata salah memasukkan beberapa angka pada rekap yang sudah dikirim ke unit lain. Ia baru menyadarinya dan terlihat panik serta takut dimarahi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menenangkannya, mengajaknya menelusuri letak kesalahan, mendampinginya menghubungi unit penerima untuk menyampaikan ralat beserta rekap perbaikan, lalu bersama menyusun langkah pengecekan agar tidak terulang",
+        "score": 5,
+        "rationale": "Membimbing tanggung jawab secara langsung, menjaga hubungan dengan unit lain, dan mencegah kesalahan berulang."
+      },
+      {
+        "key": "B",
+        "text": "Menenangkannya dan memintanya segera mengirim rekap perbaikan ke unit penerima",
+        "score": 4,
+        "rationale": "Tepat dan suportif, tetapi tanpa pendampingan dan pencegahan."
+      },
+      {
+        "key": "C",
+        "text": "Memperbaiki rekap itu sendiri dan mengirimkannya ke unit penerima agar cepat beres",
+        "score": 3,
+        "rationale": "Masalah teratasi, tetapi mentee kehilangan kesempatan belajar bertanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Menegurnya dengan keras di depan rekan-rekan agar ia lebih teliti",
+        "score": 1,
+        "rationale": "Emosional dan mempermalukan sehingga merusak kepercayaan mentee."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankannya menunggu apakah unit penerima menyadari kesalahan itu",
+        "score": 2,
+        "rationale": "Menghindari tanggung jawab dan membiarkan data keliru dipakai unit lain."
+      }
+    ],
+    "explanation": "Mentor yang baik membantu mentee bertanggung jawab atas kesalahan dan memperbaikinya bersama unit terkait, bukan menutupi atau mempermalukan. Ini mencerminkan nilai Kompeten, Harmonis, dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0019",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dinas Anda bekerja sama dengan sebuah perusahaan swasta dalam program pelatihan UMKM. Menjelang rapat koordinasi di kantor Anda, perwakilan perusahaan menawarkan diri menanggung konsumsi dan suvenir peserta rapat sebagai bentuk dukungan. Anda staf penyelenggara rapat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa Anda harus menanyakannya dulu kepada atasan sebelum memberi jawaban",
+        "score": 3,
+        "rationale": "Hati-hati, padahal aturannya cukup jelas dan Anda bisa memberi penjelasan sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Menerima seluruh tawaran itu karena hubungan baik dengan mitra swasta penting bagi keberhasilan program",
+        "score": 1,
+        "rationale": "Mengorbankan integritas demi relasi dan membuka konflik kepentingan."
+      },
+      {
+        "key": "C",
+        "text": "Menerima konsumsinya saja karena nilainya kecil, tetapi menolak suvenir",
+        "score": 2,
+        "rationale": "Tetap menerima fasilitas dari mitra yang berpotensi menimbulkan konflik kepentingan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan sambil menjelaskan bahwa biaya rapat sudah ditanggung anggaran dinas",
+        "score": 4,
+        "rationale": "Berintegritas dan santun, tetapi belum mengarahkan niat baik mitra ke mekanisme yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Berterima kasih atas niat baiknya, menjelaskan bahwa biaya rapat dinas sudah dianggarkan, menyampaikan bahwa dukungan perusahaan dapat disalurkan untuk program pelatihan melalui mekanisme kerja sama resmi yang tercatat, dan melaporkan tawaran itu kepada atasan",
+        "score": 5,
+        "rationale": "Menjaga hubungan baik dengan mitra sekaligus integritas, dan mengarahkan dukungan ke jalur resmi."
+      }
+    ],
+    "explanation": "Dilema antara menjaga hubungan baik dengan mitra (Kolaboratif) dan menjaga integritas (Akuntabel). Skor tertinggi tidak memutus kerja sama, tetapi mengarahkan dukungan mitra ke mekanisme resmi yang transparan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0020",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Sebuah tim peneliti dari perguruan tinggi meminta data statistik layanan dan kesempatan mewawancarai pegawai unit Anda untuk penelitian tentang kualitas layanan publik. Data statistik itu bersifat terbuka, dan kantor Anda memiliki prosedur izin penelitian. Anda staf yang menerima permintaan itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan prosedur izin penelitian dan meminta mereka mengajukan permohonan resmi",
+        "score": 4,
+        "rationale": "Sesuai prosedur, tetapi kurang aktif membantu kelancaran kerja sama."
+      },
+      {
+        "key": "B",
+        "text": "Menyambut baik permintaan itu, menjelaskan prosedur izin penelitian dan berkasnya, mengarahkan permohonan ke bagian yang berwenang, dan menawarkan diri menjadi penghubung",
+        "score": 5,
+        "rationale": "Terbuka pada kerja sama akademik, tertib prosedur, dan memudahkan prosesnya."
+      },
+      {
+        "key": "C",
+        "text": "Mengatur wawancara langsung dengan rekan-rekan tanpa menunggu izin agar penelitian cepat selesai",
+        "score": 1,
+        "rationale": "Melanggar prosedur dan melampaui wewenang meskipun terlihat kooperatif."
+      },
+      {
+        "key": "D",
+        "text": "Memberikan data statistik layanan yang bersifat terbuka beserta penjelasan singkat cara membacanya, tetapi menyampaikan bahwa permintaan wawancara pegawai belum bisa dilayani",
+        "score": 3,
+        "rationale": "Sebagian kebutuhan terpenuhi, tetapi jalur resmi untuk wawancara tidak dijelaskan."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan mereka mencari data dari laman resmi kantor saja",
+        "score": 2,
+        "rationale": "Mengarahkan secara minimal dan cenderung menghindari kerja sama."
+      }
+    ],
+    "explanation": "Kerja sama dengan perguruan tinggi memperluas jejaring dan memberi masukan untuk perbaikan layanan. Sikap Kolaboratif tetap dijalankan sesuai prosedur resmi instansi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0021",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Pagi ini pemimpin rapat mengumumkan di grup pesan kantor bahwa rapat evaluasi dimajukan menjadi pukul 13.00. Seorang rekan yang wajib hadir sedang dinas luar dan kemungkinan belum membaca pengumuman itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengomentari di grup bahwa rekan itu memang sering tidak membaca pesan",
+        "score": 1,
+        "rationale": "Menyindir di depan umum dan merusak hubungan kerja."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan ulang pengumuman itu di grup dengan menyebut namanya dan menambahkan pesan agar ia segera membacanya karena jadwal rapat evaluasi berubah",
+        "score": 3,
+        "rationale": "Berupaya, tetapi belum memastikan informasi benar-benar sampai."
+      },
+      {
+        "key": "C",
+        "text": "Menghubunginya langsung untuk memastikan ia tahu perubahan jadwal dan, bila ia tidak bisa hadir, mengabarkannya kepada pemimpin rapat",
+        "score": 5,
+        "rationale": "Memastikan informasi sampai, menjaga koordinasi, dan menawarkan tindak lanjut."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkannya karena pengumuman sudah ada di grup dan menjadi tanggung jawab masing-masing",
+        "score": 2,
+        "rationale": "Pasif, padahal Anda tahu rekan berisiko tertinggal informasi."
+      },
+      {
+        "key": "E",
+        "text": "Menelepon atau mengirim pesan pribadi kepadanya tentang perubahan jadwal",
+        "score": 4,
+        "rationale": "Proaktif berbagi informasi, tetapi belum mengantisipasi bila ia tidak bisa hadir."
+      }
+    ],
+    "explanation": "Jejaring kerja mencakup memastikan informasi penting sampai kepada rekan yang membutuhkannya. Inisiatif kecil seperti ini mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0022",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Atasan meminta laporan kegiatan disusun dengan format baru yang ditetapkan kantor. Seorang rekan senior di tim Anda meminta Anda tetap memakai format lama karena menurutnya lebih ringkas dan sudah biasa dipakai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak permintaan senior dan mengatakan bahwa cara kerjanya sudah ketinggalan zaman",
+        "score": 1,
+        "rationale": "Merendahkan senior dan merusak hubungan kerja."
+      },
+      {
+        "key": "B",
+        "text": "Memakai format lama sesuai permintaan senior agar hubungan tetap baik",
+        "score": 2,
+        "rationale": "Menjaga hubungan, tetapi mengabaikan arahan atasan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan kepada senior bahwa format baru adalah arahan atasan dan tetap memakai format baru",
+        "score": 4,
+        "rationale": "Benar dan terbuka, tetapi masukan senior belum ditindaklanjuti."
+      },
+      {
+        "key": "D",
+        "text": "Menanyakan kepada atasan format mana yang sebaiknya dipakai",
+        "score": 3,
+        "rationale": "Aman, padahal arahan atasan sudah jelas sehingga hanya menunda."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan sopan kepada senior bahwa atasan sudah menetapkan format baru, menawarkan bantuan menyesuaikan bagian yang ia kerjakan, dan mencatat masukannya tentang format lama untuk disampaikan kepada atasan sebagai usulan perbaikan",
+        "score": 5,
+        "rationale": "Patuh pada arahan yang sah, menghormati senior, dan menyalurkan masukannya lewat jalur yang tepat."
+      }
+    ],
+    "explanation": "Menghadapi perbedaan arahan dengan senior memerlukan komunikasi yang santun tanpa mengabaikan arahan atasan yang sah. Masukan senior tetap dihargai dan disalurkan, sesuai nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0023",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dalam rapat bidang, Anda mengusulkan penggunaan formulir daring untuk pendataan kegiatan. Seorang rekan langsung menolak dengan nada cukup keras dan menyebut usulan itu hanya menambah pekerjaan. Peserta lain diam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas bahwa rekan itu hanya malas mempelajari hal baru",
+        "score": 1,
+        "rationale": "Emosional dan menyerang pribadi rekan."
+      },
+      {
+        "key": "B",
+        "text": "Menanggapi dengan tenang, menanyakan bagian mana yang menurutnya menambah pekerjaan, lalu menawarkan uji coba kecil yang memperhatikan keberatannya",
+        "score": 5,
+        "rationale": "Mengelola perbedaan pendapat dengan dialog terbuka dan menjadikan kritik sebagai bahan perbaikan bersama."
+      },
+      {
+        "key": "C",
+        "text": "Tidak menanggapi rekan itu di rapat, lalu setelah rapat menemui atasan dengan membawa contoh formulir dan perhitungan waktu yang dihemat agar usulan disetujui langsung",
+        "score": 2,
+        "rationale": "Berbasis data, tetapi menghindari dialog dengan rekan dan memintas forum bersama."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kembali manfaat usulan itu dengan tenang dan menyerahkan keputusan kepada pemimpin rapat",
+        "score": 4,
+        "rationale": "Tenang dan argumentatif, tetapi keberatan rekan belum digali."
+      },
+      {
+        "key": "E",
+        "text": "Menarik usulan untuk sementara agar suasana rapat tidak memanas",
+        "score": 3,
+        "rationale": "Menjaga suasana, tetapi gagasan dan keberatannya tidak dibahas sama sekali."
+      }
+    ],
+    "explanation": "Perbedaan pendapat di rapat diselesaikan dengan dialog yang tenang dan keterbukaan terhadap kritik. Sikap ini mencerminkan nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0024",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda koordinator tim lintas bidang yang menyiapkan festival budaya daerah. Atasan langsung Anda meminta tim memprioritaskan publikasi digital, sedangkan kepala bidang lain yang juga menjadi pengarah tim meminta anggaran difokuskan pada panggung utama. Anggaran tidak cukup untuk keduanya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagi anggaran sama rata untuk publikasi digital dan panggung utama, lalu menyesuaikan skala kedua kegiatan agar tetap berjalan dan tidak ada pengarah yang merasa arahannya diabaikan",
+        "score": 3,
+        "rationale": "Kompromi yang aman, tetapi berisiko membuat keduanya tidak optimal dan tanpa kesepakatan pengarah."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti arahan atasan langsung karena ia yang menunjuk Anda sebagai koordinator",
+        "score": 2,
+        "rationale": "Patuh pada satu pihak, tetapi mengabaikan pengarah lain sehingga kerja sama lintas bidang terganggu."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun perbandingan kebutuhan dan dampak kedua pilihan, mengusulkan pertemuan singkat dengan kedua pejabat untuk menyepakati prioritas, lalu menyampaikan hasilnya kepada tim",
+        "score": 5,
+        "rationale": "Menghormati kedua pengarah, mempertemukan mereka dengan data, dan menghasilkan keputusan bersama yang jelas."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan kepada atasan langsung bahwa ada arahan berbeda dari kepala bidang lain dan meminta keputusannya",
+        "score": 4,
+        "rationale": "Terbuka dan sesuai jalur, tetapi belum mempertemukan kedua pihak dan belum disertai bahan pertimbangan."
+      },
+      {
+        "key": "E",
+        "text": "Mengikuti arahan kepala bidang lain tanpa memberi tahu atasan Anda agar tidak terjadi perdebatan",
+        "score": 1,
+        "rationale": "Menyembunyikan informasi dari atasan dan menghindari penyelesaian masalah."
+      }
+    ],
+    "explanation": "Dilema antara loyal kepada atasan langsung dan menjaga kerja sama lintas bidang. Koordinator yang Kolaboratif tidak memilih salah satu secara sepihak, tetapi mempertemukan para pengarah dengan data agar prioritas disepakati bersama.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0025",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Unit Anda melayani permintaan rekap data dari berbagai unit sesuai urutan masuk. Seorang kenalan di unit lain menghubungi Anda langsung dan meminta permintaannya didahulukan karena atasannya mendesak, padahal masih ada tiga permintaan lain yang lebih dulu masuk. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjanjikan akan mengusahakannya, tetapi tetap mengerjakan sesuai urutan tanpa memberi kabar",
+        "score": 2,
+        "rationale": "Menghindari penolakan dengan janji yang tidak jelas sehingga merusak kepercayaan."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan dengan ramah bahwa permintaan dilayani sesuai urutan, menanyakan tenggat sebenarnya, memberi perkiraan waktu selesai, dan bila memang sangat mendesak, menyarankan agar atasannya mengajukan permintaan prioritas lewat jalur resmi kepada atasan Anda",
+        "score": 5,
+        "rationale": "Adil, tetap membantu dengan informasi yang jelas, dan memberi jalan resmi untuk kebutuhan mendesak."
+      },
+      {
+        "key": "C",
+        "text": "Mendahulukan permintaannya karena ia kenalan baik dan sering membantu Anda",
+        "score": 1,
+        "rationale": "Memberi perlakuan istimewa karena kedekatan pribadi dan tidak adil bagi unit lain."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan ia menghubungi atasan Anda untuk meminta prioritas",
+        "score": 3,
+        "rationale": "Tidak melanggar urutan, tetapi menyerahkan persoalan tanpa penjelasan yang memadai."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan ramah bahwa permintaan dilayani sesuai urutan dan memberi perkiraan waktu selesai",
+        "score": 4,
+        "rationale": "Adil dan informatif, tetapi tanpa jalan keluar untuk kebutuhan mendesaknya."
+      }
+    ],
+    "explanation": "Membangun relasi tidak berarti memberi perlakuan istimewa. Jejaring kerja yang sehat tetap adil, transparan, dan memakai jalur resmi untuk kebutuhan mendesak (Kolaboratif dan Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0026",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang pegawai dari bidang lain menelepon Anda untuk menanyakan tata cara pengajuan cuti melalui aplikasi kepegawaian, yang kebetulan menjadi tugas sehari-hari Anda. Ia terdengar bingung. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan ia menanyakannya kepada pengelola kepegawaian di bidangnya sendiri",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab padahal hal itu termasuk tugas Anda."
+      },
+      {
+        "key": "B",
+        "text": "Menegurnya karena seharusnya ia sudah membaca pengumuman tata cara cuti yang lama dibagikan",
+        "score": 1,
+        "rationale": "Menghakimi dan tidak membantu sehingga merusak hubungan antarbidang."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan langkah-langkahnya dengan sabar melalui telepon",
+        "score": 4,
+        "rationale": "Membantu dengan baik, tetapi tanpa bahan rujukan atau tindak lanjut."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan langkahnya dengan sabar sampai ia paham, lalu mengirim panduan tertulis dan mempersilakan ia menghubungi Anda bila ada kendala",
+        "score": 5,
+        "rationale": "Membantu tuntas, berbagi informasi, dan membuka komunikasi lanjutan."
+      },
+      {
+        "key": "E",
+        "text": "Memintanya membuka laman kepegawaian dan membaca panduan pengajuan cuti di sana, karena semua langkahnya sudah dijelaskan lengkap dengan gambar",
+        "score": 3,
+        "rationale": "Memberi rujukan yang benar, tetapi minim bantuan."
+      }
+    ],
+    "explanation": "Membantu pegawai unit lain dengan informasi yang lengkap memperkuat hubungan kerja antarbidang. Ini mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0027",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Tahun lalu terjadi ketegangan antara unit Anda dan bagian keuangan karena keterlambatan pencairan anggaran yang saling disalahkan. Kini Anda ditugasi mengurus pengajuan anggaran unit Anda untuk tahun berjalan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan yang berkomunikasi dengan bagian keuangan agar ketegangan tidak terulang",
+        "score": 3,
+        "rationale": "Menghindari risiko konflik, tetapi melempar tugas yang menjadi tanggung jawab Anda."
+      },
+      {
+        "key": "B",
+        "text": "Menemui petugas bagian keuangan sejak awal untuk memahami persyaratan dan jadwal mereka, menyiapkan berkas sesuai ketentuan, serta menyepakati cara komunikasi bila ada kekurangan agar masalah tahun lalu tidak terulang",
+        "score": 5,
+        "rationale": "Membangun ulang hubungan kerja secara proaktif dan mencegah masalah lama berulang."
+      },
+      {
+        "key": "C",
+        "text": "Mengingatkan rekan-rekan unit Anda agar berhati-hati dengan bagian keuangan karena kejadian tahun lalu",
+        "score": 1,
+        "rationale": "Memelihara prasangka dan memperburuk hubungan antarunit."
+      },
+      {
+        "key": "D",
+        "text": "Membatasi komunikasi dengan bagian keuangan hanya lewat surat resmi agar tidak terjadi gesekan",
+        "score": 2,
+        "rationale": "Kaku dan menjaga jarak sehingga hubungan antarunit tidak membaik."
+      },
+      {
+        "key": "E",
+        "text": "Menyiapkan berkas pengajuan dengan teliti sesuai ketentuan lalu menyerahkannya tepat waktu",
+        "score": 4,
+        "rationale": "Profesional dan tertib, tetapi belum memperbaiki hubungan dan komunikasi antarunit."
+      }
+    ],
+    "explanation": "Jejaring kerja mencakup membina kembali hubungan antarunit yang pernah renggang. Pendekatan proaktif dan terbuka mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0028",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda ketua tim penyusun kajian yang harus diserahkan seminggu lagi. Seorang anggota yang menangani analisis data jatuh sakit dan harus dirawat beberapa hari. Bagiannya baru separuh selesai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagi ulang sisa pekerjaannya kepada anggota lain agar kajian selesai tepat waktu",
+        "score": 4,
+        "rationale": "Keputusan tepat dalam wewenang, tetapi kurang memperhatikan anggota yang sakit dan tanpa laporan kepada atasan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta atasan memperpanjang tenggat sampai anggota itu sembuh",
+        "score": 3,
+        "rationale": "Menunda dan menyerahkan masalah ke atasan padahal ada solusi dalam wewenang ketua tim."
+      },
+      {
+        "key": "C",
+        "text": "Mengerjakan sendiri seluruh sisa bagiannya tanpa melibatkan anggota lain",
+        "score": 2,
+        "rationale": "Bertanggung jawab, tetapi memborong pekerjaan dan tidak memanfaatkan kekuatan tim."
+      },
+      {
+        "key": "D",
+        "text": "Menanyakan kabarnya dan, bila kondisinya memungkinkan, letak berkas serta progres kerjanya, lalu membagi ulang sisa pekerjaan kepada anggota lain sesuai kemampuan dan melaporkan penyesuaian rencana kepada atasan",
+        "score": 5,
+        "rationale": "Peduli pada anggota, mengambil keputusan dalam wewenang ketua, dan menjaga keterbukaan kepada atasan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta anggota yang sakit tetap menyelesaikan bagiannya dari tempat ia dirawat",
+        "score": 1,
+        "rationale": "Tidak empatik dan mengabaikan kondisi rekan."
+      }
+    ],
+    "explanation": "Ketua tim berwenang membagi ulang tugas. Skor tertinggi menjaga tenggat lewat kerja sama tim, tetap peduli pada anggota yang sakit, dan terbuka kepada atasan (Kolaboratif dan Harmonis).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0029",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dua rekan yang sama-sama dekat dengan Anda sedang berselisih karena salah paham soal pembagian honor kegiatan. Masing-masing bercerita kepada Anda dan meminta Anda mendukung pendapatnya. Pekerjaan tim mulai terganggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan kepada masing-masing bahwa Anda tidak akan memihak dan menyarankan mereka berbicara langsung satu sama lain",
+        "score": 4,
+        "rationale": "Netral dan mendorong dialog, tetapi belum membantu memfasilitasi penyelesaiannya."
+      },
+      {
+        "key": "B",
+        "text": "Menghindari pembicaraan dengan keduanya untuk sementara, karena ikut campur dalam urusan honor bisa membuat Anda dianggap memihak dan perselisihan biasanya mereda dengan sendirinya",
+        "score": 2,
+        "rationale": "Menghindar, sementara konflik terus mengganggu pekerjaan tim."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan keduanya tanpa memihak, lalu mengusulkan agar mereka bertemu untuk mencocokkan aturan pembagian honor, dengan Anda sebagai penengah bila mereka bersedia",
+        "score": 5,
+        "rationale": "Menjaga pertemanan tanpa memihak dan mengarahkan konflik ke dialog berbasis aturan."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan keduanya menanyakan aturan pembagian honor kepada bendahara kegiatan",
+        "score": 3,
+        "rationale": "Mengarah ke sumber yang tepat, tetapi hubungan mereka yang retak tidak disentuh."
+      },
+      {
+        "key": "E",
+        "text": "Mendukung rekan yang lebih lama Anda kenal dan menyampaikan pendapatnya kepada rekan yang lain",
+        "score": 1,
+        "rationale": "Memihak berdasarkan kedekatan dan memperuncing konflik."
+      }
+    ],
+    "explanation": "Dilema antara kesetiaan pertemanan dan netralitas. Nilai Harmonis menuntut ASN menjadi penengah yang adil, bukan pihak, serta mendorong penyelesaian lewat dialog dan aturan yang berlaku.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0030",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda akan cuti selama satu minggu. Atasan menunjuk seorang rekan untuk menangani pekerjaan Anda selama cuti, termasuk menjawab surat dari instansi mitra. Apa yang Anda lakukan sebelum cuti?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyelesaikan sebanyak mungkin pekerjaan sebelum cuti dan menunda sisanya sampai Anda kembali",
+        "score": 2,
+        "rationale": "Bertanggung jawab atas pekerjaan sendiri, tetapi mengabaikan penugasan atasan dan menunda layanan kepada mitra."
+      },
+      {
+        "key": "B",
+        "text": "Tidak menyiapkan apa pun karena rekan pengganti bisa bertanya kepada atasan",
+        "score": 1,
+        "rationale": "Lepas tanggung jawab dan membebani rekan serta atasan."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun catatan serah terima dan menjelaskannya langsung kepada rekan pengganti",
+        "score": 4,
+        "rationale": "Tertib dan komunikatif, tetapi mitra belum diberi tahu adanya pengganti."
+      },
+      {
+        "key": "D",
+        "text": "Mengirim berkas pekerjaan kepada rekan pengganti lewat surel tanpa penjelasan",
+        "score": 3,
+        "rationale": "Ada serah terima, tetapi minim sehingga rekan bisa kebingungan."
+      },
+      {
+        "key": "E",
+        "text": "Menyusun catatan serah terima berisi pekerjaan berjalan, tenggat, dan kontak mitra, menjelaskannya langsung kepada rekan, memberi tahu mitra utama siapa penggantinya, dan menyampaikan bahwa Anda dapat dihubungi untuk hal mendesak",
+        "score": 5,
+        "rationale": "Serah terima tuntas, informasi terbagi, dan hubungan dengan mitra tetap terjaga."
+      }
+    ],
+    "explanation": "Serah terima yang baik menjaga kesinambungan kerja dan hubungan dengan mitra. Ini wujud nilai Kolaboratif dan Akuntabel.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0031",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seminggu lalu Anda menyampaikan ide perbaikan alur disposisi surat kepada seorang rekan dalam obrolan santai. Dalam rapat hari ini, rekan tersebut menyampaikan ide itu kepada atasan seolah-olah gagasannya sendiri, dan atasan memujinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menemui rekan itu secara pribadi setelah rapat, menyampaikan perasaan Anda dengan tenang, lalu mengajaknya mengembangkan ide itu bersama sebagai usulan berdua",
+        "score": 5,
+        "rationale": "Menyelesaikan masalah lewat dialog langsung tanpa mempermalukan, dan tetap mengutamakan terwujudnya perbaikan."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkannya karena yang terpenting ide perbaikan itu dijalankan, lalu menawarkan diri kepada atasan untuk membantu penerapannya tanpa mempersoalkan siapa pemilik gagasannya",
+        "score": 3,
+        "rationale": "Mengutamakan kepentingan organisasi, tetapi persoalan kepercayaan dengan rekan tidak dibicarakan."
+      },
+      {
+        "key": "C",
+        "text": "Langsung menyela di rapat dan menyatakan bahwa rekan itu mengambil ide Anda",
+        "score": 1,
+        "rationale": "Emosional dan mempermalukan rekan di depan forum."
+      },
+      {
+        "key": "D",
+        "text": "Menemui atasan setelah rapat dan menjelaskan bahwa ide itu sebenarnya milik Anda",
+        "score": 2,
+        "rationale": "Mengklarifikasi tanpa berbicara dulu dengan rekan sehingga berisiko memperburuk hubungan."
+      },
+      {
+        "key": "E",
+        "text": "Menemui rekan itu secara pribadi dan menyampaikan dengan tenang bahwa ide itu berasal dari Anda",
+        "score": 4,
+        "rationale": "Komunikasi langsung dan tenang, tetapi belum diarahkan pada kerja sama ke depan."
+      }
+    ],
+    "explanation": "Konflik soal pengakuan kontribusi diselesaikan lewat dialog langsung yang tenang, bukan dengan mempermalukan atau melangkahi rekan. Fokusnya tetap pada perbaikan kerja bersama (Harmonis dan Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0032",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda koordinator tim penyusun standar operasional prosedur yang beranggotakan perwakilan empat bidang. Seorang anggota dari bidang lain tidak pernah hadir dalam tiga rapat terakhir dengan alasan tugas di bidangnya lebih mendesak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim ringkasan hasil rapat kepadanya dan memintanya memberi masukan tertulis",
+        "score": 4,
+        "rationale": "Menjaga keterlibatannya, tetapi penyebab ketidakhadiran belum dibicarakan."
+      },
+      {
+        "key": "B",
+        "text": "Menghubunginya langsung untuk memahami beban kerjanya, menyepakati bentuk keterlibatan yang realistis seperti masukan tertulis atau rapat singkat, dan bila tetap tidak memungkinkan, berkoordinasi dengan kepala bidangnya agar ditunjuk pengganti",
+        "score": 5,
+        "rationale": "Dialog langsung, solusi fleksibel, dan eskalasi ke pihak yang tepat hanya bila diperlukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengirim surat kepada kepala bidangnya agar anggota itu diingatkan untuk hadir",
+        "score": 3,
+        "rationale": "Melalui jalur resmi, tetapi langsung eskalasi tanpa dialog dengan anggota tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Mencatat ketidakhadirannya dalam laporan tim sebagai penyebab keterlambatan pekerjaan",
+        "score": 1,
+        "rationale": "Menyalahkan anggota tanpa upaya penyelesaian dan merusak hubungan antarbidang."
+      },
+      {
+        "key": "E",
+        "text": "Melanjutkan penyusunan tanpa melibatkan bidangnya",
+        "score": 2,
+        "rationale": "Menghindari masalah, padahal SOP membutuhkan masukan semua bidang."
+      }
+    ],
+    "explanation": "Koordinator perlu menggerakkan semua anggota lintas bidang. Mendengar kendala dan menyesuaikan bentuk keterlibatan mencerminkan nilai Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0033",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dalam rapat bersama pimpinan, atasan Anda memuji Anda atas gagasan inovasi layanan yang baru diluncurkan. Padahal gagasan utamanya berasal dari rekan satu tim yang saat itu tidak hadir, sedangkan Anda hanya menyusun bahan paparannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima pujian itu tanpa penjelasan karena Anda juga ikut bekerja",
+        "score": 1,
+        "rationale": "Mengambil pengakuan atas karya orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Berterima kasih atas apresiasi itu dan menyampaikan singkat bahwa inovasi tersebut hasil kerja tim dengan gagasan utama dari rekan Anda, lalu memberi tahu rekan itu tentang apresiasi pimpinan",
+        "score": 5,
+        "rationale": "Jujur dan menghargai kontribusi rekan tanpa mempermalukan atasan di forum."
+      },
+      {
+        "key": "C",
+        "text": "Menerima pujian di rapat, lalu setelah rapat menjelaskan kepada atasan bahwa gagasan utamanya berasal dari rekan Anda",
+        "score": 4,
+        "rationale": "Jujur dan menjaga suasana rapat, tetapi pimpinan sempat menerima informasi keliru dan pelurusannya bergantung pada orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Langsung mengoreksi atasan di depan pimpinan dengan menegaskan bahwa ia keliru menyebut nama, karena kejujuran soal pemilik gagasan harus ditegakkan saat itu juga di forum yang sama tanpa ditunda",
+        "score": 2,
+        "rationale": "Jujur, tetapi caranya mempermalukan atasan di depan forum."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan di rapat bahwa itu kerja tim tanpa menyebut siapa pemilik gagasannya",
+        "score": 3,
+        "rationale": "Tidak mengklaim, tetapi kontribusi rekan tidak diakui secara jelas."
+      }
+    ],
+    "explanation": "Dilema antara menghargai kontribusi rekan dan menjaga kehormatan atasan di forum. Skor tertinggi meluruskan informasi secara santun saat itu juga sehingga keduanya terjaga (Harmonis dan Kolaboratif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0034",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dua hari sebelum pelatihan bersama, instansi mitra tiba-tiba meminta jadwal diundur satu minggu karena narasumber mereka berhalangan. Undangan kepada peserta dari berbagai kecamatan sudah disebar oleh instansi Anda. Anda panitia dari pihak instansi Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak permintaan itu karena undangan sudah disebar dan meminta mitra tetap menghadirkan narasumber",
+        "score": 2,
+        "rationale": "Kaku dan tidak mencari solusi bersama."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan permintaan itu kepada ketua panitia dan menyiapkan draf pemberitahuan perubahan jadwal untuk peserta",
+        "score": 4,
+        "rationale": "Sesuai jalur dan antisipatif, tetapi belum menjajaki solusi bersama mitra."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada peserta bahwa perubahan jadwal terjadi karena kelalaian instansi mitra",
+        "score": 1,
+        "rationale": "Menyalahkan mitra di depan pihak luar dan merusak hubungan antarinstansi."
+      },
+      {
+        "key": "D",
+        "text": "Segera menghubungi kontak di instansi mitra untuk menjajaki pilihan, misalnya narasumber pengganti atau penyesuaian sesi, lalu melaporkan pilihan itu kepada ketua panitia dan menyiapkan pemberitahuan kepada peserta sesuai keputusan yang disepakati",
+        "score": 5,
+        "rationale": "Responsif, mencari solusi bersama mitra, dan memastikan peserta mendapat informasi yang benar."
+      },
+      {
+        "key": "E",
+        "text": "Menunggu keputusan ketua panitia sebelum menanggapi permintaan instansi mitra",
+        "score": 3,
+        "rationale": "Taat jalur, tetapi pasif dan memperlambat penanganan yang mendesak."
+      }
+    ],
+    "explanation": "Perubahan mendadak dari mitra ditangani dengan komunikasi cepat dan pencarian solusi bersama, tanpa saling menyalahkan. Ini wujud nilai Kolaboratif dan Adaptif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0035",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Di grup pesan kantor, dua rekan berdebat semakin panas tentang kebijakan pembagian ruang kerja. Beberapa anggota mulai ikut berkomentar sinis, padahal grup itu juga dipakai untuk informasi kedinasan. Anda anggota grup biasa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi kedua rekan itu secara pribadi dan menyarankan mereka membicarakannya langsung",
+        "score": 4,
+        "rationale": "Mendorong dialog, tetapi suasana grup yang memanas belum diredakan."
+      },
+      {
+        "key": "B",
+        "text": "Membisukan grup sampai perdebatan selesai",
+        "score": 2,
+        "rationale": "Menghindar dan berisiko melewatkan informasi kedinasan."
+      },
+      {
+        "key": "C",
+        "text": "Meminta admin grup menertibkan percakapan",
+        "score": 3,
+        "rationale": "Menyerahkan kepada pihak lain, padahal Anda bisa ikut meredakan dengan santun."
+      },
+      {
+        "key": "D",
+        "text": "Mengirim pesan netral yang mengajak agar diskusi dilanjutkan secara langsung atau dalam rapat, lalu menghubungi kedua rekan itu secara pribadi dan menyarankan penyelesaian melalui pertemuan dengan pihak yang berwenang mengatur ruang",
+        "score": 5,
+        "rationale": "Meredakan suasana tanpa memihak dan mengarahkan konflik ke forum yang tepat."
+      },
+      {
+        "key": "E",
+        "text": "Ikut menyampaikan pendapat Anda tentang siapa yang benar dalam perdebatan itu",
+        "score": 1,
+        "rationale": "Memperkeruh konflik di ruang bersama kantor."
+      }
+    ],
+    "explanation": "Konflik antarrekan sebaiknya diselesaikan secara langsung, bukan di grup bersama. Peran sebagai penengah yang netral mencerminkan nilai Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0036",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda membuat templat lembar kerja untuk merekap kegiatan bulanan yang terbukti mempercepat pekerjaan unit Anda. Seorang staf dari unit lain mendengar hal itu dan meminta templat tersebut. Templat itu tidak berisi data rahasia. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagikan templat itu beserta petunjuk singkat penggunaannya dan menawarkan bantuan bila perlu disesuaikan dengan kebutuhan unitnya",
+        "score": 5,
+        "rationale": "Berbagi dengan sukarela dan memastikan templat benar-benar bisa dimanfaatkan."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan ia membuat templat sendiri karena kebutuhan setiap unit berbeda",
+        "score": 2,
+        "rationale": "Terdengar masuk akal, tetapi menolak berbagi secara halus."
+      },
+      {
+        "key": "C",
+        "text": "Menolak karena khawatir unit lain mendapat penilaian kinerja lebih baik berkat templat Anda",
+        "score": 1,
+        "rationale": "Egois dan bersaing secara tidak sehat antarunit."
+      },
+      {
+        "key": "D",
+        "text": "Membagikan templat itu kepadanya",
+        "score": 4,
+        "rationale": "Mau berbagi, tetapi tanpa dukungan agar templat dapat dipakai dengan baik."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa templat itu akan dibagikan setelah Anda meminta izin atasan, menyusun memo singkat tentang manfaatnya, lalu menunggu persetujuan sebelum mengirimkannya",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda padahal templat tidak bersifat rahasia."
+      }
+    ],
+    "explanation": "Berbagi alat kerja yang bermanfaat kepada unit lain memperkuat kinerja organisasi secara keseluruhan. Ini wujud nilai Kolaboratif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0037",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang pegawai yang lebih muda dan masa kerjanya lebih singkat daripada Anda dilantik menjadi kepala subbagian, atasan langsung Anda. Beberapa rekan senior di ruangan menunjukkan sikap kurang menerima. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bersikap biasa saja seperti kepada rekan lain, menjalankan tugas seperti biasa, dan menunggu untuk melihat bagaimana gaya kepemimpinannya sebelum menentukan sikap",
+        "score": 3,
+        "rationale": "Netral, tetapi pasif dalam membangun hubungan kerja yang baru."
+      },
+      {
+        "key": "B",
+        "text": "Memberi selamat, menyatakan siap mendukung, berbagi informasi pekerjaan yang sedang berjalan, dan mengajak rekan lain bekerja sama dengannya",
+        "score": 5,
+        "rationale": "Mendukung atasan baru secara aktif dan ikut membangun suasana kerja yang kondusif."
+      },
+      {
+        "key": "C",
+        "text": "Memberi selamat dan menjalankan arahan-arahannya dengan baik",
+        "score": 4,
+        "rationale": "Profesional, tetapi belum aktif membantu proses transisi."
+      },
+      {
+        "key": "D",
+        "text": "Menjaga jarak darinya agar tidak dianggap memihak oleh rekan-rekan senior",
+        "score": 2,
+        "rationale": "Mendahulukan citra di mata rekan dibanding kelancaran kerja."
+      },
+      {
+        "key": "E",
+        "text": "Ikut menyampaikan keraguan atas kemampuannya kepada rekan-rekan senior",
+        "score": 1,
+        "rationale": "Mendukung sikap negatif dan merusak hubungan kerja."
+      }
+    ],
+    "explanation": "Menghargai setiap orang apa pun usianya dan mendukung pimpinan yang sah adalah wujud nilai Harmonis dan Loyal, sekaligus menjaga kerja sama tim.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0038",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang rekan senior di unit Anda akan pensiun tiga bulan lagi. Selama ini hanya ia yang memahami pengelolaan arsip aset lama beserta kontak di instansi terkait, dan pengetahuannya hampir tidak terdokumentasi. Anda staf di unit yang sama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta senior itu mengajari Anda pengelolaan arsip aset sebelum ia pensiun",
+        "score": 4,
+        "rationale": "Inisiatif belajar yang baik, tetapi belum terdokumentasi dan belum melibatkan atasan."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu atasan menunjuk siapa yang akan menggantikan tugas senior itu",
+        "score": 3,
+        "rationale": "Wajar, tetapi pasif menghadapi risiko yang sudah terlihat."
+      },
+      {
+        "key": "C",
+        "text": "Berencana mempelajari arsip itu sendiri setelah ia pensiun",
+        "score": 2,
+        "rationale": "Menunda dan kehilangan kesempatan belajar langsung dari sumbernya."
+      },
+      {
+        "key": "D",
+        "text": "Menganggapnya bukan urusan Anda karena arsip aset bukan tugas Anda",
+        "score": 1,
+        "rationale": "Pasif total dan mengabaikan kepentingan unit."
+      },
+      {
+        "key": "E",
+        "text": "Mengusulkan kepada atasan agar disusun rencana alih pengetahuan, lalu meminta waktu senior itu secara rutin untuk belajar, mendokumentasikan langkah kerja dan kontak penting, serta minta dikenalkan kepada kontak di instansi terkait",
+        "score": 5,
+        "rationale": "Proaktif menjaga kesinambungan pengetahuan dan jejaring unit melalui jalur yang tepat."
+      }
+    ],
+    "explanation": "Alih pengetahuan dari pegawai senior menjaga kesinambungan kerja dan jejaring instansi. Proaktif belajar dan mendokumentasikan mencerminkan nilai Kompeten dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0039",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda koordinator tim kecil penyusun aplikasi pendataan. Anggota yang paling menguasai teknis sering berkata kasar ketika anggota lain bertanya, sehingga dua anggota mulai enggan berdiskusi. Tanpa keahliannya, target tim sulit tercapai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjadi perantara pertanyaan anggota lain kepadanya agar tidak terjadi gesekan",
+        "score": 3,
+        "rationale": "Pekerjaan berjalan, tetapi masalah komunikasi tidak diselesaikan dan beban Anda bertambah."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkannya karena keahliannya sangat dibutuhkan untuk mencapai target",
+        "score": 2,
+        "rationale": "Mengutamakan target dan mengabaikan anggota yang dirugikan."
+      },
+      {
+        "key": "C",
+        "text": "Menetapkan aturan bersama tentang cara berdiskusi dan bertanya dalam rapat tim",
+        "score": 4,
+        "rationale": "Memperbaiki sistem untuk semua, tetapi tidak menyentuh perilaku anggota yang bersangkutan secara langsung."
+      },
+      {
+        "key": "D",
+        "text": "Berbicara empat mata dengannya, mengapresiasi kontribusinya, menyampaikan dampak caranya berkomunikasi terhadap tim dengan contoh konkret, menyepakati cara diskusi yang lebih baik, lalu memantau perubahannya",
+        "score": 5,
+        "rationale": "Menjaga kontribusi anggota kunci sekaligus memperbaiki suasana kerja lewat dialog langsung."
+      },
+      {
+        "key": "E",
+        "text": "Menegurnya dengan keras di depan seluruh anggota tim",
+        "score": 1,
+        "rationale": "Emosional dan mempermalukan sehingga berisiko membuat anggota kunci menarik diri."
+      }
+    ],
+    "explanation": "Dilema antara mempertahankan kinerja anggota kunci dan menjaga suasana kerja yang sehat. Koordinator yang Harmonis dan Kolaboratif menyelesaikannya lewat dialog langsung tanpa mengorbankan salah satunya.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0040",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Saat menyusun jadwal penyuluhan gizi di desa-desa, Anda menemukan bahwa dinas lain akan mengadakan penyuluhan serupa di desa dan bulan yang sama dengan sasaran warga yang sama. Anda staf perencana kegiatan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyiapkan bukti bahwa rencana unit Anda disusun lebih dulu, lalu mengajukan keberatan resmi agar dinas itu yang mengubah jadwal dan sasaran kegiatannya supaya program unit Anda tidak terganggu",
+        "score": 1,
+        "rationale": "Ego sektoral yang memicu persaingan antarinstansi."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan temuan itu kepada atasan disertai usulan agar dilakukan koordinasi dengan dinas tersebut",
+        "score": 4,
+        "rationale": "Tepat jalur dan solutif, tetapi belum menghubungi mitra untuk memastikan informasinya."
+      },
+      {
+        "key": "C",
+        "text": "Tetap menjalankan sesuai rencana karena kegiatan unit Anda sudah disetujui",
+        "score": 2,
+        "rationale": "Kaku dan membiarkan pemborosan serta kebingungan warga."
+      },
+      {
+        "key": "D",
+        "text": "Memindahkan jadwal kegiatan Anda ke bulan lain tanpa berkoordinasi dengan dinas itu",
+        "score": 3,
+        "rationale": "Menghindari tumpang tindih, tetapi peluang kerja sama terlewat."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi perencana kegiatan di dinas itu untuk membandingkan rencana, lalu mengusulkan kepada atasan agar kedua kegiatan dipadukan atau dibagi wilayah dan waktunya",
+        "score": 5,
+        "rationale": "Proaktif berkoordinasi lintas instansi sehingga anggaran efisien dan warga terlayani lebih baik."
+      }
+    ],
+    "explanation": "Koordinasi lintas instansi mencegah tumpang tindih program dan pemborosan anggaran. Ini wujud nilai Kolaboratif: membuka kerja sama untuk menghasilkan nilai tambah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0041",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dalam sebuah pelatihan, Anda berkenalan dengan pegawai dari kabupaten lain yang berhasil menjalankan program serupa dengan program yang sedang Anda kerjakan. Seminggu kemudian ia menghubungi Anda untuk bertukar pengalaman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyambutnya, berbagi pengalaman dan bahan yang boleh dibagikan, mencatat praktik baiknya untuk tim, dan menjaga komunikasi untuk kerja sama berikutnya",
+        "score": 5,
+        "rationale": "Membangun jejaring yang saling menguntungkan dan membawa manfaatnya bagi unit."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan pesannya karena urusan kabupaten lain bukan urusan Anda",
+        "score": 1,
+        "rationale": "Menutup diri dan memutus peluang belajar."
+      },
+      {
+        "key": "C",
+        "text": "Menyambutnya dengan baik dan menceritakan pengalaman Anda menjalankan program itu secara rinci, termasuk kendala yang dihadapi, sesuai hal-hal yang ia tanyakan",
+        "score": 4,
+        "rationale": "Terbuka dan ramah, tetapi belum memanfaatkan jejaring itu bagi unit."
+      },
+      {
+        "key": "D",
+        "text": "Membalas dengan sopan dan berjanji menghubunginya bila ada kebutuhan",
+        "score": 3,
+        "rationale": "Sopan, tetapi pasif dalam membangun hubungan."
+      },
+      {
+        "key": "E",
+        "text": "Membalas singkat karena khawatir dianggap membocorkan informasi kantor",
+        "score": 2,
+        "rationale": "Terlalu tertutup padahal yang dibicarakan adalah pengalaman kerja yang wajar."
+      }
+    ],
+    "explanation": "Jejaring kerja tidak terbatas pada satu kantor. Bertukar praktik baik dengan instansi lain mencerminkan nilai Kolaboratif dan Kompeten.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0042",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda mewakili dinas dalam musyawarah perencanaan di tingkat desa. Sekelompok warga mengkritik keras program dinas Anda yang dinilai tidak tepat sasaran, dan mereka membawa data lapangan hasil pendataan sendiri. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendengarkan kritik dengan tenang dan berjanji menyampaikannya kepada pimpinan dinas",
+        "score": 4,
+        "rationale": "Sopan dan terbuka, tetapi data warga belum diminta dan tindak lanjutnya tidak jelas."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat kritik tanpa menanggapi dan meminta warga menyampaikannya lewat surat resmi",
+        "score": 2,
+        "rationale": "Prosedural, tetapi terkesan menghindari dialog."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan kritik dengan tenang, berterima kasih, meminta salinan data mereka, menjelaskan hal yang bisa Anda jelaskan, lalu menyampaikan data itu kepada atasan dan mengabarkan tindak lanjutnya kepada perwakilan warga",
+        "score": 5,
+        "rationale": "Terbuka terhadap kritik, menjadikan warga mitra, dan menjamin ada tindak lanjut."
+      },
+      {
+        "key": "D",
+        "text": "Menyatakan bahwa data warga tidak dapat dipercaya karena tidak berasal dari instansi resmi",
+        "score": 1,
+        "rationale": "Meremehkan masyarakat dan memutus peluang kerja sama."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dasar penetapan sasaran program sesuai data resmi dinas",
+        "score": 3,
+        "rationale": "Informatif, tetapi cenderung defensif dan tidak membuka kerja sama."
+      }
+    ],
+    "explanation": "Kritik masyarakat yang disertai data adalah peluang kolaborasi. Mendengar, menghargai, dan menindaklanjuti mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0043",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dalam tim Anda, setiap ada pekerjaan tambahan dari atasan, seorang rekan selalu menolak dengan alasan sibuk, sehingga pekerjaan itu selalu jatuh ke dua anggota yang sama. Ketua tim tampak tidak menyadarinya. Anda salah satu anggota yang sering menanggung pekerjaan itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengeluhkan rekan itu di grup pesan tim agar ketua tim mengetahuinya",
+        "score": 1,
+        "rationale": "Menyindir di depan umum dan merusak hubungan tim."
+      },
+      {
+        "key": "B",
+        "text": "Tetap mengerjakan pekerjaan tambahan itu agar tugas tim selesai",
+        "score": 3,
+        "rationale": "Bertanggung jawab, tetapi ketimpangan beban dibiarkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengusulkan dalam rapat tim agar pekerjaan tambahan dibagi secara bergilir",
+        "score": 4,
+        "rationale": "Solusi sistemik yang terbuka, tetapi tanpa dialog lebih dulu dengan rekan yang bersangkutan."
+      },
+      {
+        "key": "D",
+        "text": "Ikut menolak pekerjaan tambahan berikutnya dengan alasan sibuk, agar ketua tim menyadari sendiri bahwa beban selama ini hanya ditanggung oleh dua anggota yang sama",
+        "score": 2,
+        "rationale": "Membalas dengan perilaku yang sama sehingga pekerjaan tim terbengkalai."
+      },
+      {
+        "key": "E",
+        "text": "Berbicara langsung dengan rekan itu untuk memahami bebannya, lalu mengusulkan kepada ketua tim pembagian pekerjaan tambahan secara bergilir",
+        "score": 5,
+        "rationale": "Dialog langsung disertai usulan sistem yang adil melalui pihak yang berwenang."
+      }
+    ],
+    "explanation": "Ketimpangan beban kerja diselesaikan lewat dialog dan kesepakatan sistem yang adil, bukan dibiarkan atau dibalas. Ini wujud nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0044",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Atasan menugaskan Anda mewakilinya dalam rapat koordinasi lintas instansi. Peserta rapat mendesak agar instansi Anda menyetujui saat itu juga pembagian tugas yang cukup memberatkan, sementara Anda tidak diberi kewenangan untuk memutuskan dan atasan tidak dapat dihubungi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam dan mengikuti jalannya rapat, lalu melaporkan hasilnya kepada atasan setelahnya",
+        "score": 3,
+        "rationale": "Melapor, tetapi tidak menyuarakan posisi instansi saat dibutuhkan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa keputusan harus menunggu pimpinan dan Anda akan melaporkannya",
+        "score": 4,
+        "rationale": "Tepat batas wewenang, tetapi tanpa kepastian waktu dan tanpa menyampaikan pertimbangan instansi."
+      },
+      {
+        "key": "C",
+        "text": "Menghargai usulan itu, menjelaskan bahwa Anda perlu meminta keputusan pimpinan, menyampaikan pertimbangan kemampuan instansi Anda secara terbuka, berjanji memberi jawaban pada waktu tertentu, lalu segera melapor kepada atasan dengan catatan lengkap",
+        "score": 5,
+        "rationale": "Menjaga kerja sama dengan tetap berada dalam batas wewenang dan memberi kepastian tindak lanjut."
+      },
+      {
+        "key": "D",
+        "text": "Menolak usulan itu karena memberatkan instansi Anda",
+        "score": 2,
+        "rationale": "Menutup kerja sama dan mengambil sikap di luar wewenang."
+      },
+      {
+        "key": "E",
+        "text": "Menyetujui usulan itu agar rapat cepat selesai dan hubungan antarinstansi tetap baik",
+        "score": 1,
+        "rationale": "Melampaui wewenang dan membebani instansi tanpa persetujuan pimpinan."
+      }
+    ],
+    "explanation": "Dilema antara menjaga kelancaran kerja sama dan batas wewenang. Wakil instansi yang baik tetap kooperatif, terbuka soal pertimbangan, dan memberi kepastian tindak lanjut tanpa mengambil keputusan di luar wewenangnya.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0045",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Unit Anda berhasil memangkas waktu layanan izin melalui perbaikan alur kerja. Bagian organisasi meminta Anda menjadi narasumber dalam forum berbagi praktik baik bagi unit-unit lain. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak karena khawatir unit lain meniru cara kerja unit Anda",
+        "score": 1,
+        "rationale": "Egois dan bertentangan dengan semangat berbagi di organisasi."
+      },
+      {
+        "key": "B",
+        "text": "Menerima tugas itu dan menyiapkan materi paparan dengan baik",
+        "score": 4,
+        "rationale": "Bersedia berbagi, tetapi belum melibatkan tim dan belum membuka tindak lanjut."
+      },
+      {
+        "key": "C",
+        "text": "Menerima tugas itu, menyusun materi bersama rekan satu tim yang terlibat, memaparkan cara kerja beserta kendalanya, dan membuka diskusi lanjutan",
+        "score": 5,
+        "rationale": "Berbagi secara terbuka, melibatkan tim, dan membuka ruang kerja sama lanjutan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta rekan lain menjadi narasumber karena Anda kurang percaya diri berbicara di depan umum",
+        "score": 2,
+        "rationale": "Menghindari kesempatan berbagi yang ditugaskan kepada Anda."
+      },
+      {
+        "key": "E",
+        "text": "Menerima tugas itu dan menyiapkan paparan yang menonjolkan capaian unit Anda, seperti grafik penurunan waktu layanan dan penghargaan yang diterima, tanpa menguraikan cara kerjanya",
+        "score": 3,
+        "rationale": "Berbagi, tetapi lebih menonjolkan capaian daripada cara kerja sehingga sulit ditiru unit lain."
+      }
+    ],
+    "explanation": "Berbagi praktik baik kepada unit lain meningkatkan kinerja organisasi. Ini wujud nilai Kolaboratif dan Kompeten (membantu orang lain belajar).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0046",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda dan seorang rekan bertugas berdua di meja layanan informasi mulai pukul 07.30. Dalam dua minggu terakhir, rekan itu hampir setiap hari datang sekitar pukul 08.15, sehingga Anda kewalahan melayani antrean pagi sendirian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan keterlambatannya kepada atasan disertai catatan jam kedatangan selama dua minggu, karena urusan disiplin pegawai merupakan wewenang atasan, bukan wewenang sesama rekan",
+        "score": 2,
+        "rationale": "Langsung eskalasi tanpa dialog sehingga hubungan kerja terganggu."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkannya secara pribadi dengan sopan bahwa antrean pagi sulit ditangani sendirian",
+        "score": 4,
+        "rationale": "Komunikasi langsung dan santun, tetapi belum mencari penyebab atau solusinya."
+      },
+      {
+        "key": "C",
+        "text": "Ikut datang terlambat karena merasa tidak adil harus bekerja sendirian",
+        "score": 1,
+        "rationale": "Membalas dengan pelanggaran yang sama dan merugikan layanan."
+      },
+      {
+        "key": "D",
+        "text": "Menanyakan kendalanya secara pribadi, lalu mencari solusi bersama, misalnya bertukar jadwal jaga atau mengajukan penyesuaian jadwal secara resmi",
+        "score": 5,
+        "rationale": "Dialog langsung yang mencari akar masalah dan solusi resmi tanpa merusak hubungan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta bantuan rekan dari meja lain setiap pagi sampai rekan Anda datang",
+        "score": 3,
+        "rationale": "Layanan tetap berjalan, tetapi masalah keterlambatan tidak dibicarakan."
+      }
+    ],
+    "explanation": "Masalah kedisiplinan rekan yang berdampak pada kerja bersama sebaiknya dibicarakan langsung lebih dulu untuk mencari penyebab dan solusinya. Ini wujud nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0047",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Tiga mahasiswa magang ditempatkan di unit Anda, dan Anda ditunjuk sebagai pembimbing lapangan. Rekan-rekan di ruangan cenderung hanya meminta mereka memfotokopi dan mengantar berkas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan kepada rekan-rekan agar tidak terlalu sering menyuruh mahasiswa magang",
+        "score": 3,
+        "rationale": "Menunjukkan kepedulian, tetapi belum memberi alternatif kegiatan yang bermakna."
+      },
+      {
+        "key": "B",
+        "text": "Memberi mereka tugas yang relevan dengan jurusannya dari pekerjaan Anda sendiri",
+        "score": 4,
+        "rationale": "Membimbing dengan baik, tetapi belum melibatkan rekan dan unit secara luas."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya karena pekerjaan administrasi juga bagian dari pengalaman kerja",
+        "score": 2,
+        "rationale": "Pasif dan tidak menjalankan peran pembimbing."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun rencana kegiatan magang sesuai tujuan dari kampus, membagi mereka ke pekerjaan yang relevan, dan meminta rekan-rekan ikut membimbing sesuai bidangnya",
+        "score": 5,
+        "rationale": "Menjalankan peran pembimbing secara terencana dan menggerakkan rekan untuk mendukung pembelajaran."
+      },
+      {
+        "key": "E",
+        "text": "Ikut menyerahkan pekerjaan rutin Anda kepada mereka, karena mengerjakan tugas nyata kantor justru memberi pengalaman kerja yang lebih berharga daripada sekadar mengamati",
+        "score": 1,
+        "rationale": "Memanfaatkan mahasiswa magang untuk kepentingan sendiri."
+      }
+    ],
+    "explanation": "Pembimbing magang membantu orang lain belajar (Kompeten) dan menggerakkan rekan agar ikut berkontribusi (Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0048",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda menerima rekap capaian program dari instansi mitra yang akan dilaporkan bersama ke pemerintah provinsi. Anda mendapati petugas di instansi itu keliru memasukkan angka sehingga capaian unit Anda tampak jauh lebih tinggi dari yang sebenarnya. Rekap itu akan dikirim besok. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak mengoreksinya, karena rekap itu disusun dan menjadi tanggung jawab instansi mitra, sementara angka tersebut kebetulan menguntungkan penilaian kinerja unit Anda tahun ini",
+        "score": 1,
+        "rationale": "Tidak jujur dan memanfaatkan kekeliruan demi kepentingan unit."
+      },
+      {
+        "key": "B",
+        "text": "Segera menghubungi petugas itu langsung, menunjukkan angka yang benar beserta sumbernya, menyepakati perbaikan sebelum rekap dikirim, dan memberi tahu atasan",
+        "score": 5,
+        "rationale": "Jujur, menjaga hubungan baik dengan mitra, dan memastikan data yang dilaporkan akurat."
+      },
+      {
+        "key": "C",
+        "text": "Mengirim surel kepada petugas itu berisi koreksi angka dan memintanya memperbaiki rekap",
+        "score": 4,
+        "rationale": "Jujur dan sesuai jalur, tetapi belum memastikan koreksi diterima sebelum tenggat."
+      },
+      {
+        "key": "D",
+        "text": "Mengoreksi angka itu sendiri di berkas rekap lalu mengirimkannya kembali tanpa penjelasan",
+        "score": 2,
+        "rationale": "Data menjadi benar, tetapi mengubah dokumen mitra tanpa komunikasi merusak kepercayaan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan kekeliruan itu kepada atasan dan menunggu arahannya",
+        "score": 3,
+        "rationale": "Terbuka, tetapi menunda padahal koreksi bisa langsung dikomunikasikan."
+      }
+    ],
+    "explanation": "Dilema antara kepentingan unit dan kejujuran data dalam kerja sama antarinstansi. Skor tertinggi mengoreksi secara langsung dan santun bersama mitra, sesuai nilai Akuntabel dan Kolaboratif.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0049",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Tim Anda diberi waktu dua minggu untuk menyusun rancangan program kerja. Ketua tim belum memberi pembagian tugas atau arahan yang jelas, dan anggota mulai saling menunggu. Anda anggota tim. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menemui ketua tim untuk menanyakan arahannya, menawarkan draf kerangka kerja dan usulan pembagian tugas, lalu mengusulkan rapat singkat tim untuk menyepakatinya",
+        "score": 5,
+        "rationale": "Proaktif membantu ketua tim tanpa mengambil alih wewenangnya."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu arahan ketua tim karena pembagian tugas adalah wewenangnya",
+        "score": 3,
+        "rationale": "Benar soal wewenang, tetapi pasif saat tenggat makin dekat."
+      },
+      {
+        "key": "C",
+        "text": "Membicarakan kelemahan ketua tim bersama anggota lain sambil menunggu arahan",
+        "score": 1,
+        "rationale": "Menggunjing pimpinan tim dan merusak suasana kerja."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun pembagian tugas atas inisiatif sendiri, membagikannya kepada anggota lain melalui grup tim, dan meminta mereka segera mulai bekerja tanpa menunggu persetujuan ketua tim",
+        "score": 2,
+        "rationale": "Berniat mempercepat, tetapi melangkahi wewenang ketua tim dan berpotensi menimbulkan konflik."
+      },
+      {
+        "key": "E",
+        "text": "Menanyakan kepada ketua tim kapan pembagian tugas akan diberikan",
+        "score": 4,
+        "rationale": "Komunikasi langsung, tetapi belum membantu mempercepat prosesnya."
+      }
+    ],
+    "explanation": "Anggota tim yang proaktif membantu ketua tim memperjelas arah kerja tanpa melangkahi wewenangnya. Ini mencerminkan nilai Kolaboratif dan Adaptif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0050",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda staf bidang kepemudaan di sebuah dinas. Pengurus karang taruna sebuah kelurahan datang dan meminta bimbingan menyusun proposal kegiatan pelatihan keterampilan yang akan diajukan ke dinas Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan syarat dan format proposal yang berlaku beserta jadwal pengajuannya",
+        "score": 4,
+        "rationale": "Informatif dan sesuai prosedur, tetapi pendampingannya terbatas."
+      },
+      {
+        "key": "B",
+        "text": "Menawarkan diri menyusunkan proposal mereka, karena Anda paling paham kriteria penilaian dinas dan pemuda di kelurahan itu jarang mendapat kesempatan program pelatihan",
+        "score": 1,
+        "rationale": "Melampaui peran dan menimbulkan konflik kepentingan dalam penilaian proposal."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan mereka mencari contoh proposal di internet",
+        "score": 2,
+        "rationale": "Melepas tanggung jawab pembinaan secara halus."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan syarat dan format proposal, memberi contoh proposal yang pernah disetujui tanpa data pribadi, dan menawarkan pemeriksaan draf sebelum diajukan resmi",
+        "score": 5,
+        "rationale": "Membina mitra masyarakat secara aktif dan tetap sesuai prosedur."
+      },
+      {
+        "key": "E",
+        "text": "Memberikan formulir dan panduan tertulis tanpa penjelasan lebih lanjut",
+        "score": 3,
+        "rationale": "Benar, tetapi minim pembinaan."
+      }
+    ],
+    "explanation": "Membina organisasi masyarakat sebagai mitra adalah bagian dari jejaring kerja ASN. Pendampingan yang aktif dan tetap sesuai prosedur mencerminkan nilai Kolaboratif dan Berorientasi Pelayanan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0051",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang rekan menuduh Anda menghilangkan berkas usulan kenaikan pangkat yang ia titipkan, dan ia menyampaikannya dengan nada tinggi di depan rekan-rekan lain. Anda ingat sudah meneruskan berkas itu ke bagian kepegawaian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan ia menanyakan sendiri ke bagian kepegawaian",
+        "score": 3,
+        "rationale": "Arahnya benar, tetapi kurang membantu menyelesaikan masalah bersama."
+      },
+      {
+        "key": "B",
+        "text": "Membalas dengan nada tinggi bahwa ia yang ceroboh dan suka menuduh",
+        "score": 1,
+        "rationale": "Emosional dan memperburuk konflik di depan rekan lain."
+      },
+      {
+        "key": "C",
+        "text": "Menanggapi dengan tenang, mengajaknya bicara di tempat yang lebih pribadi, lalu bersama-sama memeriksa catatan penerimaan berkas di bagian kepegawaian",
+        "score": 5,
+        "rationale": "Meredakan situasi, tidak defensif, dan menyelesaikan masalah berdasarkan bukti bersama."
+      },
+      {
+        "key": "D",
+        "text": "Diam saja dan meninggalkan ruangan agar tidak terjadi keributan",
+        "score": 2,
+        "rationale": "Menghindari konflik, tetapi kesalahpahaman tidak diluruskan."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan tenang di depan rekan-rekan bahwa berkas itu sudah Anda teruskan ke bagian kepegawaian beberapa hari lalu sesuai prosedur yang berlaku",
+        "score": 4,
+        "rationale": "Tenang dan jujur, tetapi belum membantu memastikan keberadaan berkasnya."
+      }
+    ],
+    "explanation": "Konflik dan tuduhan diselesaikan dengan tenang, di tempat yang tepat, dan berdasarkan bukti. Ini mencerminkan nilai Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0052",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Bidang lain menyusun rancangan petunjuk teknis yang akan dipakai bersama oleh beberapa bidang, termasuk bidang Anda. Saat membacanya, Anda menemukan beberapa ketentuan yang bertentangan dengan peraturan terbaru. Rancangan itu akan dibahas minggu depan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun catatan temuan beserta rujukan peraturan terbaru, lalu menyerahkannya kepada atasan Anda agar atasan yang menyampaikannya secara resmi kepada bidang penyusun",
+        "score": 3,
+        "rationale": "Masukan sampai, tetapi lewat jalur yang lebih panjang dari yang diperlukan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan kepada rekan-rekan bahwa bidang itu tidak teliti menyusun rancangan",
+        "score": 1,
+        "rationale": "Menggunjing dan merusak hubungan antarbidang."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat temuan itu dan menyampaikannya dalam rapat pembahasan minggu depan",
+        "score": 4,
+        "rationale": "Memberi masukan lewat forum resmi, tetapi penyusun tidak punya waktu menyiapkan perbaikan."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkannya karena penyusunan rancangan itu tanggung jawab bidang lain",
+        "score": 2,
+        "rationale": "Pasif, padahal dokumen itu juga akan dipakai bidang Anda."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi penyusun di bidang itu sebelum pembahasan, menyampaikan temuan beserta rujukan peraturan terbaru, dan menawarkan bantuan merumuskan perbaikannya",
+        "score": 5,
+        "rationale": "Berbagi informasi secara langsung dan santun sekaligus membantu menyempurnakan dokumen bersama."
+      }
+    ],
+    "explanation": "Menemukan kesalahan dalam pekerjaan unit lain sebaiknya ditanggapi dengan berbagi informasi secara langsung dan konstruktif. Ini wujud nilai Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0053",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda menyusun bahan paparan tentang capaian program unit Anda, tetapi atasan belum sempat memeriksa dan menyetujuinya. Seorang rekan di unit lain meminta bahan itu untuk dipakai dalam rapat dengan pimpinan daerah besok pagi karena sangat relevan. Atasan Anda sedang dalam perjalanan dinas, tetapi masih bisa dihubungi lewat pesan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi atasan untuk meminta persetujuan cepat sambil memeriksa ulang bahan, lalu mengirimkannya bila disetujui atau mengirim data resmi yang sudah terbit bila belum ada jawaban",
+        "score": 5,
+        "rationale": "Mendukung kebutuhan unit lain tanpa melangkahi persetujuan atasan dan tetap menyiapkan jalan keluar."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan kepada rekan itu bahwa bahan masih draf yang menunggu persetujuan atasan, lalu menawarkan data yang sudah resmi diterbitkan",
+        "score": 4,
+        "rationale": "Tertib dan tetap membantu, tetapi belum berupaya meminta persetujuan yang sebenarnya bisa didapat."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan bahwa bahan belum disetujui sehingga belum bisa diberikan",
+        "score": 3,
+        "rationale": "Tertib prosedur, tetapi tanpa upaya membantu kebutuhan rekan."
+      },
+      {
+        "key": "D",
+        "text": "Mengirimkan bahan dengan catatan bahwa isinya masih draf dan belum boleh dikutip, karena rapat dengan pimpinan daerah lebih penting dan atasan dapat diberi tahu setelah kembali",
+        "score": 2,
+        "rationale": "Berniat membantu, tetapi melangkahi persetujuan atasan dan berisiko draf dipakai di forum pimpinan."
+      },
+      {
+        "key": "E",
+        "text": "Mengirimkan bahan tanpa catatan apa pun karena tujuannya juga untuk kepentingan pemerintah daerah",
+        "score": 1,
+        "rationale": "Membagikan bahan yang belum sah tanpa persetujuan dan tanpa peringatan."
+      }
+    ],
+    "explanation": "Dilema antara keinginan berbagi informasi dengan unit lain (Kolaboratif) dan kepatuhan pada mekanisme persetujuan (Akuntabel). Skor tertinggi mengupayakan keduanya: meminta persetujuan secara cepat dan menyiapkan alternatif berupa data resmi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0054",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda menerima informasi resmi tentang pelatihan daring gratis di bidang pengelolaan arsip digital. Pelatihan itu tidak terkait langsung dengan tugas Anda, tetapi sangat relevan bagi dua rekan di subbagian arsip. Pendaftaran ditutup tiga hari lagi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendaftarkan diri sendiri tanpa memberi tahu mereka agar Anda menjadi yang paling memahami arsip digital di kantor",
+        "score": 1,
+        "rationale": "Egois dan menahan informasi demi keuntungan pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Menyimpan informasi itu dan baru menyampaikannya bila mereka bertanya tentang pelatihan",
+        "score": 2,
+        "rationale": "Pasif sehingga kesempatan rekan bisa terlewat."
+      },
+      {
+        "key": "C",
+        "text": "Membagikan informasi itu di grup pesan kantor beserta tautan pendaftaran dan ringkasan materinya agar siapa pun yang berminat dapat mendaftar sebelum batas waktunya berakhir",
+        "score": 3,
+        "rationale": "Informasi tersebar luas, tetapi belum tentu sampai kepada rekan yang paling membutuhkan."
+      },
+      {
+        "key": "D",
+        "text": "Meneruskan informasi itu kepada kedua rekan tersebut",
+        "score": 4,
+        "rationale": "Berbagi informasi dengan tepat, tetapi tanpa memastikan tindak lanjutnya."
+      },
+      {
+        "key": "E",
+        "text": "Meneruskan informasi itu kepada kedua rekan dan atasan mereka beserta tautan resmi dan batas pendaftarannya, lalu menawarkan bantuan bila mereka kesulitan mendaftar",
+        "score": 5,
+        "rationale": "Berbagi informasi tepat sasaran, lewat jalur yang tepat, dan disertai dukungan."
+      }
+    ],
+    "explanation": "Berbagi informasi yang bermanfaat bagi pengembangan rekan mencerminkan nilai Kolaboratif dan Kompeten (membantu orang lain belajar).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0055",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda ditunjuk sebagai koordinator kegiatan vaksinasi hewan yang melibatkan petugas dari lima UPT di kecamatan berbeda. Dalam minggu pertama, laporan harian sering terlambat dan informasi antar-UPT tidak seragam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi petugas di tiap UPT untuk menanyakan kendalanya, lalu menyepakati format laporan yang sama, jadwal pengiriman, dan rapat daring singkat mingguan, serta membagikan rekap gabungan kepada semua UPT",
+        "score": 5,
+        "rationale": "Mencari kendala secara langsung dan membangun sistem koordinasi yang disepakati serta transparan."
+      },
+      {
+        "key": "B",
+        "text": "Mengirim format laporan standar dan jadwal pengiriman kepada semua UPT",
+        "score": 4,
+        "rationale": "Membuat sistem yang jelas, tetapi tanpa menggali kendala tiap UPT."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan kepada pimpinan bahwa UPT tertentu tidak bisa diajak bekerja sama",
+        "score": 1,
+        "rationale": "Menyalahkan pihak lain tanpa upaya memperbaiki koordinasi."
+      },
+      {
+        "key": "D",
+        "text": "Meminta kepala tiap UPT menegur petugasnya agar laporan tepat waktu",
+        "score": 3,
+        "rationale": "Lewat jalur struktural, tetapi tanpa dialog dengan petugas yang menjalankan."
+      },
+      {
+        "key": "E",
+        "text": "Mengolah laporan apa adanya dan menunda rekap sampai semua laporan masuk",
+        "score": 2,
+        "rationale": "Pasif dan memperlambat informasi yang dibutuhkan pimpinan."
+      }
+    ],
+    "explanation": "Koordinasi lintas lokasi memerlukan komunikasi langsung, format yang disepakati, dan berbagi informasi secara terbuka. Ini wujud nilai Kolaboratif dan Adaptif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0056",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Saat istirahat, beberapa rekan membicarakan kehidupan pribadi seorang rekan lain yang sedang tidak ada di ruangan, dan mereka mengajak Anda ikut berkomentar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak ikut membicarakannya dengan sopan, mengingatkan bahwa hal itu bisa menyakiti rekan tersebut, lalu mengalihkan pembicaraan ke topik lain",
+        "score": 5,
+        "rationale": "Menghentikan gunjingan secara santun dan menjaga hubungan baik dengan semua pihak."
+      },
+      {
+        "key": "B",
+        "text": "Mendengarkan sambil sesekali tersenyum agar suasana tetap akrab dan Anda tidak dianggap menjauh, tetapi tidak menambahkan komentar apa pun tentang rekan tersebut",
+        "score": 2,
+        "rationale": "Secara tidak langsung membiarkan dan memberi kesan menyetujui gunjingan."
+      },
+      {
+        "key": "C",
+        "text": "Ikut berkomentar agar tidak dianggap tidak kompak",
+        "score": 1,
+        "rationale": "Ikut menggunjing dan merusak hubungan kerja."
+      },
+      {
+        "key": "D",
+        "text": "Menolak ikut berkomentar dengan sopan",
+        "score": 4,
+        "rationale": "Tidak terlibat dan sopan, tetapi gunjingan tetap berlanjut."
+      },
+      {
+        "key": "E",
+        "text": "Diam dan tidak ikut berkomentar",
+        "score": 3,
+        "rationale": "Tidak terlibat, tetapi pasif terhadap perilaku yang merusak suasana kerja."
+      }
+    ],
+    "explanation": "Menjaga lingkungan kerja yang kondusif termasuk tidak ikut menggunjing dan meluruskannya dengan santun. Ini wujud nilai Harmonis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0057",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Tim Anda sudah lama solid dan kompak. Seorang pegawai mutasi dari unit lain baru bergabung, tetapi anggota tim cenderung tidak melibatkannya karena cara kerjanya berbeda dan khawatir ritme kerja tim terganggu menjelang tenggat. Anda anggota paling senior di tim. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan ketua tim agar pegawai baru itu mempelajari arsip dan dokumen tim lebih dulu, lalu baru diberi tugas setelah tenggat terlewati supaya ritme kerja tim tidak terganggu",
+        "score": 3,
+        "rationale": "Menjaga ritme tim, tetapi menunda keterlibatannya dan membiarkannya terkucil."
+      },
+      {
+        "key": "B",
+        "text": "Mengajaknya mengenal cara kerja tim, memberinya bagian tugas yang jelas, dan meminta anggota lain memberinya kesempatan serta terbuka pada pengalamannya",
+        "score": 5,
+        "rationale": "Menjaga ritme tim sekaligus merangkul anggota baru sehingga tim tetap solid dan inklusif."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya menyesuaikan diri sendiri karena tim sedang fokus pada tenggat",
+        "score": 2,
+        "rationale": "Mengutamakan target dan mengabaikan anggota baru."
+      },
+      {
+        "key": "D",
+        "text": "Ikut tidak melibatkannya karena tidak ingin bertentangan dengan anggota tim lainnya",
+        "score": 1,
+        "rationale": "Ikut mengucilkan rekan dan merusak keharmonisan tim."
+      },
+      {
+        "key": "E",
+        "text": "Membimbing pegawai baru itu secara pribadi agar cepat menyesuaikan diri dengan cara kerja tim",
+        "score": 4,
+        "rationale": "Merangkul anggota baru, tetapi sikap anggota tim lainnya belum disentuh."
+      }
+    ],
+    "explanation": "Dilema antara menjaga kekompakan dan ritme tim dengan merangkul anggota baru. Nilai Harmonis dan Kolaboratif menuntut tim terbuka kepada setiap anggota dan memberinya kesempatan berkontribusi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0058",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Rekan satu ruangan sedang cuti. Anda menerima telepon dari staf instansi mitra yang menanyakan tindak lanjut surat yang ditangani rekan itu dan menyebut bahwa hal itu mendesak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat rincian permintaan, meneruskannya kepada rekan yang ditunjuk menangani pekerjaan itu selama cuti, dan mengabari penelepon kapan ia akan dihubungi",
+        "score": 5,
+        "rationale": "Menjaga hubungan dengan mitra dan memastikan pesan sampai kepada pihak yang tepat."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan penelepon menghubungi lagi setelah rekan Anda kembali",
+        "score": 3,
+        "rationale": "Sopan, tetapi mengabaikan sifat mendesak permintaan mitra."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab bahwa Anda tidak tahu-menahu karena itu bukan pekerjaan Anda",
+        "score": 1,
+        "rationale": "Menutup komunikasi dan merusak hubungan dengan mitra."
+      },
+      {
+        "key": "D",
+        "text": "Mencatat pesan dan meneruskannya kepada rekan yang sedang cuti melalui pesan singkat",
+        "score": 4,
+        "rationale": "Pesan tersampaikan, tetapi belum tentu ditangani cepat karena rekan sedang cuti."
+      },
+      {
+        "key": "E",
+        "text": "Memberikan nomor ponsel pribadi rekan itu kepada penelepon agar mereka dapat langsung berkoordinasi, karena rekan itulah yang paling memahami surat tersebut dan urusannya mendesak",
+        "score": 2,
+        "rationale": "Terlihat membantu, tetapi membagikan kontak pribadi tanpa izin."
+      }
+    ],
+    "explanation": "Jejaring kerja tetap dijaga ketika penanggung jawabnya tidak ada. Memastikan pesan sampai kepada pihak yang tepat mencerminkan nilai Kolaboratif dan Berorientasi Pelayanan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0059",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Setelah banjir melanda beberapa kecamatan, Anda diperbantukan di posko gabungan yang dikelola badan penanggulangan bencana bersama instansi lain. Cara kerja dan sistem pelaporan di posko berbeda dari kebiasaan di kantor Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempelajari prosedur posko, mengikuti arahan koordinatornya, berbagi informasi relevan dari instansi Anda, dan tetap berkoordinasi dengan atasan di kantor",
+        "score": 5,
+        "rationale": "Adaptif, kolaboratif lintas instansi, dan tetap menjaga koordinasi dengan instansi asal."
+      },
+      {
+        "key": "B",
+        "text": "Mengerjakan tugas di posko dengan sungguh-sungguh, tetapi tetap memakai format laporan dan alur koordinasi kantor Anda karena lebih Anda kuasai dan hasilnya bisa lebih cepat",
+        "score": 3,
+        "rationale": "Bekerja, tetapi tidak menyesuaikan diri dengan sistem bersama."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti prosedur posko dan mengerjakan tugas yang diberikan koordinator posko",
+        "score": 4,
+        "rationale": "Adaptif dan patuh, tetapi belum berbagi informasi dan berkomunikasi dengan instansi asal."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan kepada koordinator posko bahwa cara kerja instansi Anda lebih baik dan sebaiknya diikuti",
+        "score": 1,
+        "rationale": "Ego sektoral yang mengganggu koordinasi lintas instansi."
+      },
+      {
+        "key": "E",
+        "text": "Hanya mengerjakan tugas yang berkaitan dengan bidang instansi Anda",
+        "score": 2,
+        "rationale": "Membatasi diri dan kurang mendukung kerja bersama di posko."
+      }
+    ],
+    "explanation": "Dalam kerja lintas instansi, ASN perlu menyesuaikan diri dengan sistem bersama dan berkontribusi aktif. Ini mencerminkan nilai Kolaboratif dan Adaptif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0060",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang pegawai dari unit lain yang cukup akrab dengan Anda sering meminta dibuatkan desain undangan dan spanduk untuk acara pribadinya pada jam kerja, karena Anda mahir desain grafis. Pekerjaan Anda mulai tertunda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghindarinya dan tidak lagi membalas pesannya",
+        "score": 1,
+        "rationale": "Memutus komunikasi dan merusak hubungan baik."
+      },
+      {
+        "key": "B",
+        "text": "Terus membantunya pada jam kerja, karena hubungan baik dengan pegawai unit lain penting untuk kelancaran koordinasi dan desainnya biasanya selesai dalam waktu singkat",
+        "score": 2,
+        "rationale": "Menjaga hubungan dengan mengorbankan tugas kedinasan."
+      },
+      {
+        "key": "C",
+        "text": "Membantunya hanya ketika pekerjaan Anda sedang longgar tanpa membicarakan polanya",
+        "score": 3,
+        "rationale": "Kompromi, tetapi penggunaan jam kerja untuk urusan pribadi tidak dibicarakan secara terbuka."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan ramah dan menjelaskan bahwa pekerjaan kantor Anda sedang banyak",
+        "score": 4,
+        "rationale": "Jujur dan sopan, tetapi tanpa alternatif."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan ramah bahwa pada jam kerja Anda harus mendahulukan tugas kantor, lalu menawarkan mengajarinya dasar desain atau membantu di luar jam kerja",
+        "score": 5,
+        "rationale": "Jujur soal prioritas, menjaga hubungan baik, dan menawarkan alternatif yang tidak mengganggu tugas."
+      }
+    ],
+    "explanation": "Membina relasi tidak berarti mengorbankan tugas. Hubungan baik dijaga dengan komunikasi yang jujur dan alternatif yang sehat, sesuai nilai Harmonis dan Akuntabel.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0061",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Sebuah komunitas pemuda selama ini sangat membantu program dinas Anda secara sukarela. Ketuanya meminta agar acara komunitas mereka didahulukan dalam jadwal pemakaian gedung serbaguna dinas, padahal sudah ada tiga pemohon lain yang mendaftar lebih dulu. Anda staf pengelola jadwal gedung. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan dengan ramah bahwa jadwal gedung diatur sesuai urutan pendaftaran",
+        "score": 4,
+        "rationale": "Adil dan sopan, tetapi tanpa upaya membantu komunitas mencari alternatif."
+      },
+      {
+        "key": "B",
+        "text": "Menanyakan kepada atasan apakah komunitas itu boleh diberi pengecualian",
+        "score": 3,
+        "rationale": "Menunda keputusan yang aturannya sebenarnya sudah jelas."
+      },
+      {
+        "key": "C",
+        "text": "Berterima kasih atas kontribusi komunitas, menjelaskan bahwa jadwal gedung diatur sesuai urutan pendaftaran, lalu membantu mencarikan tanggal kosong terdekat atau fasilitas lain yang sesuai dan mengabarkannya",
+        "score": 5,
+        "rationale": "Menghargai mitra sekaligus adil kepada pemohon lain, dan tetap memberi solusi."
+      },
+      {
+        "key": "D",
+        "text": "Mendahulukan komunitas itu karena jasanya bagi dinas sudah besar",
+        "score": 1,
+        "rationale": "Memberi perlakuan istimewa dan tidak adil bagi pemohon lain."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi salah satu pemohon lain dan meminta mereka bersedia mengalah",
+        "score": 2,
+        "rationale": "Berniat membantu mitra, tetapi menekan pihak lain dan melampaui prosedur."
+      }
+    ],
+    "explanation": "Dilema antara menjaga hubungan dengan mitra yang berjasa dan bersikap adil kepada semua pihak. Jejaring kerja yang sehat tetap menjunjung keadilan dan prosedur sambil mencarikan solusi bagi mitra (Kolaboratif dan Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0062",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda dimutasi ke bidang lain dalam dinas yang sama. Beberapa pekerjaan di bidang lama masih berhubungan dengan tugas baru Anda, dan rekan pengganti Anda di bidang lama masih baru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan berkas pekerjaan dan menyarankan pengganti bertanya kepada atasan bila bingung",
+        "score": 3,
+        "rationale": "Ada serah terima, tetapi minim pendampingan."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan semua berkas, lalu fokus penuh pada tugas baru dan meminta rekan pengganti menyampaikan pertanyaan lewat atasan bidang lama agar pekerjaan baru Anda tidak terganggu",
+        "score": 2,
+        "rationale": "Membatasi komunikasi sehingga kesinambungan kerja terganggu."
+      },
+      {
+        "key": "C",
+        "text": "Menuntaskan serah terima dengan catatan lengkap, memperkenalkan pengganti kepada kontak penting, tetap bersedia ditanya, dan menjalin koordinasi dengan bidang lama",
+        "score": 5,
+        "rationale": "Menjaga kesinambungan kerja dan memanfaatkan jejaring lama untuk tugas baru."
+      },
+      {
+        "key": "D",
+        "text": "Membawa sebagian berkas lama karena merasa Anda yang paling memahaminya",
+        "score": 1,
+        "rationale": "Menahan dokumen milik bidang lama dan menghambat kerja pengganti."
+      },
+      {
+        "key": "E",
+        "text": "Menuntaskan serah terima dengan catatan lengkap kepada rekan pengganti",
+        "score": 4,
+        "rationale": "Tertib dan bertanggung jawab, tetapi jejaring dan koordinasi lanjutan belum dibangun."
+      }
+    ],
+    "explanation": "Perpindahan tugas adalah kesempatan memperluas jejaring, bukan memutusnya. Serah terima yang tuntas dan kesediaan berkoordinasi mencerminkan nilai Kolaboratif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0063",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda bertugas menyunting dan menggabungkan naskah buku panduan yang ditulis lima rekan. Bagian dari satu rekan berulang kali tidak sesuai dengan panduan penulisan yang telah disepakati, sehingga Anda harus banyak memperbaikinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembalikan naskahnya dengan komentar bahwa tulisannya tidak layak",
+        "score": 1,
+        "rationale": "Merendahkan dan merusak hubungan tanpa memberi arahan perbaikan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta koordinator tim memberi teguran kepadanya",
+        "score": 2,
+        "rationale": "Eskalasi sebelum mencoba berbicara langsung."
+      },
+      {
+        "key": "C",
+        "text": "Terus memperbaiki bagian rekan itu sendiri setiap kali naskahnya masuk, termasuk menulis ulang paragraf yang tidak sesuai panduan, agar seluruh naskah selesai tepat waktu",
+        "score": 3,
+        "rationale": "Target tercapai, tetapi akar masalah tidak tersentuh."
+      },
+      {
+        "key": "D",
+        "text": "Menemuinya langsung, menunjukkan contoh bagian yang perlu disesuaikan, menanyakan kendalanya, dan menawarkan diskusi singkat sebelum ia menulis bagian berikutnya",
+        "score": 5,
+        "rationale": "Membantu rekan memahami standar sehingga masalah selesai di sumbernya dan hubungan tetap baik."
+      },
+      {
+        "key": "E",
+        "text": "Mengirimkan kembali panduan penulisan kepadanya disertai catatan bagian yang perlu diperbaiki",
+        "score": 4,
+        "rationale": "Jelas dan sesuai mekanisme, tetapi tanpa dialog untuk memahami kendalanya."
+      }
+    ],
+    "explanation": "Kualitas kerja rekan yang kurang sebaiknya diperbaiki lewat dialog dan bimbingan langsung. Ini mencerminkan nilai Kolaboratif dan Kompeten (membantu orang lain belajar).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0064",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Atasan menugaskan Anda menjadi penghubung dengan sebuah lembaga swadaya masyarakat untuk sosialisasi program perlindungan anak. Lembaga itu pernah mengkritik keras instansi Anda di media. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan mempertimbangkan lembaga lain yang hubungannya lebih baik dengan instansi",
+        "score": 3,
+        "rationale": "Menghindari risiko, tetapi mengabaikan penugasan dan peluang memperbaiki hubungan."
+      },
+      {
+        "key": "B",
+        "text": "Bekerja sama seminimal mungkin dan membatasi informasi yang dibagikan kepada mereka",
+        "score": 2,
+        "rationale": "Menjalankan tugas setengah hati dan menjaga jarak."
+      },
+      {
+        "key": "C",
+        "text": "Mengirim surat undangan resmi kepada lembaga itu untuk bekerja sama dalam sosialisasi",
+        "score": 4,
+        "rationale": "Sesuai prosedur, tetapi belum membangun komunikasi yang dapat mencairkan hubungan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta lembaga itu mencabut kritiknya di media sebelum diajak bekerja sama",
+        "score": 1,
+        "rationale": "Memperuncing hubungan dan menjadikan kerja sama sebagai alat tawar."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi pengurus lembaga itu dengan terbuka, menjelaskan tujuan program, menanyakan pandangan dan masukan mereka, lalu menyepakati peran serta jadwal sosialisasi bersama dan melaporkannya kepada atasan",
+        "score": 5,
+        "rationale": "Membangun hubungan kerja secara terbuka dengan pihak yang kritis dan menjadikannya mitra."
+      }
+    ],
+    "explanation": "Membangun kerja sama dengan pihak yang pernah kritis menunjukkan kematangan jejaring kerja. Keterbukaan dan dialog mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0065",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda sudah dua minggu menyiapkan rapat koordinasi dengan tiga instansi yang dijadwalkan besok pukul 09.00, dan Anda yang memandu jalannya rapat. Sore ini atasan mendadak meminta Anda mendampinginya dalam kunjungan kerja pimpinan daerah pada jam yang sama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti permintaan atasan dan menyerahkan pemanduan rapat kepada rekan dengan bahan yang lengkap",
+        "score": 4,
+        "rationale": "Patuh dan tetap bertanggung jawab atas rapat, tetapi atasan tidak diberi kesempatan menimbang dan mitra tidak diberi tahu."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan kepada atasan bahwa Anda memandu rapat koordinasi besok dan meminta arahannya; bila tetap harus mendampingi, membekali rekan pengganti dengan bahan lengkap, memberi tahu ketiga instansi tentang pergantian pemandu, dan meminta notula rapat",
+        "score": 5,
+        "rationale": "Terbuka kepada atasan, menghormati komitmen kepada mitra, dan memastikan rapat tetap berjalan baik."
+      },
+      {
+        "key": "C",
+        "text": "Menolak mendampingi atasan karena rapat koordinasi sudah dijadwalkan lebih dulu",
+        "score": 2,
+        "rationale": "Menjaga komitmen kepada mitra, tetapi tanpa mengomunikasikan pilihan dan mengabaikan arahan atasan."
+      },
+      {
+        "key": "D",
+        "text": "Mendampingi atasan dan membiarkan rapat berjalan tanpa pemandu karena peserta bisa mengatur sendiri",
+        "score": 1,
+        "rationale": "Melepas tanggung jawab dan merusak kepercayaan instansi mitra."
+      },
+      {
+        "key": "E",
+        "text": "Mengusulkan agar rapat koordinasi diundur ke hari lain supaya Anda bisa mendampingi atasan",
+        "score": 3,
+        "rationale": "Menghindari bentrokan, tetapi membebani tiga instansi yang sudah bersiap."
+      }
+    ],
+    "explanation": "Dilema antara loyal pada permintaan atasan dan komitmen kepada mitra. Skor tertinggi mengomunikasikan bentrokan secara terbuka, mengikuti keputusan atasan, dan memastikan rapat dengan mitra tetap berjalan baik (Loyal dan Kolaboratif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0066",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang pegawai baru di ruangan Anda selalu makan siang sendirian dan jarang berbicara dengan rekan lain. Ia tampak belum akrab dengan siapa pun. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyapa dan mengajaknya mengobrol sesekali",
+        "score": 4,
+        "rationale": "Ramah, tetapi belum membantunya terhubung dengan rekan lain."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkannya karena mungkin ia memang lebih suka sendiri",
+        "score": 2,
+        "rationale": "Pasif dan tidak berupaya membangun hubungan."
+      },
+      {
+        "key": "C",
+        "text": "Mengajaknya makan siang bersama, memperkenalkannya kepada rekan-rekan lain, dan menawarkan bantuan bila ia membutuhkan informasi tentang kantor",
+        "score": 5,
+        "rationale": "Merangkul rekan baru secara aktif dan membantu membangun jejaringnya."
+      },
+      {
+        "key": "D",
+        "text": "Bersikap ramah dan menjawab dengan baik setiap kali ia lebih dulu menyapa atau bertanya, sambil memberi ruang agar ia menyesuaikan diri dengan caranya sendiri",
+        "score": 3,
+        "rationale": "Sopan, tetapi menunggu inisiatif darinya."
+      },
+      {
+        "key": "E",
+        "text": "Ikut membicarakan sikapnya yang dianggap sombong bersama rekan lain",
+        "score": 1,
+        "rationale": "Berprasangka dan menggunjing rekan baru."
+      }
+    ],
+    "explanation": "Membangun lingkungan kerja yang kondusif dimulai dari merangkul rekan baru. Ini wujud nilai Harmonis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0067",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda mendapati bahwa seorang rekan beberapa kali tidak meneruskan undangan rapat dan informasi teknis dari bidang lain kepada Anda, padahal informasi itu berkaitan dengan tugas Anda. Akibatnya Anda dua kali tertinggal informasi penting. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi bidang pengirim dan meminta nama Anda dimasukkan langsung dalam daftar penerima informasi",
+        "score": 4,
+        "rationale": "Solutif bagi Anda, tetapi persoalan dengan rekan tidak dibicarakan."
+      },
+      {
+        "key": "B",
+        "text": "Membalas dengan tidak meneruskan informasi yang Anda terima kepadanya",
+        "score": 1,
+        "rationale": "Membalas dendam dan merusak kerja sama tim."
+      },
+      {
+        "key": "C",
+        "text": "Mencari informasi sendiri ke sana kemari tanpa membahasnya dengan rekan itu",
+        "score": 2,
+        "rationale": "Menghindari konfrontasi, tetapi masalah alur informasi tetap ada."
+      },
+      {
+        "key": "D",
+        "text": "Meminta atasan mengingatkan rekan itu agar meneruskan informasi",
+        "score": 3,
+        "rationale": "Bisa efektif, tetapi menyerahkan persoalan tanpa dialog lebih dulu."
+      },
+      {
+        "key": "E",
+        "text": "Menemuinya secara pribadi, menanyakan dengan tenang apakah ada kendala dalam alur informasi, menjelaskan dampaknya bagi tugas Anda, lalu mengusulkan agar undangan dan informasi teknis dikirim melalui kanal yang dapat diakses semua anggota terkait",
+        "score": 5,
+        "rationale": "Berdialog tanpa menuduh dan memperbaiki alur informasi agar tidak bergantung pada satu orang."
+      }
+    ],
+    "explanation": "Masalah penyampaian informasi diselesaikan dengan dialog yang tidak menghakimi dan perbaikan sistem berbagi informasi. Ini mencerminkan nilai Kolaboratif dan Harmonis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0068",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Asosiasi pelaku usaha mengundang dinas Anda untuk menjelaskan prosedur perizinan terbaru, dan atasan menugaskan Anda sebagai narasumber. Dalam acara itu, peserta menyampaikan banyak keluhan dan usulan tentang layanan perizinan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan prosedur dan meminta peserta menyampaikan keluhan lewat kanal pengaduan resmi",
+        "score": 3,
+        "rationale": "Prosedural, tetapi melewatkan kesempatan menampung masukan secara langsung."
+      },
+      {
+        "key": "B",
+        "text": "Fokus pada materi paparan dan tidak menanggapi keluhan karena bukan agenda acara",
+        "score": 2,
+        "rationale": "Kaku dan menutup dialog dengan mitra."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan prosedur dan mencatat keluhan untuk dilaporkan kepada atasan",
+        "score": 4,
+        "rationale": "Tepat dan sesuai jalur, tetapi tanpa umpan balik kepada asosiasi."
+      },
+      {
+        "key": "D",
+        "text": "Menjanjikan bahwa semua usulan peserta akan diterapkan",
+        "score": 1,
+        "rationale": "Memberi janji di luar wewenang yang menyesatkan mitra."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan prosedur dengan jelas, mencatat seluruh keluhan dan usulan, menjawab yang menjadi wewenang Anda, lalu menyampaikan rekapnya kepada atasan dan unit terkait serta mengabarkan tindak lanjutnya kepada asosiasi",
+        "score": 5,
+        "rationale": "Membangun komunikasi dua arah dengan mitra usaha dan memastikan masukan ditindaklanjuti."
+      }
+    ],
+    "explanation": "Kerja sama dengan pihak swasta menuntut komunikasi dua arah dan tindak lanjut yang jelas, tetap dalam batas wewenang. Ini wujud nilai Kolaboratif dan Berorientasi Pelayanan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0069",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang kepala bidang lain mengajak Anda bergabung dalam tim inovasi lintas bidang yang bergengsi dan dapat menambah pengalaman Anda. Namun, tim Anda sendiri sedang kekurangan orang dan menghadapi tenggat laporan tahunan dalam tiga minggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan karena tim Anda sedang sibuk",
+        "score": 3,
+        "rationale": "Menjaga komitmen tim, tetapi menutup peluang kerja sama tanpa mencari pengaturan lain."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan minat dan meminta izin atasan untuk bergabung",
+        "score": 4,
+        "rationale": "Melalui jalur yang benar, tetapi belum mempertimbangkan beban tim dan belum mengusulkan pengaturan waktunya."
+      },
+      {
+        "key": "C",
+        "text": "Langsung menerima ajakan itu dan mengatur waktunya sendiri",
+        "score": 2,
+        "rationale": "Bersemangat, tetapi tanpa izin atasan dan berisiko menelantarkan tim."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan minat dan terima kasih, menjelaskan beban tim Anda, lalu membicarakan dengan atasan langsung kemungkinan bergabung dengan pembagian waktu yang jelas atau bergabung penuh setelah laporan tahunan selesai, dan mengabarkan hasilnya kepada kepala bidang tersebut",
+        "score": 5,
+        "rationale": "Membuka jejaring dan pengembangan diri tanpa mengorbankan komitmen tim, melalui jalur atasan yang tepat."
+      },
+      {
+        "key": "E",
+        "text": "Menerima ajakan itu dan diam-diam mengurangi porsi kerja di tim Anda",
+        "score": 1,
+        "rationale": "Mengutamakan kepentingan pribadi dan merugikan tim tanpa keterbukaan."
+      }
+    ],
+    "explanation": "Dilema antara kesempatan mengembangkan diri dan jejaring (Kompeten, Kolaboratif) dengan komitmen kepada tim sendiri. Skor tertinggi mengomunikasikannya secara terbuka dan mencari pengaturan yang disetujui atasan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0070",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda ketua tim pengelola data. Anggota baru dalam tim mengusulkan cara pengolahan data yang berbeda dari kebiasaan tim. Dalam rapat, beberapa anggota lama langsung menolak tanpa membahas isinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta anggota baru menyusun usulan tertulis untuk dibahas pada rapat berikutnya",
+        "score": 4,
+        "rationale": "Tetap membuka ruang, tetapi menunda dan belum menggerakkan diskusi yang sehat."
+      },
+      {
+        "key": "B",
+        "text": "Meminta anggota baru menjelaskan usulannya secara singkat, mengajak semua anggota menimbang kelebihan dan kekurangannya, lalu menyepakati uji coba terbatas sebelum diputuskan",
+        "score": 5,
+        "rationale": "Memberi kesempatan semua pihak berkontribusi dan mengambil keputusan berdasarkan bukti."
+      },
+      {
+        "key": "C",
+        "text": "Menegur anggota lama di depan rapat karena dinilai tidak terbuka",
+        "score": 1,
+        "rationale": "Mempermalukan anggota dan memperuncing perbedaan."
+      },
+      {
+        "key": "D",
+        "text": "Mengadakan pemungutan suara singkat di rapat dan mengikuti suara mayoritas anggota lama agar keputusan diambil secara demokratis dan cepat, tanpa membahas isi usulan anggota baru lebih jauh",
+        "score": 2,
+        "rationale": "Terlihat demokratis, tetapi mengabaikan kontribusi anggota baru dan mutu keputusan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa cara lama tetap dipakai dulu dan usulan baru akan dipertimbangkan nanti",
+        "score": 3,
+        "rationale": "Menjaga ketenangan rapat, tetapi usulan tidak benar-benar ditanggapi."
+      }
+    ],
+    "explanation": "Ketua tim yang Kolaboratif memberi kesempatan setiap anggota, termasuk yang baru, untuk berkontribusi dan mengelola perbedaan pendapat secara objektif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0071",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang rekan satu tim sering meminta Anda mengerjakan bagian tugasnya dengan alasan ia lebih sibuk. Anda sebenarnya masih punya waktu, tetapi permintaan itu terus berulang dan pembagian tugas menjadi tidak seimbang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu kali ini, tetapi menyampaikan dengan sopan bahwa ke depan ia perlu mengerjakan bagiannya sendiri",
+        "score": 4,
+        "rationale": "Jujur dan sopan, tetapi penyebab ia merasa terlalu sibuk belum digali."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan alasan Anda juga sedang sibuk",
+        "score": 2,
+        "rationale": "Tidak jujur dan tidak menyelesaikan pola masalahnya."
+      },
+      {
+        "key": "C",
+        "text": "Terus membantu karena Anda memang punya waktu",
+        "score": 3,
+        "rationale": "Suka menolong, tetapi membiarkan pembagian tugas yang tidak sehat."
+      },
+      {
+        "key": "D",
+        "text": "Membicarakannya secara terbuka dengan rekan itu, menawarkan bantuan pada bagian yang memang menyulitkannya, dan menyepakati bahwa tugas utama tetap dikerjakan masing-masing; bila bebannya memang berlebih, mengajaknya menyampaikan hal itu kepada ketua tim agar pembagian disesuaikan",
+        "score": 5,
+        "rationale": "Terbuka, tetap suka menolong, dan menyelesaikan ketimpangan lewat jalur yang tepat."
+      },
+      {
+        "key": "E",
+        "text": "Membantunya, lalu menceritakan kepada rekan lain bahwa ia sering melimpahkan pekerjaan",
+        "score": 1,
+        "rationale": "Menggunjing rekan di belakang dan merusak kepercayaan."
+      }
+    ],
+    "explanation": "Kerja sama yang sehat menuntut keterbukaan tentang pembagian beban. Membantu tanpa memelihara ketimpangan mencerminkan nilai Harmonis dan Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0072",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Pameran produk lokal yang Anda kelola bersama dinas lain dan beberapa komunitas telah selesai dengan lancar. Apa yang Anda lakukan setelahnya?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun laporan kegiatan yang rapi dan menonjolkan peran unit Anda sebagai penentu keberhasilan pameran, lalu menyampaikannya kepada atasan tanpa menyebut kontribusi mitra",
+        "score": 1,
+        "rationale": "Mengklaim hasil bersama dan tidak menghargai kontribusi mitra."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun laporan kegiatan untuk atasan",
+        "score": 3,
+        "rationale": "Menjalankan kewajiban administrasi, tetapi hubungan dengan mitra tidak dirawat."
+      },
+      {
+        "key": "C",
+        "text": "Berterima kasih kepada semua mitra, mengadakan evaluasi bersama, dan menyusun laporan berisi pelajaran serta kontak mitra untuk kegiatan berikutnya",
+        "score": 5,
+        "rationale": "Menutup kerja sama dengan baik dan merawat jejaring untuk kegiatan mendatang."
+      },
+      {
+        "key": "D",
+        "text": "Langsung beralih ke tugas lain karena kegiatan sudah selesai",
+        "score": 2,
+        "rationale": "Mengabaikan penutupan kegiatan dan pembelajaran bersama."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan terima kasih kepada semua mitra dan menyusun laporan kegiatan",
+        "score": 4,
+        "rationale": "Menghargai mitra dan tertib administrasi, tetapi tanpa evaluasi bersama."
+      }
+    ],
+    "explanation": "Jejaring kerja tidak berhenti saat kegiatan selesai. Apresiasi, evaluasi bersama, dan dokumentasi mencerminkan nilai Kolaboratif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0073",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Seorang staf di bagian perencanaan sering meminta data dari unit Anda dengan tenggat sangat mendadak, misalnya diminta pagi dan harus selesai siang. Hal ini membuat pekerjaan rutin Anda sering tertunda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendahulukan pekerjaan rutin Anda karena juga bertenggat, lalu mengerjakan permintaannya setelah itu tanpa memberi tahu kapan data siap karena tenggat yang diminta memang tidak wajar",
+        "score": 2,
+        "rationale": "Mengutamakan pekerjaan sendiri dan menghambat kerja unit lain tanpa komunikasi."
+      },
+      {
+        "key": "B",
+        "text": "Memenuhi permintaannya dan menyampaikan dengan sopan agar ke depan permintaan dikirim lebih awal",
+        "score": 4,
+        "rationale": "Kooperatif dan komunikatif, tetapi belum ada sistem yang mencegah permintaan mendadak."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan permintaan yang tenggatnya tidak masuk akal",
+        "score": 1,
+        "rationale": "Memutus kerja sama dan merugikan pekerjaan unit lain."
+      },
+      {
+        "key": "D",
+        "text": "Memenuhi permintaan yang mendesak, lalu membicarakan polanya dengan staf itu untuk menyepakati jadwal permintaan rutin dan menyediakan data dasar di folder bersama",
+        "score": 5,
+        "rationale": "Tetap membantu, mencari akar masalah, dan membangun sistem berbagi data yang lebih efisien."
+      },
+      {
+        "key": "E",
+        "text": "Meminta ia mengajukan permintaan data secara resmi melalui atasan Anda",
+        "score": 3,
+        "rationale": "Tertib, tetapi memperlambat kerja sama tanpa membicarakan kebutuhannya."
+      }
+    ],
+    "explanation": "Permintaan antarunit yang mendadak diselesaikan dengan dialog dan sistem berbagi data yang disepakati. Ini wujud nilai Kolaboratif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0074",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Dalam rapat koordinasi lintas bidang, perwakilan bidang lain beberapa kali memakai istilah teknis yang tidak Anda pahami, padahal istilah itu berkaitan dengan tugas yang akan dibebankan kepada bidang Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam saja agar tidak dianggap kurang menguasai",
+        "score": 2,
+        "rationale": "Menjaga citra diri dengan risiko salah menjalankan tugas."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat istilah-istilah itu dan menanyakannya kepada perwakilan bidang tersebut setelah rapat",
+        "score": 4,
+        "rationale": "Proaktif mencari pemahaman, tetapi kesempatan menyamakan pemahaman di forum terlewat."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat istilah-istilah itu, mencari artinya sendiri di internet dan peraturan terkait setelah rapat, lalu menyusun daftar istilah untuk dipakai sebagai pegangan bidang Anda",
+        "score": 3,
+        "rationale": "Berusaha dan bermanfaat bagi bidang, tetapi berisiko salah paham karena konteksnya tidak dikonfirmasi kepada bidang terkait."
+      },
+      {
+        "key": "D",
+        "text": "Meminta penjelasan dengan sopan pada saat yang tepat dalam rapat, mencatat penjelasannya, dan meminta bahan rujukan atau kontak yang bisa dihubungi untuk pendalaman",
+        "score": 5,
+        "rationale": "Terbuka untuk belajar, memastikan pemahaman bersama, dan membangun saluran komunikasi."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan keberatan bahwa bidang lain sengaja memakai istilah yang sulit dipahami",
+        "score": 1,
+        "rationale": "Berprasangka dan memicu ketegangan antarbidang."
+      }
+    ],
+    "explanation": "Koordinasi lintas bidang menuntut pemahaman yang sama. Bertanya secara terbuka dan santun mencerminkan nilai Kolaboratif dan Kompeten.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-jejaring_kerja-jejaring_kerja-0075",
+    "subtest": "TKP",
+    "group": "jejaring_kerja",
+    "tag": "jejaring_kerja",
+    "stem": "Anda koordinator kegiatan pendataan potensi desa. Setiap kali ditanya perkembangan tugasnya, seorang anggota selalu menjawab sedang dikerjakan, tetapi hingga dua minggu tidak ada hasil yang dapat diperiksa. Tenggat tinggal sepuluh hari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengalihkan sebagian tugasnya kepada anggota lain tanpa membicarakannya",
+        "score": 3,
+        "rationale": "Target bisa terselamatkan, tetapi masalahnya tidak dibicarakan dan anggota itu tidak dilibatkan."
+      },
+      {
+        "key": "B",
+        "text": "Mengajaknya bertemu untuk melihat langsung pekerjaan yang sudah ada, menanyakan kendalanya, lalu bersama-sama memecah sisa pekerjaan menjadi target mingguan yang dipantau dan menawarkan bantuan anggota lain bila diperlukan",
+        "score": 5,
+        "rationale": "Memeriksa fakta, mencari akar masalah, dan menyepakati rencana yang terukur."
+      },
+      {
+        "key": "C",
+        "text": "Memintanya mengirim hasil sementara paling lambat besok untuk diperiksa",
+        "score": 4,
+        "rationale": "Tegas dan jelas, tetapi kendala yang mungkin dihadapinya belum digali."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu sampai tenggat dan menyerahkan risikonya kepada anggota tersebut",
+        "score": 1,
+        "rationale": "Pasif dan melepas tanggung jawab koordinator atas hasil tim."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan anggota itu kepada atasan sebagai penghambat kegiatan",
+        "score": 2,
+        "rationale": "Eskalasi sebelum menjalankan peran koordinator untuk mencari solusi."
+      }
+    ],
+    "explanation": "Koordinator perlu memastikan kemajuan secara nyata melalui komunikasi langsung dan rencana yang terukur, bukan langsung melapor atau membiarkan. Ini wujud nilai Kolaboratif dan Akuntabel.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

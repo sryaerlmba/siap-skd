@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0001",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda guru ASN yang baru seminggu bertugas di sebuah desa. Saat berkunjung ke rumah kepala dusun, Anda disuguhi sirih pinang sebagai tanda penghormatan kepada tamu, padahal Anda tidak terbiasa mengunyahnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima suguhan itu, lalu diam-diam meletakkannya kembali tanpa menyentuhnya",
+        "score": 2,
+        "rationale": "Tampak menghormati, tetapi tidak tulus dan dapat menyinggung tuan rumah bila terlihat."
+      },
+      {
+        "key": "B",
+        "text": "Menerima suguhan dengan sopan, menanyakan maknanya kepada tuan rumah, lalu mencicipi sesuai kemampuan",
+        "score": 5,
+        "rationale": "Menghormati adat penyambutan, mau belajar budaya setempat, dan tidak memaksakan diri melampaui kemampuan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan halus karena tidak terbiasa, lalu melanjutkan pembicaraan tentang keperluan Anda",
+        "score": 3,
+        "rationale": "Sopan, tetapi melewatkan kesempatan menghargai adat penyambutan warga."
+      },
+      {
+        "key": "D",
+        "text": "Menerima suguhan itu dan mencicipinya sedikit, lalu memuji keramahan tuan rumah dan menceritakan kebiasaan menjamu tamu di daerah asal Anda sebagai bahan obrolan",
+        "score": 4,
+        "rationale": "Menghargai tuan rumah dan mencairkan suasana, tetapi belum berupaya memahami makna tradisi setempat."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan halus sambil menjelaskan bahwa mengunyah sirih kurang baik bagi kesehatan gigi dan mulut, lalu menyarankan tuan rumah menyuguhkan teh atau kopi kepada tamu berikutnya",
+        "score": 1,
+        "rationale": "Menilai adat setempat dengan sudut pandang sendiri sehingga merendahkan tuan rumah."
+      }
+    ],
+    "explanation": "Aspek sosial budaya menilai kemampuan beradaptasi dengan adat setempat. Sesuai nilai Harmonis dan Adaptif, ASN menghargai kebiasaan masyarakat, mau mempelajarinya, dan tidak menghakimi; menghormati tidak berarti memaksakan diri melampaui kemampuan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0002",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas pendataan dari kantor statistik kabupaten. Adat di desa sasaran tidak membolehkan tamu laki-laki masuk rumah bila di dalamnya hanya ada perempuan. Anda laki-laki, dan di banyak rumah para suami sedang ke ladang hingga sore, padahal target pendataan hari itu cukup banyak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melewati rumah-rumah itu dan tidak mendatanginya lagi karena kendalanya berasal dari adat warga sendiri",
+        "score": 2,
+        "rationale": "Menghindari kesulitan sehingga hasil pendataan menjadi tidak lengkap."
+      },
+      {
+        "key": "B",
+        "text": "Tetap meminta izin masuk dengan menjelaskan bahwa Anda petugas resmi dan pendataan ini dilindungi undang-undang",
+        "score": 1,
+        "rationale": "Memaksakan kepentingan tugas dengan mengabaikan norma adat yang dijaga warga."
+      },
+      {
+        "key": "C",
+        "text": "Melewati rumah-rumah tersebut, mencatat alamatnya satu per satu, lalu kembali pada sore hari saat para suami sudah pulang meskipun harus bekerja hingga malam",
+        "score": 4,
+        "rationale": "Menghormati adat, tetapi menambah beban waktu tanpa mencari cara lain yang lebih efektif."
+      },
+      {
+        "key": "D",
+        "text": "Meminta izin mewawancarai dari teras, menjadwalkan ulang rumah yang tidak memungkinkan, dan meminta kader perempuan desa mendampingi",
+        "score": 5,
+        "rationale": "Menghormati adat sambil tetap menyelesaikan target melalui kerja sama dengan pihak setempat."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan kendala itu kepada koordinator lapangan dan menunggu arahan cara pendataan",
+        "score": 3,
+        "rationale": "Wajar, tetapi menunda padahal penyesuaian sederhana bisa Anda lakukan sendiri."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah menghormati norma setempat tanpa mengorbankan kualitas tugas. Nilai Harmonis dan Adaptif tampak pada penyesuaian cara kerja, sedangkan nilai Kolaboratif tampak pada pelibatan kader setempat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0003",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda bidan desa ASN. Masyarakat desa tempat Anda bertugas terbiasa melahirkan di rumah dengan bantuan dukun bayi yang sangat dihormati, sedangkan program pemerintah mengarahkan persalinan ditolong tenaga kesehatan di fasilitas kesehatan. Seorang ibu hamil tua menyatakan hanya mau ditolong dukun langganan keluarganya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan kepada ibu dan keluarganya risiko persalinan di rumah serta manfaat bersalin di fasilitas kesehatan",
+        "score": 4,
+        "rationale": "Edukatif dan sesuai program, tetapi belum merangkul dukun yang paling dipercaya keluarga."
+      },
+      {
+        "key": "B",
+        "text": "Mendekati dukun bayi itu sebagai mitra, menyepakati bahwa ia mendampingi ibu sesuai adat sementara persalinan ditolong tenaga kesehatan di fasilitas kesehatan, lalu bersama-sama menjelaskan kesepakatan itu kepada keluarga",
+        "score": 5,
+        "rationale": "Menjembatani tradisi dan program tanpa mengorbankan keselamatan ibu dan bayi."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat penolakan keluarga itu dan melaporkannya kepada kepala puskesmas",
+        "score": 3,
+        "rationale": "Tertib administrasi, tetapi tidak berupaya mencari titik temu."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan ibu melahirkan dengan dukun dan meminta keluarga mengabari Anda bila terjadi masalah",
+        "score": 2,
+        "rationale": "Menghormati pilihan keluarga, tetapi membiarkan risiko keselamatan dan mengabaikan program."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada keluarga bahwa pertolongan dukun bayi sudah ketinggalan zaman dan harus ditinggalkan",
+        "score": 1,
+        "rationale": "Merendahkan tokoh yang dihormati warga sehingga keluarga justru makin menolak layanan."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema tradisi dan program pemerintah. Skor tertinggi diberikan pada tindakan yang tetap menjaga standar keselamatan persalinan sambil menghormati peran dukun melalui kemitraan, sejalan dengan nilai Harmonis, Kolaboratif, dan semangat Bhinneka Tunggal Ika.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0004",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pegawai baru pindahan dari provinsi lain. Saat jam istirahat, rekan-rekan sering mengobrol dalam bahasa daerah setempat yang belum Anda pahami, sehingga Anda kerap tertinggal pembicaraan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap bergabung dan sesekali meminta rekan menjelaskan isi obrolan dalam bahasa Indonesia supaya Anda bisa ikut menanggapi dan tidak terlihat menyendiri",
+        "score": 4,
+        "rationale": "Menjaga hubungan, tetapi belum berupaya mempelajari bahasa setempat."
+      },
+      {
+        "key": "B",
+        "text": "Ikut bergabung, menanyakan arti beberapa ungkapan dengan santai, dan mulai belajar kosakata sehari-hari",
+        "score": 5,
+        "rationale": "Adaptif dan membangun kedekatan dengan rekan melalui bahasa setempat."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu sampai ada rekan yang mengajak bicara dalam bahasa Indonesia",
+        "score": 3,
+        "rationale": "Tidak menimbulkan masalah, tetapi pasif sehingga kedekatan tumbuh lambat."
+      },
+      {
+        "key": "D",
+        "text": "Memilih menghabiskan waktu istirahat sendirian di meja kerja",
+        "score": 2,
+        "rationale": "Menghindar dan melewatkan kesempatan beradaptasi."
+      },
+      {
+        "key": "E",
+        "text": "Meminta rekan-rekan memakai bahasa Indonesia saat istirahat karena bahasa Indonesia adalah bahasa pemersatu di kantor pemerintah dan Anda tidak ingin merasa dikucilkan",
+        "score": 1,
+        "rationale": "Memaksakan kenyamanan pribadi pada obrolan santai rekan yang wajar memakai bahasa daerahnya."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah kemauan beradaptasi dan belajar budaya setempat. Nilai Adaptif dan Harmonis tercermin dari sikap proaktif mempelajari bahasa rekan, bukan menuntut orang lain menyesuaikan diri dalam percakapan santai.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0005",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda penyuluh pertanian lapangan. Dinas menetapkan jadwal tanam serentak untuk menekan serangan hama. Petani di satu desa menolak karena menurut perhitungan kalender adat, tanam baru boleh dimulai tiga minggu kemudian setelah ritual adat dilaksanakan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan kepada kelompok tani dampak tanam tidak serentak terhadap serangan hama di desa mereka",
+        "score": 4,
+        "rationale": "Edukatif, tetapi belum melibatkan tetua adat yang menentukan jadwal ritual."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan petani desa itu menanam kapan saja agar tidak terjadi gesekan",
+        "score": 2,
+        "rationale": "Menghindari konflik, tetapi tujuan program dan risiko hama diabaikan."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan penolakan itu ke dinas dan menunggu keputusan selanjutnya",
+        "score": 3,
+        "rationale": "Prosedural, tetapi menyerahkan persoalan yang masih bisa didialogkan di lapangan."
+      },
+      {
+        "key": "D",
+        "text": "Menemui tetua adat dan kelompok tani untuk memahami jadwal ritual, menjelaskan alasan tanam serentak dengan data serangan hama, lalu mencari rentang waktu yang masih dimungkinkan program dan dapat diterima adat",
+        "score": 5,
+        "rationale": "Menghormati adat sambil menjaga tujuan program melalui dialog berbasis data."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa petani yang tidak mengikuti jadwal serentak tidak akan mendapat bantuan benih dan pupuk",
+        "score": 1,
+        "rationale": "Memaksakan program dengan ancaman yang bukan wewenang penyuluh."
+      }
+    ],
+    "explanation": "Dilema adat dan program pemerintah diselesaikan dengan dialog, bukan paksaan. Penyuluh yang menjunjung nilai Harmonis dan Kolaboratif melibatkan tetua adat dan memakai data untuk mencari titik temu, tanpa mengancam di luar wewenangnya.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0006",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Pemerintah daerah tempat Anda baru bertugas mewajibkan ASN memakai pakaian adat daerah setempat setiap hari Kamis. Anda pendatang dan belum memiliki pakaian tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membeli pakaian adat yang dijual di toko terdekat dan memakainya pada hari Kamis",
+        "score": 4,
+        "rationale": "Patuh aturan, tetapi tanpa memahami makna dan tata cara pemakaiannya."
+      },
+      {
+        "key": "B",
+        "text": "Tetap memakai seragam biasa karena menganggap aturan itu terutama ditujukan bagi pegawai asli daerah",
+        "score": 2,
+        "rationale": "Keliru memahami aturan dan menjaga jarak dari budaya setempat."
+      },
+      {
+        "key": "C",
+        "text": "Tetap memakai seragam biasa dan berkomentar kepada rekan bahwa aturan itu merepotkan dan tidak berhubungan dengan kinerja",
+        "score": 1,
+        "rationale": "Melanggar aturan sekaligus merendahkan kebijakan pelestarian budaya daerah."
+      },
+      {
+        "key": "D",
+        "text": "Menanyakan kepada rekan jenis pakaian yang sesuai beserta maknanya, lalu segera menyediakannya",
+        "score": 5,
+        "rationale": "Patuh aturan, cepat menyesuaikan diri, dan menghargai makna budaya setempat."
+      },
+      {
+        "key": "E",
+        "text": "Memakai batik terlebih dahulu sambil menunggu gaji bulan depan untuk membeli pakaian adat, karena batik juga merupakan pakaian tradisional yang diakui secara nasional",
+        "score": 3,
+        "rationale": "Ada niat menyesuaikan, tetapi menunda pelaksanaan aturan dengan alasan yang dibuat sendiri."
+      }
+    ],
+    "explanation": "Nilai Adaptif dan Loyal menuntut ASN cepat menyesuaikan diri dengan kebijakan yang sah di tempat tugasnya. Nilai Harmonis tampak dari kesediaan memahami makna budaya di balik aturan tersebut.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0007",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda perawat di puskesmas. Seorang pasien lansia hanya bisa berbahasa daerah yang tidak Anda kuasai, sementara Anda perlu menjelaskan aturan minum obat yang cukup rumit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menuliskan aturan minum obat secara rinci di kemasan dalam bahasa Indonesia, lengkap dengan jam minum dan jumlah tablet, agar keluarga di rumah bisa membacakannya",
+        "score": 3,
+        "rationale": "Rinci, tetapi belum memastikan pasien memahami penjelasan saat itu juga."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan pasien kepada rekan yang bisa berbahasa daerah tanpa ikut mendampingi",
+        "score": 2,
+        "rationale": "Tugas berpindah, tetapi Anda menghindar dari kendala yang sebenarnya bisa diatasi."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan secepatnya dalam bahasa Indonesia dan menganggap pasien akan bertanya bila tidak paham",
+        "score": 1,
+        "rationale": "Mengabaikan hambatan bahasa sehingga keselamatan pasien terancam."
+      },
+      {
+        "key": "D",
+        "text": "Meminta keluarga pasien yang mendampingi untuk menerjemahkan penjelasan Anda",
+        "score": 4,
+        "rationale": "Efektif, tetapi belum memastikan pasien benar-benar paham."
+      },
+      {
+        "key": "E",
+        "text": "Meminta keluarga atau rekan yang fasih menerjemahkan, menandai kemasan obat dengan gambar, lalu meminta pasien mengulang penjelasan",
+        "score": 5,
+        "rationale": "Pesan tersampaikan dengan aman dan pemahaman pasien dipastikan."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah melayani secara efektif di tengah perbedaan bahasa. Nilai Berorientasi Pelayanan dan Harmonis menuntut petugas mencari cara agar pesan sampai, melibatkan orang sekitar, dan memastikan pemahaman pasien.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0008",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ASN yang baru bertugas di sebuah daerah. Seorang tokoh masyarakat mengundang Anda makan malam di rumahnya, dan salah satu hidangan utamanya mengandung bahan yang tidak boleh Anda konsumsi menurut keyakinan Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadir dan hanya mengambil hidangan yang bisa Anda makan tanpa banyak penjelasan",
+        "score": 4,
+        "rationale": "Menjaga hubungan dan keyakinan, tetapi berisiko menimbulkan salah paham bila tuan rumah memperhatikan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak undangan dengan sopan melalui pesan, menjelaskan bahwa Anda memiliki pantangan makanan, dan berjanji berkunjung di lain waktu agar tuan rumah tidak repot menyiapkan hidangan khusus",
+        "score": 3,
+        "rationale": "Jujur dan sopan, tetapi melewatkan kesempatan membangun kedekatan dengan tokoh setempat."
+      },
+      {
+        "key": "C",
+        "text": "Hadir sebentar, lalu pamit sebelum makan malam dengan alasan ada keperluan mendadak",
+        "score": 2,
+        "rationale": "Terkesan menghormati, tetapi tidak jujur dan menghindari situasi."
+      },
+      {
+        "key": "D",
+        "text": "Hadir, menikmati hidangan lain, dan bila ditawari hidangan itu, menolak dengan sopan sambil menjelaskan singkat alasannya",
+        "score": 5,
+        "rationale": "Menghormati tuan rumah sekaligus tetap teguh pada keyakinan dengan cara yang santun."
+      },
+      {
+        "key": "E",
+        "text": "Hadir dan menyampaikan di depan tamu lain bahwa sebaiknya tuan rumah menyediakan hidangan yang bisa dimakan semua orang",
+        "score": 1,
+        "rationale": "Mempermalukan tuan rumah dan memaksakan kebutuhan pribadi."
+      }
+    ],
+    "explanation": "Menghormati budaya setempat tidak berarti melanggar keyakinan sendiri. Nilai Harmonis tercermin dari kehadiran dan sikap santun, sedangkan batas keyakinan disampaikan dengan sopan tanpa mempermalukan tuan rumah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0009",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf di kantor kecamatan. Ayah seorang rekan kerja meninggal dunia, dan menurut adat keluarganya rangkaian upacara duka berlangsung beberapa hari dengan kehadiran rekan kerja yang sangat dihargai. Saat itu kantor sedang menyiapkan laporan akhir tahun. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak melayat karena menganggap rangkaian upacara yang panjang hanya mengganggu pekerjaan kantor",
+        "score": 1,
+        "rationale": "Mengabaikan rekan dan memandang rendah adat keluarganya."
+      },
+      {
+        "key": "B",
+        "text": "Mengirim ucapan belasungkawa lewat pesan singkat karena pekerjaan sedang padat",
+        "score": 3,
+        "rationale": "Sopan, tetapi kurang menunjukkan kepedulian pada momen penting bagi rekan."
+      },
+      {
+        "key": "C",
+        "text": "Melayat sendiri setelah jam kerja dan menyampaikan belasungkawa kepada keluarga",
+        "score": 4,
+        "rationale": "Empati dan tugas terjaga, tetapi belum memperhatikan tata cara adat yang dihargai keluarga."
+      },
+      {
+        "key": "D",
+        "text": "Mengajak seluruh tim melayat sepanjang hari pada jam kerja dan membawa karangan bunga atas nama kantor, karena kebersamaan dalam duka dianggap lebih penting daripada laporan yang belum selesai",
+        "score": 2,
+        "rationale": "Peduli, tetapi berlebihan karena mengorbankan tugas yang bertenggat."
+      },
+      {
+        "key": "E",
+        "text": "Mengatur giliran melayat bersama rekan pada hari utama upacara, menanyakan tata krama adatnya, dan menjaga laporan tetap sesuai jadwal",
+        "score": 5,
+        "rationale": "Menunjukkan empati dan menghormati adat tanpa mengabaikan tugas."
+      }
+    ],
+    "explanation": "Nilai Harmonis meliputi suka menolong dan menghargai latar belakang rekan. Skor tertinggi menyeimbangkan kepedulian, penghormatan terhadap adat, dan tanggung jawab tugas.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0010",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda fasilitator program pemberdayaan dari dinas. Dalam musyawarah desa, adat setempat mengharuskan tetua adat berbicara lebih dulu dengan pembukaan yang cukup panjang, sehingga rapat sering molor dari jadwal yang Anda rancang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempersilakan tetua adat berbicara lebih dulu dan menambah durasi rapat seperlunya",
+        "score": 4,
+        "rationale": "Menghormati adat, tetapi tanpa perencanaan sehingga agenda bisa tidak tuntas."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan susunan acara dengan menyediakan waktu khusus bagi tetua adat di awal, menyepakati jadwal bersama perangkat desa sebelum rapat, dan memadatkan materi Anda agar tujuan rapat tetap tercapai",
+        "score": 5,
+        "rationale": "Menghormati tata adat sambil tetap mengelola waktu dan tujuan kegiatan."
+      },
+      {
+        "key": "C",
+        "text": "Memulai materi sebelum tetua adat datang agar rapat dapat selesai tepat waktu",
+        "score": 2,
+        "rationale": "Efisien menurut ukuran Anda, tetapi mengabaikan tata cara yang dihormati warga."
+      },
+      {
+        "key": "D",
+        "text": "Meminta perangkat desa menyampaikan kepada tetua adat agar pembukaannya dipersingkat",
+        "score": 3,
+        "rationale": "Mencari efisiensi, tetapi melempar persoalan dan berisiko menyinggung tetua adat."
+      },
+      {
+        "key": "E",
+        "text": "Menyela pembukaan tetua adat dengan alasan waktu terbatas dan agenda program lebih penting",
+        "score": 1,
+        "rationale": "Merendahkan tokoh adat di depan warga dan memaksakan cara sendiri."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah kemampuan bekerja efektif dalam tata adat masyarakat. Nilai Adaptif dan Harmonis tampak dari penyesuaian rencana kerja terhadap adat, tanpa melepaskan tujuan kegiatan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0011",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda kepala seksi di sebuah kantor yang baru pindah ke gedung baru. Panitia peresmian mengadakan ritual adat setempat sebagai ungkapan syukur, termasuk prosesi yang tidak sesuai dengan keyakinan Anda. Anda diundang duduk di barisan depan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadir hanya saat sambutan resmi, lalu kembali ke ruangan sebelum prosesi adat dimulai",
+        "score": 3,
+        "rationale": "Menghindari benturan keyakinan, tetapi terkesan kurang menghargai acara bersama."
+      },
+      {
+        "key": "B",
+        "text": "Hadir tetapi memilih duduk di barisan belakang agar tidak diminta ikut prosesi",
+        "score": 4,
+        "rationale": "Menghormati acara dan keyakinan, tetapi kurang terbuka sehingga panitia bisa salah paham."
+      },
+      {
+        "key": "C",
+        "text": "Sebelum acara, menyampaikan secara santun kepada panitia bahwa Anda akan mengikuti acara dengan khidmat tetapi cukup menyaksikan prosesi yang tidak sesuai keyakinan Anda, lalu hadir di tempat yang disediakan",
+        "score": 5,
+        "rationale": "Menghormati adat dan panitia, tetap teguh pada keyakinan, dan mencegah kecanggungan saat acara."
+      },
+      {
+        "key": "D",
+        "text": "Tidak hadir dengan alasan ada pekerjaan mendesak",
+        "score": 2,
+        "rationale": "Menghindar dengan alasan yang tidak jujur."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada rekan bahwa ritual semacam itu tidak perlu dan hanya membuang waktu kerja",
+        "score": 1,
+        "rationale": "Meremehkan budaya setempat dan memengaruhi rekan untuk ikut meremehkan."
+      }
+    ],
+    "explanation": "Menghormati adat tidak berarti ikut ritual yang bertentangan dengan keyakinan sendiri. Nilai Harmonis dan semangat Bhinneka Tunggal Ika tampak dari kehadiran yang khidmat, dengan batas keyakinan dikomunikasikan secara santun sejak awal.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0012",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas ukur kantor pertanahan yang harus menyelesaikan pengukuran batas lahan di sebuah desa dalam dua minggu. Sebagian lahan berada di kawasan hutan adat, dan adat setempat melarang siapa pun memasukinya selama sepuluh hari masa ritual yang baru saja dimulai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda seluruh pengukuran sampai masa ritual selesai dan memberi tahu atasan alasannya",
+        "score": 4,
+        "rationale": "Menghormati adat dan transparan, tetapi tidak memanfaatkan waktu untuk bagian yang bisa dikerjakan."
+      },
+      {
+        "key": "B",
+        "text": "Menemui ketua adat untuk memastikan batas kawasan dan masa larangan, mengerjakan lebih dulu bagian di luar kawasan adat, lalu menyusun ulang jadwal pengukuran kawasan adat setelah masa ritual dan melaporkan penyesuaian itu kepada atasan",
+        "score": 5,
+        "rationale": "Menghormati larangan adat, pekerjaan tetap berjalan, dan perubahan jadwal tercatat resmi."
+      },
+      {
+        "key": "C",
+        "text": "Tetap memasuki kawasan hutan adat bersama tim karena pengukuran adalah tugas negara yang memiliki dasar hukum",
+        "score": 1,
+        "rationale": "Memaksakan tugas dengan mengabaikan adat sehingga berpotensi memicu konflik dengan warga."
+      },
+      {
+        "key": "D",
+        "text": "Meminta atasan bernegosiasi dengan ketua adat agar tim tetap diizinkan masuk",
+        "score": 3,
+        "rationale": "Melempar persoalan yang semestinya bisa Anda dialogkan dan berisiko menekan masyarakat adat."
+      },
+      {
+        "key": "E",
+        "text": "Menunggu di kantor sampai masa ritual selesai tanpa melaporkan potensi keterlambatan",
+        "score": 2,
+        "rationale": "Pasif dan tidak transparan terhadap risiko tenggat."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan tenggat tugas. Skor tertinggi menghormati larangan adat (Harmonis), tetap mengatur ulang pekerjaan secara cerdas (Adaptif), dan menjaga akuntabilitas dengan melaporkan perubahan jadwal (Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0013",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ASN yang baru pindah ke sebuah perumahan. Warga di lingkungan itu rutin bekerja bakti setiap Minggu pagi, lalu dilanjutkan makan bersama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut bekerja bakti, memperkenalkan diri, dan menawarkan bantuan untuk kegiatan lingkungan berikutnya",
+        "score": 5,
+        "rationale": "Aktif berbaur dan membangun kedekatan dengan warga sekitar."
+      },
+      {
+        "key": "B",
+        "text": "Tidak ikut karena menganggap kebersihan lingkungan sudah menjadi tugas petugas kebersihan yang dibayar dari iuran",
+        "score": 1,
+        "rationale": "Meremehkan tradisi gotong royong yang dijunjung warga."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut dengan alasan belum dikenal oleh warga",
+        "score": 2,
+        "rationale": "Menunggu didekati dan melewatkan kesempatan beradaptasi."
+      },
+      {
+        "key": "D",
+        "text": "Menitipkan sumbangan konsumsi yang cukup untuk semua warga kepada ketua RT setiap pekan karena hari Minggu biasa Anda pakai untuk beristirahat bersama keluarga",
+        "score": 3,
+        "rationale": "Berkontribusi, tetapi menjaga jarak dari warga."
+      },
+      {
+        "key": "E",
+        "text": "Ikut bekerja bakti, lalu pulang sebelum acara makan bersama",
+        "score": 4,
+        "rationale": "Berpartisipasi, tetapi kurang memanfaatkan kesempatan mengenal warga."
+      }
+    ],
+    "explanation": "Nilai Harmonis dan Adaptif mendorong ASN berbaur dengan masyarakat di tempat tinggalnya. Gotong royong adalah bagian budaya bersama yang perlu dihargai dan diikuti secara aktif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0014",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas imunisasi di puskesmas. Sejumlah orang tua di satu dusun menolak anaknya diimunisasi karena tokoh adat setempat meyakini imunisasi melemahkan anak. Cakupan imunisasi dusun itu jauh di bawah target, dan baru saja ditemukan kasus campak di desa tetangga. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memusatkan tenaga di dusun lain yang lebih mudah diajak agar cakupan kecamatan tetap naik",
+        "score": 2,
+        "rationale": "Menghindari kesulitan, padahal risiko wabah justru tinggi di dusun itu."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat orang tua yang menolak dan meminta mereka menandatangani surat pernyataan sesuai prosedur",
+        "score": 3,
+        "rationale": "Tertib administrasi, tetapi tidak berupaya mengubah sikap warga."
+      },
+      {
+        "key": "C",
+        "text": "Bersama kepala puskesmas dan perangkat desa menemui tokoh adat untuk berdialog, mendengar kekhawatirannya, menjelaskan manfaat dan keamanan imunisasi dengan bahasa sederhana, lalu mengajaknya ikut menyampaikan kepada warga",
+        "score": 5,
+        "rationale": "Merangkul tokoh yang dipercaya warga sehingga program berjalan tanpa paksaan."
+      },
+      {
+        "key": "D",
+        "text": "Mengadakan penyuluhan terbuka di dusun itu tentang manfaat imunisasi dan bahaya campak",
+        "score": 4,
+        "rationale": "Edukatif dan sesuai program, tetapi belum menyentuh tokoh yang memengaruhi keputusan warga."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan di grup warga bahwa keyakinan tokoh adat itu tidak masuk akal dan membahayakan anak-anak",
+        "score": 1,
+        "rationale": "Mempermalukan tokoh adat di depan publik sehingga memicu penolakan yang lebih luas."
+      }
+    ],
+    "explanation": "Dilema tradisi dan program kesehatan diselesaikan dengan merangkul, bukan mempermalukan. Nilai Harmonis dan Kolaboratif tampak dari dialog dengan tokoh adat sebagai mitra, sementara tujuan kesehatan masyarakat tetap dijaga.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0015",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda penyuluh keluarga berencana. Sosialisasi yang Anda jadwalkan setiap Rabu selalu sepi peserta. Belakangan Anda tahu bahwa Rabu adalah hari pasar mingguan dan sebagian besar warga pergi ke pasar pada hari itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaksanakan sosialisasi untuk peserta yang hadir saja dan menganggap tugas sudah selesai",
+        "score": 2,
+        "rationale": "Formalitas belaka sehingga tujuan program tidak tercapai."
+      },
+      {
+        "key": "B",
+        "text": "Tetap pada jadwal hari Rabu dan meminta kader mengingatkan warga dari rumah ke rumah sehari sebelumnya, disertai undangan tertulis dan pengumuman melalui pengeras suara",
+        "score": 3,
+        "rationale": "Berusaha keras, tetapi tetap tidak menyesuaikan waktu dengan kebiasaan warga."
+      },
+      {
+        "key": "C",
+        "text": "Memindahkan sosialisasi ke hari lain yang tidak bertepatan dengan hari pasar",
+        "score": 4,
+        "rationale": "Adaptif, tetapi belum memastikan hari pengganti itu memang cocok bagi warga."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kepada perangkat desa bahwa warga kurang peduli pada program pemerintah",
+        "score": 1,
+        "rationale": "Menyalahkan warga dan memberi label negatif tanpa memahami kebiasaan mereka."
+      },
+      {
+        "key": "E",
+        "text": "Menanyakan waktu yang cocok kepada perangkat desa dan kader, memindahkan jadwal, lalu mengumumkannya lewat tokoh masyarakat",
+        "score": 5,
+        "rationale": "Menyesuaikan diri dengan kebiasaan setempat dan memastikan pesan sampai."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah kepekaan terhadap ritme hidup masyarakat setempat. Nilai Adaptif dan Berorientasi Pelayanan menuntut petugas menyesuaikan cara kerja dengan kebiasaan warga, bukan menyalahkan mereka.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0016",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda koordinator loket di kantor dinas yang menetapkan layanan tetap buka pada jam istirahat. Setiap Jumat siang, sebagian besar petugas laki-laki menunaikan salat Jumat, sementara antrean warga masih cukup panjang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan petugas mengatur sendiri kapan bergantian beribadah",
+        "score": 2,
+        "rationale": "Lepas tangan sehingga loket berisiko kosong."
+      },
+      {
+        "key": "B",
+        "text": "Meminta petugas yang tidak menunaikan salat Jumat menangani semua loket sampai rekan lain kembali, dan mengumumkan kepada warga bahwa layanan berjalan lebih lambat selama waktu ibadah",
+        "score": 4,
+        "rationale": "Layanan tetap berjalan, tetapi tanpa perencanaan sehingga beban menumpuk pada sebagian petugas."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun jadwal giliran sejak awal pekan agar petugas bisa beribadah dengan tenang sementara loket tetap melayani warga",
+        "score": 5,
+        "rationale": "Menghormati ibadah sekaligus menjaga layanan tetap berjalan secara adil dan terencana."
+      },
+      {
+        "key": "D",
+        "text": "Meminta warga menunggu sampai para petugas selesai beribadah",
+        "score": 3,
+        "rationale": "Menghormati ibadah, tetapi menunda layanan yang seharusnya tetap buka."
+      },
+      {
+        "key": "E",
+        "text": "Meminta petugas menunda ibadah sampai antrean habis karena pelayanan publik lebih penting",
+        "score": 1,
+        "rationale": "Tidak menghargai kebebasan beribadah pegawai."
+      }
+    ],
+    "explanation": "Nilai Harmonis menuntut penghormatan terhadap ibadah setiap pegawai, sedangkan nilai Berorientasi Pelayanan menuntut layanan tetap berjalan. Skor tertinggi memadukan keduanya melalui pengaturan giliran yang terencana.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0017",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda panitia rapat koordinasi yang berlangsung hingga siang hari. Sebagian peserta sedang berpuasa, sebagian lainnya tidak. Apa yang Anda lakukan terkait konsumsi rapat?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyiapkan konsumsi dalam kemasan kotak yang rapi untuk dibawa pulang oleh semua peserta, lengkap dengan takjil dan minuman manis agar bisa langsung dipakai berbuka puasa",
+        "score": 4,
+        "rationale": "Menghormati yang berpuasa, tetapi peserta yang tidak berpuasa harus menunggu hingga rapat usai."
+      },
+      {
+        "key": "B",
+        "text": "Menyajikan konsumsi di meja rapat dan meminta peserta yang berpuasa memaklumi karena rapat ini kegiatan dinas",
+        "score": 1,
+        "rationale": "Tidak peka dan meremehkan ibadah peserta."
+      },
+      {
+        "key": "C",
+        "text": "Menyajikan konsumsi seperti biasa di meja rapat dan mempersilakan peserta memilih sendiri",
+        "score": 2,
+        "rationale": "Praktis, tetapi kurang peka terhadap peserta yang berpuasa."
+      },
+      {
+        "key": "D",
+        "text": "Menyiapkan konsumsi kemasan yang bisa dibawa pulang dan menyediakan ruang terpisah bagi yang tidak berpuasa saat jeda",
+        "score": 5,
+        "rationale": "Menghormati peserta yang berpuasa sekaligus memenuhi kebutuhan peserta lain."
+      },
+      {
+        "key": "E",
+        "text": "Meniadakan konsumsi agar tidak menyinggung peserta yang berpuasa",
+        "score": 3,
+        "rationale": "Bermaksud menghormati, tetapi mengabaikan kebutuhan peserta yang tidak berpuasa."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah kepekaan terhadap keragaman keyakinan dalam kegiatan kantor. Nilai Harmonis tampak dari pengaturan yang menghormati yang berpuasa tanpa mengabaikan yang tidak berpuasa.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0018",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda kepala seksi. Seorang staf mengajukan cuti dua hari untuk merayakan hari raya agamanya yang tidak termasuk hari libur nasional. Pada pekan itu seksi Anda sedang menyiapkan kegiatan besar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda keputusan sampai mendekati hari raya untuk melihat perkembangan pekerjaan",
+        "score": 2,
+        "rationale": "Membuat staf tidak pasti dan tidak menghargai rencananya."
+      },
+      {
+        "key": "B",
+        "text": "Menyetujui cuti dengan syarat staf itu menyelesaikan seluruh bagiannya sebelum berangkat dan tetap bisa dihubungi selama cuti bila ada hal mendesak terkait kegiatan",
+        "score": 4,
+        "rationale": "Menghargai haknya, tetapi seluruh beban dan kesiagaan ditumpukan pada yang bersangkutan."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui cuti sesuai ketentuan, lalu bersama staf itu mengatur pekerjaan yang perlu dituntaskan atau dialihkan sementara",
+        "score": 5,
+        "rationale": "Menghormati hak beribadah sekaligus menjamin kegiatan tetap berjalan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak cuti dengan alasan kepentingan dinas lebih utama, dan menyarankan ia merayakan hari rayanya setelah kegiatan selesai karena hari raya itu bukan libur nasional",
+        "score": 1,
+        "rationale": "Tidak menghargai keyakinan dan hak staf."
+      },
+      {
+        "key": "E",
+        "text": "Menyetujui cuti satu hari saja dengan alasan kegiatan sedang padat",
+        "score": 3,
+        "rationale": "Ada kompromi, tetapi kurang menghormati kebutuhan beribadah staf."
+      }
+    ],
+    "explanation": "Nilai Harmonis menuntut pimpinan menghargai setiap pegawai apa pun latar belakang agamanya. Skor tertinggi memenuhi hak beribadah staf sekaligus mengatur ulang pekerjaan agar kegiatan tetap berjalan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0019",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf kecamatan yang menangani rekomendasi izin keramaian. Panitia perayaan hari raya sebuah komunitas agama mengajukan rekomendasi pemakaian lapangan desa sesuai prosedur. Beberapa warga kemudian mendatangi kantor dan menyatakan keberatan karena agama komunitas itu bukan agama mayoritas di desa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan panitia memindahkan acara ke tempat lain agar tidak terjadi keributan",
+        "score": 2,
+        "rationale": "Menghindari konflik dengan mengorbankan hak kelompok yang lebih kecil."
+      },
+      {
+        "key": "B",
+        "text": "Menahan permohonan dan melaporkan keberatan warga kepada camat untuk diputuskan",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda hak pemohon yang sudah memenuhi syarat."
+      },
+      {
+        "key": "C",
+        "text": "Memproses permohonan sesuai persyaratan, menerima warga yang keberatan dengan sopan dan menjelaskan bahwa setiap warga berhak memakai fasilitas umum sesuai aturan, lalu bersama camat mengajak tokoh agama dan FKUB memfasilitasi dialog agar acara berjalan aman",
+        "score": 5,
+        "rationale": "Adil sesuai aturan sekaligus menjembatani warga melalui tokoh yang dipercaya."
+      },
+      {
+        "key": "D",
+        "text": "Menolak permohonan karena keberatan warga mayoritas dianggap lebih menentukan",
+        "score": 1,
+        "rationale": "Diskriminatif dan bertentangan dengan asas kesamaan hak."
+      },
+      {
+        "key": "E",
+        "text": "Memproses permohonan sesuai persyaratan dan menjelaskan dasar aturannya kepada warga yang keberatan",
+        "score": 4,
+        "rationale": "Adil dan sesuai aturan, tetapi belum memfasilitasi dialog untuk mencegah gesekan."
+      }
+    ],
+    "explanation": "Asas tidak diskriminatif dan kesamaan hak dalam pelayanan publik berlaku bagi semua pemeluk agama. Nilai Harmonis dan semangat Bhinneka Tunggal Ika tampak dari pelayanan yang adil disertai fasilitasi dialog antarwarga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0020",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Rekan satu ruangan yang berbeda agama meminta Anda membantu kepanitiaan acara silaturahmi hari raya agamanya di kantor, khususnya di seksi konsumsi dan penerimaan tamu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bersedia membantu bila pekerjaan kantor sedang tidak banyak, dengan catatan Anda hanya bisa hadir pada hari pelaksanaan dan tidak dapat mengikuti rapat persiapan panitia",
+        "score": 3,
+        "rationale": "Setengah hati dan bergantung pada situasi."
+      },
+      {
+        "key": "B",
+        "text": "Bersedia membantu di seksi yang diminta, menanyakan tata cara yang perlu dijaga, dan mengajak rekan lain ikut membantu",
+        "score": 5,
+        "rationale": "Toleran, suka menolong, dan proaktif membantu bagian acara yang bukan ritual ibadah."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dan menyampaikan bahwa acara hari raya sebaiknya diurus oleh pemeluk agama itu saja",
+        "score": 1,
+        "rationale": "Eksklusif dan tidak menghargai upaya membangun kebersamaan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak secara halus dengan alasan sedang banyak pekerjaan",
+        "score": 2,
+        "rationale": "Menghindar padahal bantuan yang diminta tidak menyangkut ibadah."
+      },
+      {
+        "key": "E",
+        "text": "Bersedia membantu di seksi yang diminta sesuai arahan panitia",
+        "score": 4,
+        "rationale": "Toleran dan suka menolong, tetapi kurang proaktif."
+      }
+    ],
+    "explanation": "Nilai Harmonis mencakup suka menolong dan menghargai setiap orang apa pun agamanya. Membantu acara silaturahmi pada bagian non-ibadah adalah wujud toleransi dan Bhinneka Tunggal Ika tanpa mengorbankan keyakinan sendiri.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0021",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang pegawai baru di kantor Anda memakai pakaian dengan atribut keagamaan yang jarang terlihat di kantor itu. Beberapa rekan mulai bergunjing dan mengaitkannya dengan paham tertentu tanpa dasar apa pun. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menyampaikan kecurigaan kepada rekan lain agar mereka berhati-hati",
+        "score": 1,
+        "rationale": "Menyebarkan stereotip yang tidak berdasar."
+      },
+      {
+        "key": "B",
+        "text": "Menjaga jarak dari pegawai baru itu sampai latar belakangnya jelas",
+        "score": 2,
+        "rationale": "Tidak menyebarkan prasangka, tetapi ikut terpengaruh olehnya."
+      },
+      {
+        "key": "C",
+        "text": "Mengingatkan rekan agar tidak menilai seseorang dari pakaiannya",
+        "score": 4,
+        "rationale": "Menghentikan prasangka, tetapi belum merangkul pegawai baru."
+      },
+      {
+        "key": "D",
+        "text": "Tidak ikut bergunjing dan tetap bersikap biasa kepada pegawai baru, sambil mengamati sendiri perilakunya selama beberapa minggu agar bisa menilai secara objektif",
+        "score": 3,
+        "rationale": "Netral, tetapi membiarkan prasangka beredar dan ikut memperlakukan rekan baru sebagai pihak yang perlu diawasi."
+      },
+      {
+        "key": "E",
+        "text": "Tidak ikut bergunjing, mengingatkan rekan agar tidak menilai orang dari pakaiannya, dan mengajak pegawai baru itu terlibat dalam tim",
+        "score": 5,
+        "rationale": "Menolak stereotip dan aktif membangun lingkungan kerja yang inklusif."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah tidak berpikir stereotip dan bersikap adil kepada setiap orang. Nilai Harmonis tampak dari menolak prasangka sekaligus merangkul rekan baru.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0022",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda panitia syukuran ulang tahun kantor. Pegawai berasal dari berbagai latar belakang agama, dan beberapa di antaranya memiliki pantangan makanan, termasuk yang vegetarian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memilih menu prasmanan yang umumnya bisa dimakan semua orang, seperti nasi, sayur, serta lauk ayam dan ikan, lalu menambahkan satu menu vegetarian di meja terpisah",
+        "score": 4,
+        "rationale": "Inklusif, tetapi belum memastikan kebutuhan setiap pegawai."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan pemilihan menu sepenuhnya kepada penyedia konsumsi langganan kantor",
+        "score": 3,
+        "rationale": "Praktis, tetapi tidak memperhatikan keragaman pantangan."
+      },
+      {
+        "key": "C",
+        "text": "Menyediakan menu kesukaan kebanyakan pegawai karena anggaran terbatas, sambil berkomentar bahwa pegawai yang banyak pantangan sebaiknya membawa bekal sendiri agar tidak merepotkan panitia",
+        "score": 1,
+        "rationale": "Merendahkan rekan karena keyakinan atau pilihan makannya."
+      },
+      {
+        "key": "D",
+        "text": "Menyediakan menu favorit kebanyakan pegawai dan mempersilakan yang berpantangan membawa makanan sendiri",
+        "score": 2,
+        "rationale": "Efisien bagi sebagian besar pegawai, tetapi mengabaikan sebagian lainnya."
+      },
+      {
+        "key": "E",
+        "text": "Mendata kebutuhan makanan pegawai, memastikan kehalalan konsumsi, menambah menu vegetarian, dan memberi label hidangan",
+        "score": 5,
+        "rationale": "Memastikan semua pegawai dapat menikmati acara dengan nyaman."
+      }
+    ],
+    "explanation": "Nilai Harmonis menuntut kegiatan kantor yang ramah bagi semua latar belakang. Memperhatikan pantangan makanan adalah bentuk nyata menghargai keragaman dalam semangat Bhinneka Tunggal Ika.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0023",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf bagian umum. Kantor Anda hanya memiliki musala, dan beberapa pegawai beragama lain menanyakan apakah ada ruang yang bisa dipakai untuk berdoa singkat pada jam istirahat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan mereka berdoa di meja kerja masing-masing",
+        "score": 2,
+        "rationale": "Praktis, tetapi kurang menghargai kebutuhan ibadah pegawai."
+      },
+      {
+        "key": "B",
+        "text": "Mengusulkan kepada atasan agar salah satu ruang dipakai sebagai ruang doa bergiliran, lengkap dengan aturan pemakaiannya",
+        "score": 5,
+        "rationale": "Memfasilitasi kebutuhan ibadah semua pegawai secara adil dan tertib."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab bahwa kantor tidak berkewajiban menyediakan ruang untuk setiap agama",
+        "score": 1,
+        "rationale": "Tidak menghargai keyakinan pegawai dan bertentangan dengan semangat kesetaraan."
+      },
+      {
+        "key": "D",
+        "text": "Mengizinkan mereka memakai ruang rapat kecil yang kosong setiap jam istirahat dan meminjamkan kunci cadangan kepada salah satu pegawai agar mereka bisa mengaturnya sendiri",
+        "score": 4,
+        "rationale": "Membantu, tetapi bersifat informal tanpa pengaturan resmi yang adil bagi semua."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan permintaan itu kepada atasan dan menunggu keputusan",
+        "score": 3,
+        "rationale": "Prosedural, tetapi tidak membawa usulan konkret."
+      }
+    ],
+    "explanation": "Nilai Harmonis menuntut lingkungan kerja yang kondusif bagi pegawai dari semua agama. Skor tertinggi proaktif mencari solusi dalam wewenang bagian umum dan melibatkan pihak yang tepat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0024",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ketua tim kerja. Seorang anggota tim meminta agar tidak dipasangkan dengan rekan dari suku tertentu karena menurutnya \"orang dari suku itu sulit diajak bekerja sama\", berdasarkan pengalaman pribadinya di masa lalu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda keputusan dan meminta pendapat atasan tentang permintaan itu",
+        "score": 3,
+        "rationale": "Menyerahkan persoalan yang masih berada dalam wewenang Anda sebagai ketua tim."
+      },
+      {
+        "key": "B",
+        "text": "Menolak permintaan itu dan menjelaskan bahwa pembagian tugas didasarkan pada kompetensi",
+        "score": 4,
+        "rationale": "Adil dan tegas, tetapi belum meluruskan prasangkanya."
+      },
+      {
+        "key": "C",
+        "text": "Mengabulkan permintaan itu agar suasana tim tetap nyaman",
+        "score": 2,
+        "rationale": "Menghindari gesekan, tetapi membiarkan diskriminasi terjadi."
+      },
+      {
+        "key": "D",
+        "text": "Berbicara empat mata dengan anggota itu, mendengarkan pengalamannya, menjelaskan bahwa perilaku seseorang tidak bisa dipukul rata menurut suku, lalu tetap memasangkan mereka berdasarkan kompetensi sambil memantau kerja samanya",
+        "score": 5,
+        "rationale": "Meluruskan stereotip dengan santun dan tetap adil dalam pembagian tugas."
+      },
+      {
+        "key": "E",
+        "text": "Mengabulkan permintaan itu dan mengingatkan anggota lain agar berhati-hati bekerja dengan rekan tersebut",
+        "score": 1,
+        "rationale": "Ikut menyebarkan stereotip suku."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah tidak berpikir stereotip dan berlaku adil kepada semua kelompok. Sebagai ketua tim, nilai Harmonis dan semangat Bhinneka Tunggal Ika diwujudkan dengan meluruskan prasangka sambil tetap membagi tugas secara objektif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0025",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda analis SDM. Saat membahas penempatan pegawai baru, atasan Anda berkata sebaiknya pegawai dari daerah tertentu tidak ditempatkan di bagian pelayanan karena \"nada bicaranya keras dan bisa membuat warga tersinggung\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam dan menunggu keputusan akhir atasan",
+        "score": 2,
+        "rationale": "Pasif terhadap keputusan yang berpotensi diskriminatif."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan santun bahwa penilaian tidak bisa dipukul rata berdasarkan daerah asal",
+        "score": 4,
+        "rationale": "Meluruskan prasangka, tetapi tanpa data dan solusi."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui dan menyusun penempatan sesuai saran atasan agar tidak muncul keluhan warga",
+        "score": 1,
+        "rationale": "Ikut menjalankan keputusan diskriminatif yang berdasar pada stereotip."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun draf penempatan berdasarkan kompetensi tanpa menanggapi ucapan atasan",
+        "score": 3,
+        "rationale": "Hasilnya adil, tetapi prasangka atasan tidak diluruskan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan santun bahwa penempatan sebaiknya didasarkan pada hasil penilaian kompetensi dan perilaku tiap orang, lalu menawarkan data hasil seleksi serta usulan pelatihan komunikasi pelayanan bagi semua pegawai baru",
+        "score": 5,
+        "rationale": "Meluruskan stereotip dengan data dan menawarkan solusi yang adil bagi semua."
+      }
+    ],
+    "explanation": "Sistem merit dan asas tidak diskriminatif menuntut keputusan kepegawaian berdasarkan kompetensi, bukan asal daerah. Nilai Harmonis tampak dari keberanian meluruskan stereotip secara santun dengan data dan solusi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0026",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas loket di kantor kecamatan. Rekan di loket sebelah sering berkata bahwa warga dari satu kampung tertentu \"susah diatur dan suka membuat ribut\", lalu melayani mereka dengan ketus. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengiyakan ucapan rekan agar suasana kerja tetap akrab",
+        "score": 1,
+        "rationale": "Ikut mendukung stereotip terhadap sekelompok warga."
+      },
+      {
+        "key": "B",
+        "text": "Mengambil alih setiap warga dari kampung itu yang datang ke loket rekan, lalu melayani mereka dengan ramah dan cepat supaya mereka tidak membawa pulang kesan buruk tentang kantor",
+        "score": 3,
+        "rationale": "Warga terlayani dengan baik, tetapi sikap rekan tidak berubah."
+      },
+      {
+        "key": "C",
+        "text": "Menegur rekan secara pribadi bahwa semua warga berhak dilayani sama, sambil memberi contoh melayani warga kampung itu dengan ramah",
+        "score": 5,
+        "rationale": "Meluruskan prasangka dan menjaga pelayanan tetap adil."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan rekan secara pribadi agar melayani semua warga dengan sikap yang sama",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa penjelasan dampak dan teladan."
+      },
+      {
+        "key": "E",
+        "text": "Membiarkan karena tidak ingin merusak hubungan dengan rekan",
+        "score": 2,
+        "rationale": "Pasif terhadap pelayanan yang diskriminatif."
+      }
+    ],
+    "explanation": "Asas tidak diskriminatif dan persamaan perlakuan dalam UU 25/2009 berlaku bagi semua warga. Nilai Harmonis menuntut petugas menolak stereotip dan menjaga pelayanan yang setara.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0027",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Di tim Anda ada rekan yang terbiasa berbicara lugas dengan suara keras sesuai kebiasaan di daerah asalnya. Rekan lain yang terbiasa berbicara halus merasa dibentak dan mulai enggan bekerja sama dengannya. Anda anggota tim yang cukup dekat dengan keduanya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ikut campur karena itu urusan mereka berdua",
+        "score": 2,
+        "rationale": "Pasif sehingga kerja sama tim terganggu."
+      },
+      {
+        "key": "B",
+        "text": "Ikut membicarakan rekan yang bersuara keras kepada anggota tim lain sebagai orang yang kasar",
+        "score": 1,
+        "rationale": "Menyebarkan label negatif dan memperuncing konflik."
+      },
+      {
+        "key": "C",
+        "text": "Berbicara dengan masing-masing secara pribadi untuk menjelaskan perbedaan gaya komunikasi mereka, lalu mempertemukan keduanya dalam suasana santai agar saling memahami dan menyepakati cara berkomunikasi dalam tim",
+        "score": 5,
+        "rationale": "Menjembatani perbedaan budaya dan memulihkan kerja sama."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kepada rekan yang tersinggung bahwa gaya bicara itu kebiasaan, bukan kemarahan",
+        "score": 4,
+        "rationale": "Membantu memahami, tetapi hanya dari satu sisi."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan ketua tim agar keduanya tidak ditempatkan dalam satu pekerjaan",
+        "score": 3,
+        "rationale": "Konflik mereda, tetapi akar salah paham tidak diselesaikan."
+      }
+    ],
+    "explanation": "Perbedaan gaya komunikasi antarbudaya sering memicu salah paham. Nilai Harmonis dan Kolaboratif tampak dari peran sebagai penengah yang membantu kedua pihak saling memahami.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0028",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pegawai berusia 28 tahun yang baru ditunjuk menjadi ketua tim. Beberapa anggota tim jauh lebih senior dan tampak kurang nyaman menerima arahan dari Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan menegaskan kepada anggota senior bahwa Anda adalah ketua tim",
+        "score": 2,
+        "rationale": "Melempar persoalan hubungan kerja yang seharusnya Anda bangun sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun sendiri rencana kerja yang rinci, lengkap dengan pembagian tugas dan tenggatnya, lalu menjelaskannya dengan sopan kepada seluruh anggota tim dalam rapat perdana",
+        "score": 4,
+        "rationale": "Rapi dan sopan, tetapi kurang melibatkan anggota senior sehingga rasa memiliki mereka rendah."
+      },
+      {
+        "key": "C",
+        "text": "Meminta masukan anggota senior secara pribadi, melibatkan mereka menyusun rencana kerja, dan tetap menjalankan peran ketua",
+        "score": 5,
+        "rationale": "Menghargai pengalaman lintas generasi sambil tetap memimpin secara bertanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Memberi kelonggaran kepada anggota senior untuk bekerja dengan cara mereka sendiri",
+        "score": 3,
+        "rationale": "Menghindari gesekan, tetapi koordinasi tim melemah."
+      },
+      {
+        "key": "E",
+        "text": "Menegaskan dalam rapat perdana bahwa cara kerja lama sudah tidak relevan dengan tuntutan digital, sehingga semua anggota, termasuk yang senior, harus mengikuti arahan Anda",
+        "score": 1,
+        "rationale": "Merendahkan pengalaman senior dan merusak kerja sama."
+      }
+    ],
+    "explanation": "Perbedaan generasi termasuk keragaman yang perlu dikelola. Nilai Harmonis dan Kolaboratif tampak dari menghargai pengalaman senior sambil tetap menjalankan peran kepemimpinan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0029",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang pegawai senior di unit Anda sering menyebut pegawai generasi muda \"manja dan tidak tahan banting\" di depan mereka. Beberapa pegawai muda mulai enggan berdiskusi dengannya. Usia Anda berada di antara kedua kelompok itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena pegawai senior dianggap sulit berubah",
+        "score": 2,
+        "rationale": "Pasif dan ikut berprasangka terhadap pegawai senior."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan kepada pegawai senior secara pribadi bahwa ucapannya membuat pegawai muda tidak nyaman",
+        "score": 4,
+        "rationale": "Tepat dan santun, tetapi belum ada upaya membangun kembali hubungan."
+      },
+      {
+        "key": "C",
+        "text": "Berbicara santai secara pribadi dengan pegawai senior tentang dampak ucapannya, lalu mengusulkan kegiatan berbagi pengalaman lintas generasi",
+        "score": 5,
+        "rationale": "Menjembatani perbedaan generasi dan membangun kembali kerja sama."
+      },
+      {
+        "key": "D",
+        "text": "Ikut menimpali di depan pegawai muda bahwa pegawai senior memang kaku dan ketinggalan zaman",
+        "score": 1,
+        "rationale": "Membalas stereotip dengan stereotip dan memperlebar jarak."
+      },
+      {
+        "key": "E",
+        "text": "Menghibur pegawai muda dan menyarankan mereka menunjukkan kinerja yang lebih baik agar pegawai senior berhenti meremehkan mereka, sambil membantu menyelesaikan pekerjaan mereka yang tertunda",
+        "score": 3,
+        "rationale": "Peduli, tetapi membebankan perubahan kepada pihak yang dilabeli dan tidak menyentuh sumber masalah."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah menjadi penengah, bukan pihak. Nilai Harmonis tampak dari upaya menjembatani dua generasi tanpa melabeli salah satunya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0030",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Di grup WhatsApp kantor, seorang rekan mengirim gambar lucu yang menyindir cara beribadah pemeluk agama tertentu. Beberapa anggota grup membalasnya dengan emotikon tertawa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Keluar dari grup agar tidak terlibat",
+        "score": 2,
+        "rationale": "Menghindar dan tidak membantu menghentikan candaan itu."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkan di grup dengan santun bahwa konten itu bisa menyakiti rekan, lalu meminta pengirim menghapusnya secara pribadi",
+        "score": 5,
+        "rationale": "Menghentikan penyebaran candaan SARA dengan santun dan tuntas."
+      },
+      {
+        "key": "C",
+        "text": "Ikut membalas dengan emotikon tertawa agar tidak dianggap kaku",
+        "score": 1,
+        "rationale": "Mendukung candaan SARA."
+      },
+      {
+        "key": "D",
+        "text": "Tidak menanggapi dan membiarkan percakapan berlalu",
+        "score": 3,
+        "rationale": "Tidak ikut, tetapi membiarkan konten tetap beredar."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi pengirim secara pribadi, menjelaskan bahwa gambar itu bisa menyinggung rekan yang beragama berbeda, dan memintanya menghapus gambar tersebut dari grup sesegera mungkin",
+        "score": 4,
+        "rationale": "Tepat dan santun, tetapi anggota grup yang sudah ikut tertawa tidak mendapat pengingat."
+      }
+    ],
+    "explanation": "Candaan SARA merusak lingkungan kerja yang kondusif. Nilai Harmonis dan semangat Bhinneka Tunggal Ika menuntut ASN menghentikannya dengan santun, baik di forum terbuka maupun secara pribadi kepada pengirim.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0031",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Dalam rapat yang dipimpin atasan Anda, ia melontarkan candaan yang menyinggung kebiasaan suku tertentu. Sebagian peserta tertawa, sementara seorang rekan dari suku tersebut tampak tidak nyaman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut tertawa agar suasana rapat tidak canggung",
+        "score": 1,
+        "rationale": "Mendukung candaan SARA karena segan kepada atasan."
+      },
+      {
+        "key": "B",
+        "text": "Langsung menegur atasan di depan peserta rapat bahwa candaannya tidak pantas",
+        "score": 2,
+        "rationale": "Niat meluruskan benar, tetapi mempermalukan atasan di depan forum justru memperkeruh suasana."
+      },
+      {
+        "key": "C",
+        "text": "Menghibur rekan yang tersinggung setelah rapat tanpa membicarakannya dengan atasan",
+        "score": 3,
+        "rationale": "Peduli kepada rekan, tetapi candaan serupa berpotensi terulang."
+      },
+      {
+        "key": "D",
+        "text": "Setelah rapat, menyampaikan kepada atasan secara pribadi dan santun bahwa candaan tadi bisa menyinggung",
+        "score": 4,
+        "rationale": "Berani dan santun, tetapi belum menunjukkan kepedulian kepada rekan yang tersinggung."
+      },
+      {
+        "key": "E",
+        "text": "Tidak ikut tertawa dan membantu mengembalikan pembicaraan ke agenda, lalu setelah rapat menyampaikan kepada atasan secara pribadi dan santun bahwa candaan itu bisa melukai rekan, serta menyapa rekan yang tersinggung",
+        "score": 5,
+        "rationale": "Menjaga kehormatan atasan sekaligus meluruskan candaan SARA dan peduli pada rekan."
+      }
+    ],
+    "explanation": "Dilema muncul karena pelaku candaan adalah atasan. Nilai Harmonis menuntut sikap tidak ikut dalam candaan SARA dan peduli pada rekan, sementara nilai Loyal menjaga nama baik pimpinan dengan menyampaikan koreksi secara pribadi dan santun.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0032",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang rekan pendatang sedang mempresentasikan hasil kerjanya dalam rapat unit. Beberapa peserta menahan tawa dan berbisik menirukan logat bicaranya. Anda salah satu peserta rapat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyimak dengan sungguh-sungguh, mengajukan pertanyaan atas materinya, lalu setelah rapat mengingatkan peserta yang menirukan",
+        "score": 5,
+        "rationale": "Mendukung rekan saat itu juga dan menghentikan ejekan dengan santun."
+      },
+      {
+        "key": "B",
+        "text": "Setelah rapat, menyarankan rekan pendatang itu berlatih mengurangi logatnya, misalnya dengan banyak mendengarkan siaran berita, agar presentasi berikutnya tidak lagi menjadi bahan tertawaan",
+        "score": 2,
+        "rationale": "Bermaksud membantu, tetapi menganggap logat sebagai kekurangan dan menyalahkan korban."
+      },
+      {
+        "key": "C",
+        "text": "Fokus menyimak presentasi dan tidak menghiraukan peserta yang menirukan",
+        "score": 3,
+        "rationale": "Tidak ikut, tetapi membiarkan ejekan berlangsung."
+      },
+      {
+        "key": "D",
+        "text": "Ikut tersenyum dan menirukan logat itu karena menganggapnya hiburan ringan",
+        "score": 1,
+        "rationale": "Ikut merendahkan rekan karena latar daerahnya."
+      },
+      {
+        "key": "E",
+        "text": "Setelah rapat, mengingatkan peserta yang menirukan logat itu agar tidak mengulanginya",
+        "score": 4,
+        "rationale": "Tepat, tetapi tidak memberi dukungan kepada rekan saat presentasi."
+      }
+    ],
+    "explanation": "Logat adalah bagian identitas daerah yang patut dihargai. Nilai Harmonis menuntut dukungan kepada rekan dan penolakan santun terhadap ejekan yang bernuansa kedaerahan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0033",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pegawai senior yang ditugasi membimbing pegawai baru. Pegawai baru itu kerap menulis surat dinas dengan gaya bahasa santai seperti saat mengirim pesan kepada teman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memperbaiki surat yang dibuatnya dan menunjukkan bagian yang keliru",
+        "score": 4,
+        "rationale": "Membantu, tetapi pegawai baru belum tentu memahami polanya."
+      },
+      {
+        "key": "B",
+        "text": "Memberinya salinan pedoman tata naskah dinas instansi beserta kumpulan contoh surat dari arsip kantor, lalu memintanya mempelajari semuanya sendiri dalam satu minggu",
+        "score": 3,
+        "rationale": "Benar, tetapi minim pendampingan."
+      },
+      {
+        "key": "C",
+        "text": "Berkomentar di depan rekan lain bahwa generasi sekarang memang tidak bisa menulis dengan benar",
+        "score": 1,
+        "rationale": "Merendahkan dan menggeneralisasi generasi muda."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan perbedaan bahasa pesan pribadi dan surat dinas, memberi contoh surat baku, lalu meninjau bersama draf berikutnya",
+        "score": 5,
+        "rationale": "Membimbing lintas generasi dengan sabar dan membantu rekan belajar."
+      },
+      {
+        "key": "E",
+        "text": "Memperbaiki sendiri setiap suratnya tanpa memberi tahu",
+        "score": 2,
+        "rationale": "Pekerjaan beres, tetapi pegawai baru tidak belajar."
+      }
+    ],
+    "explanation": "Perbedaan generasi dijembatani dengan bimbingan, bukan cemoohan. Nilai Harmonis dan Kompeten (membantu orang lain belajar) tampak dari pendampingan yang sabar dan konkret.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0034",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang pegawai tunanetra baru bergabung di unit Anda sebagai analis. Beberapa rekan meragukan kemampuannya dan menyarankan agar ia hanya diberi tugas ringan. Anda rekan satu unit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menyarankan kepada ketua tim agar ia diberi tugas ringan seperti menerima telepon dan mencatat agenda rapat selama beberapa bulan pertama supaya tidak kesulitan beradaptasi",
+        "score": 2,
+        "rationale": "Bermaksud baik, tetapi meremehkan kemampuannya."
+      },
+      {
+        "key": "B",
+        "text": "Menanyakan alat bantu yang ia butuhkan, menyiapkan dokumen yang terbaca aplikasi pembaca layar, dan melibatkannya dalam tugas tim sesuai kompetensinya",
+        "score": 5,
+        "rationale": "Menghargai kemampuan rekan difabel dan membangun lingkungan kerja yang setara."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada rekan lain bahwa kemampuan seseorang tidak bisa dinilai dari disabilitasnya",
+        "score": 4,
+        "rationale": "Meluruskan prasangka, tetapi belum membantu rekan beradaptasi."
+      },
+      {
+        "key": "D",
+        "text": "Bersikap ramah dan membantu bila ia meminta",
+        "score": 3,
+        "rationale": "Baik, tetapi menunggu dan tidak proaktif."
+      },
+      {
+        "key": "E",
+        "text": "Mengatakan kepada rekan lain bahwa menempatkan pegawai difabel sebagai analis akan memperlambat kerja unit",
+        "score": 1,
+        "rationale": "Menyebarkan stereotip dan bersikap diskriminatif."
+      }
+    ],
+    "explanation": "Penyandang disabilitas berhak atas kesempatan kerja yang setara dan akomodasi yang layak. Nilai Harmonis tampak dari menghargai kemampuan rekan dan proaktif membantu ia bekerja optimal.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0035",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda panitia pelatihan pegawai. Sehari sebelum acara, Anda mengetahui salah satu peserta menggunakan kursi roda, sementara ruang pelatihan berada di lantai tiga gedung tanpa lift. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan peserta itu mengikuti pelatihan secara daring dari ruangannya",
+        "score": 2,
+        "rationale": "Praktis, tetapi memisahkan peserta dari kegiatan bersama."
+      },
+      {
+        "key": "B",
+        "text": "Memindahkan pelatihan ke ruang di lantai dasar dan mengabari peserta",
+        "score": 4,
+        "rationale": "Solutif, tetapi tanpa pencegahan untuk kegiatan berikutnya."
+      },
+      {
+        "key": "C",
+        "text": "Menyiapkan beberapa petugas untuk membantu mengangkat kursi roda melalui tangga",
+        "score": 3,
+        "rationale": "Peserta tetap bisa ikut, tetapi berisiko bagi keselamatan dan martabatnya."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan peserta itu tidak ikut karena pelatihan banyak berisi praktik yang dianggap tidak cocok untuknya",
+        "score": 1,
+        "rationale": "Mengasumsikan keterbatasan tanpa bertanya dan meniadakan kesempatannya."
+      },
+      {
+        "key": "E",
+        "text": "Segera mengupayakan ruang di lantai dasar atau gedung lain yang aksesibel, mengabari seluruh peserta tentang perubahan itu, dan menambahkan isian kebutuhan aksesibilitas pada formulir pendaftaran berikutnya",
+        "score": 5,
+        "rationale": "Menjamin kesetaraan kesempatan dan mencegah masalah serupa terulang."
+      }
+    ],
+    "explanation": "Kelompok rentan berhak atas fasilitas dan perlakuan khusus agar dapat berpartisipasi setara. Nilai Harmonis dan Berorientasi Pelayanan tampak dari penyesuaian cepat dan langkah pencegahan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0036",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas layanan di kantor dinas. Seorang warga tuli datang untuk menanyakan syarat sebuah layanan, sementara Anda tidak menguasai bahasa isyarat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan secara lisan dengan suara keras lalu memanggil antrean berikutnya",
+        "score": 1,
+        "rationale": "Tidak peka dan mengabaikan hak warga difabel."
+      },
+      {
+        "key": "B",
+        "text": "Menyapa dengan ramah, berkomunikasi lewat tulisan di kertas, lalu memberikan daftar syarat tertulis dan menandai dokumen yang paling sering kurang agar warga tidak bolak-balik",
+        "score": 4,
+        "rationale": "Melayani dengan baik, tetapi tanpa upaya perbaikan layanan bagi warga tuli berikutnya."
+      },
+      {
+        "key": "C",
+        "text": "Meminta warga datang lagi bersama pendamping yang bisa menerjemahkan",
+        "score": 2,
+        "rationale": "Sopan, tetapi mempersulit warga padahal komunikasi tertulis bisa dilakukan."
+      },
+      {
+        "key": "D",
+        "text": "Mencari rekan yang mungkin bisa bahasa isyarat sementara warga diminta menunggu",
+        "score": 3,
+        "rationale": "Berupaya, tetapi membuat warga menunggu tanpa kepastian."
+      },
+      {
+        "key": "E",
+        "text": "Berkomunikasi lewat tulisan atau aplikasi, memberi daftar syarat tertulis, dan mengusulkan pelatihan bahasa isyarat bagi petugas",
+        "score": 5,
+        "rationale": "Melayani setara dan mendorong perbaikan layanan bagi kelompok rentan."
+      }
+    ],
+    "explanation": "Asas fasilitas dan perlakuan khusus bagi kelompok rentan menuntut petugas mencari cara berkomunikasi yang efektif. Nilai Harmonis dan Berorientasi Pelayanan tercermin dari layanan yang setara dan upaya perbaikan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0037",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda guru kelas di sekolah negeri penyelenggara pendidikan inklusif. Beberapa orang tua keberatan karena seorang siswa berkebutuhan khusus ditempatkan di kelas Anda; mereka khawatir anak mereka tertinggal pelajaran. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan kepada orang tua bahwa sekolah wajib menerima siswa berkebutuhan khusus sesuai kebijakan pendidikan inklusif",
+        "score": 4,
+        "rationale": "Benar, tetapi belum menjawab kekhawatiran orang tua."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan penanganan keberatan itu sepenuhnya kepada kepala sekolah",
+        "score": 3,
+        "rationale": "Prosedural, padahal guru kelas paling memahami kondisi kelas."
+      },
+      {
+        "key": "C",
+        "text": "Mengusulkan agar siswa itu lebih banyak belajar di ruang terpisah supaya orang tua lain tenang",
+        "score": 2,
+        "rationale": "Meredakan keberatan, tetapi mengurangi hak siswa untuk belajar bersama."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan orang tua siswa berkebutuhan khusus itu memindahkan anaknya ke sekolah luar biasa",
+        "score": 1,
+        "rationale": "Diskriminatif dan menolak hak anak atas pendidikan inklusif."
+      },
+      {
+        "key": "E",
+        "text": "Mengundang orang tua berdialog bersama kepala sekolah dan guru pendamping khusus, menjelaskan cara pembelajaran inklusif diatur agar semua siswa tetap terlayani, dan menyampaikan perkembangan kelas secara berkala",
+        "score": 5,
+        "rationale": "Menjamin hak pendidikan setara sekaligus meredakan kekhawatiran dengan dialog dan bukti."
+      }
+    ],
+    "explanation": "Setiap anak berhak atas pendidikan tanpa diskriminasi. Nilai Harmonis tampak dari menghargai setiap siswa apa pun kondisinya dan menjembatani kekhawatiran orang tua melalui dialog.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0038",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pendamping desa dari dinas yang memfasilitasi musyawarah perencanaan pembangunan desa. Daftar undangan dari panitia tidak mencantumkan warga penyandang disabilitas karena dianggap \"tidak akan banyak memberi masukan\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat bahwa kelompok difabel belum dilibatkan untuk diperbaiki pada musyawarah tahun depan",
+        "score": 3,
+        "rationale": "Menyadari masalah, tetapi menunda hak partisipasi mereka."
+      },
+      {
+        "key": "B",
+        "text": "Meminta panitia menambahkan perwakilan penyandang disabilitas ke daftar undangan",
+        "score": 4,
+        "rationale": "Tepat, tetapi belum memastikan mereka benar-benar bisa hadir dan berpartisipasi."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan sepenuhnya daftar undangan kepada panitia karena itu wewenang desa",
+        "score": 2,
+        "rationale": "Lepas tangan padahal peran Anda adalah pendamping."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kepada panitia bahwa musyawarah perencanaan perlu melibatkan kelompok rentan, membantu mendata perwakilan penyandang disabilitas, dan memastikan lokasi serta cara penyampaian acara dapat mereka akses",
+        "score": 5,
+        "rationale": "Menjamin partisipasi setara dan mengatasi hambatan teknisnya."
+      },
+      {
+        "key": "E",
+        "text": "Menyetujui daftar itu karena aspirasi penyandang disabilitas dapat diwakili oleh keluarganya",
+        "score": 1,
+        "rationale": "Meremehkan kemampuan dan hak suara penyandang disabilitas."
+      }
+    ],
+    "explanation": "Asas partisipatif dan tidak diskriminatif menuntut semua kelompok warga dilibatkan. Nilai Harmonis dan Kolaboratif tampak dari upaya memastikan penyandang disabilitas dapat berpartisipasi secara nyata.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0039",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang rekan laki-laki mengambil cuti untuk mendampingi istrinya melahirkan. Beberapa rekan mengejeknya sebagai \"suami takut istri\" dan menyebut urusan bayi adalah urusan perempuan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menimpali bahwa urusan merawat bayi memang sebaiknya diserahkan kepada perempuan",
+        "score": 1,
+        "rationale": "Menguatkan stereotip gender."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkan rekan bahwa mendampingi persalinan istri adalah tanggung jawab bersama, lalu membantu pekerjaannya yang mendesak",
+        "score": 5,
+        "rationale": "Menolak stereotip gender dan mendukung rekan secara nyata."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut mengejek dan diam saja",
+        "score": 3,
+        "rationale": "Tidak terlibat, tetapi membiarkan stereotip berlanjut."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan rekan itu tidak terlalu sering membicarakan cutinya di kantor dan segera menyelesaikan pekerjaan yang tertunda setelah kembali, agar tidak lagi menjadi bahan ejekan",
+        "score": 2,
+        "rationale": "Bermaksud melindungi, tetapi justru membebankan masalah kepada korban."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan rekan-rekan bahwa ejekan itu tidak pantas karena cuti untuk mendampingi istri melahirkan diatur dalam ketentuan kepegawaian dan merupakan hak pegawai",
+        "score": 4,
+        "rationale": "Menghentikan stereotip, tetapi belum memberi dukungan nyata."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah tidak berpikir stereotip, termasuk stereotip gender. Nilai Harmonis tampak dari menghargai pilihan rekan dan menciptakan lingkungan kerja yang saling mendukung.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0040",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ketua tim survei ke daerah terpencil. Saat pembagian tugas, seorang anggota tim berpendapat rekan perempuan sebaiknya tidak ikut ke lapangan dan cukup mengolah data di kantor, padahal rekan itu memiliki kompetensi survei yang baik dan bersedia berangkat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menanyakan kembali kepada rekan perempuan itu apakah ia yakin sanggup ke lapangan",
+        "score": 3,
+        "rationale": "Menghargai pilihannya, tetapi mengulang keraguan yang bersumber dari stereotip."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti usulan anggota tim agar tidak terjadi perdebatan",
+        "score": 2,
+        "rationale": "Menghindari gesekan dengan mengorbankan kesempatan yang setara."
+      },
+      {
+        "key": "C",
+        "text": "Setuju dengan alasan tugas lapangan memang lebih cocok untuk laki-laki",
+        "score": 1,
+        "rationale": "Mendukung stereotip gender dan bersikap diskriminatif."
+      },
+      {
+        "key": "D",
+        "text": "Tetap menugaskan rekan perempuan itu ke lapangan karena kompetensinya sesuai",
+        "score": 4,
+        "rationale": "Adil, tetapi belum meluruskan pandangan anggota lain dan menyiapkan dukungan keamanan."
+      },
+      {
+        "key": "E",
+        "text": "Menugaskan anggota berdasarkan kompetensi dan kesediaan, menyiapkan pengaturan keamanan dan logistik yang layak bagi seluruh tim, serta menjelaskan dasar pembagian tugas itu kepada anggota tim",
+        "score": 5,
+        "rationale": "Adil gender, berbasis kompetensi, dan tetap memperhatikan keselamatan."
+      }
+    ],
+    "explanation": "Pembagian tugas yang adil didasarkan pada kompetensi, bukan jenis kelamin. Nilai Harmonis tampak dari perlakuan setara, sementara keselamatan seluruh tim tetap menjadi tanggung jawab ketua.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0041",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Dalam setiap rapat di unit Anda, atasan selalu meminta pegawai perempuan menyiapkan konsumsi dan mencatat notula, sementara pegawai laki-laki langsung membahas substansi. Beberapa pegawai perempuan merasa tidak nyaman, tetapi enggan menyampaikannya. Anda staf di unit tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengusulkan secara santun agar tugas konsumsi dan notula digilir untuk semua pegawai, dan menawarkan diri pada giliran pertama",
+        "score": 5,
+        "rationale": "Mendorong pembagian tugas yang adil gender dengan santun dan memberi contoh."
+      },
+      {
+        "key": "B",
+        "text": "Membantu rekan perempuan menyiapkan konsumsi setiap kali rapat, termasuk datang lebih pagi untuk menata ruangan, agar beban mereka berkurang tanpa perlu mempersoalkannya kepada atasan",
+        "score": 3,
+        "rationale": "Meringankan beban, tetapi pola pembagian tugas yang timpang tetap berlangsung."
+      },
+      {
+        "key": "C",
+        "text": "Menganggap pembagian itu wajar karena perempuan dinilai lebih teliti mengurus hal semacam itu",
+        "score": 1,
+        "rationale": "Menguatkan stereotip gender."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan rekan perempuan menyampaikan sendiri keluhannya kepada atasan",
+        "score": 2,
+        "rationale": "Melempar persoalan kepada pihak yang sudah enggan bersuara."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan secara pribadi bahwa sebagian pegawai perempuan merasa tidak nyaman",
+        "score": 4,
+        "rationale": "Menyuarakan masalah, tetapi tanpa usulan solusi."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah kesetaraan dan tidak berpikir stereotip. Nilai Harmonis dan Kolaboratif tampak dari usulan pembagian tugas yang adil, disampaikan dengan santun dan disertai contoh.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0042",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pendamping program pemberdayaan perempuan dari dinas. Di desa dampingan, adat menempatkan laki-laki sebagai pembicara dalam musyawarah, sehingga perempuan biasanya hadir tanpa menyampaikan pendapat. Pedoman program mensyaratkan usulan kegiatan memuat aspirasi kelompok perempuan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membicarakannya lebih dulu dengan tetua adat dan kepala desa, lalu menyepakati cara yang diterima adat, misalnya diskusi kelompok perempuan sebelum musyawarah yang hasilnya dibacakan dan dicatat resmi dalam musyawarah",
+        "score": 5,
+        "rationale": "Memenuhi syarat program tanpa menabrak adat, melalui kesepakatan dengan tokoh setempat."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat kondisi itu dalam laporan dan meminta arahan dinas tentang syarat keterlibatan perempuan",
+        "score": 3,
+        "rationale": "Transparan, tetapi menunda penyelesaian yang bisa difasilitasi di lapangan."
+      },
+      {
+        "key": "C",
+        "text": "Mengadakan pertemuan terpisah dengan kelompok perempuan untuk menghimpun aspirasi, lalu menyampaikannya sendiri dalam musyawarah",
+        "score": 4,
+        "rationale": "Aspirasi terhimpun, tetapi tanpa kesepakatan dengan tokoh adat sehingga rawan ditolak."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti tata cara adat apa adanya dan menganggap kehadiran perempuan sudah memenuhi syarat program",
+        "score": 2,
+        "rationale": "Menghindari gesekan, tetapi tujuan program tidak tercapai."
+      },
+      {
+        "key": "E",
+        "text": "Meminta para perempuan langsung berbicara di forum musyawarah karena aturan program lebih tinggi daripada adat",
+        "score": 1,
+        "rationale": "Memaksakan program dan berisiko mempermalukan warga serta tokoh adat."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan prosedur program. Skor tertinggi mencari titik temu yang sah di mata adat dan program, sesuai nilai Harmonis, Adaptif, dan Kolaboratif, tanpa memaksakan kehendak.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0043",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda, seorang perempuan, memimpin tim peninjau dari dinas kebudayaan untuk menilai kerusakan sebuah rumah adat yang akan direvitalisasi. Adat setempat tidak membolehkan perempuan memasuki bagian dalam rumah adat tersebut, padahal penilaian bagian dalam diperlukan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunda peninjauan dan meminta dinas menunjuk ketua tim laki-laki",
+        "score": 3,
+        "rationale": "Menghormati adat, tetapi melepaskan tanggung jawab yang sebenarnya bisa dijalankan."
+      },
+      {
+        "key": "B",
+        "text": "Menghormati larangan itu, membicarakan dengan pemangku adat cara peninjauan yang dapat diterima, misalnya anggota tim laki-laki memeriksa bagian dalam dengan daftar periksa dan dokumentasi yang Anda tentukan, lalu Anda menilai hasilnya dan menandatangani laporan sesuai tanggung jawab",
+        "score": 5,
+        "rationale": "Menghormati adat tanpa melepaskan tanggung jawab dan mutu penilaian."
+      },
+      {
+        "key": "C",
+        "text": "Menghormati larangan itu dan menugaskan anggota tim laki-laki memeriksa bagian dalam",
+        "score": 4,
+        "rationale": "Menghormati adat dan tugas berjalan, tetapi tanpa kesepakatan dengan pemangku adat dan kendali mutu yang jelas."
+      },
+      {
+        "key": "D",
+        "text": "Meninjau bagian luar saja dan menyusun penilaian bagian dalam berdasarkan keterangan warga",
+        "score": 2,
+        "rationale": "Menghindari benturan, tetapi hasil penilaian tidak cermat."
+      },
+      {
+        "key": "E",
+        "text": "Tetap masuk dengan alasan sedang menjalankan tugas negara dan kesetaraan gender dijamin undang-undang",
+        "score": 1,
+        "rationale": "Memaksakan kehendak dan melanggar adat yang dijunjung warga."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan tugas. Di ruang adat yang disakralkan warga, ASN menghormati larangan setempat (Harmonis, Bhinneka Tunggal Ika) sambil mencari cara agar tugas tetap terlaksana dengan mutu dan akuntabilitas yang terjaga.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0044",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf kelurahan. Sejumlah warga lama mendatangi kantor dan meminta agar warga pendatang di kompleks rumah kontrakan dikenai iuran keamanan dua kali lipat karena dianggap jarang ikut ronda dan kerja bakti. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyetujui usulan itu karena pendatang memang seharusnya menyesuaikan diri dengan warga lama",
+        "score": 1,
+        "rationale": "Diskriminatif dan memihak satu kelompok."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan bahwa iuran tidak boleh dibedakan dan meminta RT mengingatkan warga pendatang agar aktif dalam kegiatan lingkungan",
+        "score": 4,
+        "rationale": "Adil, tetapi penyelesaian diserahkan tanpa mempertemukan kedua pihak."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan urusan iuran sepenuhnya kepada RT dan RW karena bukan urusan kelurahan",
+        "score": 2,
+        "rationale": "Lepas tangan padahal potensi konflik sudah muncul."
+      },
+      {
+        "key": "D",
+        "text": "Menampung keluhan itu dan menyampaikannya kepada lurah untuk diputuskan",
+        "score": 3,
+        "rationale": "Prosedural, tetapi tidak meluruskan usulan yang jelas diskriminatif."
+      },
+      {
+        "key": "E",
+        "text": "Menerima keluhan dengan baik, menjelaskan bahwa iuran tidak boleh dibedakan berdasarkan asal warga, lalu mengusulkan pertemuan bersama RT, RW, dan perwakilan pendatang untuk menyepakati jadwal ronda dan kerja bakti yang melibatkan semua warga",
+        "score": 5,
+        "rationale": "Adil, tidak diskriminatif, dan menyelesaikan akar masalah lewat musyawarah."
+      }
+    ],
+    "explanation": "Asas tidak diskriminatif berlaku bagi warga lama maupun pendatang. Nilai Harmonis tampak dari peran penengah yang adil dan menyelesaikan akar keluhan melalui musyawarah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0045",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pendamping sosial yang menyalurkan bantuan sosial. Sejumlah warga memprotes karena beberapa keluarga pendatang yang baru dua tahun tinggal di desa ikut menerima bantuan, sementara menurut mereka bantuan seharusnya didahulukan untuk \"warga asli\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengalihkan bantuan keluarga pendatang kepada warga asli agar protes berhenti",
+        "score": 1,
+        "rationale": "Melanggar ketentuan dan diskriminatif."
+      },
+      {
+        "key": "B",
+        "text": "Menunda penyaluran kepada keluarga pendatang sampai protes mereda",
+        "score": 2,
+        "rationale": "Menghindari konflik, tetapi merugikan penerima yang berhak."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan bahwa penerima ditetapkan berdasarkan kriteria resmi tanpa membedakan asal daerah",
+        "score": 4,
+        "rationale": "Tepat, tetapi belum memberi jalan bagi warga yang merasa layak menerima."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kriteria penerima berdasarkan data resmi yang tidak membedakan asal daerah, menunjukkan cara mengusulkan keluarga lain yang layak melalui musyawarah desa, dan memeriksa ulang data bila ada keluhan yang konkret",
+        "score": 5,
+        "rationale": "Adil, transparan, dan memberi jalan yang sah bagi aspirasi warga."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga menyampaikan protes langsung kepada dinas sosial",
+        "score": 3,
+        "rationale": "Melempar penjelasan yang sebenarnya bisa Anda berikan."
+      }
+    ],
+    "explanation": "Bantuan sosial disalurkan berdasarkan kriteria, bukan asal daerah. Nilai Harmonis dan Akuntabel tampak dari sikap adil, transparan, dan memberi jalan yang sah bagi warga yang keberatan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0046",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf dinas yang mengelola sebuah pasar daerah. Pedagang lokal dan pedagang pendatang berselisih soal lapak di dekat pintu masuk; masing-masing mengaku lebih berhak dan mulai saling melontarkan kata-kata bernada kesukuan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa data pendaftaran lapak dan menetapkan penempatan sesuai aturan",
+        "score": 4,
+        "rationale": "Adil, tetapi sentimen kesukuan yang muncul tidak diredakan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta kedua pihak berhenti berjualan di lapak itu sampai mereka berdamai sendiri",
+        "score": 2,
+        "rationale": "Meredam keributan sesaat, tetapi merugikan kedua pihak tanpa penyelesaian."
+      },
+      {
+        "key": "C",
+        "text": "Menenangkan kedua pihak, mengingatkan agar tidak membawa isu suku, lalu mempertemukan perwakilan mereka bersama pengurus pasar untuk menyelesaikan penempatan lapak berdasarkan aturan dan data pendaftaran",
+        "score": 5,
+        "rationale": "Netral, meredam sentimen kesukuan, dan menyelesaikan masalah sesuai aturan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta kedua pihak menunggu keputusan kepala dinas",
+        "score": 3,
+        "rationale": "Menunda penyelesaian yang masih dalam wewenang pengelola pasar."
+      },
+      {
+        "key": "E",
+        "text": "Memberikan lapak itu kepada pedagang lokal agar keributan cepat selesai",
+        "score": 1,
+        "rationale": "Memihak satu kelompok dan tidak adil."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah menjadi penengah yang netral di tengah perbedaan kelompok. Nilai Harmonis dan semangat Bhinneka Tunggal Ika tampak dari meredam sentimen kesukuan sekaligus menyelesaikan masalah berdasarkan aturan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0047",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pegawai asli daerah setempat. Dalam rapat kerja tim, rekan-rekan sering beralih ke bahasa daerah saat berdiskusi, sehingga dua rekan pendatang tampak bingung dan jarang ikut berpendapat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena lama-lama rekan pendatang akan memahami bahasa daerah",
+        "score": 2,
+        "rationale": "Pasif dan membiarkan sebagian rekan terpinggirkan."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan isi rapat kepada rekan pendatang setelah rapat selesai",
+        "score": 3,
+        "rationale": "Peduli, tetapi mereka tetap tidak bisa berkontribusi saat rapat."
+      },
+      {
+        "key": "C",
+        "text": "Duduk di dekat rekan pendatang dan menerjemahkan secara berbisik setiap bagian yang dibahas dalam bahasa daerah, sehingga mereka tetap bisa mengikuti jalannya diskusi",
+        "score": 4,
+        "rationale": "Membantu, tetapi kebiasaan yang mengecualikan rekan tetap berlangsung."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan rekan pendatang segera belajar bahasa daerah bila ingin ikut berdiskusi",
+        "score": 1,
+        "rationale": "Memaksakan bahasa kelompok sendiri dalam forum kerja."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak rekan memakai bahasa Indonesia dalam rapat, merangkum poin yang terlewat, dan meminta pendapat rekan pendatang",
+        "score": 5,
+        "rationale": "Inklusif sehingga semua anggota tim dapat berkontribusi."
+      }
+    ],
+    "explanation": "Bahasa Indonesia adalah bahasa pemersatu dan bahasa resmi dalam forum kedinasan. Nilai Harmonis dan Kolaboratif tampak dari memastikan setiap rekan, termasuk pendatang, dapat berkontribusi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0048",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pegawai pendatang yang baru dua bulan bertugas. Dalam sebuah diskusi, seorang rekan lokal berkata, \"Anda kan orang luar, belum paham kondisi di sini.\" Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas bahwa cara kerja di daerah ini justru tertinggal dibanding daerah asal Anda",
+        "score": 1,
+        "rationale": "Emosional dan merendahkan daerah setempat."
+      },
+      {
+        "key": "B",
+        "text": "Diam dan tidak lagi menyampaikan pendapat dalam diskusi berikutnya",
+        "score": 3,
+        "rationale": "Menghindari gesekan, tetapi berhenti berkontribusi."
+      },
+      {
+        "key": "C",
+        "text": "Menanggapi dengan tenang dan tetap menyampaikan pendapat Anda berdasarkan data dan pengalaman kerja sebelumnya, sambil menunjukkan bahwa analisis Anda sudah mempertimbangkan kondisi daerah",
+        "score": 4,
+        "rationale": "Profesional, tetapi belum membuka diri terhadap pengetahuan lokal rekan."
+      },
+      {
+        "key": "D",
+        "text": "Mengakui dengan tenang bahwa Anda masih belajar, meminta rekan itu berbagi pengetahuannya, dan membuktikan kesungguhan lewat kinerja",
+        "score": 5,
+        "rationale": "Rendah hati, mau belajar, dan menjawab prasangka dengan kinerja."
+      },
+      {
+        "key": "E",
+        "text": "Mengadukan sikap rekan itu kepada atasan",
+        "score": 2,
+        "rationale": "Melempar persoalan kecil yang bisa diselesaikan sendiri."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah sikap tenang dan mau belajar ketika menghadapi prasangka sebagai pendatang. Nilai Adaptif dan Harmonis tampak dari keterbukaan terhadap pengetahuan lokal tanpa membalas dengan merendahkan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0049",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Tetangga Anda yang berbeda agama mengadakan syukuran rumah baru dan mengundang Anda. Acara dibuka dengan doa menurut agama tuan rumah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadir dan bersikap sopan sepanjang acara",
+        "score": 4,
+        "rationale": "Menghormati undangan, tetapi kurang aktif membangun kebersamaan."
+      },
+      {
+        "key": "B",
+        "text": "Tidak hadir, tetapi mengirim ucapan selamat beserta bingkisan yang pantas dan menyampaikan permohonan maaf karena ada keperluan keluarga yang tidak bisa ditinggalkan",
+        "score": 2,
+        "rationale": "Sopan dan berkesan baik, tetapi tetap menjaga jarak dari tetangga."
+      },
+      {
+        "key": "C",
+        "text": "Hadir tepat waktu, bersikap hormat saat doa sambil berdoa menurut keyakinan sendiri, dan membantu tuan rumah bila perlu",
+        "score": 5,
+        "rationale": "Toleran, menghormati tuan rumah, dan tetap teguh pada keyakinan sendiri."
+      },
+      {
+        "key": "D",
+        "text": "Tidak hadir karena menganggap acara itu hanya urusan pemeluk agama tuan rumah",
+        "score": 1,
+        "rationale": "Eksklusif dan merenggangkan hubungan bertetangga."
+      },
+      {
+        "key": "E",
+        "text": "Datang setelah doa selesai agar tidak canggung",
+        "score": 3,
+        "rationale": "Tetap menghormati undangan, tetapi menunjukkan keengganan."
+      }
+    ],
+    "explanation": "Menghadiri acara tetangga yang berbeda agama adalah wujud toleransi dan Bhinneka Tunggal Ika. Nilai Harmonis tampak dari sikap hormat tanpa harus mengikuti ritual agama lain.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0050",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang rekan di kantor sering dipanggil dengan julukan yang merujuk pada warna kulitnya. Rekan yang memanggil menganggapnya tanda keakraban, tetapi Anda melihat rekan tersebut tidak pernah ikut tertawa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan secara pribadi kepada rekan yang memanggil bahwa julukan berdasarkan warna kulit termasuk perundungan dan memintanya berhenti memakai julukan itu mulai sekarang",
+        "score": 4,
+        "rationale": "Tepat, tetapi belum memperhatikan perasaan rekan yang dijuluki."
+      },
+      {
+        "key": "B",
+        "text": "Meminta rekan yang memanggil secara pribadi untuk berhenti, memanggil rekan itu dengan namanya, dan menanyakan perasaannya",
+        "score": 5,
+        "rationale": "Menghentikan ejekan fisik dengan santun dan peduli pada korban."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut campur karena rekan yang dijuluki tidak pernah protes",
+        "score": 2,
+        "rationale": "Pasif dan menganggap diam berarti setuju."
+      },
+      {
+        "key": "D",
+        "text": "Memanggil rekan tersebut dengan namanya tanpa menegur siapa pun",
+        "score": 3,
+        "rationale": "Memberi contoh, tetapi tidak menghentikan ejekan."
+      },
+      {
+        "key": "E",
+        "text": "Ikut memakai julukan itu karena rekan-rekan menganggapnya tanda keakraban, rekan yang dijuluki tidak pernah protes, dan Anda tidak ingin terlihat kaku atau menjaga jarak dari pergaulan kantor",
+        "score": 1,
+        "rationale": "Ikut merendahkan rekan berdasarkan ciri fisiknya."
+      }
+    ],
+    "explanation": "Julukan berdasarkan ciri fisik atau ras termasuk perilaku yang merendahkan. Nilai Harmonis menuntut ASN menghargai setiap orang apa pun latar belakangnya dan menghentikan ejekan dengan santun.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0051",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda baru dimutasi ke kabupaten di pulau lain. Pada minggu pertama Anda kesulitan menyesuaikan diri dengan makanan, bahasa, dan kebiasaan masyarakat yang sangat berbeda dari daerah asal. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencari rekan setempat sebagai tempat bertanya, mempelajari ungkapan sehari-hari, dan aktif ikut kegiatan kantor serta lingkungan",
+        "score": 5,
+        "rationale": "Adaptif dan proaktif membangun kedekatan dengan budaya baru."
+      },
+      {
+        "key": "B",
+        "text": "Lebih banyak bergaul dengan sesama pendatang dari daerah asal agar merasa nyaman dan tetap punya teman berbagi cerita selama masa penyesuaian",
+        "score": 2,
+        "rationale": "Nyaman sesaat, tetapi menghambat adaptasi dengan masyarakat setempat."
+      },
+      {
+        "key": "C",
+        "text": "Bertahan dengan kebiasaan sendiri sambil menunggu terbiasa seiring waktu",
+        "score": 3,
+        "rationale": "Tidak bermasalah, tetapi pasif dalam beradaptasi."
+      },
+      {
+        "key": "D",
+        "text": "Membaca buku dan artikel tentang adat, bahasa, dan kuliner daerah itu setiap malam agar cepat memahami kebiasaan masyarakat sebelum banyak berinteraksi dengan mereka",
+        "score": 4,
+        "rationale": "Berupaya memahami, tetapi menunda interaksi langsung yang justru paling mempercepat adaptasi."
+      },
+      {
+        "key": "E",
+        "text": "Membandingkan kebiasaan setempat dengan daerah asal di depan rekan dan menyebutnya kurang maju",
+        "score": 1,
+        "rationale": "Merendahkan budaya setempat dan merusak hubungan dengan rekan."
+      }
+    ],
+    "explanation": "Nilai Adaptif menuntut ASN cepat menyesuaikan diri dengan lingkungan baru. Nilai Harmonis tampak dari kesediaan belajar dan berbaur, bukan membandingkan budaya secara merendahkan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0052",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda kepala subbagian. Seorang pegawai baru pengguna kursi roda meminta penyesuaian tinggi meja kerja dan letak lemari berkas agar ia dapat bekerja dengan nyaman. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menanyakan kebutuhannya secara rinci, segera mengatur penyesuaian yang bisa dilakukan, dan mengajukan pengadaan yang diperlukan sesuai prosedur",
+        "score": 5,
+        "rationale": "Memenuhi hak akomodasi yang layak secara cepat dan tuntas."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan pegawai itu menyesuaikan diri dengan meja yang ada untuk sementara",
+        "score": 2,
+        "rationale": "Menunda kebutuhan dasar tanpa kepastian."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui permintaannya dan meminta bagian umum menyesuaikan meja kerjanya",
+        "score": 4,
+        "rationale": "Tanggap, tetapi belum memeriksa kebutuhan aksesibilitas lainnya."
+      },
+      {
+        "key": "D",
+        "text": "Meminta pegawai itu mengajukan permohonan tertulis lengkap dengan spesifikasi meja dan lemari yang dibutuhkan, lalu menunggu anggaran tahun berikutnya agar pengadaannya tertib",
+        "score": 3,
+        "rationale": "Tertib administrasi, tetapi terlalu lambat untuk kebutuhan dasar bekerja."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan bahwa semua pegawai mendapat fasilitas yang sama sehingga tidak bisa ada perlakuan khusus",
+        "score": 1,
+        "rationale": "Keliru memahami kesetaraan dan mengabaikan hak penyandang disabilitas."
+      }
+    ],
+    "explanation": "Kesetaraan bagi penyandang disabilitas diwujudkan melalui akomodasi yang layak, bukan perlakuan yang seragam. Nilai Harmonis dan Berorientasi Pelayanan tampak dari respons cepat dan tuntas.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0053",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ahli gizi puskesmas. Di desa binaan Anda ada kepercayaan turun-temurun bahwa ibu hamil tidak boleh makan ikan dan telur karena dianggap membuat bayi bermasalah, padahal angka ibu hamil kurang gizi di desa itu cukup tinggi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berdialog dengan ibu hamil, keluarga, dan tetua yang dihormati, lalu bersama-sama mencari sumber protein yang dapat diterima sambil memantau status gizi",
+        "score": 5,
+        "rationale": "Menghormati kepercayaan, melibatkan tokoh, dan tetap menjaga tujuan kesehatan."
+      },
+      {
+        "key": "B",
+        "text": "Membagikan makanan tambahan sesuai program tanpa membahas kepercayaan tersebut",
+        "score": 3,
+        "rationale": "Program berjalan, tetapi akar masalah tidak tersentuh."
+      },
+      {
+        "key": "C",
+        "text": "Menyatakan di depan warga bahwa kepercayaan itu mitos keliru yang harus segera ditinggalkan",
+        "score": 1,
+        "rationale": "Merendahkan kepercayaan warga sehingga mereka menutup diri."
+      },
+      {
+        "key": "D",
+        "text": "Mengadakan penyuluhan di posyandu tentang kebutuhan gizi ibu hamil, lengkap dengan contoh menu kaya protein hewani, demonstrasi memasak, dan pembagian leaflet kepada setiap ibu hamil",
+        "score": 4,
+        "rationale": "Edukatif dan menarik, tetapi belum melibatkan orang yang memegang kepercayaan itu."
+      },
+      {
+        "key": "E",
+        "text": "Menghormati kepercayaan itu dan sama sekali tidak membahas soal ikan dan telur",
+        "score": 2,
+        "rationale": "Menghindari gesekan, tetapi membiarkan risiko kesehatan."
+      }
+    ],
+    "explanation": "Program kesehatan berhasil bila disampaikan dengan menghormati budaya setempat. Nilai Harmonis dan Kolaboratif tampak dari dialog dengan tokoh yang dihormati dan pencarian alternatif yang dapat diterima.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0054",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas ambulans puskesmas di Bali. Saat Hari Suci Nyepi, aktivitas di luar rumah dihentikan dan jalan dijaga pecalang. Malam itu seorang warga membutuhkan rujukan darurat ke rumah sakit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjalankan prosedur darurat Nyepi yang telah disepakati, berkoordinasi dengan pecalang sebelum berangkat, dan meminimalkan bunyi sirene",
+        "score": 5,
+        "rationale": "Menyelamatkan pasien sambil menghormati kekhidmatan hari suci dan peran desa adat."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan keluarga membawa pasien dengan kendaraan sendiri agar ambulans tidak perlu keluar selama Nyepi",
+        "score": 1,
+        "rationale": "Menghindar dari tugas darurat dan membahayakan keselamatan pasien."
+      },
+      {
+        "key": "C",
+        "text": "Segera berangkat dengan sirene dan lampu rotator menyala di sepanjang jalan, lalu meminta pecalang yang berjaga minggir karena keselamatan pasien lebih penting daripada aturan hari raya",
+        "score": 2,
+        "rationale": "Pasien tertolong, tetapi cara memaksakan diri mengabaikan kekhidmatan hari suci dan peran pecalang."
+      },
+      {
+        "key": "D",
+        "text": "Segera berangkat merujuk pasien dan menjelaskan keadaan darurat kepada pecalang yang ditemui di jalan",
+        "score": 4,
+        "rationale": "Pasien tertolong, tetapi tanpa koordinasi awal sehingga bisa terjadi salah paham."
+      },
+      {
+        "key": "E",
+        "text": "Menghubungi atasan untuk meminta izin sebelum berangkat",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi memperlambat layanan darurat yang prosedurnya sudah ada."
+      }
+    ],
+    "explanation": "Layanan darurat tetap wajib berjalan pada hari raya, tetapi dilaksanakan dengan menghormati kekhidmatan hari suci dan aturan desa adat. Nilai Harmonis dan Berorientasi Pelayanan berpadu melalui koordinasi yang baik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0055",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda kepala sekolah negeri. Sekolah akan memperingati hari besar agama yang dianut mayoritas siswa, dan beberapa guru mengusulkan agar semua siswa wajib mengikuti seluruh rangkaian kegiatan, termasuk ibadah bersama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menetapkan bahwa ibadah bersama hanya diikuti siswa pemeluk agama tersebut",
+        "score": 4,
+        "rationale": "Menghormati keyakinan, tetapi belum memikirkan kegiatan bagi siswa lain."
+      },
+      {
+        "key": "B",
+        "text": "Memisahkan kegiatan ibadah bagi siswa pemeluknya dari kegiatan kebersamaan yang terbuka bagi semua, serta menyiapkan pembinaan bagi siswa lain sesuai agamanya",
+        "score": 5,
+        "rationale": "Menghormati keyakinan setiap siswa sambil tetap merawat kebersamaan."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan pengaturan acara kepada panitia guru agama dengan pesan agar kegiatannya tertib, meriah, dan melibatkan sebanyak mungkin siswa supaya suasana kebersamaan sekolah terasa",
+        "score": 3,
+        "rationale": "Mendelegasikan tanpa arahan tentang keragaman keyakinan siswa."
+      },
+      {
+        "key": "D",
+        "text": "Meliburkan siswa yang berbeda agama selama acara berlangsung",
+        "score": 2,
+        "rationale": "Praktis, tetapi mengucilkan sebagian siswa dari kebersamaan sekolah."
+      },
+      {
+        "key": "E",
+        "text": "Menyetujui usulan itu agar kegiatan sekolah terlihat kompak",
+        "score": 1,
+        "rationale": "Memaksakan ibadah agama tertentu kepada siswa lain."
+      }
+    ],
+    "explanation": "Kebebasan beragama berarti tidak memaksakan ibadah kepada pemeluk agama lain. Nilai Harmonis dan semangat Bhinneka Tunggal Ika tampak dari kegiatan yang menghormati keyakinan sekaligus merawat kebersamaan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0056",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda guru di sebuah SMP negeri. Tiga siswa di kelas Anda menganut agama yang gurunya tidak tersedia di sekolah, sehingga setiap jam pelajaran agama mereka hanya duduk di perpustakaan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun tugas mandiri berupa ringkasan bacaan dari kitab suci mereka selama jam pelajaran agama, lalu memeriksa dan menilainya sendiri agar rapor mereka tetap terisi",
+        "score": 3,
+        "rationale": "Peduli, tetapi tanpa pembimbing yang seagama sehingga hak pendidikan agama belum terpenuhi."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan kondisi itu kepada kepala sekolah agar dicarikan solusi",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa usulan yang membantu penyelesaian."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena ketersediaan guru agama bukan wewenang Anda",
+        "score": 2,
+        "rationale": "Pasif terhadap hak siswa."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kondisi itu kepada kepala sekolah disertai usulan kerja sama dengan kantor kementerian agama atau lembaga keagamaan setempat untuk menyediakan pembimbing",
+        "score": 5,
+        "rationale": "Memperjuangkan hak pendidikan agama siswa melalui jalur resmi dengan solusi nyata."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan siswa ikut pelajaran agama mayoritas agar tetap mendapat nilai",
+        "score": 1,
+        "rationale": "Memaksakan pelajaran agama lain kepada siswa."
+      }
+    ],
+    "explanation": "UU 20/2003 tentang Sisdiknas menjamin peserta didik mendapat pendidikan agama sesuai agamanya dari pendidik yang seagama. Nilai Harmonis tampak dari memperjuangkan hak kelompok kecil melalui jalur resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0057",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda kepala seksi yang menyusun jadwal piket selama libur panjang hari raya. Setiap tahun, pegawai yang tidak merayakan hari raya itu selalu mendapat jatah piket terbanyak, dan salah satunya mengeluh merasa selalu dikorbankan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendengarkan keluhannya, lalu membagi piket secara bergilir kepada semua pegawai dan menyepakati timbal balik pada hari raya agama lain",
+        "score": 5,
+        "rationale": "Adil bagi semua pegawai dan menghormati hari raya masing-masing."
+      },
+      {
+        "key": "B",
+        "text": "Mempertahankan jadwal seperti biasa karena sudah menjadi kebiasaan kantor",
+        "score": 2,
+        "rationale": "Pasif dan mengabaikan rasa keadilan pegawai."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan bahwa pegawai yang tidak merayakan seharusnya memaklumi karena jumlah mereka sedikit",
+        "score": 1,
+        "rationale": "Diskriminatif berdasarkan agama."
+      },
+      {
+        "key": "D",
+        "text": "Memberi pegawai yang selalu piket hari libur pengganti sesuai ketentuan setelah masa libur selesai, sambil mempertahankan susunan jadwal yang sudah berjalan bertahun-tahun",
+        "score": 3,
+        "rationale": "Ada kompensasi, tetapi pembagian beban tetap timpang."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan alasan jadwal itu dan menjanjikan prioritas libur kepadanya pada hari raya agamanya",
+        "score": 4,
+        "rationale": "Menghargai keluhan, tetapi pembagian tahun ini tetap timpang."
+      }
+    ],
+    "explanation": "Toleransi berlaku dua arah: menghormati yang merayakan tanpa membebani yang tidak merayakan secara terus-menerus. Nilai Harmonis menuntut pimpinan berlaku adil kepada semua pegawai.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0058",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Seorang rekan kerja yang akrab dengan Anda terus-menerus mengajak Anda berpindah keyakinan saat jam kerja, meskipun Anda sudah beberapa kali menolak secara halus. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurangi obrolan berdua dengannya, misalnya dengan makan siang bersama rekan lain dan menyibukkan diri setiap kali ia mulai menyinggung soal keyakinan",
+        "score": 3,
+        "rationale": "Masalah reda sementara, tetapi hubungan kerja merenggang dan batas tidak pernah disampaikan."
+      },
+      {
+        "key": "B",
+        "text": "Terus menolak dengan halus setiap kali ia mengajak",
+        "score": 4,
+        "rationale": "Sopan, tetapi batas yang jelas belum tersampaikan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan secara pribadi, tegas, dan santun bahwa Anda menghargai keyakinannya tetapi tidak ingin membahasnya lagi",
+        "score": 5,
+        "rationale": "Menjaga batas keyakinan sendiri dengan santun dan tetap harmonis."
+      },
+      {
+        "key": "D",
+        "text": "Membalas dengan mengkritik ajaran agamanya agar ia berhenti mengajak",
+        "score": 1,
+        "rationale": "Menyerang keyakinan orang lain dan memicu konflik."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkannya kepada atasan tanpa menyampaikan keberatan secara tegas kepadanya lebih dulu",
+        "score": 2,
+        "rationale": "Melempar persoalan yang masih bisa diselesaikan secara pribadi."
+      }
+    ],
+    "explanation": "Menghormati keyakinan orang lain berjalan seiring dengan menjaga keyakinan sendiri. Nilai Harmonis tampak dari menyampaikan batas dengan tegas dan santun tanpa merusak hubungan kerja.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0059",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pengelola media sosial dinas pariwisata. Tim kreatif mengusulkan video promosi berisi model yang memakai pakaian adat yang dalam tradisi setempat hanya dikenakan pada upacara sakral, lalu menari dengan gaya jenaka agar videonya viral. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyetujui konsep itu karena konten jenaka paling cepat viral",
+        "score": 1,
+        "rationale": "Mengorbankan kehormatan budaya demi popularitas."
+      },
+      {
+        "key": "B",
+        "text": "Melanjutkan konsep itu setelah mendapat persetujuan atasan dan menambahkan takarir yang menjelaskan bahwa video dibuat untuk mempromosikan kekayaan budaya daerah",
+        "score": 3,
+        "rationale": "Prosedural, tetapi mengabaikan pandangan pemilik budaya."
+      },
+      {
+        "key": "C",
+        "text": "Mengunggah video itu dan baru menghapusnya bila muncul keberatan dari warganet",
+        "score": 2,
+        "rationale": "Reaktif dan berisiko menyinggung masyarakat adat."
+      },
+      {
+        "key": "D",
+        "text": "Menolak konsep itu dan meminta tim mengganti pakaian dengan busana adat yang tidak sakral",
+        "score": 4,
+        "rationale": "Menghormati budaya, tetapi tanpa konsultasi dengan pemangku adat."
+      },
+      {
+        "key": "E",
+        "text": "Berkonsultasi dengan lembaga adat tentang batasan penggunaan pakaian itu, lalu mengusulkan konsep kreatif lain yang tetap menarik",
+        "score": 5,
+        "rationale": "Menghormati budaya setempat sambil tetap mencapai tujuan promosi."
+      }
+    ],
+    "explanation": "Promosi budaya harus menghormati nilai yang dijunjung pemiliknya. Nilai Harmonis dan Adaptif tampak dari kreativitas yang tetap peka terhadap kesakralan adat dan melibatkan pemangku adat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0060",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf dinas kebudayaan yang menyiapkan festival budaya kabupaten. Beberapa komunitas warga pendatang memprotes karena dua tahun berturut-turut festival hanya menampilkan kesenian kelompok mayoritas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengusulkan kepada panitia agar tahun ini disediakan satu sesi khusus pada hari terakhir festival untuk kesenian komunitas pendatang, lengkap dengan panggung dan publikasi tersendiri",
+        "score": 4,
+        "rationale": "Responsif, tetapi tanpa dialog dan cenderung memisahkan, bukan memadukan."
+      },
+      {
+        "key": "B",
+        "text": "Menemui perwakilan komunitas, mendata kesenian berbagai kelompok, dan mengusulkan festival yang menampilkan keragaman dengan tetap mengutamakan budaya asli",
+        "score": 5,
+        "rationale": "Inklusif, adil, dan mencerminkan Bhinneka Tunggal Ika."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan komunitas pendatang membuat festival sendiri di luar acara pemerintah",
+        "score": 1,
+        "rationale": "Mengucilkan sebagian warga dari acara milik bersama."
+      },
+      {
+        "key": "D",
+        "text": "Menampung protes itu tanpa tindak lanjut",
+        "score": 2,
+        "rationale": "Pasif terhadap aspirasi warga."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan kepada komunitas itu bahwa festival memang ditujukan untuk melestarikan budaya asli daerah",
+        "score": 3,
+        "rationale": "Memiliki dasar, tetapi tidak menanggapi aspirasi kelompok lain."
+      }
+    ],
+    "explanation": "Acara pemerintah milik semua warga. Nilai Harmonis dan semangat Bhinneka Tunggal Ika tampak dari kesediaan mendengar dan mengakomodasi keragaman budaya tanpa menghilangkan identitas daerah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0061",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas pendataan dari kantor kabupaten. Warga sebuah desa menyambut Anda dengan curiga karena Anda berasal dari kelompok etnis yang beberapa tahun lalu pernah berselisih dengan warga desa itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melanjutkan pendataan seperti biasa tanpa menanggapi sikap warga",
+        "score": 3,
+        "rationale": "Tugas berjalan, tetapi kepercayaan warga tidak dibangun."
+      },
+      {
+        "key": "B",
+        "text": "Menunjukkan surat tugas, menjelaskan tujuan dan kerahasiaan data kepada setiap warga yang didatangi, serta menjawab semua pertanyaan dengan sabar meskipun memakan waktu lebih lama",
+        "score": 4,
+        "rationale": "Transparan dan sabar, tetapi belum melibatkan tokoh yang dipercaya warga."
+      },
+      {
+        "key": "C",
+        "text": "Memperkenalkan diri dengan sopan, menunjukkan surat tugas, dan meminta kepala desa atau tokoh masyarakat mendampingi selama pendataan",
+        "score": 5,
+        "rationale": "Membangun kepercayaan melalui transparansi dan tokoh setempat tanpa menghentikan tugas."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kepada warga bahwa perselisihan dulu sebenarnya disebabkan oleh pihak mereka sendiri, agar mereka tidak lagi menyalahkan kelompok Anda dan pendataan dapat berjalan lancar",
+        "score": 1,
+        "rationale": "Mengungkit konflik lama dan memperuncing permusuhan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta atasan mengganti Anda dengan petugas dari kelompok lain",
+        "score": 2,
+        "rationale": "Menghindari gesekan, tetapi menyerah pada prasangka dan menunda tugas."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah tetap profesional dan membangun kepercayaan di tengah prasangka antarkelompok. Nilai Harmonis dan Kolaboratif tampak dari pelibatan tokoh setempat dan sikap terbuka.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0062",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda ketua panitia kegiatan dinas di daerah penempatan baru. Rapat persiapan selalu dimulai terlambat satu jam, dan beberapa anggota panitia berkata hal itu sudah menjadi \"budaya di sini\" sehingga perlu dimaklumi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut datang terlambat seperti anggota panitia lainnya",
+        "score": 2,
+        "rationale": "Larut dalam kebiasaan yang keliru dan tidak memberi teladan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dalam rapat bahwa kebiasaan terlambat menunjukkan rendahnya etos kerja orang daerah ini",
+        "score": 1,
+        "rationale": "Melabeli masyarakat setempat secara negatif dan merendahkan rekan."
+      },
+      {
+        "key": "C",
+        "text": "Memundurkan jadwal rapat satu jam dari rencana semula agar sesuai kebiasaan anggota panitia, sehingga rapat bisa dimulai lengkap dan tidak ada yang tertinggal pembahasan",
+        "score": 3,
+        "rationale": "Menyesuaikan diri, tetapi disiplin waktu tidak dibangun."
+      },
+      {
+        "key": "D",
+        "text": "Menyepakati bersama panitia jam mulai yang realistis, lalu memulai tepat waktu dengan yang hadir dan menyiapkan ringkasan bagi yang terlambat",
+        "score": 5,
+        "rationale": "Menegakkan disiplin melalui kesepakatan tanpa melabeli budaya setempat."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan anggota panitia melalui grup pesan agar hadir tepat waktu",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa kesepakatan bersama dan teladan."
+      }
+    ],
+    "explanation": "Beradaptasi tidak berarti mengikuti kebiasaan yang bertentangan dengan disiplin kerja, tetapi memperbaikinya juga tidak boleh dengan melabeli suatu daerah. Nilai Harmonis dan Akuntabel tampak dari kesepakatan bersama dan teladan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0063",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Atasan baru di unit Anda berasal dari suku dan agama yang berbeda dari kebanyakan pegawai. Saat ia mengubah beberapa prosedur kerja, sejumlah rekan bergunjing bahwa kebijakannya dipengaruhi latar belakangnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ikut bergunjing, tetap menjalankan prosedur baru dengan disiplin, dan memilih makan siang di ruangan agar tidak terseret pembicaraan yang menyudutkan atasan",
+        "score": 3,
+        "rationale": "Profesional, tetapi membiarkan prasangka berkembang."
+      },
+      {
+        "key": "B",
+        "text": "Mendengarkan gunjingan rekan tanpa menanggapi agar tetap diterima dalam pergaulan",
+        "score": 2,
+        "rationale": "Secara tidak langsung memberi ruang bagi prasangka."
+      },
+      {
+        "key": "C",
+        "text": "Tidak ikut bergunjing, mengajak rekan menilai kebijakan dari isi dan tujuannya, dan menyalurkan keberatan lewat forum resmi",
+        "score": 5,
+        "rationale": "Objektif, menolak prasangka SARA, dan menyalurkan keberatan secara sehat."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan rekan agar tidak mengaitkan kebijakan dengan latar belakang atasan",
+        "score": 4,
+        "rationale": "Meluruskan prasangka, tetapi keberatan rekan tidak tersalurkan."
+      },
+      {
+        "key": "E",
+        "text": "Ikut menyampaikan dugaan bahwa atasan lebih mengutamakan pegawai yang berlatar sama dengannya",
+        "score": 1,
+        "rationale": "Menyebarkan prasangka SARA tanpa dasar."
+      }
+    ],
+    "explanation": "Kebijakan dinilai dari isi dan tujuannya, bukan dari latar belakang pembuatnya. Nilai Harmonis dan Loyal tampak dari sikap objektif, menolak prasangka SARA, dan menyalurkan keberatan melalui forum yang tepat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0064",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas pelayanan di Disdukcapil. Seorang warga penghayat kepercayaan meminta kolom agama pada KTP-nya diisi sesuai ketentuan bagi penghayat kepercayaan. Rekan Anda menyarankan agar warga itu memilih salah satu agama saja supaya prosesnya cepat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melayani permohonan sesuai ketentuan bagi penghayat kepercayaan dan menjelaskan dasar aturannya kepada rekan secara santun",
+        "score": 5,
+        "rationale": "Melayani tanpa diskriminasi sesuai aturan dan meluruskan pemahaman rekan."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan kepada warga bahwa prosesnya bisa lebih lama karena jarang ditangani, lalu menyarankannya mempertimbangkan saran rekan Anda agar KTP-nya cepat selesai",
+        "score": 2,
+        "rationale": "Secara halus mengarahkan warga untuk melepaskan haknya."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti saran rekan dan meminta warga memilih salah satu agama agar data cepat selesai",
+        "score": 1,
+        "rationale": "Memaksakan identitas keagamaan dan melanggar hak warga."
+      },
+      {
+        "key": "D",
+        "text": "Meminta warga menunggu sementara Anda menanyakan prosedurnya kepada atasan",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda layanan yang ketentuannya sudah jelas."
+      },
+      {
+        "key": "E",
+        "text": "Melayani permohonan warga sesuai ketentuan bagi penghayat kepercayaan",
+        "score": 4,
+        "rationale": "Benar dan adil, tetapi pemahaman rekan tidak diluruskan."
+      }
+    ],
+    "explanation": "Putusan MK Nomor 97/PUU-XIV/2016 menjamin penghayat kepercayaan dicatat sesuai kepercayaannya dalam dokumen kependudukan. Asas tidak diskriminatif dan nilai Harmonis menuntut petugas melayani sesuai aturan dan meluruskan rekan yang keliru.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0065",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf protokol yang mendampingi kunjungan tamu dari kementerian. Karena keyakinannya, seorang rekan Anda tidak bersalaman dengan lawan jenis dan hanya menangkupkan tangan di depan dada. Seorang tamu tampak tersinggung ketika uluran tangannya tidak disambut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan dengan sopan kepada tamu bahwa rekan Anda memberi salam sesuai keyakinannya, dan setelah acara mengusulkan agar hal itu diinformasikan sejak awal",
+        "score": 5,
+        "rationale": "Menjembatani perbedaan, menjaga hubungan, dan mencegah salah paham berikutnya."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan rekan itu bersalaman saja demi menghormati tamu",
+        "score": 1,
+        "rationale": "Mendesak rekan melanggar keyakinannya."
+      },
+      {
+        "key": "C",
+        "text": "Segera mengalihkan perhatian tamu ke agenda berikutnya dengan memperkenalkan pejabat lain dan memulai paparan, sehingga suasana kembali cair tanpa perlu membahas kejadian itu",
+        "score": 3,
+        "rationale": "Situasi mereda, tetapi salah paham tidak diluruskan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta rekan itu tidak ikut menyambut tamu pada kunjungan berikutnya",
+        "score": 2,
+        "rationale": "Menghindari masalah dengan menyingkirkan rekan karena keyakinannya."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan sopan kepada tamu bahwa rekan Anda memberi salam dengan cara yang sesuai keyakinannya",
+        "score": 4,
+        "rationale": "Menjembatani salah paham, tetapi tanpa langkah pencegahan."
+      }
+    ],
+    "explanation": "Perbedaan cara memberi salam adalah bagian keragaman keyakinan yang perlu dijembatani, bukan dipaksakan. Nilai Harmonis tampak dari peran penengah yang menjaga perasaan tamu sekaligus menghormati keyakinan rekan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0066",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda wali kelas di SMA negeri. Dua siswa meminta izin tidak masuk sekolah selama tiga hari untuk mengikuti upacara adat keluarga yang penting, bertepatan dengan jadwal penilaian tengah semester. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberi izin berdasarkan surat orang tua dan berkoordinasi dengan guru mata pelajaran untuk penilaian susulan sesuai ketentuan",
+        "score": 5,
+        "rationale": "Menghormati adat siswa tanpa mengurangi hak dan kewajiban belajarnya."
+      },
+      {
+        "key": "B",
+        "text": "Meminta siswa tetap mengikuti penilaian pada hari pertama, baru kemudian menyusul keluarganya ke upacara adat, agar setidaknya sebagian nilai bisa diambil sesuai jadwal",
+        "score": 3,
+        "rationale": "Ada kompromi, tetapi kurang mempertimbangkan pentingnya upacara bagi keluarga."
+      },
+      {
+        "key": "C",
+        "text": "Memberi izin dan meminta siswa mengurus sendiri penilaian susulan kepada guru mata pelajaran",
+        "score": 4,
+        "rationale": "Menghormati adat, tetapi kurang mendampingi siswa."
+      },
+      {
+        "key": "D",
+        "text": "Menolak izin karena urusan sekolah dianggap lebih penting daripada upacara adat",
+        "score": 1,
+        "rationale": "Memandang rendah adat dan tidak mencari solusi."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan keputusan sepenuhnya kepada kepala sekolah",
+        "score": 2,
+        "rationale": "Melempar keputusan yang termasuk tugas wali kelas."
+      }
+    ],
+    "explanation": "Prinsip yang dinilai adalah menghormati adat siswa sambil menjaga hak belajarnya sesuai ketentuan. Nilai Harmonis dan Berorientasi Pelayanan tampak dari solusi penilaian susulan yang tertib.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0067",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda perawat jaga laki-laki di unit gawat darurat puskesmas pada malam hari. Seorang pasien perempuan dengan nyeri perut ringan dan tanda vital stabil meminta diperiksa oleh tenaga kesehatan perempuan karena keyakinannya. Dokter jaga malam itu laki-laki, sedangkan bidan jaga sedang menangani persalinan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa di unit gawat darurat pasien tidak bisa memilih petugas karena semua tenaga kesehatan bekerja profesional, lalu langsung memanggil dokter jaga untuk memeriksa",
+        "score": 1,
+        "rationale": "Memaksakan prosedur tanpa menghormati keyakinan pasien."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan pilihannya, yaitu menunggu bidan sambil dipantau atau diperiksa dokter dengan pendamping perempuan, lalu menghormati pilihan pasien",
+        "score": 5,
+        "rationale": "Menghormati keyakinan pasien sambil tetap menjaga keselamatannya."
+      },
+      {
+        "key": "C",
+        "text": "Meminta pasien menunggu sampai bidan selesai menangani persalinan sambil Anda memantau tanda vital dan keluhannya secara berkala, lalu mencatat perkembangannya di rekam medis",
+        "score": 4,
+        "rationale": "Menghormati keyakinan dan aman, tetapi tidak menawarkan pilihan lain yang mungkin lebih cepat."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa malam itu hanya ada dokter laki-laki dan mempersilakan pasien memutuskan sendiri",
+        "score": 3,
+        "rationale": "Jujur, tetapi minim upaya mencari jalan keluar."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan pasien kembali besok pagi saat ada dokter perempuan",
+        "score": 2,
+        "rationale": "Menghormati keyakinan, tetapi menunda layanan yang dibutuhkan."
+      }
+    ],
+    "explanation": "Pelayanan kesehatan yang baik menghormati keyakinan pasien selama keselamatannya tetap terjaga. Nilai Harmonis dan Berorientasi Pelayanan tampak dari pemberian pilihan yang aman dan penghormatan atas keputusan pasien.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0068",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf dinas pekerjaan umum yang ditugasi menyosialisasikan rencana pelebaran jalan kabupaten. Trase jalan yang sudah ditetapkan melintasi sebagian kompleks makam leluhur yang dikeramatkan warga, dan tokoh adat menyatakan menolak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menegaskan kepada warga bahwa proyek untuk kepentingan umum tetap akan berjalan meskipun mereka menolak",
+        "score": 1,
+        "rationale": "Memaksakan kehendak dan merendahkan nilai adat warga."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan penolakan itu kepada atasan dan mengusulkan kajian penyesuaian trase",
+        "score": 4,
+        "rationale": "Tepat dan sesuai wewenang, tetapi belum membangun dialog dengan tokoh adat."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan penolakan itu kepada atasan sambil memfasilitasi musyawarah dengan tokoh adat untuk menggali penyesuaian trase atau pemindahan secara adat",
+        "score": 5,
+        "rationale": "Menghormati nilai adat dan membuka jalan penyelesaian melalui musyawarah sesuai aturan."
+      },
+      {
+        "key": "D",
+        "text": "Melanjutkan sosialisasi sesuai rencana, mencatat seluruh penolakan dalam berita acara, dan melampirkan daftar hadir serta dokumentasi agar prosesnya sah secara administrasi",
+        "score": 3,
+        "rationale": "Tertib administrasi, tetapi mengabaikan sumber konflik."
+      },
+      {
+        "key": "E",
+        "text": "Menjanjikan kepada tokoh adat bahwa trase pasti akan dipindahkan agar penolakan mereda",
+        "score": 2,
+        "rationale": "Meredakan situasi dengan janji di luar wewenang."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan pembangunan. Skor tertinggi menghormati nilai adat (Harmonis), membuka musyawarah (Kolaboratif), dan tetap berada dalam wewenang serta prosedur pengadaan tanah (Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0069",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas Dinas Perhubungan kabupaten. Sebuah keluarga menggelar pesta pernikahan adat dan menutup penuh satu ruas jalan kabupaten selama dua hari tanpa izin, sehingga kendaraan umum harus memutar jauh dan warga lain mulai mengeluh. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bersama petugas lain langsung membongkar tenda yang menutup jalan karena acara itu tidak berizin, agar menjadi pelajaran bagi warga lain yang hendak menutup jalan umum tanpa izin",
+        "score": 1,
+        "rationale": "Memaksakan penegakan aturan dengan cara yang mempermalukan keluarga dan memicu konflik."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena acara adat hanya berlangsung dua hari",
+        "score": 2,
+        "rationale": "Menghindari gesekan, tetapi mengabaikan hak pengguna jalan dan aturan."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan kejadian itu kepada atasan dan menunggu arahan",
+        "score": 3,
+        "rationale": "Prosedural, tetapi masalah di lapangan dibiarkan sementara."
+      },
+      {
+        "key": "D",
+        "text": "Menemui tuan rumah bersama perangkat desa dan tokoh adat, menyepakati pembukaan sebagian jalan, dan menjelaskan prosedur izin untuk acara berikutnya",
+        "score": 5,
+        "rationale": "Menghormati adat sambil memulihkan hak pengguna jalan sesuai aturan."
+      },
+      {
+        "key": "E",
+        "text": "Memasang rambu pengalihan arus di kedua ujung jalan, menempatkan petugas untuk mengatur kendaraan di jalur alternatif, dan mengumumkan pengalihan itu melalui radio daerah",
+        "score": 4,
+        "rationale": "Mengurangi dampak bagi pengguna jalan, tetapi pelanggaran izin tidak ditangani."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan aturan lalu lintas. Skor tertinggi menegakkan aturan dan hak pengguna jalan tanpa merendahkan acara adat, dengan melibatkan tokoh setempat sesuai nilai Harmonis dan Kolaboratif.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0070",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas pelayanan perizinan. Setelah izin usaha seorang warga terbit, keluarganya mengundang Anda ke syukuran adat. Di depan para tamu, mereka hendak mengalungkan kain tenun adat bernilai tinggi kepada Anda sebagai tanda terima kasih, dan menolak di depan umum dapat dianggap menghina keluarga itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima kain itu, menyimpannya di kantor tanpa dipakai, lalu menyerahkannya kepada atasan keesokan harinya disertai penjelasan lengkap tentang asal-usul pemberian tersebut",
+        "score": 3,
+        "rationale": "Tidak disembunyikan, tetapi bukan jalur pelaporan gratifikasi yang tepat."
+      },
+      {
+        "key": "B",
+        "text": "Pamit sebelum prosesi pengalungan dimulai agar tidak perlu menerima atau menolak",
+        "score": 2,
+        "rationale": "Menghindar dan tidak menyelesaikan persoalan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan saat itu juga sambil menjelaskan larangan gratifikasi bagi petugas",
+        "score": 4,
+        "rationale": "Berintegritas, tetapi cara menolak di depan umum berisiko mempermalukan keluarga."
+      },
+      {
+        "key": "D",
+        "text": "Menerima kain itu dengan hormat, lalu melaporkannya ke Unit Pengendalian Gratifikasi dan menjelaskan aturannya kepada keluarga setelah acara",
+        "score": 5,
+        "rationale": "Menghormati adat di depan umum tanpa mengorbankan integritas karena pemberian dilaporkan sesuai aturan."
+      },
+      {
+        "key": "E",
+        "text": "Menerima dan menyimpan kain itu karena menganggap pemberian adat tidak termasuk gratifikasi",
+        "score": 1,
+        "rationale": "Keliru memahami aturan dan menerima gratifikasi terkait jabatan."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan aturan gratifikasi. Pemberian yang terkait layanan tetap gratifikasi walaupun dibungkus adat, tetapi cara menyikapinya dapat menghormati tuan rumah: diterima secara simbolis lalu dilaporkan ke UPG atau KPK paling lambat 30 hari kerja, sesuai nilai Akuntabel dan Harmonis.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0071",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda anggota panitia seleksi pegawai di pemerintah kabupaten. Ketentuan seleksi formasi tahun ini tidak mengatur afirmasi khusus. Sekelompok tokoh masyarakat mendatangi kantor dan meminta agar pelamar asli daerah diberi nilai tambahan atau diloloskan lebih dulu, dengan alasan \"putra daerah selalu kalah oleh pendatang\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima mereka dengan ramah, mencatat seluruh permintaan dalam notulen, dan berjanji membawanya ke rapat panitia untuk dipertimbangkan tanpa menjelaskan aturan seleksi yang berlaku",
+        "score": 3,
+        "rationale": "Sopan, tetapi memberi harapan yang keliru."
+      },
+      {
+        "key": "B",
+        "text": "Menghindari pertemuan dengan meminta staf lain menyampaikan bahwa panitia sedang rapat",
+        "score": 2,
+        "rationale": "Menghindar dan berpotensi memperkeruh suasana."
+      },
+      {
+        "key": "C",
+        "text": "Menyanggupi dengan memberi pertimbangan khusus kepada pelamar asli daerah saat penilaian",
+        "score": 1,
+        "rationale": "Melanggar asas seleksi dan diskriminatif terhadap pelamar lain."
+      },
+      {
+        "key": "D",
+        "text": "Mendengarkan aspirasi mereka, menjelaskan bahwa seleksi berlaku sama bagi semua pelamar, lalu meneruskan aspirasi itu kepada pimpinan sebagai masukan",
+        "score": 5,
+        "rationale": "Menghormati aspirasi dan menyalurkannya tanpa melanggar asas seleksi yang adil."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan sopan bahwa seleksi harus mengikuti ketentuan yang sama bagi semua pelamar",
+        "score": 4,
+        "rationale": "Tegas dan sesuai aturan, tetapi aspirasi warga tidak tersalurkan."
+      }
+    ],
+    "explanation": "Soal ini menguji toleransi terhadap aspirasi kelompok dan kepatuhan pada aturan. Sistem merit menuntut seleksi yang setara bagi semua pelamar; nilai Harmonis tampak dari menghormati dan menyalurkan aspirasi tanpa melanggar aturan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0072",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda penyuluh keluarga berencana di kecamatan. Anda mendengar sebuah keluarga akan menikahkan anak perempuannya yang berusia 15 tahun karena menurut tradisi keluarga, lamaran yang sudah datang tidak boleh ditolak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendatangi keluarga bersama tokoh yang mereka hormati, menjelaskan risiko dan batas usia perkawinan, lalu berkoordinasi dengan KUA dan layanan perlindungan anak",
+        "score": 5,
+        "rationale": "Melindungi anak sesuai aturan dengan pendekatan yang menghormati keluarga dan adat."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan rencana itu kepada atasan dan menunggu arahan",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda tindakan yang bisa segera dilakukan."
+      },
+      {
+        "key": "C",
+        "text": "Mengangkat rencana pernikahan itu di forum warga sebagai contoh tradisi yang terbelakang",
+        "score": 1,
+        "rationale": "Mempermalukan keluarga dan merendahkan tradisi sehingga keluarga menutup diri."
+      },
+      {
+        "key": "D",
+        "text": "Mendatangi keluarga dan menjelaskan secara rinci ketentuan batas usia minimal perkawinan dalam undang-undang, risiko kesehatan reproduksi pada anak, serta dampaknya terhadap pendidikan anak tersebut",
+        "score": 4,
+        "rationale": "Sesuai aturan dan edukatif, tetapi belum melibatkan tokoh yang paling memengaruhi keputusan keluarga."
+      },
+      {
+        "key": "E",
+        "text": "Tidak ikut campur karena pernikahan dianggap urusan adat dan keluarga",
+        "score": 2,
+        "rationale": "Pasif dan membiarkan pelanggaran hak anak."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema tradisi dan aturan. UU 16/2019 menetapkan batas usia perkawinan 19 tahun, sehingga perlindungan anak tidak bisa ditawar, tetapi caranya tetap menghormati keluarga dan melibatkan tokoh yang dipercaya sesuai nilai Harmonis dan Kolaboratif.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0073",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda staf BPBD kabupaten. Pada puncak kemarau dengan status siaga kebakaran hutan dan lahan, sekelompok warga bersiap membuka ladang dengan cara membakar sesuai kebiasaan turun-temurun. Mereka beralasan cara itu sudah dilakukan leluhur sejak dulu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan kepada warga bahaya kebakaran lahan, sanksi pidana bagi pembakar lahan, dan status siaga yang sedang berlaku, lalu meminta mereka menandatangani pernyataan tidak akan membakar",
+        "score": 4,
+        "rationale": "Tegas dan sesuai aturan, tetapi tanpa melibatkan tokoh dan tanpa alternatif cara membuka lahan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta aparat menangkap warga yang bersiap membakar agar menjadi peringatan bagi warga lain",
+        "score": 1,
+        "rationale": "Menghukum tanpa dialog dan memperlakukan tradisi warga sebagai kejahatan."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat lokasi rencana pembakaran dan melaporkannya kepada atasan",
+        "score": 3,
+        "rationale": "Waspada, tetapi tidak mencegah secara langsung."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan karena membakar ladang adalah tradisi yang sulit diubah",
+        "score": 2,
+        "rationale": "Pasif terhadap risiko bencana."
+      },
+      {
+        "key": "E",
+        "text": "Menemui warga bersama kepala desa dan tokoh adat untuk menjelaskan larangan selama status siaga, lalu menghubungkan mereka dengan pendampingan membuka lahan tanpa bakar",
+        "score": 5,
+        "rationale": "Menghormati kearifan warga sambil mencegah bencana dan memberi alternatif nyata."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema tradisi dan keselamatan publik. Skor tertinggi mencegah bencana sesuai aturan sambil menghormati warga, melibatkan tokoh adat, dan memberi alternatif, sejalan dengan nilai Harmonis dan Kolaboratif.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0074",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda petugas surveilans dinas kesehatan. Seorang warga meninggal karena penyakit menular berbahaya, dan protokol kesehatan mengharuskan jenazahnya segera dimakamkan dengan penanganan khusus. Keluarga ingin menyemayamkan jenazah beberapa hari sesuai adat agar kerabat jauh bisa datang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bersama tokoh adat dan tokoh agama menjelaskan risiko penularan dengan empati, lalu menyepakati bentuk penghormatan adat yang aman sementara pemakaman tetap sesuai protokol",
+        "score": 5,
+        "rationale": "Menjaga keselamatan publik tanpa menafikan duka dan adat keluarga."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan keluarga menyemayamkan jenazah sesuai keinginan mereka agar tidak menambah duka",
+        "score": 1,
+        "rationale": "Melanggar protokol dan membahayakan kesehatan banyak orang."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan penanganan kepada aparat desa dan pihak keamanan",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab yang menjadi bagian tugas Anda dan berisiko memicu pemaksaan."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu keputusan pimpinan dinas sebelum menemui keluarga",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda penanganan yang mendesak."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan belasungkawa, lalu menjelaskan kepada keluarga secara rinci cara penularan penyakit itu dan kewajiban mengikuti protokol pemakaman, termasuk sanksi bila protokol tidak dipatuhi",
+        "score": 4,
+        "rationale": "Sesuai aturan, tetapi belum mencari bentuk penghormatan adat yang aman."
+      }
+    ],
+    "explanation": "Soal ini menguji batas toleransi terhadap adat ketika keselamatan publik dipertaruhkan. Protokol kesehatan tetap dijalankan, tetapi disampaikan dengan empati dan disertai bentuk penghormatan adat yang aman, sesuai nilai Harmonis dan Akuntabel.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-sosial_budaya-sosial_budaya-0075",
+    "subtest": "TKP",
+    "group": "sosial_budaya",
+    "tag": "sosial_budaya",
+    "stem": "Anda pejabat pembuat komitmen pembangunan puskesmas pembantu di sebuah desa. Masyarakat adat meminta ritual adat dilakukan sebelum peletakan batu pertama dan meminta biaya ritualnya ditanggung dari anggaran proyek, padahal anggaran proyek tidak memuat pos untuk kegiatan itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghormati ritual dan menyesuaikan jadwal, menjelaskan bahwa anggaran proyek tidak bisa dipakai, lalu bersama tokoh adat mencari dukungan yang sah seperti swadaya",
+        "score": 5,
+        "rationale": "Menghormati adat tanpa menyalahgunakan anggaran negara."
+      },
+      {
+        "key": "B",
+        "text": "Menghormati permintaan ritual dan menjelaskan bahwa anggaran proyek tidak dapat menanggung biayanya",
+        "score": 4,
+        "rationale": "Taat aturan dan menghormati adat, tetapi tanpa membantu mencari jalan keluar."
+      },
+      {
+        "key": "C",
+        "text": "Memasukkan biaya ritual ke pos belanja lain dalam anggaran proyek agar permintaan warga terpenuhi",
+        "score": 1,
+        "rationale": "Menyalahgunakan anggaran negara walaupun niatnya menghormati adat."
+      },
+      {
+        "key": "D",
+        "text": "Tetap melaksanakan peletakan batu pertama sesuai jadwal dalam kontrak, lalu mempersilakan masyarakat adat menggelar ritual mereka sendiri di lokasi setelah seremoni resmi pemerintah selesai",
+        "score": 2,
+        "rationale": "Taat jadwal, tetapi mengabaikan urutan adat dan berisiko memicu penolakan warga terhadap proyek."
+      },
+      {
+        "key": "E",
+        "text": "Menunda peletakan batu pertama sampai masyarakat adat siap melaksanakan ritual sendiri tanpa batas waktu yang jelas",
+        "score": 3,
+        "rationale": "Menghormati adat, tetapi proyek tertunda tanpa rencana."
+      }
+    ],
+    "explanation": "Soal ini menguji dilema adat dan pengelolaan anggaran. Menghormati adat (Harmonis) tidak boleh dilakukan dengan menyimpangkan anggaran (Akuntabel); skor tertinggi memadukan keduanya melalui jadwal yang disesuaikan dan dukungan yang sah.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

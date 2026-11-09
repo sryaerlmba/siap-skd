@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0001",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Semboyan Bhinneka Tunggal Ika yang tertulis pada pita lambang negara dikutip dari karya sastra Jawa Kuno, yaitu...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kakawin Sutasoma karya Mpu Tantular",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kakawin Negarakertagama karya Mpu Prapanca",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kakawin Arjunawiwaha karya Mpu Kanwa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kakawin Sutasoma karya Mpu Prapanca",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kakawin Bharatayuddha karya Mpu Sedah dan Mpu Panuluh",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Semboyan itu berasal dari Kakawin Sutasoma karya Mpu Tantular (Majapahit, abad ke-14), pupuh 139 bait 5. Mpu Prapanca adalah penulis Negarakertagama, bukan Sutasoma.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 36A; Kakawin Sutasoma",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0002",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Dalam Kakawin Sutasoma, ungkapan \"Bhinneka tunggal ika tan hana dharma mangrwa\" pada mulanya ditulis untuk menegaskan kerukunan antara...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kerajaan Majapahit dan kerajaan-kerajaan taklukannya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kaum bangsawan istana dan rakyat jelata",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pemeluk ajaran Siwa dan pemeluk ajaran Buddha",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "pemeluk agama Hindu dan pendatang beragama Islam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "penduduk Jawa dan penduduk pulau-pulau di luar Jawa",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konteks asli ungkapan itu adalah kerukunan pemeluk Siwa dan Buddha; tan hana dharma mangrwa berarti tidak ada kebenaran yang mendua. Kini semboyan itu dimaknai sebagai persatuan dalam keberagaman bangsa.",
+    "difficulty": 3,
+    "source": "Kakawin Sutasoma pupuh 139 bait 5; UUD 1945 Pasal 36A",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0003",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Rancangan lambang negara Garuda Pancasila yang diresmikan dalam Sidang Kabinet Republik Indonesia Serikat pada 11 Februari 1950 merupakan karya...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mohammad Yamin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ki Hajar Dewantara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Soepomo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mohammad Hatta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sultan Hamid II",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perancang Garuda Pancasila adalah Sultan Hamid II dari Pontianak, Menteri Negara Zonder Portofolio dalam Kabinet RIS. Rancangannya diresmikan dalam Sidang Kabinet RIS 11 Februari 1950.",
+    "difficulty": 1,
+    "source": "Sejarah lambang negara; UU 24/2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0004",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Jumlah bulu pada ekor dan pada pangkal ekor Garuda Pancasila berturut-turut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "17 dan 8",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "8 dan 19",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "19 dan 45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "8 dan 45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "19 dan 8",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jumlah bulu Garuda melambangkan tanggal proklamasi: sayap 17 per sisi, ekor 8, pangkal ekor 19, dan leher 45. Jadi ekor 8 dan pangkal ekor 19.",
+    "difficulty": 2,
+    "source": "UU 24/2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0005",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Sebelum diatur dalam UU Nomor 24 Tahun 2009, bentuk dan ketentuan lambang negara Garuda Pancasila ditetapkan melalui...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Keppres Nomor 57 Tahun 1972",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Perpres Nomor 58 Tahun 2023",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perpres Nomor 63 Tahun 2019",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "PP Nomor 66 Tahun 1951",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Keppres Nomor 6 Tahun 2000",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Lambang negara ditetapkan dengan PP 66/1951 tentang Lambang Negara, lalu diatur ulang dalam UU 24/2009. Keppres 57/1972 mengatur ejaan, Perpres 63/2019 penggunaan bahasa Indonesia, Perpres 58/2023 moderasi beragama, dan Keppres 6/2000 terkait Khonghucu.",
+    "difficulty": 2,
+    "source": "PP 66/1951 tentang Lambang Negara; UU 24/2009 tentang Bendera, Bahasa, dan Lambang Negara, serta Lagu Kebangsaan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0006",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Menurut UU 24/2009, apabila seorang menteri wafat, Bendera Negara dikibarkan setengah tiang selama...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "satu hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tiga hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "dua hari",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "tujuh hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "lima hari",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setengah tiang dua hari berlaku jika pimpinan lembaga negara atau menteri wafat; tiga hari untuk Presiden atau Wakil Presiden, dan satu hari untuk anggota lembaga negara, kepala daerah, atau pimpinan DPRD.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 12",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0007",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Penjelasan Pasal 1 UU Nomor 1/PNPS/1965 menyebut enam agama yang dipeluk penduduk Indonesia. Agama yang kebebasan pelaksanaannya dipulihkan melalui Keppres Nomor 6 Tahun 2000 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Khonghucu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Buddha",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Hindu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Katolik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kepercayaan terhadap Tuhan Yang Maha Esa",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Keppres 6/2000 mencabut Inpres 14/1967 sehingga umat Khonghucu dapat kembali menjalankan agama dan adat istiadatnya secara terbuka. Penghayat kepercayaan diakomodasi melalui Putusan MK 97/PUU-XIV/2016, bukan Keppres ini.",
+    "difficulty": 2,
+    "source": "Penjelasan Pasal 1 UU 1/PNPS/1965; Keppres 6/2000",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0008",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Menjelang 17 Agustus, pengurus RT mendapati sebagian bendera persediaan sudah luntur dan robek di bagian tepi, sementara dana untuk membeli yang baru terbatas. Tindakan yang sesuai dengan UU 24/2009 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap mengibarkan bendera itu karena yang terpenting adalah semangat memperingati kemerdekaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menutup bagian yang robek dengan menuliskan nama RT di atasnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengibarkan bendera itu setengah tiang agar bagian yang robek tidak terlalu terlihat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memotong bendera yang rusak untuk dijadikan taplak meja panitia lomba",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Hanya mengibarkan bendera yang masih layak dan mengupayakan pengganti untuk yang rusak",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24 UU 24/2009 melarang mengibarkan bendera yang rusak, robek, luntur, kusut, atau kusam, menulisi bendera, serta memakainya sebagai pembungkus atau tutup barang. Setengah tiang hanya untuk tanda berkabung.",
+    "difficulty": 1,
+    "source": "UU 24/2009 Pasal 24",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0009",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Seorang pemilik usaha kopi ingin memakai gambar burung garuda yang sama persis dengan lambang negara, lengkap dengan perisainya, sebagai logo kemasan produknya. Tanggapan yang tepat berdasarkan UU 24/2009 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Boleh, asalkan usaha itu sudah memiliki izin usaha resmi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak boleh, karena lambang negara dilarang ditiru untuk logo perusahaan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Boleh, karena penggunaan itu ikut memperkenalkan lambang negara kepada masyarakat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak boleh, kecuali warnanya diubah sehingga berbeda dari lambang negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Boleh, selama logo itu hanya dipakai untuk produk yang dijual di dalam negeri",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 57 UU 24/2009 melarang membuat lambang untuk perseorangan, partai politik, perkumpulan, organisasi, atau perusahaan yang sama atau menyerupai Lambang Negara. Mengganti warna tidak menghapus larangan karena bentuknya tetap menyerupai.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 57",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0010",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Tim promosi sebuah perusahaan minuman mengusulkan lagu iklan berupa lagu \"Indonesia Raya\" yang liriknya diganti dengan nama produk. Sikap yang sesuai dengan UU 24/2009 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyetujui karena lagu iklan itu dapat menumbuhkan rasa cinta tanah air pada konsumen",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menyetujui asalkan iklan hanya ditayangkan pada bulan Agustus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui jika iklan itu mencantumkan nama pencipta lagu, W.R. Supratman",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menolak karena lagu kebangsaan dilarang dipakai untuk iklan komersial",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menolak hanya jika liriknya mengandung kata-kata yang kasar",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 64 UU 24/2009 melarang mengubah Lagu Kebangsaan dengan maksud menghina dan menggunakannya untuk iklan dengan maksud komersial, apa pun isi liriknya.",
+    "difficulty": 1,
+    "source": "UU 24/2009 Pasal 64",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0011",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Kantor Anda menggelar perayaan Natal bersama yang diawali ibadah singkat. Anda menganut agama lain dan diminta membantu sebagai seksi konsumsi. Sikap yang mencerminkan toleransi adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membantu menyiapkan konsumsi dan menghormati jalannya ibadah tanpa ikut melakukan ritualnya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menolak menjadi panitia karena acara itu bukan bagian dari keyakinan Anda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ikut melakukan seluruh ritual ibadah agar dianggap paling toleran oleh rekan kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bersedia membantu, tetapi meminta acara itu diganti dengan kegiatan umum tanpa unsur agama apa pun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Membantu sambil meminta rekan menghadiri ibadah agama Anda sebagai balasan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Toleransi berarti menghormati keyakinan dan ibadah orang lain serta membantu urusan sosialnya tanpa mencampuradukkan ajaran. Menolak terlibat sama sekali dan ikut ritual agama lain sama-sama tidak tepat.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 29 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0012",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Seorang penyuluh agama di desa tetap menghadiri tradisi syukuran panen yang tidak bertentangan dengan ajaran agamanya dan mengajak jemaah menghargai budaya setempat. Sikap ini paling mencerminkan indikator moderasi beragama berupa...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "komitmen kebangsaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "antikekerasan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "penerimaan terhadap tradisi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "toleransi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pluralisme agama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sikap akomodatif terhadap budaya lokal yang tidak bertentangan dengan ajaran agama termasuk indikator penerimaan terhadap tradisi. Indikator toleransi lebih menyangkut sikap terhadap pemeluk keyakinan lain.",
+    "difficulty": 3,
+    "source": "Moderasi Beragama (Kementerian Agama); Perpres 58/2023",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0013",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Sekelompok warga berencana membubarkan ibadah rutin umat beragama lain di rumah salah seorang warga karena dianggap mengganggu. Anda adalah ASN yang tinggal di lingkungan itu. Tindakan yang paling tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut bergabung agar tidak dianggap berbeda sikap dengan mayoritas warga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena urusan itu bukan tanggung jawab Anda sebagai ASN",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Merekam kejadian lalu menyebarkannya ke media sosial dengan komentar keras kepada pelaku",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan umat yang beribadah untuk pindah ke daerah lain agar tidak terjadi konflik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengajak warga berdialog bersama tokoh agama dan aparat agar hak beribadah terlindungi",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menghalangi ibadah adalah bentuk intoleransi, sedangkan kebebasan beribadah dijamin Pasal 28E ayat (1) dan Pasal 29 ayat (2) UUD 1945. Cara yang tepat adalah dialog dengan melibatkan tokoh agama dan aparat, bukan ikut memprovokasi atau membiarkan.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 28E ayat (1) dan Pasal 29 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0014",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Seorang penghayat kepercayaan datang ke loket dinas kependudukan dan pencatatan sipil untuk memperbarui KTP-el. Ia meminta kolom agamanya tidak diisi dengan salah satu dari enam agama. Tindakan petugas yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga memilih salah satu dari enam agama karena kolom agama wajib diisi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mengosongkan kolom agama tanpa keterangan apa pun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menolak permohonan sampai warga membawa surat keterangan dari tokoh agama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mencantumkan \"Kepercayaan terhadap Tuhan Yang Maha Esa\" pada kolom tersebut",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengisi kolom agama dengan agama yang dianut mayoritas penduduk setempat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sejak Putusan MK 97/PUU-XIV/2016, penghayat kepercayaan dapat mencantumkan \"Kepercayaan terhadap Tuhan Yang Maha Esa\" di KK dan KTP-el. Memaksa memilih agama atau mengosongkan kolom tidak lagi sesuai dengan putusan itu.",
+    "difficulty": 3,
+    "source": "Putusan MK 97/PUU-XIV/2016",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-bhinneka_tunggal_ika-0015",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "bhinneka_tunggal_ika",
+    "stem": "Pemerintah daerah membangun gedung pertemuan baru, lalu panitia mengusulkan nama \"Grand Convention Hall\" agar terkesan modern. Menurut UU 24/2009, nama gedung itu...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "boleh memakai bahasa Inggris karena gedung akan dipakai untuk acara internasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "wajib menggunakan bahasa Indonesia karena merupakan nama bangunan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "boleh memakai bahasa Inggris asalkan disertai terjemahan kecil di bawahnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "bebas ditentukan karena aturan bahasa hanya berlaku untuk dokumen resmi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "boleh memakai bahasa Inggris karena aturan itu hanya mengikat gedung milik swasta",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 36 ayat (3) UU 24/2009 mewajibkan bahasa Indonesia untuk nama bangunan atau gedung, jalan, perkantoran, dan sejenisnya. Kewajiban ini berlaku bagi gedung milik pemerintah maupun swasta.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 36 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0001",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Penulisan huruf kapital yang tepat terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rapat koordinasi itu dibuka oleh gubernur Jawa Tengah.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ayahnya baru saja dilantik menjadi Bupati.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Surat itu ditandatangani Kepala Dinas Kesehatan Kota Malang.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Peneliti itu tinggal bersama Suku Dayak selama sebulan.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kita wajib menjunjung tinggi Bahasa Indonesia sebagai bahasa negara.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nama jabatan ditulis kapital bila diikuti nama orang, instansi, atau tempat (Kepala Dinas Kesehatan Kota Malang), tetapi huruf kecil bila berdiri sendiri (menjadi bupati). Kata suku dan bahasa tetap huruf kecil: suku Dayak, bahasa Indonesia.",
+    "difficulty": 2,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0002",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Penulisan di dan ke yang sesuai dengan kaidah terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Petugas itu dipindahkan ke bagian keuangan sejak bulan lalu.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Berkas yang sudah di tandatangani harap disimpan di lemari arsip.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kami belum tahu dimana dokumen itu disimpan.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Setelah rapat, para peserta langsung pergi kekantin.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pegawai baru itu belum ke luar dari ruangannya sejak pagi.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Di- dan ke- sebagai awalan ditulis serangkai (dipindahkan, ditandatangani), sedangkan di dan ke sebagai kata depan ditulis terpisah (ke bagian, di mana, ke kantin). Keluar yang berarti lawan masuk ditulis serangkai.",
+    "difficulty": 2,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0003",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Kalimat yang penggunaan tanda bacanya tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Petugas mengalihkan arus kendaraan, karena jalan utama ditutup.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ia sudah berusaha keras tetapi hasilnya belum memuaskan.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Oleh karena itu kita harus menjaga persatuan bangsa.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Karena jalan utama ditutup, petugas mengalihkan arus kendaraan.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kantor itu membutuhkan: printer, kertas, dan tinta.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Koma dipakai setelah anak kalimat yang mendahului induk kalimat, tetapi tidak dipakai bila induk kalimat di depan. Koma juga dipakai sebelum tetapi dan setelah oleh karena itu, sedangkan titik dua tidak dipakai bila perincian menjadi pelengkap kalimat.",
+    "difficulty": 2,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0004",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Penulisan gabungan kata yang tepat terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Panitia segera menindak lanjuti usulan warga.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kedua instansi itu sepakat bekerja sama dalam pendataan penduduk.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Setiap bendahara wajib mempertanggung jawabkan penggunaan anggaran.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dinas itu menyebar luaskan informasi jadwal vaksinasi.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kerjasama antar instansi perlu terus ditingkatkan.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gabungan kata yang hanya mendapat awalan atau akhiran tetap ditulis terpisah (bekerja sama), tetapi ditulis serangkai bila mendapat awalan dan akhiran sekaligus (menindaklanjuti, mempertanggungjawabkan, menyebarluaskan). Kerja sama ditulis terpisah, sedangkan antar- ditulis serangkai: antarinstansi.",
+    "difficulty": 2,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0005",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Penulisan bentuk terikat yang sesuai dengan EYD terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bus antar kota itu berangkat pukul 07.00.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kakaknya sedang menempuh pendidikan pasca sarjana.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kegiatan itu juga terbuka bagi warga non Indonesia.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rapat itu dihadiri seluruh kepala sub bagian.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pejabat itu dinonaktifkan sementara.",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bentuk terikat seperti antar-, pasca-, non-, dan sub- ditulis serangkai dengan kata yang mengikutinya (antarkota, pascasarjana, nonaktif, subbagian). Tanda hubung dipakai bila bentuk dasarnya diawali huruf kapital, seperti non-Indonesia.",
+    "difficulty": 1,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0006",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Ejaan Bahasa Indonesia yang Disempurnakan Edisi V (2022) menggantikan PUEBI. Salah satu hal yang ditambahkan dalam EYD Edisi V adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "diftong ei, seperti pada kata survei",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "penggantian oe menjadi u, seperti pada kata oemoem",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "monoftong eu, seperti pada kata seudati",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penggantian dj menjadi j, seperti pada kata djalan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "penggantian ch menjadi kh, seperti pada kata chusus",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "EYD Edisi V menambahkan monoftong eu (seudati), sedangkan diftong ei sudah ditambahkan pada PUEBI 2015. Penggantian oe menjadi u terjadi pada Ejaan Republik 1947, sedangkan dj menjadi j dan ch menjadi kh pada EYD 1972.",
+    "difficulty": 3,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0007",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Penulisan partikel pun yang tepat terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Siapa pun boleh mengikuti lomba itu.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Apapun hasilnya, kita wajib menerimanya.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Walau pun hujan, upacara tetap berlangsung.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kalau pun ditunda, rapat akan digelar pekan depan.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bagaimana pun juga, keputusan itu sudah final.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Partikel pun ditulis terpisah dari kata yang mendahuluinya (siapa pun, apa pun), kecuali pada bentuk yang sudah padu seperti walaupun, kalaupun, dan bagaimanapun.",
+    "difficulty": 1,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-ejaan-0008",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "ejaan",
+    "stem": "Kalimat yang penulisan huruf kapitalnya TIDAK tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kapal feri itu menyeberangi Selat Bali setiap jam.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Nelayan itu menyusuri sungai di belakang desanya.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "\"Apakah Ibu sudah menerima undangan rapat?\" tanya sekretaris itu.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Nenek merebus kacang Bogor untuk camilan sore.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ia berdoa agar Tuhan melimpahkan rahmat-Nya.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nama geografi yang dipakai sebagai nama jenis ditulis dengan huruf kecil, seperti kacang bogor dan pisang ambon. Nama diri geografi (Selat Bali), kata sapaan (Ibu), dan kata ganti Tuhan (-Nya) tetap ditulis kapital.",
+    "difficulty": 3,
+    "source": "EYD Edisi V (Keputusan Kepala Badan Bahasa No. 0424/I/BS.00.01/2022)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0001",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Kalimat yang seluruh katanya baku adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Petugas menghimbau warga agar antri dengan tertib.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Petugas mengimbau warga agar antri dengan tertib.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Petugas menghimbau warga agar antre dengan tertib.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Petugas mengimbau warga agar mengantri dengan tertip.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Petugas mengimbau warga agar antre dengan tertib.",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bentuk baku menurut KBBI adalah imbau (mengimbau), antre (mengantre), dan tertib; himbau, antri, dan tertip tidak baku.",
+    "difficulty": 1,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0002",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Perbaikan yang tepat untuk kata tidak baku dalam kalimat \"Berkas pemohon sudah dianalisa secara seksama oleh tim verifikasi.\" adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "dianalisis secara seksama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "dianalisis secara saksama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "dianalisa secara saksama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "dianalisiskan secara saksama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "diteliti secara seksama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bentuk baku adalah analisis (dianalisis) dan saksama; analisa dan seksama tidak baku. Dianalisiskan tidak tepat karena verba pasifnya cukup dibentuk dengan awalan di-.",
+    "difficulty": 2,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0003",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Kata berikut yang merupakan bentuk baku adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "praktek",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "resiko",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "nasehat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hakikat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "sistim",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hakikat adalah bentuk baku menurut KBBI. Bentuk baku kata lainnya adalah praktik, risiko, nasihat, dan sistem.",
+    "difficulty": 1,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0004",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Pasangan kata dengan susunan \"baku - tidak baku\" yang benar adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ijazah - ijasah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "apotik - apotek",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "karir - karier",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "detil - detail",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "ekstrim - ekstrem",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bentuk baku menurut KBBI adalah ijazah, apotek, karier, detail, dan ekstrem. Hanya pilihan A yang menempatkan bentuk baku di depan.",
+    "difficulty": 1,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0005",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Kata tidak baku dalam kalimat \"Para atlet andal itu harus merubah pola latihan karena cuaca ekstrem.\" adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "atlet",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "andal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "merubah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "ekstrem",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "latihan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bentuk baku adalah mengubah karena kata dasarnya ubah; merubah tidak baku. Atlet, andal, dan ekstrem sudah baku (bukan atlit, handal, ekstrim).",
+    "difficulty": 2,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0006",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Kata berimbuhan berikut yang ditulis dalam bentuk baku adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "mengkonsumsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "mengimbau",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "mempraktekkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "menganalisa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "mensosialisasikan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mengimbau dibentuk dari imbau. Bentuk baku kata lainnya adalah mengonsumsi dan menyosialisasikan (k dan s luluh setelah meN-), mempraktikkan, serta menganalisis.",
+    "difficulty": 3,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kata_baku-0007",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kata_baku",
+    "stem": "Penggunaan kata baku yang tepat terdapat pada kalimat...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pemerintah daerah melunasi hutang kepada kontraktor.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rapat itu sekedar membahas jadwal piket.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Warga diminta mewaspadai resiko banjir.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ia meminta ijin untuk tidak masuk kerja.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Petugas memberi nasihat kepada pemohon izin.",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nasihat dan izin adalah bentuk baku. Bentuk baku kata pada kalimat lain adalah utang, sekadar, risiko, dan izin (bukan hutang, sekedar, resiko, dan ijin).",
+    "difficulty": 2,
+    "source": "KBBI daring (kbbi.kemdikbud.go.id)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kalimat_efektif-0001",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kalimat_efektif",
+    "stem": "Kalimat berikut yang efektif adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Para tamu-tamu undangan dimohon menempati kursi yang tersedia.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Petugas memeriksa berkas pemohon satu per satu.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sejak dari pagi petugas sudah berjaga di pos.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Banyak warga-warga yang datang ke kantor desa.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ia mundur ke belakang agar supaya tidak terkena percikan air.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kalimat B hemat dan tidak mengandung pleonasme. Kalimat lain boros: para dengan bentuk ulang tamu-tamu, sejak dari, banyak dengan warga-warga, serta mundur ke belakang dan agar supaya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kalimat_efektif-0002",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kalimat_efektif",
+    "stem": "Kalimat yang memenuhi syarat keparalelan adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tugas bagian umum meliputi pengadaan, penyimpanan, dan mendistribusikan barang.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Lomba itu dinilai dari kerapian, kekompakan, dan seberapa cepat peserta berbaris.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kegiatan itu bertujuan mendata, memverifikasi, dan penyaluran bantuan sosial.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Petugas loket bertugas menerima, memeriksa, dan mengarsipkan berkas.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pelatihan mencakup pengenalan aplikasi, praktik langsung, dan mengevaluasi hasil.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Unsur yang dirinci dalam satu kalimat harus sejenis bentuknya. Pada D ketiganya verba (menerima, memeriksa, mengarsipkan), sedangkan pilihan lain mencampur nomina, verba, atau klausa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kalimat_efektif-0003",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kalimat_efektif",
+    "stem": "Kalimat yang subjeknya jelas sehingga tergolong efektif adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rapat itu membahas rencana anggaran tahun depan.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dalam rapat itu membahas rencana anggaran tahun depan.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kepada peserta yang belum mendaftar diharap segera menghubungi panitia.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menurut kepala dinas mengatakan bahwa jalan itu segera diperbaiki.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Di kantor kecamatan menyediakan layanan perekaman KTP-el.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kata depan seperti dalam, kepada, menurut, dan di pada awal kalimat membuat subjek hilang. Kalimat A efektif karena subjeknya (rapat itu) tidak didahului kata depan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kalimat_efektif-0004",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kalimat_efektif",
+    "stem": "Kalimat \"Rancangan peraturan itu kami sudah membahasnya kemarin.\" tidak efektif. Perbaikan yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rancangan peraturan itu kami sudah bahas kemarin.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rancangan peraturan itu sudah kami membahasnya kemarin.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rancangan peraturan itu telah dibahas oleh kami kemarin.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kami sudah membahasnya rancangan peraturan itu kemarin.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rancangan peraturan itu sudah kami bahas kemarin.",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pada pasif dengan pelaku persona (kami), keterangan aspek diletakkan sebelum pelaku dan verbanya tanpa awalan: sudah kami bahas. Bentuk dibahas oleh kami tidak baku karena pasif di- dipakai untuk pelaku orang ketiga.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-kalimat_efektif-0005",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "kalimat_efektif",
+    "stem": "Kalimat \"Sepeda motor pegawai baru itu hilang di tempat parkir.\" bermakna ganda. Perbaikan yang menegaskan bahwa yang baru adalah sepeda motornya adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sepeda motor milik pegawai baru itu hilang di tempat parkir.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sepeda motor pegawai yang baru itu hilang di tempat parkir.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sepeda motor baru milik pegawai itu hilang di tempat parkir.",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pegawai baru itu kehilangan sepeda motornya di tempat parkir.",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sepeda motor pegawai itu baru hilang di tempat parkir.",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Agar tidak ambigu, kata baru harus diletakkan langsung setelah kata yang diterangkannya: sepeda motor baru milik pegawai itu. Pilihan lain tetap ambigu, menerangkan pegawainya, atau mengubah makna menjadi baru saja hilang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-paragraf-0001",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "paragraf",
+    "stem": "(1) Mal pelayanan publik memudahkan warga mengurus berbagai keperluan administrasi di satu tempat. (2) Warga dapat membuat paspor, mengurus izin usaha, dan membayar pajak tanpa berpindah gedung. (3) Waktu tunggu pun lebih singkat karena antrean diatur dengan nomor antrean daring. (4) Biaya transportasi warga juga berkurang karena mereka tidak perlu mendatangi banyak kantor.\n\nIde pokok paragraf tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Warga dapat membuat paspor di mal pelayanan publik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Antrean di mal pelayanan publik diatur secara daring",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Biaya transportasi warga berkurang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Warga tidak perlu berpindah gedung untuk membayar pajak daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kemudahan mengurus administrasi di mal pelayanan publik",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kalimat (1) adalah kalimat utama karena paling umum, sedangkan kalimat (2) sampai (4) berisi rincian. Jadi ide pokoknya kemudahan mengurus administrasi di mal pelayanan publik (paragraf deduktif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-paragraf-0002",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "paragraf",
+    "stem": "(1) Di Desa Sukamaju, warga bergiliran menjaga pos ronda tanpa memandang agama dan suku. (2) Ketika ada warga yang sakit, tetangga dari berbagai latar belakang datang menjenguk dan membantu biaya pengobatan. (3) Perayaan hari besar keagamaan pun dihadiri warga lintas iman sebagai tamu. (4) Kerukunan warga Desa Sukamaju tumbuh dari kebiasaan saling membantu dalam kehidupan sehari-hari.\n\nKalimat utama paragraf tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kalimat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kalimat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kalimat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kalimat (4)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "kalimat (1) dan (3)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kalimat (4) paling umum dan merangkum contoh pada kalimat (1) sampai (3), sehingga paragraf ini induktif. Kalimat (1) hanya salah satu contoh kerukunan, bukan gagasan utama.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-paragraf-0003",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "paragraf",
+    "stem": "(1) Sejak Januari, dinas kependudukan di sebuah kota membuka layanan pengurusan akta kelahiran secara daring. (2) Dalam tiga bulan, jumlah warga yang datang langsung ke kantor dinas turun hampir separuh. (3) Pada periode yang sama, jumlah akta kelahiran yang diterbitkan setiap bulan justru lebih banyak daripada tahun sebelumnya.\n\nSimpulan yang tepat dari paragraf tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Layanan daring mengurangi kunjungan tanpa mengurangi akta yang terbit",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua warga kota itu kini lebih memilih mengurus dokumen secara daring",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Layanan tatap muka untuk akta kelahiran di kota itu sudah dihentikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Angka kelahiran di kota itu meningkat tajam sejak bulan Januari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jumlah pegawai dinas kependudukan di kota itu berkurang hampir separuh",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kunjungan langsung turun, tetapi jumlah akta yang terbit naik; simpulan A sesuai dengan kedua fakta itu. Pilihan lain menggeneralisasi berlebihan atau menyebut hal yang tidak ada dalam paragraf.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-paragraf-0004",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "paragraf",
+    "stem": "(1) Bahasa Indonesia berperan sebagai alat pemersatu bangsa yang terdiri atas ratusan suku. (2) Bahasa Inggris banyak dipelajari karena dibutuhkan dalam dunia kerja internasional. (3) Penutur bahasa daerah yang berbeda dapat saling memahami ketika berkomunikasi dalam bahasa Indonesia. (4) Karena itu, perantau dari berbagai daerah dapat bergaul dan bekerja sama di kota mana pun.\n\nKalimat yang tidak padu (sumbang) dalam paragraf tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kalimat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kalimat (2)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kalimat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kalimat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "tidak ada kalimat sumbang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Paragraf membahas bahasa Indonesia sebagai alat pemersatu, sedangkan kalimat (2) membahas bahasa Inggris untuk dunia kerja internasional sehingga keluar dari gagasan utama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bahasa_negara-paragraf-0005",
+    "subtest": "TWK",
+    "group": "bahasa_negara",
+    "tag": "paragraf",
+    "stem": "(1) Keterbukaan informasi membuat warga dapat ikut mengawasi penggunaan dana desa. (2) Rincian penggunaan dana desa kini dipasang pada papan informasi di depan balai desa. (3) Balai desa itu dibangun dua tahun lalu secara gotong royong oleh warga. (4) Warga juga dapat mengunduh laporan realisasi anggaran desa melalui laman resmi desa.\n\nKalimat sumbang dalam paragraf tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kalimat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kalimat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kalimat (3)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kalimat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "tidak ada kalimat sumbang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Gagasan utama paragraf adalah keterbukaan informasi dana desa. Kalimat (3) hanya menyambung kata balai desa dan membahas sejarah pembangunannya, sehingga tidak mendukung gagasan utama.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

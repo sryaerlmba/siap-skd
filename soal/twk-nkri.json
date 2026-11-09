@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "twk-pilar_negara-nkri-0001",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Menurut Pasal 1 ayat (1) UUD NRI 1945, bentuk negara dan bentuk pemerintahan Indonesia secara berurutan adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Federal dan republik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kesatuan dan monarki konstitusional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kesatuan dan republik",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Republik dan presidensial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kesatuan dan presidensial",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 1 ayat (1) menyatakan Negara Indonesia ialah Negara Kesatuan yang berbentuk Republik. Presidensial adalah sistem pemerintahan, bukan bentuk negara atau bentuk pemerintahan.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 1 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0002",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Ciri yang membedakan negara kesatuan seperti Indonesia dari negara federal adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Setiap daerah memiliki undang-undang dasar sendiri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kedaulatan dibagi antara pemerintah pusat dan negara bagian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kepala negara dipilih oleh perwakilan negara bagian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Daerah memegang kewenangan sisa di luar yang diserahkan kepada pusat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kewenangan daerah berasal dari penyerahan oleh pemerintah pusat",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam negara kesatuan kedaulatan hanya ada pada pemerintah pusat, dan daerah memperoleh kewenangan karena diserahkan pusat melalui desentralisasi. Konstitusi negara bagian, pembagian kedaulatan, dan kewenangan sisa pada daerah adalah ciri negara federal.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 1 ayat (1) dan Pasal 18",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0003",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Berikut ini ciri sistem pemerintahan presidensial yang dianut UUD NRI 1945, kecuali...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Presiden menjabat sebagai kepala negara sekaligus kepala pemerintahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menteri diangkat dan diberhentikan oleh Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Presiden memiliki masa jabatan yang pasti",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menteri bertanggung jawab kepada DPR",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Presiden tidak dapat membekukan atau membubarkan DPR",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam sistem presidensial menteri adalah pembantu Presiden dan bertanggung jawab kepada Presiden (Pasal 17). Pertanggungjawaban menteri kepada parlemen adalah ciri sistem parlementer.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 4 ayat (1), Pasal 7, Pasal 7C, dan Pasal 17",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0004",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sejumlah fraksi di DPR kecewa terhadap kinerja kabinet dan mengusulkan mosi tidak percaya agar seluruh menteri diganti. Menurut sistem pemerintahan Indonesia, usulan tersebut...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sah, karena DPR memegang fungsi pengawasan terhadap jalannya pemerintahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sah, asalkan disetujui dua pertiga anggota DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Harus diputus terlebih dahulu oleh Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak dikenal, karena menteri diangkat dan diberhentikan oleh Presiden",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Harus dibawa ke sidang MPR untuk diputuskan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam sistem presidensial menteri diangkat dan diberhentikan oleh Presiden, sehingga DPR tidak dapat menjatuhkan kabinet lewat mosi tidak percaya. DPR mengawasi pemerintah melalui hak interpelasi, angket, dan menyatakan pendapat.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 17 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0005",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "DPR berulang kali menolak RUU yang diajukan pemerintah. Presiden kemudian berencana membubarkan DPR agar pemilu legislatif dipercepat. Rencana tersebut...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dapat dilakukan dengan persetujuan MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak dapat dilakukan karena dilarang UUD NRI 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dapat dilakukan setelah ada putusan Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dapat dilakukan dengan menerbitkan Perppu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dapat dilakukan bila didukung DPD",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7C menegaskan Presiden tidak dapat membekukan dan/atau membubarkan DPR. Ketentuan ini menjaga keseimbangan kekuasaan dalam sistem presidensial.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 7C",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0006",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Menurut UUD NRI 1945 hasil perubahan, keanggotaan MPR terdiri atas...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Anggota DPR, utusan daerah, dan utusan golongan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Anggota DPR, anggota DPD, dan anggota DPRD provinsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Anggota DPD dan utusan golongan yang diangkat oleh Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Anggota DPR dan wakil partai politik yang ditunjuk",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Anggota DPR dan anggota DPD yang dipilih melalui pemilu",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sejak Perubahan Keempat, MPR terdiri atas anggota DPR dan anggota DPD yang dipilih melalui pemilu. Utusan daerah dan utusan golongan adalah susunan MPR sebelum perubahan.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 2 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0007",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "MPR periode 2024-2029 beranggotakan 732 orang. Agar usul perubahan pasal UUD NRI 1945 dapat diagendakan dalam sidang MPR, usul itu harus diajukan oleh sekurang-kurangnya...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "183 anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "244 anggota",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "367 anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "488 anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "549 anggota",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 37 ayat (1) mensyaratkan usul diajukan sedikitnya 1/3 jumlah anggota MPR, yaitu 732 : 3 = 244. Angka 488 (2/3) adalah syarat kehadiran sidang, sedangkan 367 (50% + 1) adalah syarat putusan.",
+    "difficulty": 3,
+    "source": "UUD NRI 1945 Pasal 37 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0008",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Jumlah anggota DPR hasil Pemilu 2024 untuk periode 2024-2029 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "560 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "575 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "580 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "600 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "732 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kursi DPR bertambah dari 575 menjadi 580 setelah pembentukan provinsi baru di Papua. Angka 732 adalah jumlah anggota MPR, yaitu 580 anggota DPR ditambah 152 anggota DPD.",
+    "difficulty": 1,
+    "source": "UU 7/2017 Pasal 186 sebagaimana diubah Perppu 1/2022 (ditetapkan dengan UU 7/2023)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0009",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "DPR menduga pelaksanaan sebuah undang-undang oleh pemerintah menyimpang dari peraturan perundang-undangan dan berdampak luas bagi masyarakat. DPR lalu memutuskan melakukan penyelidikan. Hak yang digunakan DPR adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hak angket",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hak interpelasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Hak menyatakan pendapat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Hak imunitas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Hak mengajukan pertanyaan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hak angket adalah hak DPR menyelidiki pelaksanaan UU atau kebijakan pemerintah yang penting, strategis, berdampak luas, dan diduga bertentangan dengan peraturan. Hak interpelasi hanya meminta keterangan kepada pemerintah.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 20A ayat (2); UU 17/2014 Pasal 79 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0010",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Jumlah anggota DPD hasil Pemilu 2024 untuk periode 2024-2029 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "128 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "132 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "136 orang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "152 orang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "193 orang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setiap provinsi diwakili 4 anggota DPD, sehingga 38 provinsi menghasilkan 152 anggota. Angka 136 adalah jumlah periode 2019-2024 ketika provinsi masih 34.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 22C ayat (2); UU 7/2017 Pasal 196",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0011",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah RUU tentang pembentukan kabupaten baru hasil pemekaran sedang dipersiapkan. Selain DPR dan Presiden, lembaga negara yang berwenang mengajukan RUU tersebut kepada DPR adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kementerian Dalam Negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "DPRD provinsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPD",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "DPD dapat mengajukan kepada DPR RUU yang berkaitan dengan otonomi daerah, hubungan pusat dan daerah, serta pembentukan, pemekaran, dan penggabungan daerah. Kementerian Dalam Negeri adalah bagian dari pemerintah, bukan pengusul tersendiri.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 22D ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0012",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "DPR dan Presiden membahas RUU tentang sistem pendidikan nasional. Menurut Pasal 22D UUD NRI 1945, peran DPD terhadap RUU ini adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut membahas bersama DPR dan Presiden sampai tahap persetujuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menyetujui RUU bersama DPR sebelum disahkan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Memberikan pertimbangan kepada DPR",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak memiliki peran apa pun dalam RUU tersebut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengesahkan RUU bila DPR dan Presiden tidak sepakat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Untuk RUU APBN dan RUU yang berkaitan dengan pajak, pendidikan, dan agama, DPD memberikan pertimbangan kepada DPR. Hak ikut membahas hanya berlaku untuk RUU yang berkaitan dengan otonomi daerah dan hubungan pusat-daerah.",
+    "difficulty": 3,
+    "source": "UUD NRI 1945 Pasal 22D ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0013",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Seorang Presiden telah menjabat selama dua periode penuh. Partai pendukungnya ingin mencalonkannya kembali sebagai Presiden pada pemilu berikutnya. Menurut UUD NRI 1945, pencalonan tersebut...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dapat dilakukan bila disetujui MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dapat dilakukan karena masa jabatan Presiden tidak dibatasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dapat dilakukan bila mendapat dukungan DPD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak dapat dilakukan karena batasnya dua periode",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dapat dilakukan bila diusulkan gabungan partai politik",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7: Presiden memegang jabatan lima tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabatan. Jadi dua periode adalah batas maksimal.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 7",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0014",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Dalam pemilu presiden yang diikuti tiga pasangan calon, pasangan X meraih 54% suara nasional dan memperoleh sedikitnya 20% suara di 19 dari 38 provinsi. Berdasarkan Pasal 6A UUD NRI 1945, status pasangan X adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Terpilih, karena meraih lebih dari 50% suara nasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Terpilih, karena memenuhi syarat 20% di setengah jumlah provinsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Belum terpilih; MPR memilih di antara dua pasangan teratas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Terpilih, setelah hasilnya disahkan oleh Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Belum terpilih; dua pasangan teratas dipilih ulang oleh rakyat",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 6A ayat (3) mensyaratkan lebih dari 50% suara nasional dan sedikitnya 20% suara di lebih dari separuh provinsi; 19 dari 38 baru tepat separuh. Karena syarat itu tidak terpenuhi, dua pasangan teratas dipilih ulang langsung oleh rakyat (ayat 4).",
+    "difficulty": 3,
+    "source": "UUD NRI 1945 Pasal 6A ayat (3) dan (4)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0015",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Presiden hendak mengangkat seorang diplomat karier menjadi duta besar untuk sebuah negara sahabat. Menurut UUD NRI 1945, dalam pengangkatan tersebut Presiden harus memperhatikan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Persetujuan DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pertimbangan DPD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pertimbangan DPR",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Persetujuan MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pertimbangan Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 13 ayat (2): dalam mengangkat duta, Presiden memperhatikan pertimbangan DPR. Bentuknya pertimbangan, bukan persetujuan seperti pada pernyataan perang atau perjanjian internasional.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 13 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0016",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Seorang terpidana mati mengajukan permohonan grasi kepada Presiden. Sebelum memutuskan, Presiden wajib memperhatikan pertimbangan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Komisi Yudisial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mahkamah Agung",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jaksa Agung",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Grasi dan rehabilitasi diberikan Presiden dengan memperhatikan pertimbangan Mahkamah Agung. Pertimbangan DPR diperlukan untuk amnesti dan abolisi (Pasal 14 ayat 2).",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 14 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0017",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Berikut ini wewenang Mahkamah Konstitusi menurut Pasal 24C UUD NRI 1945, kecuali...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menguji undang-undang terhadap UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menguji peraturan pemerintah terhadap undang-undang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Memutus pembubaran partai politik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memutus sengketa kewenangan lembaga negara yang kewenangannya diberikan UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memutus perselisihan tentang hasil pemilihan umum",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menguji peraturan di bawah UU, termasuk peraturan pemerintah, terhadap UU adalah wewenang Mahkamah Agung (Pasal 24A ayat 1). Empat opsi lainnya adalah wewenang MK.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 24C ayat (1) dan Pasal 24A ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0018",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sekelompok warga merasa hak konstitusionalnya dirugikan oleh berlakunya sebuah undang-undang dan ingin menguji undang-undang itu terhadap UUD NRI 1945. Permohonan diajukan ke...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mahkamah Konstitusi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Komisi Yudisial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPR",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengujian UU terhadap UUD adalah wewenang MK, dan putusannya bersifat final. Mahkamah Agung menguji peraturan di bawah UU terhadap UU.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 Pasal 24C ayat (1); UU 12/2011 Pasal 9 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0019",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah asosiasi pengusaha menilai satu pasal dalam Peraturan Presiden bertentangan dengan undang-undang yang lebih tinggi. Permohonan pengujian peraturan tersebut diajukan ke...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pengadilan Tata Usaha Negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mahkamah Agung",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "DPR melalui hak angket",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kementerian Hukum",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Peraturan di bawah UU yang diduga bertentangan dengan UU diuji oleh Mahkamah Agung. MK hanya menguji UU terhadap UUD.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 24A ayat (1); UU 12/2011 Pasal 9 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0020",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah partai politik keberatan atas penetapan hasil perolehan suara Pemilu DPR secara nasional oleh KPU karena merasa kehilangan kursi. Perselisihan hasil pemilu tersebut diajukan ke...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bawaslu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pengadilan Tata Usaha Negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dewan Kehormatan Penyelenggara Pemilu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mahkamah Konstitusi",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perselisihan tentang hasil pemilu diputus MK pada tingkat pertama dan terakhir. Bawaslu menangani pelanggaran dan sengketa proses, sedangkan DKPP menangani pelanggaran etik penyelenggara.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 24C ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0021",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Seorang hakim konstitusi yang dahulu diajukan oleh DPR berhenti karena telah mencapai batas usia. Menurut UUD NRI 1945, pengisian kursi yang kosong itu dilakukan dengan cara...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diajukan Presiden, ditetapkan MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Diajukan Mahkamah Agung, ditetapkan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Diajukan DPR, ditetapkan Presiden",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Diajukan DPR, ditetapkan Ketua Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Diajukan Komisi Yudisial, ditetapkan DPR",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sembilan hakim konstitusi diajukan masing-masing tiga orang oleh MA, DPR, dan Presiden, lalu ditetapkan oleh Presiden. Karena kursi itu berasal dari DPR, penggantinya diajukan DPR.",
+    "difficulty": 3,
+    "source": "UUD NRI 1945 Pasal 24C ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0022",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Presiden hendak mengangkat anggota Komisi Yudisial yang baru. Menurut UUD NRI 1945, pengangkatan tersebut dilakukan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dengan memperhatikan pertimbangan DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Atas usul Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dengan memperhatikan pertimbangan DPD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Atas usul Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dengan persetujuan DPR",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24B ayat (3): anggota KY diangkat dan diberhentikan oleh Presiden dengan persetujuan DPR. Ini berbeda dengan pengangkatan duta yang cukup memperhatikan pertimbangan DPR.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 24B ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0023",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Pasangan lembaga negara dan jumlah anggotanya yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mahkamah Konstitusi: 7 hakim konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Badan Pemeriksa Keuangan: 7 anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "DPD periode 2024-2029: 136 anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Komisi Yudisial: 7 anggota",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPR periode 2024-2029: 575 anggota",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Komisi Yudisial beranggotakan 7 orang. MK memiliki 9 hakim, BPK 9 anggota, DPD periode 2024-2029 berjumlah 152, dan DPR periode 2024-2029 berjumlah 580.",
+    "difficulty": 3,
+    "source": "UU 22/2004 jo. UU 18/2011 tentang Komisi Yudisial Pasal 6; UUD NRI 1945 Pasal 24C ayat (3); UU 15/2006 Pasal 4",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0024",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Masa jabatan sejumlah anggota BPK segera berakhir dan DPR akan memilih penggantinya. Menurut UUD NRI 1945, dalam memilih anggota BPK, DPR harus memperhatikan pertimbangan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "DPD",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Komisi Yudisial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menteri Keuangan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 23F ayat (1): anggota BPK dipilih oleh DPR dengan memperhatikan pertimbangan DPD dan diresmikan oleh Presiden.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Pasal 23F ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0025",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Jumlah anggota BPK dan masa jabatannya menurut UU 15/2006 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "7 orang; 5 tahun, dapat dipilih kembali untuk satu kali masa jabatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "9 orang; 4 tahun, dapat dipilih kembali untuk satu kali masa jabatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "9 orang; 5 tahun, dapat dipilih kembali untuk satu kali masa jabatan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "9 orang; 5 tahun, dapat dipilih kembali tanpa batas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "11 orang; 5 tahun, dapat dipilih kembali untuk satu kali masa jabatan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "BPK beranggotakan 9 orang dengan masa jabatan 5 tahun dan dapat dipilih kembali untuk satu kali masa jabatan.",
+    "difficulty": 2,
+    "source": "UU 15/2006 tentang Badan Pemeriksa Keuangan Pasal 4 dan Pasal 5",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0026",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Dewan Pertimbangan Agung (DPA) dihapus dari UUD NRI 1945 melalui...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Perubahan Pertama tahun 1999",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Perubahan Kedua tahun 2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perubahan Ketiga tahun 2001",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Perubahan Keempat tahun 2002",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dekrit Presiden tanggal 5 Juli 1959",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perubahan Keempat menghapus Bab IV tentang DPA. Fungsi pemberian nasihat kepada Presiden kini dijalankan dewan pertimbangan yang dibentuk Presiden berdasarkan Pasal 16.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 Perubahan Keempat (2002), Bab IV dan Pasal 16",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0027",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Menurut UU 23/2014, penyerahan urusan pemerintahan oleh Pemerintah Pusat kepada daerah otonom berdasarkan asas otonomi disebut...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dekonsentrasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tugas pembantuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Desentralisasi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Otonomi khusus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Delegasi wewenang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Desentralisasi adalah penyerahan urusan pemerintahan oleh pusat kepada daerah otonom. Dekonsentrasi adalah pelimpahan, sedangkan tugas pembantuan adalah penugasan.",
+    "difficulty": 1,
+    "source": "UU 23/2014 Pasal 1 angka 8",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0028",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah kementerian menugaskan pemerintah kabupaten melaksanakan sebagian program yang menjadi kewenangan pemerintah pusat. Dananya berasal dari APBN, dan kabupaten wajib melaporkan pelaksanaannya kepada kementerian tersebut. Asas yang dijalankan adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Desentralisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dekonsentrasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sentralisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Otonomi seluas-luasnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tugas pembantuan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tugas pembantuan adalah penugasan dari pusat kepada daerah otonom untuk melaksanakan sebagian urusan yang menjadi kewenangan pusat. Dekonsentrasi berbeda karena penerimanya gubernur sebagai wakil pusat atau instansi vertikal, bukan daerah otonom.",
+    "difficulty": 2,
+    "source": "UU 23/2014 Pasal 1 angka 11",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0029",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Urusan agama di daerah dijalankan oleh kantor wilayah kementerian yang berstatus instansi vertikal, bukan oleh pemerintah daerah. Menurut UU 23/2014, pelaksanaan urusan absolut melalui instansi vertikal seperti ini menggunakan asas...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dekonsentrasi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Desentralisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tugas pembantuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Otonomi khusus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Medebewind",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urusan absolut dilaksanakan sendiri oleh pusat atau dilimpahkan kepada instansi vertikal atau gubernur sebagai wakil pusat berdasarkan asas dekonsentrasi. Desentralisasi tidak mungkin karena urusan absolut tidak diserahkan kepada daerah.",
+    "difficulty": 3,
+    "source": "UU 23/2014 Pasal 10 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0030",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Berikut ini urusan pemerintahan absolut yang sepenuhnya menjadi kewenangan Pemerintah Pusat, kecuali...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kesehatan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Politik luar negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Yustisi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Agama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Moneter dan fiskal nasional",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urusan absolut meliputi politik luar negeri, pertahanan, keamanan, yustisi, moneter dan fiskal nasional, serta agama. Kesehatan adalah urusan konkuren wajib yang berkaitan dengan pelayanan dasar.",
+    "difficulty": 1,
+    "source": "UU 23/2014 Pasal 10 ayat (1) dan Pasal 12 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0031",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah provinsi kepulauan memprioritaskan pengembangan budidaya rumput laut sesuai potensi wilayahnya. Menurut UU 23/2014, bidang kelautan dan perikanan tergolong...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urusan absolut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Urusan konkuren wajib yang berkaitan dengan pelayanan dasar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Urusan konkuren wajib yang tidak berkaitan dengan pelayanan dasar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Urusan konkuren pilihan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Urusan pemerintahan umum",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kelautan dan perikanan termasuk urusan konkuren pilihan, yaitu urusan yang wajib diselenggarakan daerah sesuai potensi yang dimilikinya. Urusan pilihan lain antara lain pariwisata, pertanian, dan kehutanan.",
+    "difficulty": 2,
+    "source": "UU 23/2014 Pasal 12 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0032",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Bupati memimpin forum koordinasi untuk membina kerukunan antarumat beragama dan wawasan kebangsaan di wilayahnya. Menurut UU 23/2014, kegiatan ini termasuk...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Urusan absolut, karena berkaitan dengan agama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Urusan pemerintahan umum",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Urusan konkuren wajib yang berkaitan dengan pelayanan dasar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Urusan konkuren pilihan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tugas pembantuan dari pemerintah provinsi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pembinaan kerukunan antarumat beragama dan wawasan kebangsaan tercantum sebagai urusan pemerintahan umum, yaitu kewenangan Presiden yang dilaksanakan gubernur dan bupati/wali kota. Jadi tidak semua kegiatan yang menyentuh agama tergolong urusan absolut.",
+    "difficulty": 3,
+    "source": "UU 23/2014 Pasal 9 ayat (5) dan Pasal 25 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0033",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Deklarasi Djuanda yang menyatakan laut di antara pulau-pulau Indonesia sebagai bagian wilayah negara diumumkan pada...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "17 Agustus 1950",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "13 Desember 1957",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "13 Desember 1960",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "10 Desember 1982",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "31 Desember 1985",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Deklarasi Djuanda diumumkan 13 Desember 1957 oleh Perdana Menteri Djuanda Kartawidjaja dan dikukuhkan dengan UU 4/Prp/1960; tanggal itu kini diperingati sebagai Hari Nusantara. Tanggal 10 Desember 1982 adalah penandatanganan UNCLOS.",
+    "difficulty": 1,
+    "source": "Deklarasi Djuanda 13 Desember 1957; UU 4/Prp/1960 tentang Perairan Indonesia",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0034",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebelum Deklarasi Djuanda, lebar laut teritorial Indonesia mengikuti TZMKO 1939 peninggalan Hindia Belanda, yaitu...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 mil laut dari garis pantai tiap pulau",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "6 mil laut dari garis pantai tiap pulau",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "12 mil laut dari garis pangkal lurus kepulauan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "24 mil laut dari garis pangkal lurus kepulauan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "200 mil laut dari garis pangkal lurus kepulauan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "TZMKO 1939 menetapkan laut teritorial 3 mil dari garis pantai tiap pulau, sehingga laut di antara pulau menjadi laut bebas. Deklarasi Djuanda mengubahnya menjadi 12 mil dari garis pangkal lurus yang menghubungkan titik terluar.",
+    "difficulty": 2,
+    "source": "Territoriale Zee en Maritieme Kringen Ordonnantie (TZMKO) 1939",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0035",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Konvensi Hukum Laut PBB (UNCLOS) 1982 yang mengakui konsep negara kepulauan diratifikasi Indonesia dengan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "UU 17/1985",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "UU 5/1983",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "UU 4/Prp/1960",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "UU 6/1996",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UU 43/2008",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UNCLOS 1982 diratifikasi dengan UU 17/1985. UU 5/1983 mengatur ZEE Indonesia, UU 6/1996 mengatur perairan Indonesia, dan UU 43/2008 mengatur wilayah negara.",
+    "difficulty": 2,
+    "source": "UU 17/1985 tentang Pengesahan UNCLOS 1982",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0036",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Batas terluar Zona Ekonomi Eksklusif (ZEE) Indonesia diukur dari garis pangkal sejauh...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 mil laut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "12 mil laut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "24 mil laut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "100 mil laut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "200 mil laut",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "ZEE lebarnya 200 mil laut dari garis pangkal, dan di sana Indonesia memiliki hak berdaulat atas sumber daya alam, bukan kedaulatan penuh. Angka 12 mil untuk laut teritorial dan 24 mil untuk zona tambahan.",
+    "difficulty": 1,
+    "source": "UU 5/1983 Pasal 2; UNCLOS 1982 Pasal 57",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0037",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Aparat Indonesia mencegat kapal asing yang diduga menyelundupkan barang ilegal pada jarak 20 mil laut dari garis pangkal kepulauan, ke arah laut lepas. Posisi kapal tersebut berada di...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Laut teritorial, yang lebarnya sampai 12 mil dari garis pangkal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Zona tambahan, yang lebarnya sampai 24 mil dari garis pangkal",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perairan pedalaman, yang berada di sisi darat garis pangkal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Laut lepas, yang berada di luar yurisdiksi Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Perairan kepulauan, yang berada di sisi dalam garis pangkal",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Zona tambahan membentang sampai 24 mil dari garis pangkal, dan di sana Indonesia berwenang mencegah serta menindak pelanggaran bea cukai, fiskal, imigrasi, dan karantina. Laut teritorial hanya sampai 12 mil.",
+    "difficulty": 2,
+    "source": "UNCLOS 1982 Pasal 33; UU 17/1985",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0038",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah kapal tanker berbendera asing berlayar terus-menerus melintasi laut teritorial Indonesia tanpa berhenti dan tanpa melakukan kegiatan yang mengancam. Tindakan Indonesia yang sesuai dengan hukum laut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menangkap kapal karena memasuki wilayah kedaulatan Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mewajibkan kapal meminta izin Presiden terlebih dahulu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya karena kapal asing punya hak lintas damai",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memungut bea lintas atas setiap kapal asing yang melintas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengusir kapal karena laut teritorial tertutup bagi kapal asing",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kapal semua negara menikmati hak lintas damai melalui laut teritorial selama lintasannya tidak mengganggu kedamaian, ketertiban, atau keamanan negara pantai. Kedaulatan penuh atas laut teritorial tidak menghapus hak tersebut.",
+    "difficulty": 1,
+    "source": "UNCLOS 1982 Pasal 17; UU 6/1996 tentang Perairan Indonesia",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0039",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Provinsi yang dibentuk dengan UU 29/2022 dan menjadi provinsi ke-38 Indonesia adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Papua Selatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Papua Tengah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Papua Pegunungan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Papua Barat Daya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kalimantan Utara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Papua Barat Daya dibentuk dengan UU 29/2022 dari sebagian wilayah Papua Barat, dengan ibu kota Sorong. Papua Selatan, Papua Tengah, dan Papua Pegunungan dibentuk lebih dulu dengan UU 14, 15, dan 16 Tahun 2022.",
+    "difficulty": 2,
+    "source": "UU 29/2022 tentang Pembentukan Provinsi Papua Barat Daya",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0040",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Ibu kota Provinsi Papua Selatan yang dibentuk dengan UU 14/2022 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nabire",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Merauke",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sorong",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Wamena",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Manokwari",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ibu kota Papua Selatan adalah Merauke. Nabire adalah ibu kota Papua Tengah, Wamena (Jayawijaya) ibu kota Papua Pegunungan, Sorong ibu kota Papua Barat Daya, dan Manokwari ibu kota Papua Barat.",
+    "difficulty": 2,
+    "source": "UU 14/2022 tentang Pembentukan Provinsi Papua Selatan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0041",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Cara pandang dan sikap bangsa Indonesia mengenai diri dan lingkungannya dengan mengutamakan persatuan bangsa serta kesatuan wilayah disebut...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Wawasan Nusantara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ketahanan Nasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bhinneka Tunggal Ika",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sistem Pertahanan Rakyat Semesta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Politik luar negeri bebas aktif",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan Nusantara adalah cara pandang bangsa tentang diri dan lingkungannya yang mengutamakan persatuan bangsa dan kesatuan wilayah. Ketahanan Nasional adalah kondisi dinamis bangsa untuk menghadapi ancaman, bukan cara pandang.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0042",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Pemerintah menjalankan kebijakan agar harga BBM di daerah pedalaman Papua sama dengan harga di Pulau Jawa. Dalam konsep Wawasan Nusantara, kebijakan ini mencerminkan perwujudan kepulauan Nusantara sebagai satu kesatuan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Politik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ekonomi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sosial budaya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pertahanan dan keamanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ideologi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kesatuan ekonomi berarti kekayaan wilayah Nusantara menjadi milik bersama bangsa dan tingkat perkembangan ekonomi harus serasi di seluruh daerah. Pemerataan harga BBM adalah wujud keadilan ekonomi antardaerah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0043",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Konsep Wawasan Nusantara pertama kali dituangkan secara resmi dalam Garis-Garis Besar Haluan Negara melalui...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TAP MPRS XX/MPRS/1966",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TAP MPR IV/MPR/1973",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "TAP MPR II/MPR/1978",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "TAP MPR II/MPR/1998",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "TAP MPR I/MPR/2003",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Wawasan Nusantara pertama kali masuk GBHN melalui TAP MPR IV/MPR/1973. TAP MPR II/MPR/1978 adalah ketetapan tentang P4, sedangkan TAP MPR I/MPR/2003 meninjau status hukum TAP MPR terdahulu.",
+    "difficulty": 3,
+    "source": "TAP MPR IV/MPR/1973 tentang Garis-Garis Besar Haluan Negara",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0044",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Menurut UU 12/2011 Pasal 7 ayat (1), jenis peraturan yang kedudukannya tepat di bawah Undang-Undang/Perppu adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Peraturan Pemerintah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Peraturan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ketetapan MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Peraturan Daerah Provinsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Peraturan Menteri",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutannya: UUD NRI 1945, TAP MPR, UU/Perppu, Peraturan Pemerintah, Peraturan Presiden, Perda Provinsi, dan Perda Kabupaten/Kota. Peraturan Menteri tidak termasuk dalam hierarki Pasal 7, tetapi diakui melalui Pasal 8.",
+    "difficulty": 1,
+    "source": "UU 12/2011 Pasal 7 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0045",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Peraturan Daerah Provinsi dibentuk oleh...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gubernur saja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "DPRD Provinsi saja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "DPRD Provinsi bersama Menteri Dalam Negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Gubernur dengan pertimbangan DPD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPRD Provinsi bersama Gubernur",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perda Provinsi dibentuk oleh DPRD Provinsi dengan persetujuan bersama Gubernur. Pola yang sama berlaku untuk Perda Kabupaten/Kota antara DPRD dan bupati/wali kota.",
+    "difficulty": 1,
+    "source": "UU 12/2011 Pasal 1 angka 7",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0046",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Ketetapan MPR pernah tidak dicantumkan dalam hierarki peraturan perundang-undangan, lalu dicantumkan kembali tepat di bawah UUD NRI 1945. Peraturan yang mencantumkannya kembali adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "UU 12/2011",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TAP MPRS XX/MPRS/1966",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "TAP MPR III/MPR/2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "UU 10/2004",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UU 13/2022",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 10/2004 tidak mencantumkan TAP MPR dalam hierarki, lalu UU 12/2011 Pasal 7 ayat (1) mencantumkannya kembali di urutan kedua. TAP MPRS XX/1966 dan TAP MPR III/2000 sudah memuat TAP MPR sejak awal.",
+    "difficulty": 3,
+    "source": "UU 12/2011 Pasal 7 ayat (1); UU 10/2004 Pasal 7",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0047",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Dalam hierarki menurut UU 12/2011, Perppu ditempatkan sejajar dengan undang-undang. Alasannya adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Perppu dibentuk bersama oleh DPR dan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Materi muatannya sama dengan undang-undang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perppu selalu disahkan MPR sebelum berlaku",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Perppu hanya berlaku selama keadaan darurat militer",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Perppu ditetapkan atas usul Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 11 UU 12/2011 menyatakan materi muatan Perppu sama dengan materi muatan UU. Perppu ditetapkan Presiden sendiri dalam kegentingan yang memaksa, lalu harus dimintakan persetujuan DPR.",
+    "difficulty": 2,
+    "source": "UU 12/2011 Pasal 7 ayat (1) huruf c dan Pasal 11",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0048",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Metode omnibus dalam penyusunan peraturan perundang-undangan diberi dasar hukum secara tegas oleh...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "UU 10/2004",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "UU 12/2011",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "UU 15/2019",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "UU 13/2022",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UU 6/2023 tentang Cipta Kerja",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 13/2022, perubahan kedua UU 12/2011, menambahkan metode omnibus dan memperkuat partisipasi bermakna. UU 6/2023 tentang Cipta Kerja adalah contoh UU yang disusun dengan metode omnibus, bukan dasar hukumnya.",
+    "difficulty": 2,
+    "source": "UU 12/2011 Pasal 64 ayat (1a) dan (1b) sebagaimana ditambahkan UU 13/2022",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0049",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "DPRD kabupaten dan bupati menyusun rancangan perda tentang ketertiban umum yang mengancam pelanggarnya dengan pidana kurungan paling lama 1 tahun. Tidak ada undang-undang yang memberi batas lain untuk perda tersebut. Ketentuan pidana itu...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sah, karena perda boleh memuat pidana tanpa batas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak sah, karena perda sama sekali tidak boleh memuat pidana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sah, asalkan disetujui gubernur sebagai wakil pusat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sah, bila ditetapkan dengan peraturan bupati",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Melampaui batas kurungan paling lama 6 bulan untuk perda",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perda boleh memuat ketentuan pidana, tetapi ancamannya paling lama kurungan 6 bulan atau denda paling banyak Rp50 juta, kecuali peraturan lain menentukan berbeda. Karena tidak ada ketentuan lain, ancaman kurungan 1 tahun melampaui batas.",
+    "difficulty": 2,
+    "source": "UU 12/2011 Pasal 15 ayat (1) dan (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-nkri-0050",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "nkri",
+    "stem": "Sebuah Peraturan Presiden yang terbit belakangan memuat ketentuan yang bertentangan dengan Peraturan Pemerintah. Ketentuan yang harus diikuti beserta asasnya adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Perpres, berdasarkan asas lex posterior derogat legi priori",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Perpres, berdasarkan asas lex specialis derogat legi generali",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "PP, berdasarkan asas lex superior derogat legi inferiori",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Keduanya berlaku karena sama-sama dibentuk Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak ada yang berlaku sampai DPR memutuskan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kekuatan hukum peraturan mengikuti hierarki (Pasal 7 ayat 2), dan PP berada di atas Perpres, sehingga PP yang diikuti. Asas lex posterior hanya dipakai untuk peraturan yang sederajat.",
+    "difficulty": 3,
+    "source": "UU 12/2011 Pasal 7 ayat (2)",
+    "status": "draft"
+  }
+]

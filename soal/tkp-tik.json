@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-tik-tik-0001",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf kepegawaian. Kantor mulai mewajibkan aplikasi e-kinerja untuk laporan harian. Seorang rekan senior yang dua tahun lagi pensiun menolak memakainya dan meminta Anda menginputkan laporannya setiap sore memakai akunnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak memakai akunnya dengan sopan, lalu mendampinginya beberapa sore sampai ia bisa menginput sendiri.",
+        "score": 5,
+        "rationale": "Menjaga keamanan akun sekaligus membantu rekan beradaptasi secara berkelanjutan."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan ia menunggu jadwal pelatihan resmi dari bagian kepegawaian dan sementara itu mencatat laporan hariannya di buku agar tidak ada yang terlewat.",
+        "score": 3,
+        "rationale": "Aman dan terdengar teratur, tetapi tidak membantu rekan beradaptasi sekarang."
+      },
+      {
+        "key": "C",
+        "text": "Menyanggupi karena kasihan, dengan syarat ia mengirimkan isi laporannya lewat pesan setiap sore.",
+        "score": 1,
+        "rationale": "Memakai akun orang lain melanggar keamanan akun dan membuat laporan kinerja tidak diinput pemiliknya."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kepada atasan bahwa rekan tersebut menolak memakai aplikasi agar ia mendapat arahan langsung.",
+        "score": 2,
+        "rationale": "Melempar masalah yang masih bisa dibantu sendiri dan berisiko merusak hubungan kerja."
+      },
+      {
+        "key": "E",
+        "text": "Menolak memakai akunnya dan menjelaskan dengan sopan bahwa setiap input tercatat atas nama pemilik akun.",
+        "score": 4,
+        "rationale": "Benar soal keamanan akun, tetapi tidak membantu rekan mengatasi kesulitannya."
+      }
+    ],
+    "explanation": "Aspek TIK menilai kesediaan memanfaatkan teknologi dan menularkan keterampilan digital (Adaptif, Kompeten: membantu orang lain belajar) tanpa mengorbankan keamanan akun (Akuntabel). Akun aplikasi bersifat pribadi karena setiap input tercatat atas nama pemiliknya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0002",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda petugas loket Disdukcapil. Pukul 09.00, saat antrean sedang ramai, aplikasi antrean daring tiba-tiba tidak bisa diakses dan warga mulai bertanya-tanya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu tim TI memperbaiki sistem sambil meminta warga bersabar di ruang tunggu.",
+        "score": 3,
+        "rationale": "Sopan, tetapi pasif karena layanan berhenti tanpa kepastian."
+      },
+      {
+        "key": "B",
+        "text": "Melapor ke tim TI, menjelaskan gangguan kepada warga, dan menjalankan antrean manual sesuai prosedur darurat.",
+        "score": 5,
+        "rationale": "Layanan tetap berjalan sesuai prosedur dan warga mendapat informasi yang jujur."
+      },
+      {
+        "key": "C",
+        "text": "Menutup loket sementara, memasang pengumuman bahwa layanan dihentikan karena gangguan sistem, dan meminta warga datang lagi besok pagi agar data tetap tercatat rapi di aplikasi.",
+        "score": 2,
+        "rationale": "Menghindari masalah dan merugikan warga yang sudah lama menunggu, padahal ada prosedur darurat."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan gangguan ke tim TI, lalu berkeliling ruang tunggu menjelaskan kepada setiap warga bahwa sistem sedang diperbaiki dan meminta mereka tetap menunggu panggilan.",
+        "score": 4,
+        "rationale": "Tepat dan informatif, tetapi belum ada solusi agar layanan tetap berjalan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada warga bahwa gangguan itu kesalahan tim TI, bukan petugas loket.",
+        "score": 1,
+        "rationale": "Melempar kesalahan dan tidak melayani warga."
+      }
+    ],
+    "explanation": "Saat sistem error, skor tertinggi diberikan pada tindakan yang menjaga layanan tetap berjalan lewat prosedur darurat, memberi informasi yang jujur, dan melapor ke pihak teknis (Berorientasi Pelayanan, Adaptif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0003",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf keuangan. Anda menerima email dari alamat yang mirip nama bank mitra, berisi lampiran file .zip berjudul 'Rekap Tagihan Mendesak' dan permintaan agar segera dibuka hari ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuka lampiran karena judulnya sesuai dengan pekerjaan Anda sehari-hari.",
+        "score": 1,
+        "rationale": "Berisiko menjalankan perangkat lunak berbahaya di komputer kantor."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan email itu ke rekan bagian keuangan lain untuk menanyakan apakah mereka juga menerimanya dan mengenali pengirimnya.",
+        "score": 2,
+        "rationale": "Ikut menyebarkan lampiran yang berpotensi berbahaya."
+      },
+      {
+        "key": "C",
+        "text": "Tidak membuka lampiran, mengonfirmasi ke bank lewat kontak resmi, dan melaporkannya ke tim TI.",
+        "score": 5,
+        "rationale": "Aman, terverifikasi lewat kanal resmi, dan ancaman dilaporkan."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus email tanpa membukanya dan mengosongkan folder sampah agar tidak terbuka tanpa sengaja.",
+        "score": 3,
+        "rationale": "Aman untuk diri sendiri, tetapi ancaman tidak dilaporkan sehingga rekan lain tetap berisiko."
+      },
+      {
+        "key": "E",
+        "text": "Tidak membuka lampiran dan melaporkan email itu ke tim TI.",
+        "score": 4,
+        "rationale": "Tepat, tetapi belum memverifikasi kebenaran tagihan ke pihak bank."
+      }
+    ],
+    "explanation": "Phishing dengan lampiran sering memanfaatkan rasa mendesak. Tindakan terbaik adalah tidak membuka, memverifikasi lewat kanal resmi, dan melapor ke tim TI (Akuntabel dalam menjaga perangkat dan data kantor).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0004",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda analis data di dinas sosial. Atasan meminta daftar 3.000 penerima bantuan dari puluhan file PDF diubah ke format lembar kerja hari ini. Situs konverter PDF daring gratis bisa menyelesaikannya dalam beberapa menit, sedangkan cara lain jauh lebih lama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengunggah semua file ke situs konverter gratis agar target hari ini tercapai.",
+        "score": 1,
+        "rationale": "Mengunggah data pribadi warga ke layanan tidak resmi berisiko kebocoran data."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan kepada atasan bahwa pekerjaan itu realistisnya baru selesai dalam tiga hari, disertai rincian jumlah file dan waktu pengerjaan per file.",
+        "score": 3,
+        "rationale": "Jujur soal kapasitas, tetapi tidak berupaya mencari cara aman yang lebih cepat."
+      },
+      {
+        "key": "C",
+        "text": "Mengunggah ke situs konverter hanya file yang kolom NIK-nya sudah dihapus terlebih dahulu.",
+        "score": 2,
+        "rationale": "Nama dan alamat penerima bantuan tetap terkirim ke pihak yang tidak jelas."
+      },
+      {
+        "key": "D",
+        "text": "Memakai fitur konversi di perangkat lunak resmi kantor dengan bantuan pranata komputer, lalu melaporkan perkiraan waktunya.",
+        "score": 5,
+        "rationale": "Efisien tanpa mengeluarkan data dari lingkungan resmi dan transparan kepada atasan."
+      },
+      {
+        "key": "E",
+        "text": "Membagi file kepada beberapa rekan untuk diketik ulang bersama secara manual di komputer kantor agar data tidak keluar dan selesai lebih cepat.",
+        "score": 4,
+        "rationale": "Data aman dan tanggung jawab dijalankan, tetapi tidak memanfaatkan teknologi yang tersedia."
+      }
+    ],
+    "explanation": "Soal ini menguji keseimbangan efisiensi dan pelindungan data pribadi. UU 27/2022 tentang Pelindungan Data Pribadi menuntut data dijaga dari akses yang tidak sah, sehingga kecepatan tidak boleh dibayar dengan mengunggah data warga ke layanan tidak resmi. Skor 5 tetap memakai teknologi (Adaptif) di dalam sarana resmi (Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0005",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf humas kecamatan. Di grup WhatsApp warga yang Anda ikuti beredar pesan bahwa pembuatan KTP elektronik kini dipungut biaya Rp50.000, dan beberapa warga mulai resah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meneruskan pesan itu ke grup lain sambil bertanya apakah informasinya benar.",
+        "score": 1,
+        "rationale": "Ikut menyebarkan informasi yang belum terverifikasi."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena grup itu bukan grup resmi kantor dan Anda tidak ingin terlibat perdebatan warga.",
+        "score": 2,
+        "rationale": "Pasif padahal Anda memiliki informasi dan tugas kehumasan."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga yang resah datang langsung ke kantor kecamatan atau menelepon nomor layanan untuk menanyakan kebenaran pesan tersebut.",
+        "score": 3,
+        "rationale": "Mengarahkan dengan benar, tetapi tidak meluruskan hoaks yang sudah beredar."
+      },
+      {
+        "key": "D",
+        "text": "Menanggapi di grup bahwa layanan KTP elektronik tidak dipungut biaya.",
+        "score": 4,
+        "rationale": "Meluruskan informasi, tetapi tanpa rujukan resmi dan tanpa tindak lanjut kelembagaan."
+      },
+      {
+        "key": "E",
+        "text": "Meluruskan di grup dengan tautan informasi resmi, lalu melaporkan sebaran pesan itu kepada pimpinan.",
+        "score": 5,
+        "rationale": "Meluruskan dengan sumber resmi dan memastikan klarifikasi kelembagaan menyusul."
+      }
+    ],
+    "explanation": "Bijak bermedia sosial berarti tidak ikut menyebarkan informasi yang belum dicek dan meluruskannya dengan sumber resmi. Sebagai humas, klarifikasi kelembagaan adalah bagian tugas (Berorientasi Pelayanan, Loyal menjaga nama baik instansi).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0006",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda pranata komputer di sebuah dinas. Saat memperbaiki beberapa komputer, Anda mendapati banyak pegawai memakai kata sandi sederhana seperti tanggal lahir untuk akun aplikasi kantor. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena kata sandi adalah tanggung jawab masing-masing pemilik akun.",
+        "score": 2,
+        "rationale": "Pasif padahal masalah ini berada dalam bidang tugas Anda."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat kata sandi para pegawai di satu file agar mudah membantu bila mereka lupa atau terkunci.",
+        "score": 1,
+        "rationale": "Menyimpan kata sandi orang lain justru menambah risiko kebocoran."
+      },
+      {
+        "key": "C",
+        "text": "Membantu pegawai mengganti kata sandi yang kuat dan mengusulkan kebijakan kata sandi minimal kepada pimpinan.",
+        "score": 5,
+        "rationale": "Menyelesaikan masalah saat itu dan mencegahnya terulang lewat kebijakan."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan secara lisan pegawai yang komputernya sedang Anda perbaiki agar segera mengganti kata sandi dengan kombinasi yang lebih sulit ditebak.",
+        "score": 3,
+        "rationale": "Benar, tetapi hanya menjangkau sebagian kecil pegawai."
+      },
+      {
+        "key": "E",
+        "text": "Mengirim imbauan tertulis ke semua pegawai berisi bahaya kata sandi lemah, contoh kata sandi yang kuat, dan batas waktu penggantian.",
+        "score": 4,
+        "rationale": "Menjangkau semua pegawai, tetapi tanpa pendampingan dan tanpa kebijakan yang mengikat."
+      }
+    ],
+    "explanation": "Keamanan akun adalah bagian dari tanggung jawab menjaga data dan sistem milik negara (Akuntabel). Skor 5 menggabungkan bantuan langsung dan usulan sistemik sesuai peran pranata komputer.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0007",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf kelurahan. Seseorang menghubungi WhatsApp pribadi Anda, mengaku pegawai dinas sosial kabupaten, dan meminta daftar penerima bantuan lengkap dengan NIK hari ini untuk verifikasi mendadak. Ia mengirim foto kartu pegawai dan menyebut nama kepala dinas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memverifikasi ke dinas sosial lewat nomor kantor resmi, lalu menyiapkan data melalui permintaan resmi bila memang benar.",
+        "score": 5,
+        "rationale": "Melindungi data tanpa menghambat kerja sama yang sah."
+      },
+      {
+        "key": "B",
+        "text": "Mengirim data karena ia sudah menunjukkan kartu pegawai dan menyebut nama kepala dinas.",
+        "score": 1,
+        "rationale": "Kartu dan nama mudah dipalsukan, sehingga data pribadi warga berisiko bocor."
+      },
+      {
+        "key": "C",
+        "text": "Meminta ia menghubungi lurah langsung karena Anda tidak berwenang memutuskan pemberian data.",
+        "score": 3,
+        "rationale": "Data aman, tetapi Anda tidak memverifikasi dan tidak memberi jalan yang jelas."
+      },
+      {
+        "key": "D",
+        "text": "Mengirim daftar nama penerima tanpa kolom NIK dan alamat agar tetap membantu verifikasi, lalu menunggu ia menunjukkan surat resmi sebelum mengirim sisanya.",
+        "score": 2,
+        "rationale": "Tetap membagikan data penerima bantuan lewat jalur tidak resmi tanpa verifikasi."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa permintaan data harus diajukan dengan surat resmi.",
+        "score": 4,
+        "rationale": "Melindungi data, tetapi tanpa verifikasi dan tindak lanjut."
+      }
+    ],
+    "explanation": "Permintaan data lewat jalur tidak resmi adalah pola rekayasa sosial yang umum. Data penerima bantuan memuat data pribadi yang dilindungi UU 27/2022 tentang Pelindungan Data Pribadi, sehingga hanya dibagikan lewat mekanisme resmi. Skor 5 tetap kolaboratif karena memverifikasi dan menyiapkan jalur yang sah (Akuntabel, Kolaboratif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0008",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda sekretaris bagian. Tautan rapat daring pimpinan yang membahas rencana anggaran tidak sengaja dibagikan seorang rekan ke grup WhatsApp yang berisi pihak luar. Rapat dimulai satu jam lagi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan tersebut segera menghapus pesan di grup dan memantau apakah ada anggota grup yang sempat menanggapi tautan itu.",
+        "score": 3,
+        "rationale": "Mengurangi sebaran, tetapi tautan yang sudah terlihat tetap bisa dipakai."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena peserta tanpa undangan pasti tidak berani masuk rapat pimpinan.",
+        "score": 1,
+        "rationale": "Mengabaikan risiko kebocoran informasi rapat."
+      },
+      {
+        "key": "C",
+        "text": "Membatalkan rapat dan meminta pimpinan menjadwalkan ulang minggu depan dengan aplikasi rapat yang berbeda.",
+        "score": 2,
+        "rationale": "Berlebihan dan mengganggu kerja pimpinan tanpa solusi yang sepadan."
+      },
+      {
+        "key": "D",
+        "text": "Membuat tautan baru dan mengirimkannya ulang kepada peserta resmi lewat email dinas.",
+        "score": 4,
+        "rationale": "Menutup celah, tetapi tanpa pengamanan tambahan dan tanpa memberi tahu pimpinan."
+      },
+      {
+        "key": "E",
+        "text": "Membuat tautan baru berkode sandi dan ruang tunggu, mengirimkannya ke peserta resmi, dan memberi tahu pimpinan.",
+        "score": 5,
+        "rationale": "Menutup celah, mengamankan rapat, dan transparan kepada pimpinan."
+      }
+    ],
+    "explanation": "Rapat daring yang membahas informasi internal harus dijaga aksesnya (Loyal: menjaga rahasia jabatan; Akuntabel). Skor 5 memanfaatkan fitur keamanan aplikasi rapat dan melibatkan pimpinan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0009",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf tata usaha. Instansi sudah memakai sistem naskah dinas elektronik dengan tanda tangan elektronik, tetapi kepala subbagian Anda tetap meminta setiap surat dicetak, ditandatangani basah, lalu dipindai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti permintaan beliau karena keputusan ada pada atasan.",
+        "score": 3,
+        "rationale": "Patuh, tetapi tidak membantu atasan memanfaatkan sistem yang sudah disediakan."
+      },
+      {
+        "key": "B",
+        "text": "Menanyakan keraguan beliau, menunjukkan alur tanda tangan elektronik, dan menawarkan pendampingan saat mencoba.",
+        "score": 5,
+        "rationale": "Menghargai atasan, menjawab keraguannya, dan membantunya beradaptasi."
+      },
+      {
+        "key": "C",
+        "text": "Diam-diam memakai tanda tangan elektronik atas nama beliau agar proses lebih cepat.",
+        "score": 1,
+        "rationale": "Menyalahgunakan kewenangan tanda tangan orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan kepada beliau perbandingan waktu proses dan biaya kertas antara cara cetak dan cara elektronik selama sebulan terakhir.",
+        "score": 4,
+        "rationale": "Masukan berbasis data, tetapi belum menjawab keraguan beliau atau membantunya mencoba."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak rekan satu subbagian membicarakan kebiasaan beliau saat istirahat, lalu menunjuk rekan yang paling dekat dengan beliau untuk menyampaikan keberatan bersama.",
+        "score": 2,
+        "rationale": "Membicarakan atasan di belakang dan melempar penyampaian kepada orang lain tidak menyelesaikan masalah."
+      }
+    ],
+    "explanation": "Adaptif dan Kompeten termasuk membantu orang lain, termasuk atasan, menerima perubahan. Skor 5 menghormati kewenangan atasan sambil memberi penjelasan dan pendampingan, bukan mengambil alih tanda tangan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0010",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda sedang mengolah data pegawai dengan laptop kantor di perpustakaan umum sambil menunggu jadwal rapat di luar kantor. Anda perlu ke toilet sebentar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meninggalkan laptop dalam keadaan terbuka karena hanya sebentar.",
+        "score": 1,
+        "rationale": "Data pegawai bisa dilihat dan laptop bisa diambil orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Meminta pengunjung di meja sebelah menjaga laptop yang masih menyala.",
+        "score": 2,
+        "rationale": "Perangkat dijaga, tetapi data terbuka bagi orang asing."
+      },
+      {
+        "key": "C",
+        "text": "Menutup layar laptop dan menitipkannya kepada petugas perpustakaan di meja layanan bersama tas Anda.",
+        "score": 3,
+        "rationale": "Perangkat diawasi, tetapi barang milik negara berpindah ke pihak luar tanpa jaminan layar terkunci."
+      },
+      {
+        "key": "D",
+        "text": "Mengunci layar dan membawa laptop bersama Anda.",
+        "score": 5,
+        "rationale": "Melindungi data dan barang milik negara sepenuhnya."
+      },
+      {
+        "key": "E",
+        "text": "Mengunci layar dengan kata sandi, lalu meninggalkan laptop sebentar di meja yang terlihat dari arah toilet.",
+        "score": 4,
+        "rationale": "Data terlindungi, tetapi perangkat masih berisiko hilang."
+      }
+    ],
+    "explanation": "Laptop kantor adalah barang milik negara dan data pegawai adalah data pribadi, sehingga keduanya harus dijaga di ruang publik (Akuntabel). Mengunci layar melindungi data, membawa perangkat melindungi barangnya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0011",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda guru ASN sekaligus wali kelas. Anda ingin membagikan dokumentasi kegiatan belajar ke akun media sosial sekolah. Salah satu foto memperlihatkan wajah siswa dan papan berisi daftar nilai ulangan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengunggah semua foto apa adanya agar kegiatan terlihat lengkap dan apa adanya.",
+        "score": 1,
+        "rationale": "Membuka nilai siswa yang merupakan data pribadi ke publik."
+      },
+      {
+        "key": "B",
+        "text": "Tidak mengunggah dokumentasi apa pun selama semester ini agar tidak ada risiko pelanggaran privasi siswa.",
+        "score": 3,
+        "rationale": "Aman, tetapi melewatkan manfaat komunikasi digital dengan orang tua."
+      },
+      {
+        "key": "C",
+        "text": "Mengunggah foto itu di akun media sosial pribadi Anda dengan pengaturan hanya untuk teman.",
+        "score": 2,
+        "rationale": "Data nilai tetap terbuka dan memakai kanal yang tidak tepat."
+      },
+      {
+        "key": "D",
+        "text": "Memilih foto lain yang tidak memperlihatkan daftar nilai, lalu mengunggahnya ke akun sekolah lengkap dengan nama dan wajah setiap siswa.",
+        "score": 4,
+        "rationale": "Data nilai terlindungi, tetapi identitas siswa dibuka tanpa memperhatikan persetujuan orang tua."
+      },
+      {
+        "key": "E",
+        "text": "Menyunting foto agar nilai tidak terbaca dan hanya memuat siswa yang orang tuanya sudah setuju.",
+        "score": 5,
+        "rationale": "Memanfaatkan media digital sambil melindungi data anak."
+      }
+    ],
+    "explanation": "Data anak dan nilai siswa termasuk data pribadi yang perlu dilindungi, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 tetap memanfaatkan media sosial resmi untuk komunikasi, tetapi dengan seleksi konten dan persetujuan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0012",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf perencanaan dinas kesehatan. Setiap minggu 20 puskesmas mengirim rekap kasus lewat email dalam format yang berbeda-beda, dan Anda butuh dua hari untuk menyatukannya secara manual. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap mengerjakan secara manual karena sudah terbiasa dan hasilnya selama ini benar.",
+        "score": 2,
+        "rationale": "Tidak berupaya memperbaiki proses yang jelas tidak efisien."
+      },
+      {
+        "key": "B",
+        "text": "Mengusulkan kepada atasan penambahan satu tenaga pendukung agar rekap bisa selesai dalam satu hari dan Anda dapat mengerjakan analisis.",
+        "score": 3,
+        "rationale": "Menambah sumber daya, tetapi akar masalah format tidak tersentuh."
+      },
+      {
+        "key": "C",
+        "text": "Membuat formulir di layanan daring gratis memakai akun pribadi Anda, karena lebih cepat daripada menunggu platform resmi, lalu meminta semua puskesmas mengisinya mulai minggu depan.",
+        "score": 1,
+        "rationale": "Data kesehatan tersimpan di akun pribadi di luar kendali instansi."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun formulir seragam di platform resmi instansi, mengujinya dengan dua puskesmas, lalu mengusulkannya ke atasan.",
+        "score": 5,
+        "rationale": "Mengotomasi pekerjaan manual dengan aman, teruji, dan disetujui pimpinan."
+      },
+      {
+        "key": "E",
+        "text": "Membuat templat lembar kerja seragam lengkap dengan rumus otomatis dan mengirimkannya ke semua puskesmas untuk langsung dipakai pada rekap minggu depan.",
+        "score": 4,
+        "rationale": "Meningkatkan efisiensi, tetapi tanpa uji coba dan tanpa persetujuan atasan."
+      }
+    ],
+    "explanation": "Memanfaatkan TI untuk efisiensi (Adaptif; Berorientasi Pelayanan: perbaikan tiada henti) harus tetap memakai sarana resmi karena data kesehatan bersifat sensitif. Skor 5 juga melibatkan pengguna dan atasan sehingga perubahan berjalan tertib.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0013",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf pengaduan masyarakat. Ada 200 surat pengaduan yang harus dirangkum untuk rapat besok. Rekan menyarankan menyalin seluruh isi surat, termasuk nama, alamat, dan nomor telepon pelapor, ke aplikasi AI generatif publik agar rangkuman selesai dalam hitungan menit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memakai AI hanya untuk isi pengaduan yang identitas pelapornya sudah dihapus, lalu memeriksa ulang hasilnya.",
+        "score": 5,
+        "rationale": "Memanfaatkan AI untuk efisiensi sambil melindungi identitas pelapor dan menjaga akurasi."
+      },
+      {
+        "key": "B",
+        "text": "Menyalin seluruh surat ke aplikasi AI publik karena tenggatnya besok.",
+        "score": 1,
+        "rationale": "Membuka identitas pelapor kepada layanan pihak ketiga tanpa dasar."
+      },
+      {
+        "key": "C",
+        "text": "Tidak memakai AI sama sekali dan merangkum seluruh surat secara manual bersama rekan sampai larut malam agar bahan rapat tetap siap besok pagi.",
+        "score": 4,
+        "rationale": "Data aman dan tugas selesai, tetapi tidak memanfaatkan teknologi secara aman."
+      },
+      {
+        "key": "D",
+        "text": "Memakai AI publik hanya untuk surat-surat yang paling panjang dan rumit, sedangkan surat yang pendek dirangkum manual, agar beban kerja terbagi dan rangkuman selesai tepat waktu.",
+        "score": 2,
+        "rationale": "Tetap membuka sebagian identitas pelapor kepada pihak ketiga."
+      },
+      {
+        "key": "E",
+        "text": "Meminta atasan menunda rapat karena jumlah surat terlalu banyak untuk dirangkum dalam sehari.",
+        "score": 3,
+        "rationale": "Menunda tanpa mencari cara yang aman dan efisien."
+      }
+    ],
+    "explanation": "Penggunaan AI untuk pekerjaan kantor dinilai positif bila tidak mengorbankan kerahasiaan. Identitas pelapor termasuk data pribadi yang wajib dilindungi (UU 27/2022 tentang Pelindungan Data Pribadi), dan hasil AI tetap harus diperiksa manusia (Adaptif, Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0014",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda menemukan sebuah flashdisk di area parkir kantor dengan label 'Daftar Gaji Pegawai 2026'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencolokkannya ke komputer kantor untuk mencari tahu siapa pemiliknya.",
+        "score": 1,
+        "rationale": "Berisiko menjalankan program berbahaya di jaringan kantor."
+      },
+      {
+        "key": "B",
+        "text": "Membawanya pulang dan memeriksanya di laptop pribadi agar komputer kantor tidak terkena virus.",
+        "score": 2,
+        "rationale": "Tetap membuka data yang bukan hak Anda dan membahayakan perangkat pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkannya tanpa dibuka ke tim TI beserta keterangan lokasi dan waktu penemuan.",
+        "score": 5,
+        "rationale": "Mencegah risiko dan menyerahkan ke pihak berwenang dengan informasi lengkap."
+      },
+      {
+        "key": "D",
+        "text": "Menitipkannya ke pos satpam sebagai barang temuan dan meminta satpam mengumumkannya di grup kantor.",
+        "score": 3,
+        "rationale": "Tidak membuka isinya, tetapi potensi ancaman keamanan informasi tidak tertangani."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkannya ke tim TI tanpa membukanya.",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa keterangan yang membantu penelusuran."
+      }
+    ],
+    "explanation": "Media penyimpanan yang ditemukan bisa berisi perangkat lunak berbahaya atau data sensitif. Tidak membuka sendiri dan menyerahkannya ke pihak berwenang menunjukkan kehati-hatian menjaga sistem dan data instansi (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0015",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf bagian umum yang mengelola komputer penyimpan arsip digital kantor. Komputer itu sudah tua dan selama ini data hanya tersimpan di satu hard disk tanpa cadangan berkala. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu realisasi anggaran pengadaan server baru tahun depan sambil memakai komputer itu sehati-hati mungkin.",
+        "score": 3,
+        "rationale": "Menunda padahal risiko kehilangan data ada setiap hari."
+      },
+      {
+        "key": "B",
+        "text": "Segera mencadangkan ke media resmi kantor dan menyusun jadwal pencadangan berkala yang diuji.",
+        "score": 5,
+        "rationale": "Mengamankan data sekarang dan membangun sistem pencegahan."
+      },
+      {
+        "key": "C",
+        "text": "Menyalin seluruh arsip ke akun penyimpanan awan pribadi Anda yang kapasitasnya besar.",
+        "score": 1,
+        "rationale": "Memindahkan arsip kantor ke akun pribadi di luar kendali instansi."
+      },
+      {
+        "key": "D",
+        "text": "Membuat satu salinan lengkap ke hard disk eksternal milik kantor dan menyimpannya di lemari terkunci ruang arsip.",
+        "score": 4,
+        "rationale": "Mengurangi risiko saat ini, tetapi tanpa jadwal berkala dan uji pemulihan."
+      },
+      {
+        "key": "E",
+        "text": "Menempelkan pengumuman agar rekan berhati-hati saat memakai komputer arsip.",
+        "score": 2,
+        "rationale": "Tidak menyentuh akar masalah cadangan data."
+      }
+    ],
+    "explanation": "Pencadangan data adalah bagian dari tanggung jawab mengelola barang dan informasi milik negara (Akuntabel). Cadangan yang baik dilakukan berkala, di media resmi, dan diuji pemulihannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0016",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda ASN di dinas perhubungan. Di kolom komentar unggahan pribadi Anda tentang kegiatan akhir pekan, seorang warganet menulis kritik keras soal lampu lalu lintas rusak di dekat rumahnya dan menyebut instansi Anda 'makan gaji buta'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas bahwa ia tidak tahu beratnya kerja ASN dan menyarankan ia melapor sendiri ke kantor.",
+        "score": 1,
+        "rationale": "Emosional dan merusak citra instansi."
+      },
+      {
+        "key": "B",
+        "text": "Menghapus komentar dan memblokir akunnya agar unggahan pribadi Anda tetap bersih.",
+        "score": 2,
+        "rationale": "Menghindar dan keluhan warga tidak tersampaikan."
+      },
+      {
+        "key": "C",
+        "text": "Mengabaikan komentar karena akun itu akun pribadi, bukan kanal resmi instansi.",
+        "score": 3,
+        "rationale": "Tidak memperkeruh, tetapi keluhan nyata tentang fasilitas publik tidak ditindaklanjuti."
+      },
+      {
+        "key": "D",
+        "text": "Membalas dengan sopan bahwa keluhannya dapat disampaikan melalui kanal pengaduan resmi dinas beserta tautannya.",
+        "score": 4,
+        "rationale": "Santun dan mengarahkan ke kanal resmi, tetapi informasi kerusakan belum Anda teruskan."
+      },
+      {
+        "key": "E",
+        "text": "Membalas dengan sopan, menanyakan lokasi pastinya, lalu meneruskannya ke unit terkait melalui kanal pengaduan resmi.",
+        "score": 5,
+        "rationale": "Santun, tidak defensif, dan memastikan keluhan ditindaklanjuti lewat jalur resmi."
+      }
+    ],
+    "explanation": "Akun pribadi ASN tetap melekat dengan citra jabatan. Skor 5 menanggapi kritik dengan tenang dan memastikan keluhan masuk ke jalur resmi (Berorientasi Pelayanan, Loyal menjaga nama baik instansi), bukan berdebat atau menghapus.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0017",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf sekretariat. Atasan sedang rapat di luar kota dan menelepon, meminta Anda masuk ke akun email dinasnya memakai kata sandi yang akan ia kirim lewat pesan, untuk mengirim surat yang harus sampai ke kementerian sebelum pukul 12.00. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima kata sandi, mengirim surat dari akunnya, lalu menyimpan kata sandi itu untuk keperluan serupa berikutnya.",
+        "score": 1,
+        "rationale": "Memakai dan menyimpan kredensial orang lain membuka risiko penyalahgunaan akun."
+      },
+      {
+        "key": "B",
+        "text": "Menerima kata sandi dan mengirim surat dari akun beliau, lalu mengingatkan beliau untuk segera mengganti kata sandi setelah rapat selesai agar akunnya kembali aman.",
+        "score": 2,
+        "rationale": "Ada upaya mengurangi risiko, tetapi tetap berbagi kata sandi akun dinas."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan alasan aturan keamanan akun dan menyerahkan urusan pengiriman kepada beliau sendiri.",
+        "score": 3,
+        "rationale": "Aman, tetapi tenggat surat terancam tanpa bantuan apa pun."
+      },
+      {
+        "key": "D",
+        "text": "Menolak menerima kata sandi dengan sopan dan menawarkan pengiriman lewat email unit atau fitur delegasi resmi atas persetujuan beliau.",
+        "score": 5,
+        "rationale": "Tenggat terkejar tanpa berbagi kata sandi dan tetap ada jejak persetujuan."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan, lalu menyiapkan draf surat beserta lampirannya dalam satu pesan agar beliau bisa langsung meneruskannya dari ponsel saat jeda rapat.",
+        "score": 4,
+        "rationale": "Aman dan membantu, tetapi pengiriman masih bergantung pada jeda rapat sehingga tenggat belum terjamin."
+      }
+    ],
+    "explanation": "Kata sandi akun dinas tidak boleh dibagikan, sekalipun oleh atasan, karena setiap aktivitas tercatat atas nama pemilik akun. Skor 5 menolak berbagi kredensial namun tetap mencari jalur resmi agar tugas mendesak selesai (Akuntabel, Berorientasi Pelayanan). Soal ini menguji benturan kecepatan dengan keamanan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0018",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf perencanaan. Rekan meminta Anda memasang aplikasi pengolah grafis versi bajakan di komputer kantor karena aplikasi berlisensi belum dibeli. Ia sudah membawa file pemasangnya di flashdisk. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memasang aplikasi itu di komputer Anda karena hanya dipakai untuk pekerjaan kantor.",
+        "score": 1,
+        "rationale": "Melanggar hak cipta dan berisiko memasukkan program berbahaya ke jaringan kantor."
+      },
+      {
+        "key": "B",
+        "text": "Menolak memasangnya di komputer Anda, tetapi membiarkan ia memasangnya sendiri di komputernya.",
+        "score": 2,
+        "rationale": "Pasif terhadap pelanggaran dan risiko keamanan jaringan kantor."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan, lalu bersama-sama mencari aplikasi resmi gratis yang setara atau mengusulkan pengadaan lisensi.",
+        "score": 5,
+        "rationale": "Patuh hukum, aman, dan tetap memberi solusi kebutuhan kerja."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan ia menunggu pengadaan aplikasi berlisensi tahun depan dan sementara memakai aplikasi pengolah dokumen yang ada walaupun hasilnya kurang rapi.",
+        "score": 3,
+        "rationale": "Aman, tetapi pasif terhadap kebutuhan kerja yang nyata."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa perangkat lunak bajakan melanggar hak cipta serta bisa membawa program berbahaya ke jaringan kantor.",
+        "score": 4,
+        "rationale": "Benar dan edukatif, tetapi kebutuhan kerja rekan belum terjawab."
+      }
+    ],
+    "explanation": "Perangkat lunak bajakan melanggar hak cipta dan sering menjadi pintu masuk program berbahaya. Skor 5 menolak pelanggaran sekaligus memberi jalan yang sah agar pekerjaan tetap berjalan (Akuntabel, Adaptif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0019",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda perawat ASN di puskesmas. Sistem rekam medis elektronik tidak bisa diakses sejak pagi, sementara antrean pasien panjang. Rekan mengusulkan agar data pasien dicatat di grup WhatsApp tim supaya mudah dipindahkan nanti. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyetujui pencatatan di grup WhatsApp karena semua petugas sudah tergabung di sana.",
+        "score": 1,
+        "rationale": "Data kesehatan pasien tersebar di aplikasi pesan tanpa pengamanan."
+      },
+      {
+        "key": "B",
+        "text": "Memakai formulir kertas sesuai prosedur darurat, melapor ke pengelola sistem, dan menginput ulang setelah sistem pulih.",
+        "score": 5,
+        "rationale": "Layanan berjalan, data kesehatan terlindungi, dan pencatatan tetap lengkap."
+      },
+      {
+        "key": "C",
+        "text": "Meminta pasien yang tidak darurat datang lagi besok dan hanya melayani pasien darurat dengan catatan kertas.",
+        "score": 3,
+        "rationale": "Data aman, tetapi sebagian pasien tidak terlayani padahal ada prosedur darurat."
+      },
+      {
+        "key": "D",
+        "text": "Meminta setiap petugas mencatat data pasien di aplikasi catatan ponsel masing-masing yang terkunci sandi, lalu memindahkannya ke sistem setelah pulih.",
+        "score": 2,
+        "rationale": "Ada upaya pengamanan, tetapi data kesehatan tersebar di perangkat pribadi di luar kendali puskesmas."
+      },
+      {
+        "key": "E",
+        "text": "Mencatat di buku register manual, lalu menginputnya sendiri setelah sistem kembali normal tanpa merepotkan pengelola sistem.",
+        "score": 4,
+        "rationale": "Data aman dan layanan berjalan, tetapi gangguan tidak dilaporkan sehingga pemulihan bisa lambat."
+      }
+    ],
+    "explanation": "Kecepatan layanan tidak boleh mengorbankan kerahasiaan data kesehatan, yang termasuk data pribadi bersifat spesifik dalam UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 menjalankan prosedur darurat yang aman sekaligus melapor agar sistem cepat pulih (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0020",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda menerima SMS berisi kode OTP aplikasi kepegawaian, padahal Anda tidak sedang login. Semenit kemudian seseorang menelepon, mengaku tim TI kantor, dan meminta kode itu untuk 'sinkronisasi akun'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak memberikan kode, segera mengganti kata sandi, dan melaporkan kejadian itu ke tim TI lewat kontak resmi.",
+        "score": 5,
+        "rationale": "Mengamankan akun dan melaporkan upaya pengambilalihan."
+      },
+      {
+        "key": "B",
+        "text": "Memberikan kode karena penelepon menyebut nama dan NIP Anda dengan benar.",
+        "score": 1,
+        "rationale": "Menyerahkan akses akun kepada pihak yang tidak terverifikasi."
+      },
+      {
+        "key": "C",
+        "text": "Menutup telepon dan mengabaikan SMS tersebut.",
+        "score": 3,
+        "rationale": "Kode tidak bocor, tetapi kata sandi yang mungkin sudah diketahui orang lain tidak diamankan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak memberikan kode dan segera mengganti kata sandi akun.",
+        "score": 4,
+        "rationale": "Akun aman, tetapi upaya penipuan tidak dilaporkan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta penelepon menghubungi lagi nanti, sambil menanyakan di grup kantor apakah memang ada jadwal sinkronisasi akun hari ini.",
+        "score": 2,
+        "rationale": "Menunda tanpa menolak sehingga peluang menyerahkan kode masih terbuka."
+      }
+    ],
+    "explanation": "Kode OTP adalah kunci terakhir akun, dan tim TI resmi tidak perlu meminta kode itu. OTP yang datang tanpa login juga tanda kata sandi mungkin sudah diketahui orang lain, sehingga perlu diganti dan dilaporkan (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0021",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda penyuluh pertanian. Pendaftaran pupuk bersubsidi kini wajib melalui aplikasi, dan banyak petani lansia di desa binaan Anda tidak bisa memakainya. Beberapa petani menyerahkan KTP dan kata sandi akun mereka agar Anda yang mendaftarkan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan petani meminta bantuan anak atau cucu yang bisa memakai ponsel.",
+        "score": 2,
+        "rationale": "Ada arahan, tetapi petani tanpa keluarga yang mahir tetap tertinggal."
+      },
+      {
+        "key": "B",
+        "text": "Mengumpulkan foto KTP dan kata sandi semua petani lalu menyimpannya di ponsel Anda, sehingga Anda bisa mendaftarkan dan memantau pengajuan mereka kapan saja tanpa merepotkan petani.",
+        "score": 1,
+        "rationale": "Mengumpulkan data pribadi dan kredensial orang lain tanpa pengamanan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kesulitan para petani kepada dinas dan menunggu kebijakan pendampingan dari kabupaten.",
+        "score": 3,
+        "rationale": "Menyalurkan masalah, tetapi petani tidak terbantu dalam waktu dekat."
+      },
+      {
+        "key": "D",
+        "text": "Mengadakan pendampingan di balai desa bersama kelompok tani agar petani mendaftar dari ponselnya sendiri.",
+        "score": 5,
+        "rationale": "Petani terlayani dan belajar tanpa menyerahkan kata sandi."
+      },
+      {
+        "key": "E",
+        "text": "Mendaftarkan petani satu per satu di kantor desa memakai ponsel mereka, lalu meminta mereka mengganti kata sandi sendiri sesudahnya agar akun tetap aman.",
+        "score": 4,
+        "rationale": "Petani terlayani dan akun dikembalikan, tetapi mereka tidak diajari sehingga tetap bergantung pada Anda."
+      }
+    ],
+    "explanation": "Pelayanan berbasis aplikasi perlu disertai pendampingan bagi kelompok yang kesulitan (Berorientasi Pelayanan; Kompeten: membantu orang lain belajar). Skor 5 membuat warga mandiri tanpa mengambil alih kata sandi dan data pribadi mereka.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0022",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf kecamatan. Karena sering melayani pertanyaan lewat WhatsApp pribadi, galeri ponsel Anda kini berisi ratusan foto KTP dan KK warga yang dikirim untuk pengecekan berkas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan foto-foto itu karena mungkin masih dibutuhkan bila warga menanyakan berkasnya lagi.",
+        "score": 3,
+        "rationale": "Netral, tetapi data pribadi warga tetap menumpuk di perangkat pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Memindahkan semua foto ke laptop pribadi agar memori ponsel tidak penuh.",
+        "score": 2,
+        "rationale": "Data tetap berada di perangkat pribadi, risikonya hanya berpindah tempat."
+      },
+      {
+        "key": "C",
+        "text": "Memindahkan semua foto ke penyimpanan awan dengan tautan terbuka dan menyusunnya per desa, agar galeri ponsel lega dan dokumen mudah dicari bila warga menanyakan berkasnya lagi.",
+        "score": 1,
+        "rationale": "Membuka data pribadi warga kepada siapa pun yang memegang tautan."
+      },
+      {
+        "key": "D",
+        "text": "Menghapus foto yang sudah tidak diperlukan, lalu mengaktifkan kunci layar dan enkripsi pada ponsel agar sisa dokumen yang masih dipakai tetap terlindungi.",
+        "score": 4,
+        "rationale": "Mengurangi risiko, tetapi kebiasaan menerima dokumen lewat jalur pribadi tetap berlanjut."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus foto yang tidak diperlukan dan mengusulkan kanal layanan resmi agar dokumen warga tidak dikirim ke nomor pribadi.",
+        "score": 5,
+        "rationale": "Membereskan risiko yang ada sekaligus memperbaiki akar masalahnya."
+      }
+    ],
+    "explanation": "Data KTP dan KK adalah data pribadi yang harus diproses sesuai tujuan dan disimpan dengan aman, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 tidak hanya membersihkan, tetapi juga memindahkan layanan ke kanal resmi (Akuntabel, Adaptif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0023",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf administrasi rumah sakit daerah. Seorang rekan membagikan tangkapan layar data rawat inap seorang tokoh terkenal ke grup WhatsApp alumni sekolah yang juga Anda ikuti, sebagai bahan obrolan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan secara pribadi menghapusnya segera, lalu melaporkan kejadian itu kepada atasan sesuai prosedur.",
+        "score": 5,
+        "rationale": "Menghentikan sebaran dan memastikan pelanggaran ditangani lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Ikut menanggapi obrolan dan menambahkan informasi lain yang Anda ketahui tentang tokoh itu.",
+        "score": 1,
+        "rationale": "Ikut membocorkan data kesehatan pasien."
+      },
+      {
+        "key": "C",
+        "text": "Diam saja agar tidak dianggap mencampuri urusan rekan.",
+        "score": 2,
+        "rationale": "Membiarkan kebocoran data berlanjut."
+      },
+      {
+        "key": "D",
+        "text": "Keluar dari grup alumni agar tidak ikut terseret bila masalah ini membesar.",
+        "score": 3,
+        "rationale": "Melindungi diri sendiri tanpa menghentikan sebaran."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan di grup bahwa data pasien bersifat rahasia, meminta anggota tidak menyebarkannya lebih jauh, dan meminta rekan menghapus pesannya.",
+        "score": 4,
+        "rationale": "Menghentikan sebaran, tetapi kebocoran tidak dilaporkan sehingga penanganan kelembagaan tidak berjalan."
+      }
+    ],
+    "explanation": "Rahasia medis termasuk data pribadi yang dilindungi UU 27/2022 tentang Pelindungan Data Pribadi, dan menjaga rahasia jabatan adalah bagian nilai Loyal. Karena kebocoran sudah terjadi, skor 5 menghentikan sebaran dan melapor agar instansi bisa menanganinya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0024",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda kepala subbagian program. Pegawai baru di tim Anda cekatan memakai berbagai aplikasi, tetapi Anda mendapati ia menyimpan salinan data seluruh pegawai di akun penyimpanan awan pribadinya agar bisa bekerja dari rumah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena hasil kerjanya bagus, sambil berpesan agar ia memasang kata sandi yang kuat pada akun penyimpanan awan pribadinya dan tidak membagikan tautannya kepada siapa pun.",
+        "score": 2,
+        "rationale": "Mengabaikan risiko kebocoran data demi kinerja, karena data pegawai tetap berada di luar kendali instansi."
+      },
+      {
+        "key": "B",
+        "text": "Menegurnya di depan tim agar pegawai lain tidak meniru.",
+        "score": 1,
+        "rationale": "Mempermalukan pegawai dan tidak menyelesaikan masalah data."
+      },
+      {
+        "key": "C",
+        "text": "Berbicara empat mata, meminta data dihapus dari akun pribadinya, dan mengarahkannya memakai penyimpanan resmi instansi.",
+        "score": 5,
+        "rationale": "Tegas soal data, menghargai semangatnya, dan memberi jalan kerja yang aman."
+      },
+      {
+        "key": "D",
+        "text": "Memintanya menghapus data dari akun pribadi hari itu juga, lalu mengedarkan imbauan tertulis ke seluruh tim tentang larangan menyimpan data kantor di layanan pribadi.",
+        "score": 4,
+        "rationale": "Masalah ditangani dan dicegah, tetapi kebutuhan kerjanya tidak diberi jalan resmi."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkannya ke bagian kepegawaian agar diproses sesuai aturan disiplin.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi melompati pembinaan yang menjadi wewenang Anda."
+      }
+    ],
+    "explanation": "Sebagai atasan langsung, pembinaan pertama ada di tangan Anda. Skor 5 menghentikan risiko kebocoran data (Akuntabel) tanpa mematikan semangat adaptif pegawai, dengan menunjukkan sarana resmi yang aman.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0025",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda koordinator tim layanan informasi. Jadwal piket, cuti, dan pembagian tugas tim masih ditulis di papan tulis dan sering berubah tanpa diketahui semua anggota, sehingga beberapa kali loket kosong. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengingatkan anggota tim dalam apel pagi agar rutin memeriksa papan tulis sebelum pulang.",
+        "score": 3,
+        "rationale": "Tidak salah, tetapi akar masalah informasi yang tidak tersebar tetap ada."
+      },
+      {
+        "key": "B",
+        "text": "Memindahkan jadwal ke kalender bersama di aplikasi resmi kantor, mengajari tim memakainya, dan menetapkan siapa yang berwenang mengubahnya.",
+        "score": 5,
+        "rationale": "Memanfaatkan TI untuk koordinasi dan memastikan semua anggota mampu memakainya."
+      },
+      {
+        "key": "C",
+        "text": "Memotret papan tulis setiap ada perubahan dan mengirimkannya ke grup WhatsApp tim.",
+        "score": 4,
+        "rationale": "Informasi lebih cepat tersebar, tetapi jadwal tetap tidak terpusat dan mudah tertimbun pesan lain."
+      },
+      {
+        "key": "D",
+        "text": "Membuat sendiri jadwal versi digital di ponsel Anda tanpa memberi tahu tim.",
+        "score": 2,
+        "rationale": "Hanya memudahkan diri sendiri."
+      },
+      {
+        "key": "E",
+        "text": "Menyalahkan anggota yang lalai di grup tim setiap kali loket kosong.",
+        "score": 1,
+        "rationale": "Menyalahkan tanpa solusi dan merusak hubungan kerja."
+      }
+    ],
+    "explanation": "Memanfaatkan TI untuk efisiensi koordinasi merupakan wujud nilai Adaptif dan Kolaboratif. Skor 5 tidak hanya mengganti alat, tetapi memastikan tim mampu memakainya dan ada aturan pengelolaannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0026",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda sedang menunggu pesawat di bandara dalam perjalanan dinas. Atasan meminta Anda segera mengirim file rancangan anggaran melalui email dinas. Jaringan yang tersedia hanya Wi-Fi gratis bandara tanpa kata sandi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim file lewat email pribadi memakai Wi-Fi gratis bandara karena aplikasi email dinas lambat dibuka.",
+        "score": 1,
+        "rationale": "Memindahkan dokumen dinas ke akun pribadi melalui jaringan yang tidak aman."
+      },
+      {
+        "key": "B",
+        "text": "Memakai Wi-Fi gratis bandara untuk masuk ke email dinas karena hanya untuk sekali kirim.",
+        "score": 2,
+        "rationale": "Mengabaikan risiko jaringan publik demi kepraktisan."
+      },
+      {
+        "key": "C",
+        "text": "Menunda pengiriman sampai tiba di kantor tujuan tanpa mengabari atasan.",
+        "score": 3,
+        "rationale": "Aman, tetapi permintaan mendesak atasan tertunda tanpa kabar."
+      },
+      {
+        "key": "D",
+        "text": "Memakai paket data seluler sendiri, atau VPN kantor bila tersedia, lalu mengirim lewat email dinas.",
+        "score": 5,
+        "rationale": "Tugas segera selesai melalui jaringan yang lebih aman dan kanal resmi."
+      },
+      {
+        "key": "E",
+        "text": "Mengabari atasan bahwa file akan dikirim begitu Anda mendapatkan jaringan kantor yang aman, sekitar dua jam lagi setelah mendarat di kota tujuan.",
+        "score": 4,
+        "rationale": "Aman dan komunikatif, tetapi tidak memanfaatkan pilihan yang tersedia untuk segera menyelesaikan tugas."
+      }
+    ],
+    "explanation": "Jaringan publik tanpa sandi rawan disadap, sehingga dokumen dinas sebaiknya dikirim melalui jaringan yang lebih aman dan kanal resmi. Skor 5 tetap menyelesaikan tugas dengan cepat tanpa mengorbankan keamanan (Akuntabel, Adaptif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0027",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda menerima pesan WhatsApp dari nomor baru yang memakai foto dan nama kepala dinas Anda. Isinya meminta Anda segera mentransfer Rp2.000.000 ke sebuah rekening untuk 'keperluan mendesak' dan berjanji menggantinya besok. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mentransfer uang karena khawatir dianggap tidak loyal kepada pimpinan.",
+        "score": 1,
+        "rationale": "Terjebak penipuan yang memanfaatkan nama atasan."
+      },
+      {
+        "key": "B",
+        "text": "Mengabaikan pesan itu lalu menghapusnya.",
+        "score": 3,
+        "rationale": "Aman bagi diri sendiri, tetapi pimpinan dan rekan lain tidak tahu ada penipuan."
+      },
+      {
+        "key": "C",
+        "text": "Membalas pesan untuk menanyakan alasan permintaan dan meminta nomor rekening atas nama beliau sebelum memutuskan mentransfer.",
+        "score": 2,
+        "rationale": "Membuka percakapan dengan penipu dan masih mempertimbangkan transfer."
+      },
+      {
+        "key": "D",
+        "text": "Tidak mentransfer dan mengonfirmasi langsung kepada kepala dinas melalui nomor yang sudah lama Anda simpan.",
+        "score": 4,
+        "rationale": "Aman dan terverifikasi, tetapi rekan lain belum diperingatkan."
+      },
+      {
+        "key": "E",
+        "text": "Tidak mentransfer, mengonfirmasi ke nomor beliau yang dikenal, lalu memperingatkan rekan dan melaporkan nomor itu.",
+        "score": 5,
+        "rationale": "Aman, terverifikasi, dan mencegah korban lain."
+      }
+    ],
+    "explanation": "Penipuan yang mencatut identitas pimpinan memanfaatkan rasa sungkan bawahan. Skor 5 memverifikasi lewat jalur yang dikenal, lalu mencegah korban lain dengan memperingatkan rekan dan melaporkan nomor tersebut (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0028",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf layanan perizinan. Warga mengeluh karena situs web instansi masih mencantumkan jam layanan dan persyaratan lama, sehingga mereka datang dengan berkas yang salah. Situs itu dikelola bagian lain. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim daftar informasi yang keliru beserta versi terbarunya ke pengelola situs, lalu memastikan pembaruannya.",
+        "score": 5,
+        "rationale": "Menyelesaikan akar masalah lewat pihak berwenang dengan tindak lanjut."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan persyaratan terbaru setiap kali ada warga yang datang dengan berkas yang salah.",
+        "score": 3,
+        "rationale": "Membantu warga satu per satu, tetapi sumber kesalahan informasi tetap ada."
+      },
+      {
+        "key": "C",
+        "text": "Meminta akses admin situs kepada pengelola agar Anda bisa langsung memperbarui sendiri jam layanan dan persyaratan setiap kali ada perubahan, sehingga pengelola tidak perlu repot lagi.",
+        "score": 2,
+        "rationale": "Proaktif, tetapi melampaui wewenang dan peran pengelola situs."
+      },
+      {
+        "key": "D",
+        "text": "Menyalahkan bagian pengelola situs di depan warga yang mengeluh.",
+        "score": 1,
+        "rationale": "Melempar kesalahan dan merusak citra instansi."
+      },
+      {
+        "key": "E",
+        "text": "Menempelkan pengumuman persyaratan terbaru di loket dan menyampaikan keluhan warga kepada atasan dalam rapat mingguan berikutnya agar diteruskan ke pengelola situs.",
+        "score": 4,
+        "rationale": "Membantu warga di loket dan meneruskan masalah, tetapi lambat dan tidak dipastikan tindak lanjutnya."
+      }
+    ],
+    "explanation": "Informasi daring yang keliru merugikan warga dan menurunkan kepercayaan publik. Skor 5 menyelesaikan akar masalah melalui pihak yang berwenang mengelola situs dan memastikan tindak lanjutnya (Berorientasi Pelayanan, Kolaboratif), tanpa mengambil alih wewenang bagian lain.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0029",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda moderator rapat daring koordinasi antarkecamatan. Seorang camat senior berulang kali kesulitan menyalakan mikrofon dan membagikan layar, sehingga rapat tersendat dan beberapa peserta mulai mengeluh di kolom obrolan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melewati giliran beliau dan melanjutkan ke peserta berikutnya tanpa penjelasan.",
+        "score": 2,
+        "rationale": "Rapat lancar, tetapi beliau kehilangan kesempatan menyampaikan materi."
+      },
+      {
+        "key": "B",
+        "text": "Menulis di kolom obrolan agar peserta mempelajari aplikasi rapat sebelum rapat dimulai.",
+        "score": 1,
+        "rationale": "Menyindir dan mempermalukan peserta senior di depan umum."
+      },
+      {
+        "key": "C",
+        "text": "Memandu beliau dengan sopan, menampilkan materinya dari layar Anda, dan menawarkan latihan singkat seusai rapat.",
+        "score": 5,
+        "rationale": "Rapat tetap berjalan, beliau terbantu, dan ada pendampingan lanjutan."
+      },
+      {
+        "key": "D",
+        "text": "Mengumumkan jeda lima menit agar beliau bisa meminta bantuan staf di kantornya untuk mengatur perangkat.",
+        "score": 3,
+        "rationale": "Memberi waktu, tetapi rapat tertunda dan bantuan diserahkan kepada orang lain."
+      },
+      {
+        "key": "E",
+        "text": "Memandu langkah menyalakan mikrofon secara lisan, lalu meminta beliau mengirim materinya lewat email agar Anda yang membagikannya di layar sepanjang sisa rapat.",
+        "score": 4,
+        "rationale": "Rapat berjalan dan beliau terbantu, tetapi tidak ada upaya agar beliau lebih mahir di rapat berikutnya."
+      }
+    ],
+    "explanation": "Membantu rekan, termasuk pejabat senior, menguasai teknologi adalah wujud nilai Kompeten (membantu orang lain belajar) dan Harmonis. Skor 5 menjaga rapat tetap efektif sekaligus menghormati beliau dan memberi pendampingan lanjutan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0030",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf dinas perizinan yang ikut menguji aplikasi layanan daring sebelum diluncurkan. Anda menemukan bahwa dengan mengganti angka di alamat tautan, dokumen permohonan milik warga lain bisa terbuka. Peluncuran dijadwalkan lusa dan pimpinan sudah mengundang media. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat temuan itu dengan rinci untuk dibahas dalam rapat evaluasi setelah peluncuran, karena jadwal sudah diumumkan kepada media dan celahnya hanya bisa dipakai orang yang paham teknis.",
+        "score": 2,
+        "rationale": "Menunda penanganan celah yang membuka data warga demi menjaga jadwal."
+      },
+      {
+        "key": "B",
+        "text": "Hari itu juga melaporkan temuan dan cara mengujinya kepada pengelola aplikasi dan atasan, tanpa menyebarkannya.",
+        "score": 5,
+        "rationale": "Melindungi data warga lewat jalur resmi dan memberi pimpinan dasar untuk memutuskan."
+      },
+      {
+        "key": "C",
+        "text": "Mengunggah temuan itu di media sosial agar pengembang terdorong segera memperbaikinya sebelum peluncuran.",
+        "score": 1,
+        "rationale": "Membuka celah keamanan ke publik sehingga data warga makin berisiko."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan temuan secara lisan kepada rekan satu tim penguji agar mereka berhati-hati.",
+        "score": 3,
+        "rationale": "Ada berbagi informasi, tetapi tidak sampai ke pihak yang bisa memperbaiki."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan temuan secara rinci kepada tim pengembang aplikasi, meminta mereka memperbaikinya sebelum peluncuran lusa, lalu menunggu kabar dari mereka.",
+        "score": 4,
+        "rationale": "Tepat ke pihak teknis, tetapi atasan yang memutuskan peluncuran tidak diberi tahu."
+      }
+    ],
+    "explanation": "Celah yang membuka data warga lain harus ditangani sebelum layanan dipakai luas, walaupun berbenturan dengan jadwal peluncuran. Skor 5 melapor cepat lewat jalur resmi tanpa menyebarkan detail celah, sehingga pimpinan bisa memutuskan dengan informasi lengkap (Akuntabel; sejalan dengan kewajiban melindungi data pribadi dalam UU 27/2022).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0031",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf humas dinas pariwisata. Atasan meminta Anda membuat infografis layanan untuk media sosial instansi dalam waktu seminggu, padahal Anda belum pernah membuat desain grafis. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan mengalihkan tugas itu kepada rekan yang sudah terbiasa mendesain.",
+        "score": 2,
+        "rationale": "Menghindari kesempatan belajar dan melempar tugas."
+      },
+      {
+        "key": "B",
+        "text": "Menerima tugas, tetapi menunggu dikirim ke pelatihan desain grafis sebelum mulai mengerjakannya.",
+        "score": 3,
+        "rationale": "Mau menerima, tetapi menunda tanpa kepastian."
+      },
+      {
+        "key": "C",
+        "text": "Menerima tugas, belajar dari tutorial aplikasi desain yang diizinkan kantor, dan menyerahkan draf lebih awal untuk dikoreksi.",
+        "score": 5,
+        "rationale": "Adaptif, mau belajar, dan memberi ruang perbaikan sebelum tenggat."
+      },
+      {
+        "key": "D",
+        "text": "Mengambil infografis instansi lain dari internet, mengganti logonya, lalu mengunggahnya.",
+        "score": 1,
+        "rationale": "Melanggar hak cipta dan berisiko menyebarkan informasi yang tidak sesuai."
+      },
+      {
+        "key": "E",
+        "text": "Menerima tugas dan mempelajari aplikasi desain lewat video tutorial di rumah sampai larut malam agar hasilnya langsung sempurna saat diserahkan pada hari terakhir.",
+        "score": 4,
+        "rationale": "Bersungguh-sungguh belajar, tetapi tanpa masukan dan tanpa ruang koreksi sebelum tenggat."
+      }
+    ],
+    "explanation": "Nilai Kompeten dan Adaptif tampak dari kesediaan mempelajari keterampilan digital baru. Skor 5 menerima tugas, belajar dengan sarana yang sah, dan menjaga mutu lewat koreksi sebelum tenggat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0032",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda petugas loket perizinan. Pemindai di loket rusak, padahal berkas warga harus dikirim ke bagian verifikasi hari ini agar izinnya tidak terlambat. Warga mempersilakan Anda memotret dokumennya dengan ponsel pribadi dan mengirimkannya lewat WhatsApp. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memakai pemindai unit lain atau mengantar berkas fisik ke bagian verifikasi, sambil melaporkan kerusakan pemindai.",
+        "score": 5,
+        "rationale": "Layanan tetap tepat waktu tanpa memindahkan data warga ke perangkat dan aplikasi pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Memotret dengan ponsel pribadi, mengirimnya lewat WhatsApp, lalu langsung menghapus foto dari ponsel setelah terkirim.",
+        "score": 2,
+        "rationale": "Ada upaya menghapus, tetapi data warga tetap melewati perangkat dan aplikasi pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Meminta warga kembali besok karena pemindai rusak dan itu bukan kesalahan petugas loket.",
+        "score": 1,
+        "rationale": "Menolak melayani dan melempar tanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Menerima berkas fisik dan menyimpannya di loket untuk dipindai besok setelah teknisi datang, lalu memberi tahu warga bahwa prosesnya mundur satu hari.",
+        "score": 3,
+        "rationale": "Data aman dan warga diberi tahu, tetapi layanan tertunda padahal ada cara lain."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan kerusakan ke bagian umum dan meminta teknisi segera memperbaiki pemindai sebelum jam layanan berakhir.",
+        "score": 4,
+        "rationale": "Proaktif menangani kerusakan, tetapi belum ada kepastian berkas terkirim hari ini."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan kecepatan layanan dengan keamanan data: dokumen warga sebaiknya tidak melewati perangkat dan aplikasi pribadi petugas. Skor 5 mencari jalur resmi alternatif agar layanan tetap tepat waktu (Berorientasi Pelayanan, Akuntabel; sejalan dengan prinsip UU 27/2022 tentang Pelindungan Data Pribadi).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0033",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Saat bekerja, Anda melihat file-file di komputer kantor tiba-tiba berganti nama dengan ekstensi aneh, lalu muncul pesan yang meminta tebusan agar file bisa dibuka kembali. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membayar tebusan dari uang pribadi agar file pekerjaan segera bisa dibuka.",
+        "score": 1,
+        "rationale": "Menuruti penjahat siber tanpa jaminan dan tanpa melapor."
+      },
+      {
+        "key": "B",
+        "text": "Menyalin file yang belum berubah ke flashdisk lalu membukanya di komputer rekan agar pekerjaan tetap jalan.",
+        "score": 2,
+        "rationale": "Berisiko menyebarkan program berbahaya ke perangkat lain."
+      },
+      {
+        "key": "C",
+        "text": "Mematikan komputer, melanjutkan pekerjaan di komputer lain, dan baru melapor ke tim TI sore hari setelah pekerjaan selesai.",
+        "score": 3,
+        "rationale": "Menahan dampak, tetapi menunda laporan atas insiden yang bisa meluas."
+      },
+      {
+        "key": "D",
+        "text": "Segera menelepon tim TI dan tidak menyentuh komputer sampai petugas datang.",
+        "score": 4,
+        "rationale": "Melapor cepat, tetapi komputer masih terhubung ke jaringan sehingga serangan bisa menyebar."
+      },
+      {
+        "key": "E",
+        "text": "Memutus koneksi jaringan komputer itu, tidak membayar tebusan, dan segera melapor ke tim TI.",
+        "score": 5,
+        "rationale": "Membatasi penyebaran dan menyerahkan penanganan kepada pihak berwenang dengan cepat."
+      }
+    ],
+    "explanation": "Serangan ransomware bisa menyebar ke perangkat lain di jaringan kantor. Langkah awal yang tepat adalah memutus koneksi, tidak membayar tebusan, dan segera melapor ke tim TI (Akuntabel menjaga barang dan data milik negara).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0034",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf bagian program. Rekan satu ruangan terbiasa mencetak setiap email, undangan rapat, dan draf dokumen untuk dibaca, sehingga kertas dan tinta cepat habis. Ia mengaku lebih mudah membaca di kertas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyembunyikan stok kertas agar ia terpaksa membaca di layar.",
+        "score": 1,
+        "rationale": "Tidak jujur dan mengganggu kerja rekan."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena kebiasaan membaca setiap orang berbeda-beda.",
+        "score": 3,
+        "rationale": "Menghargai rekan, tetapi pemborosan barang milik negara dibiarkan."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat jumlah rim kertas dan tinta yang ia habiskan selama sebulan, lalu menyerahkan catatan itu kepada kepala bagian sebagai bahan teguran agar ia segera mengubah kebiasaannya.",
+        "score": 2,
+        "rationale": "Melempar masalah ke atasan sebelum mencoba berbicara langsung dengan rekan."
+      },
+      {
+        "key": "D",
+        "text": "Menunjukkan cara membaca dan memberi catatan di layar dengan nyaman, sambil menghargai kebutuhannya mencetak dokumen penting.",
+        "score": 5,
+        "rationale": "Menyentuh alasan rekan dengan solusi praktis tanpa memaksa."
+      },
+      {
+        "key": "E",
+        "text": "Mengajak seluruh ruangan menyepakati aturan hemat kertas, misalnya hanya mencetak dokumen yang perlu ditandatangani atau diarsipkan, lalu menempelkannya di dekat mesin cetak.",
+        "score": 4,
+        "rationale": "Sistemik dan adil, tetapi kesulitan rekan membaca di layar tidak dibantu."
+      }
+    ],
+    "explanation": "Efisiensi barang milik negara termasuk nilai Akuntabel, dan membantu rekan memakai alat digital termasuk nilai Kompeten. Skor 5 menjawab alasan rekan (sulit membaca di layar) dengan solusi praktis tanpa memaksa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0035",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Di grup WhatsApp kantor beredar pesan berantai bahwa mulai bulan depan cuti tahunan PNS dipotong menjadi 6 hari. Pesan itu memakai logo kementerian, tetapi tidak menyertakan sumber. Beberapa rekan mulai membatalkan rencana cuti. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meneruskan pesan itu ke grup keluarga agar mereka bisa menyesuaikan rencana liburan.",
+        "score": 1,
+        "rationale": "Menyebarkan informasi yang belum terverifikasi."
+      },
+      {
+        "key": "B",
+        "text": "Mengecek ke situs resmi atau bagian kepegawaian, lalu membagikan hasilnya di grup dengan sopan.",
+        "score": 5,
+        "rationale": "Meluruskan dengan sumber resmi dan menenangkan rekan."
+      },
+      {
+        "key": "C",
+        "text": "Tidak menanggapi dan menunggu pengumuman resmi dari bagian kepegawaian.",
+        "score": 3,
+        "rationale": "Tidak menyebarkan, tetapi rekan yang resah dibiarkan tanpa kejelasan."
+      },
+      {
+        "key": "D",
+        "text": "Ikut membatalkan rencana cuti untuk berjaga-jaga.",
+        "score": 2,
+        "rationale": "Bertindak atas dasar informasi yang belum dicek."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkan di grup bahwa pesan itu belum jelas sumbernya dan menyarankan rekan menunggu informasi resmi sebelum mengubah rencana cuti masing-masing.",
+        "score": 4,
+        "rationale": "Mengerem penyebaran, tetapi belum memberikan klarifikasi dari sumber resmi."
+      }
+    ],
+    "explanation": "Saring sebelum berbagi adalah bagian dari bijak bermedia digital. Skor 5 aktif memverifikasi ke sumber resmi dan membagikan hasilnya sehingga keresahan rekan terjawab (Adaptif, Kolaboratif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0036",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf bagian keuangan. Rekan dari unit lain meminta Anda mengirim file daftar gaji seluruh pegawai ke email pribadinya. Katanya, data itu untuk membandingkan tunjangan antarunit sebagai bahan usulan kepada pimpinan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirimkan hanya data gaji pegawai di unitnya ke email pribadinya.",
+        "score": 2,
+        "rationale": "Cakupan dikurangi, tetapi data gaji tetap dikirim ke email pribadi tanpa dasar resmi."
+      },
+      {
+        "key": "B",
+        "text": "Mengirimkan file lengkap ke email pribadinya karena ia rekan sendiri, tujuannya untuk kepentingan kantor, dan ia berjanji menghapus file itu setelah bahan usulan selesai disusun.",
+        "score": 1,
+        "rationale": "Membocorkan data pribadi pegawai ke luar kanal resmi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak karena data gaji bersifat rahasia, tanpa menjelaskan jalur yang bisa ia tempuh.",
+        "score": 3,
+        "rationale": "Data aman, tetapi tidak ada arahan yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan, menjelaskan bahwa data gaji tidak boleh dikirim ke email pribadi, dan menyarankan ia meminta izin kepala bagian keuangan sebelum data bisa diberikan.",
+        "score": 4,
+        "rationale": "Melindungi data dan memberi arahan, tetapi belum menawarkan bentuk data yang sesuai kebutuhannya."
+      },
+      {
+        "key": "E",
+        "text": "Menolak mengirim ke email pribadi dan menawarkan rekap tanpa identitas melalui permintaan resmi.",
+        "score": 5,
+        "rationale": "Melindungi data sekaligus memberi jalan yang sah dan memadai."
+      }
+    ],
+    "explanation": "Data gaji perorangan adalah data pribadi pegawai. Permintaan antarunit dilayani melalui mekanisme resmi dan secukupnya sesuai tujuan, misalnya dalam bentuk rekap tanpa identitas (Akuntabel, Kolaboratif; sejalan dengan prinsip UU 27/2022 tentang Pelindungan Data Pribadi).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0037",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda pranata komputer. Seorang kepala bidang meminta hak akses admin penuh ke semua aplikasi kantor, termasuk data kepegawaian bidang lain, agar 'lebih mudah memantau'. Kebijakan instansi mengatur hak akses sesuai tugas masing-masing. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan hak akses admin penuh ke akun beliau karena permintaan datang dari pejabat struktural, lalu mencatat pemberian akses itu agar bisa ditelusuri bila ada masalah.",
+        "score": 2,
+        "rationale": "Pencatatan tidak menghapus pelanggaran kebijakan hak akses dan pembukaan data di luar kewenangan beliau."
+      },
+      {
+        "key": "B",
+        "text": "Memberikan akun admin milik Anda agar beliau bisa memakainya sewaktu-waktu.",
+        "score": 1,
+        "rationale": "Berbagi akun admin melanggar keamanan dan mengaburkan jejak siapa yang mengakses."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan kebijakan dengan sopan dan menawarkan dasbor pemantauan sesuai kewenangan beliau.",
+        "score": 5,
+        "rationale": "Patuh kebijakan sambil memenuhi kebutuhan pemantauan secara sah."
+      },
+      {
+        "key": "D",
+        "text": "Meminta beliau mengajukan permohonan tertulis dulu, lalu memberikan akses penuh setelah surat diterima.",
+        "score": 3,
+        "rationale": "Ada catatan resmi, tetapi akses tetap diberikan di luar ketentuan."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa hak akses diberikan sesuai tugas berdasarkan kebijakan instansi, sambil menyerahkan salinan kebijakan tersebut kepada beliau.",
+        "score": 4,
+        "rationale": "Patuh aturan dan santun, tetapi kebutuhan pemantauan beliau belum dicarikan jalan."
+      }
+    ],
+    "explanation": "Prinsip hak akses sesuai kebutuhan tugas melindungi data dari penyalahgunaan, termasuk oleh pejabat. Skor 5 menolak permintaan yang menyimpang dengan santun sambil menawarkan jalan resmi yang memenuhi kebutuhan sebenarnya (Akuntabel; patuh hanya pada perintah yang sah dan wajar).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0038",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Komputer kantor Anda berkali-kali menampilkan pemberitahuan pembaruan keamanan sistem operasi. Rekan di sebelah Anda menyarankan agar selalu memilih 'Ingatkan nanti' karena pembaruan membuat komputer lambat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjalankan pembaruan saat jam istirahat setelah pekerjaan disimpan, dan bertanya ke tim TI bila ada kendala.",
+        "score": 5,
+        "rationale": "Keamanan perangkat terjaga tanpa mengganggu pekerjaan."
+      },
+      {
+        "key": "B",
+        "text": "Mematikan fitur pembaruan otomatis agar pemberitahuan tidak muncul lagi.",
+        "score": 1,
+        "rationale": "Membiarkan perangkat kantor rentan terhadap celah keamanan."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan pembaruan sampai tim TI menjalankannya saat pemeliharaan rutin bulan depan.",
+        "score": 3,
+        "rationale": "Menghindari salah langkah, tetapi menunda perlindungan tanpa alasan yang kuat."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti saran rekan dan memilih 'Ingatkan nanti' setiap kali pemberitahuan muncul.",
+        "score": 2,
+        "rationale": "Menunda pembaruan keamanan terus-menerus demi kenyamanan."
+      },
+      {
+        "key": "E",
+        "text": "Menjalankan pembaruan saat itu juga walaupun sedang mengetik laporan, karena keamanan perangkat harus didahulukan di atas pekerjaan apa pun.",
+        "score": 4,
+        "rationale": "Peduli keamanan, tetapi berisiko kehilangan pekerjaan yang belum disimpan."
+      }
+    ],
+    "explanation": "Pembaruan keamanan menutup celah yang bisa dimanfaatkan program berbahaya. Merawat perangkat kantor termasuk tanggung jawab menjaga barang milik negara (Akuntabel), dan skor 5 melakukannya tanpa mengganggu pekerjaan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0039",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda analis kebijakan. Anda memakai aplikasi AI untuk merangkum beberapa regulasi sebagai bahan telaahan yang harus diserahkan besok. Saat membaca ulang, Anda menemukan satu nomor pasal dan isinya tidak sesuai dengan dokumen aslinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan telaahan apa adanya karena hasil AI biasanya akurat.",
+        "score": 1,
+        "rationale": "Menyerahkan bahan yang diketahui berpotensi keliru kepada pimpinan."
+      },
+      {
+        "key": "B",
+        "text": "Menghapus bagian yang meragukan agar telaahan tetap bisa diserahkan tepat waktu.",
+        "score": 2,
+        "rationale": "Tepat waktu, tetapi isi telaahan dipangkas diam-diam dan menjadi tidak lengkap."
+      },
+      {
+        "key": "C",
+        "text": "Berhenti memakai AI dan mengulang seluruh telaahan secara manual dari awal, walaupun berisiko tidak selesai besok.",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi berlebihan dan mengancam tenggat."
+      },
+      {
+        "key": "D",
+        "text": "Mencocokkan seluruh rangkuman dengan dokumen asli, memperbaiki kesalahan, dan mencantumkan sumber pasal.",
+        "score": 5,
+        "rationale": "AI dimanfaatkan untuk efisiensi dengan verifikasi yang membuat hasilnya akuntabel."
+      },
+      {
+        "key": "E",
+        "text": "Memperbaiki pasal yang keliru itu sesuai dokumen asli, lalu menyerahkan telaahan tepat waktu dengan catatan bahwa sebagian bahan disusun dengan bantuan aplikasi AI.",
+        "score": 4,
+        "rationale": "Memperbaiki dan transparan, tetapi bagian lain yang mungkin keliru tidak diperiksa."
+      }
+    ],
+    "explanation": "AI dapat mempercepat kerja, tetapi tanggung jawab atas isi tetap pada ASN (Akuntabel, Kompeten). Satu kesalahan yang ditemukan menandakan perlunya pemeriksaan menyeluruh terhadap dokumen asli, bukan hanya pada bagian yang kebetulan terlihat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0040",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda membawa pulang laptop kantor untuk menyelesaikan laporan. Anak Anda ingin meminjam laptop itu untuk bermain gim dan memasang beberapa aplikasi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminjamkannya dengan syarat tidak memasang aplikasi baru dan hanya bermain sebentar.",
+        "score": 2,
+        "rationale": "Membatasi risiko, tetapi perangkat berisi data kantor tetap dipakai untuk keperluan pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan lembut, menjelaskan bahwa laptop itu milik kantor, dan mengajaknya memakai perangkat keluarga.",
+        "score": 5,
+        "rationale": "Menjaga barang milik negara dan data kantor sambil tetap memberi alternatif."
+      },
+      {
+        "key": "C",
+        "text": "Meminjamkannya dan membiarkan ia memasang aplikasi yang diinginkan, karena laporan sudah hampir selesai dan aplikasi itu bisa dihapus lagi sebelum laptop dibawa ke kantor.",
+        "score": 1,
+        "rationale": "Memakai barang milik negara untuk kepentingan pribadi dan berisiko memasukkan program berbahaya."
+      },
+      {
+        "key": "D",
+        "text": "Menolak tanpa penjelasan dan langsung menyimpan laptop di tas kerja.",
+        "score": 3,
+        "rationale": "Aman, tetapi tidak memberi pemahaman kepada anak."
+      },
+      {
+        "key": "E",
+        "text": "Menolak meminjamkan karena laptop itu berisi data kantor, lalu menyelesaikan laporan di kamar dan menyimpan laptop di tempat yang tidak dijangkau anak.",
+        "score": 4,
+        "rationale": "Aman dan memberi alasan, tetapi tanpa alternatif bagi anak."
+      }
+    ],
+    "explanation": "Laptop kantor adalah barang milik negara untuk kepentingan dinas, dan memasang aplikasi sembarangan dapat membahayakan data kantor (Akuntabel). Skor 5 tegas menjaga perangkat namun tetap memberi alternatif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0041",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf dinas sosial yang mengelola akun media sosial instansi. Atasan meminta foto penyaluran bantuan segera diunggah dengan menampilkan wajah penerima beserta kartu keluarga yang mereka pegang, 'sebagai bukti transparansi', sebelum rapat evaluasi siang ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengunggah foto yang menyamarkan kartu keluarga, lalu menjelaskan alasannya kepada atasan beserta rekap penyaluran.",
+        "score": 5,
+        "rationale": "Transparansi tetap terpenuhi tanpa membuka data pribadi penerima."
+      },
+      {
+        "key": "B",
+        "text": "Mengunggah semua foto sesuai permintaan karena atasan yang bertanggung jawab.",
+        "score": 1,
+        "rationale": "Membuka data kependudukan warga ke publik."
+      },
+      {
+        "key": "C",
+        "text": "Mengunggah foto sesuai permintaan atasan dengan kartu keluarga tetap terlihat, tetapi tidak menuliskan nama penerima di keterangan foto dan menonaktifkan kolom komentar unggahan.",
+        "score": 2,
+        "rationale": "Nomor KK dan data keluarga tetap terbaca publik."
+      },
+      {
+        "key": "D",
+        "text": "Menunda unggahan dan menunggu atasan selesai rapat untuk dimintai keputusan ulang.",
+        "score": 3,
+        "rationale": "Data aman untuk sementara, tetapi tugas tertunda tanpa usulan jalan keluar."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan keberatan kepada atasan karena kartu keluarga memuat data pribadi, lalu menanyakan apakah sebaiknya diganti foto kegiatan tanpa penerima sambil menunggu keputusan beliau.",
+        "score": 4,
+        "rationale": "Berani mengingatkan dan memberi pilihan, tetapi bukti transparansi yang diminta belum disiapkan."
+      }
+    ],
+    "explanation": "Transparansi program tidak harus mengorbankan data pribadi penerima bantuan, yang dilindungi UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 tetap menjalankan tujuan tugas dengan cara yang aman dan memberi atasan penjelasan (Akuntabel; patuh pada perintah yang sah dan wajar, bukan pada bagian yang melanggar).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0042",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda kepala seksi yang berwenang menandatangani surat keterangan secara elektronik. Saat akan menandatangani dokumen yang harus terbit hari ini, sistem menolak karena sertifikat tanda tangan elektronik Anda kedaluwarsa. Pemohon sudah menunggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta staf memakai akun tanda tangan elektronik kepala seksi lain yang masih aktif agar surat tetap terbit hari ini.",
+        "score": 1,
+        "rationale": "Memakai identitas elektronik pejabat lain dan membuat dokumen cacat hukum."
+      },
+      {
+        "key": "B",
+        "text": "Mencetak surat, membubuhkan tanda tangan basah, lalu memindai dan mengirimkannya sebagai pengganti dokumen elektronik tanpa memeriksa ketentuannya.",
+        "score": 2,
+        "rationale": "Niatnya cepat, tetapi bentuk dokumen bisa tidak sah menurut ketentuan layanan."
+      },
+      {
+        "key": "C",
+        "text": "Meminta pemohon datang lagi setelah sertifikat diperbarui, tanpa kepastian waktu.",
+        "score": 3,
+        "rationale": "Prosedur terjaga, tetapi pemohon dirugikan tanpa kepastian."
+      },
+      {
+        "key": "D",
+        "text": "Segera mengajukan pembaruan sertifikat ke pengelola tanda tangan elektronik dan meminta maaf kepada pemohon bahwa surat terbit setelah sertifikat aktif kembali.",
+        "score": 4,
+        "rationale": "Menangani akar masalah dan jujur kepada pemohon, tetapi belum mencari jalur sah agar layanan tidak tertunda."
+      },
+      {
+        "key": "E",
+        "text": "Mengajukan pembaruan sertifikat, menanyakan mekanisme penandatangan pengganti yang sah, dan memberi pemohon kepastian waktu.",
+        "score": 5,
+        "rationale": "Menangani akar masalah, mencari jalan yang sah, dan menjaga kepastian layanan."
+      }
+    ],
+    "explanation": "Tanda tangan elektronik melekat pada identitas pejabat, sehingga tidak boleh dipinjam. Skor 5 menyeimbangkan kecepatan layanan dengan keabsahan dokumen: memperbarui sertifikat, mencari mekanisme pengganti yang sah, dan memberi kepastian kepada pemohon (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0043",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Seluruh pegawai wajib menyelesaikan pelatihan daring keamanan siber dalam dua minggu. Rekan Anda menyarankan cukup memutar video tanpa menontonnya dan menebak jawaban kuis karena 'yang penting sertifikatnya keluar'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan yang sudah lulus mengerjakan kuis memakai akun Anda.",
+        "score": 1,
+        "rationale": "Berbagi akun dan memalsukan hasil pelatihan."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti saran rekan dengan memutar video sambil mengerjakan tugas lain, karena sebagian besar materinya sudah pernah Anda dengar dan pekerjaan rutin juga harus selesai.",
+        "score": 2,
+        "rationale": "Memenuhi formalitas tanpa meningkatkan kompetensi."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pelatihan dengan sungguh-sungguh, menerapkan materinya, dan mengajak rekan memahami manfaatnya.",
+        "score": 5,
+        "rationale": "Meningkatkan kompetensi dan menularkannya kepada rekan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti seluruh video dan kuis dengan sungguh-sungguh sesuai jadwal yang Anda atur sendiri, lalu menyimpan catatan materi penting sebagai pengingat saat bekerja.",
+        "score": 4,
+        "rationale": "Kompeten untuk diri sendiri, tetapi rekan yang meremehkan pelatihan tidak diajak."
+      },
+      {
+        "key": "E",
+        "text": "Mengikuti pelatihan pada hari-hari terakhir sebelum tenggat sesuai kewajiban.",
+        "score": 3,
+        "rationale": "Kewajiban terpenuhi, tetapi tanpa kesungguhan memanfaatkan materi."
+      }
+    ],
+    "explanation": "Pelatihan keamanan siber adalah sarana meningkatkan kompetensi, bukan sekadar formalitas. Nilai Kompeten mencakup meningkatkan kemampuan diri dan membantu orang lain belajar.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0044",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda petugas pelayanan di kantor kecamatan. Jaringan internet kantor putus sejak pagi sehingga aplikasi pelayanan daring tidak bisa dipakai, sedangkan antrean warga terus bertambah. Teknisi baru bisa datang sore hari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga menunggu sampai teknisi datang sore nanti.",
+        "score": 3,
+        "rationale": "Jujur, tetapi warga menunggu lama tanpa solusi."
+      },
+      {
+        "key": "B",
+        "text": "Menutup layanan hari itu karena sistem tidak bisa dipakai.",
+        "score": 1,
+        "rationale": "Menelantarkan layanan."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga mengurus sendiri secara daring dari rumah tanpa memberi panduan.",
+        "score": 2,
+        "rationale": "Melepas tanggung jawab dan menyulitkan warga yang tidak terbiasa."
+      },
+      {
+        "key": "D",
+        "text": "Menerima berkas dan mencatat permohonan secara manual sesuai prosedur darurat, memberi tanda terima, dan menyampaikan perkiraan waktu selesai.",
+        "score": 5,
+        "rationale": "Layanan tetap berjalan tertib dan warga mendapat kepastian."
+      },
+      {
+        "key": "E",
+        "text": "Melayani konsultasi dan memeriksa kelengkapan berkas secara manual, lalu meminta warga kembali besok untuk proses di sistem.",
+        "score": 4,
+        "rationale": "Ada layanan yang berjalan, tetapi warga tetap harus bolak-balik."
+      }
+    ],
+    "explanation": "Saat sistem tidak bisa dipakai, ASN tetap berupaya memberi layanan melalui prosedur darurat yang tertib dan memberi kepastian kepada warga (Berorientasi Pelayanan, Adaptif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0045",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Nomor ponsel pribadi Anda tercantum di brosur layanan sebagai kontak informasi. Setiap malam dan akhir pekan Anda menerima puluhan pesan warga, termasuk kiriman dokumen pribadi mereka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memblokir nomor-nomor warga yang menghubungi di luar jam kerja.",
+        "score": 1,
+        "rationale": "Menutup akses informasi tanpa memberi jalan lain."
+      },
+      {
+        "key": "B",
+        "text": "Mengusulkan nomor layanan resmi instansi dengan balasan otomatis jam layanan, lalu mengarahkan warga ke kanal itu.",
+        "score": 5,
+        "rationale": "Memperbaiki akar masalah, melindungi data warga, dan tetap menjaga akses informasi."
+      },
+      {
+        "key": "C",
+        "text": "Membalas semua pesan kapan pun agar warga puas, termasuk memeriksa dokumen yang mereka kirim.",
+        "score": 2,
+        "rationale": "Melayani, tetapi data pribadi warga menumpuk di perangkat pribadi dan cara ini tidak berkelanjutan."
+      },
+      {
+        "key": "D",
+        "text": "Mendiamkan pesan di luar jam kerja dan baru membalasnya pada hari kerja berikutnya.",
+        "score": 3,
+        "rationale": "Wajar soal jam kerja, tetapi masalah kontak pribadi dan kiriman dokumen tetap ada."
+      },
+      {
+        "key": "E",
+        "text": "Memasang pesan balasan otomatis di WhatsApp pribadi yang memuat jam layanan serta imbauan agar warga tidak mengirim dokumen pribadi lewat pesan.",
+        "score": 4,
+        "rationale": "Mengatur harapan warga dan mengurangi kiriman dokumen, tetapi layanan tetap bergantung pada nomor pribadi."
+      }
+    ],
+    "explanation": "Kanal layanan resmi memisahkan urusan dinas dari perangkat pribadi dan lebih aman bagi data warga. Skor 5 memperbaiki sistem, bukan sekadar mengatur diri sendiri (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0046",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf bagian umum. Seorang rekan senior sudah tiga kali meminta Anda mengajarinya mengirim surat melalui aplikasi persuratan elektronik, tetapi ia selalu lupa langkah-langkahnya dan kembali meminta bantuan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirimkan suratnya dari komputer beliau setiap kali ia meminta, agar tidak perlu mengajari lagi.",
+        "score": 3,
+        "rationale": "Tugas selesai, tetapi rekan tidak pernah mandiri dan Anda terus terbebani."
+      },
+      {
+        "key": "B",
+        "text": "Membuatkan panduan bergambar langkah demi langkah, mendampinginya mempraktikkan sendiri, lalu memintanya mencoba tanpa bantuan pada surat berikutnya.",
+        "score": 5,
+        "rationale": "Membantu rekan belajar sampai mandiri dengan cara yang sesuai kebutuhannya."
+      },
+      {
+        "key": "C",
+        "text": "Mengatakan kepadanya bahwa pegawai yang tidak bisa mengikuti teknologi sebaiknya bersiap pensiun.",
+        "score": 1,
+        "rationale": "Merendahkan rekan dan merusak hubungan kerja."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan ia meminta bantuan rekan lain karena Anda sudah mengajarinya tiga kali.",
+        "score": 2,
+        "rationale": "Menghindar dan melempar ke orang lain."
+      },
+      {
+        "key": "E",
+        "text": "Mengajarinya sekali lagi dengan lebih pelan.",
+        "score": 4,
+        "rationale": "Sabar membantu, tetapi tanpa cara yang membuatnya bisa mengingat sendiri."
+      }
+    ],
+    "explanation": "Nilai Kompeten mencakup membantu orang lain belajar, dan nilai Harmonis menuntut sikap menghargai. Skor 5 menyesuaikan cara mengajar dengan kebutuhan rekan agar ia mandiri, bukan sekadar mengulang atau mengambil alih.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0047",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda admin akun Instagram resmi dinas kependudukan. Seorang warga menulis NIK, nomor KK, dan nomor ponselnya di kolom komentar publik sambil menanyakan status pengajuan akta kelahiran anaknya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas komentar dengan status pengajuan secara lengkap sambil mengulang NIK warga, agar warga lain yang membaca juga tahu bahwa pertanyaan di kolom komentar dijawab dengan cepat.",
+        "score": 1,
+        "rationale": "Ikut menyebarkan data pribadi di ruang publik."
+      },
+      {
+        "key": "B",
+        "text": "Membalas bahwa pertanyaan seperti itu tidak dilayani lewat kolom komentar.",
+        "score": 3,
+        "rationale": "Benar, tetapi warga tidak mendapat jalan dan datanya tetap terbuka."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan komentar itu karena warga sendiri yang menuliskan datanya.",
+        "score": 2,
+        "rationale": "Membiarkan data pribadi warga terpapar di akun resmi instansi."
+      },
+      {
+        "key": "D",
+        "text": "Menyembunyikan komentar itu, lalu menghubungi warga lewat pesan langsung untuk membantu dan mengingatkannya menjaga data.",
+        "score": 5,
+        "rationale": "Melindungi data warga sekaligus tetap melayani."
+      },
+      {
+        "key": "E",
+        "text": "Membalas dengan meminta warga menghapus komentarnya dan mengirim pertanyaan lewat pesan langsung, karena data pribadi tidak aman ditulis di kolom komentar.",
+        "score": 4,
+        "rationale": "Mengedukasi dan mengarahkan, tetapi data tetap terbuka sampai warga menghapusnya."
+      }
+    ],
+    "explanation": "Pengelola akun resmi ikut bertanggung jawab agar data pribadi tidak terpapar di kanal instansi. Skor 5 segera membatasi paparan data dan tetap melayani pertanyaan lewat jalur privat (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0048",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda menemukan aplikasi gratis yang praktis untuk menggabungkan dan mengedit file PDF. Saat akan dipasang di ponsel dinas, aplikasi itu meminta izin akses ke semua kontak, foto, file, dan lokasi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membatalkan pemasangan dan memakai aplikasi resmi kantor atau menanyakan alternatif yang aman ke tim TI.",
+        "score": 5,
+        "rationale": "Mengutamakan keamanan data tanpa meninggalkan kebutuhan kerja."
+      },
+      {
+        "key": "B",
+        "text": "Mengizinkan semua akses karena aplikasinya populer dan banyak diunduh.",
+        "score": 1,
+        "rationale": "Memberi aplikasi yang tidak jelas akses ke data dinas."
+      },
+      {
+        "key": "C",
+        "text": "Memasangnya di ponsel pribadi, lalu mengirim file kantor ke ponsel itu untuk diedit.",
+        "score": 2,
+        "rationale": "Data kantor tetap terpapar, hanya berpindah perangkat."
+      },
+      {
+        "key": "D",
+        "text": "Membatalkan pemasangan dan kembali mengedit file secara manual seperti biasa walaupun memakan waktu lama.",
+        "score": 3,
+        "rationale": "Aman, tetapi tidak mencari alternatif yang efisien."
+      },
+      {
+        "key": "E",
+        "text": "Memasang aplikasi, lalu menolak izin yang tidak relevan seperti kontak dan lokasi, dan hanya mengizinkan akses ke file yang akan diedit.",
+        "score": 4,
+        "rationale": "Lebih hati-hati, tetapi aplikasi yang belum jelas keamanannya tetap dipakai untuk file dinas."
+      }
+    ],
+    "explanation": "Aplikasi yang meminta izin berlebihan berpotensi mengambil data. Perangkat dinas dan file kantor sebaiknya hanya diolah dengan aplikasi resmi atau yang direkomendasikan tim TI (Akuntabel), tanpa meninggalkan upaya bekerja efisien (Adaptif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0049",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda notulis rapat daring yang membahas daftar calon penerima beasiswa daerah. Di tengah rapat, Anda melihat satu peserta dengan nama akun 'iPhone' yang tidak dikenali siapa pun dan kameranya mati. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena mungkin itu peserta resmi yang lupa mengganti nama akun.",
+        "score": 1,
+        "rationale": "Mengabaikan potensi kebocoran data calon penerima."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat kejadian itu dalam notula untuk dilaporkan setelah rapat selesai.",
+        "score": 3,
+        "rationale": "Tercatat, tetapi kebocoran mungkin sudah terjadi selama rapat."
+      },
+      {
+        "key": "C",
+        "text": "Langsung mengeluarkan peserta itu dari ruang rapat tanpa memberi tahu pimpinan rapat.",
+        "score": 2,
+        "rationale": "Bertindak di luar peran tanpa koordinasi, padahal bisa saja itu peserta resmi."
+      },
+      {
+        "key": "D",
+        "text": "Memberi tahu pimpinan rapat lewat pesan pribadi agar peserta itu diminta memperkenalkan diri.",
+        "score": 4,
+        "rationale": "Tepat dan tidak mengganggu, tetapi pembahasan data tetap berjalan sebelum identitasnya pasti."
+      },
+      {
+        "key": "E",
+        "text": "Segera memberi tahu pimpinan rapat lewat pesan pribadi dan mengusulkan pembahasan data dijeda sampai identitas peserta itu jelas.",
+        "score": 5,
+        "rationale": "Melindungi data tanpa mengambil alih kewenangan pimpinan rapat."
+      }
+    ],
+    "explanation": "Data calon penerima beasiswa memuat data pribadi yang perlu dijaga selama rapat daring. Skor 5 bergerak cepat melalui pimpinan rapat dan menahan pembahasan data sampai peserta terverifikasi (Akuntabel, Loyal menjaga rahasia jabatan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0050",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf keuangan yang membuat makro lembar kerja sederhana untuk menghitung rekap perjalanan dinas. Pekerjaan yang biasanya sehari kini selesai dalam satu jam. Rekan-rekan ingin langsung memakainya untuk laporan akhir bulan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagikan file makro ke grup tim saat itu juga agar semua bisa langsung memakainya untuk laporan akhir bulan.",
+        "score": 2,
+        "rationale": "Niatnya berbagi, tetapi makro yang belum diuji pada data rekan berisiko menghasilkan laporan keliru."
+      },
+      {
+        "key": "B",
+        "text": "Menolak membagikan makro agar Anda tetap menjadi satu-satunya yang bisa menyelesaikan rekap dengan cepat.",
+        "score": 1,
+        "rationale": "Egois dan menghambat kinerja tim."
+      },
+      {
+        "key": "C",
+        "text": "Menguji makro pada data contoh rekan, menyusun panduan singkat, membagikannya lewat folder resmi tim, dan melaporkannya kepada atasan.",
+        "score": 5,
+        "rationale": "Inovasi dibagikan secara teruji, terdokumentasi, dan diketahui atasan."
+      },
+      {
+        "key": "D",
+        "text": "Menyimpan makro untuk diri sendiri sampai ada persetujuan resmi dari atasan untuk memakainya.",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda manfaat bagi tim."
+      },
+      {
+        "key": "E",
+        "text": "Menguji makro dengan data beberapa rekan, lalu membagikannya kepada mereka yang membutuhkan.",
+        "score": 4,
+        "rationale": "Teruji dan bermanfaat, tetapi tanpa panduan dan tanpa sepengetahuan atasan."
+      }
+    ],
+    "explanation": "Inovasi digital paling bermanfaat bila dibagikan secara bertanggung jawab: diuji, didokumentasikan, dan diketahui atasan agar hasil laporan tetap akurat (Adaptif, Kolaboratif, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0051",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda petugas pelayanan di mal pelayanan publik. Seorang warga lansia yang tidak memiliki ponsel pintar meminta Anda mengisikan formulir pendaftaran daring untuknya, termasuk membuat akun dengan email dan kata sandi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengisi formulir bersama beliau di komputer layanan, membuat akun atas namanya, dan menyerahkan data akun secara tertulis hanya kepada beliau.",
+        "score": 5,
+        "rationale": "Warga terlayani, akun menjadi milik warga, dan petugas tidak menyimpan kredensialnya."
+      },
+      {
+        "key": "B",
+        "text": "Membuatkan akun memakai email pribadi Anda agar mudah membantu beliau di kemudian hari.",
+        "score": 2,
+        "rationale": "Niatnya membantu, tetapi akun warga terikat pada data pribadi petugas."
+      },
+      {
+        "key": "C",
+        "text": "Meminta beliau datang lagi bersama anggota keluarga yang memiliki ponsel pintar.",
+        "score": 3,
+        "rationale": "Ada arahan, tetapi warga rentan belum terlayani."
+      },
+      {
+        "key": "D",
+        "text": "Mengisikan formulir, lalu menyimpan email dan kata sandi beliau di buku catatan loket agar petugas lain bisa membantu bila beliau lupa.",
+        "score": 1,
+        "rationale": "Menyimpan kredensial warga membuka peluang penyalahgunaan akun."
+      },
+      {
+        "key": "E",
+        "text": "Mengisikan formulir dan membuat akun atas nama beliau, lalu menyebutkan email dan kata sandinya secara lisan agar dicatat sendiri oleh beliau.",
+        "score": 4,
+        "rationale": "Membantu dan akun milik warga, tetapi kredensial disampaikan lisan sehingga mudah terdengar orang lain atau terlupa."
+      }
+    ],
+    "explanation": "Layanan digital harus inklusif bagi kelompok rentan, termasuk lansia (asas perlakuan khusus dalam UU 25/2009). Skor 5 membantu sampai tuntas tanpa membuat akun warga bergantung pada data atau ingatan petugas (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0052",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf administrasi kegiatan. Atasan meminta semua narasumber dan panitia mengirim foto KTP dan NPWP ke grup WhatsApp kegiatan agar honor bisa diproses hari ini. Grup itu juga berisi karyawan vendor penyedia konsumsi dan tempat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meneruskan permintaan atasan ke grup dan ikut mengirim foto KTP dan NPWP Anda sebagai contoh.",
+        "score": 1,
+        "rationale": "Mendorong penyebaran data pribadi ke pihak yang tidak berkepentingan."
+      },
+      {
+        "key": "B",
+        "text": "Mengirim data Anda sendiri lewat pesan pribadi ke atasan dan membiarkan anggota lain mengikuti instruksi di grup.",
+        "score": 3,
+        "rationale": "Melindungi data sendiri, tetapi membiarkan data orang lain terpapar."
+      },
+      {
+        "key": "C",
+        "text": "Mengeluarkan karyawan vendor dari grup tanpa memberi tahu atasan, lalu meneruskan permintaan data ke grup yang tersisa.",
+        "score": 2,
+        "rationale": "Mengurangi risiko, tetapi tetap mengumpulkan data pribadi di grup percakapan dan bertindak tanpa koordinasi."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan kepada atasan agar dokumen dikirim lewat formulir atau email dinas yang hanya diakses bendahara, lalu menyiapkannya hari itu juga.",
+        "score": 5,
+        "rationale": "Honor tetap diproses hari ini dan data hanya diterima pihak yang berwenang."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan bahwa grup itu berisi pihak luar sehingga berisiko, lalu menunggu keputusan beliau tentang cara pengumpulan data yang lain.",
+        "score": 4,
+        "rationale": "Mengingatkan dengan tepat, tetapi tanpa usulan cara yang bisa langsung dijalankan."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan kecepatan proses dengan keamanan data. KTP dan NPWP adalah data pribadi yang hanya boleh diterima pihak yang memprosesnya, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 tetap mengejar tenggat dengan kanal pengumpulan yang terbatas aksesnya (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0053",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda pengelola media sosial instansi. Unggahan resmi tentang jadwal pendaftaran pelatihan kerja ternyata keliru tanggal dan sudah dibagikan ribuan kali. Kesalahan itu berasal dari Anda saat menyalin informasi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghapus unggahan diam-diam dan mengunggah versi baru seolah tidak pernah ada kesalahan.",
+        "score": 1,
+        "rationale": "Tidak jujur, dan warga yang sudah membaca versi lama tetap keliru."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu ada warga yang protes sebelum melakukan perbaikan.",
+        "score": 2,
+        "rationale": "Pasif dan membiarkan informasi keliru menyebar."
+      },
+      {
+        "key": "C",
+        "text": "Melapor ke atasan, mengunggah ralat yang jelas dan disematkan di semua kanal resmi, serta menambah tahap pengecekan sebelum unggahan berikutnya.",
+        "score": 5,
+        "rationale": "Jujur, cepat memperbaiki, dan mencegah kesalahan terulang."
+      },
+      {
+        "key": "D",
+        "text": "Mengedit keterangan unggahan lama dengan tanggal yang benar dan menambahkan tulisan 'ralat'.",
+        "score": 4,
+        "rationale": "Memperbaiki, tetapi jangkauan ralat terbatas dan tanpa pencegahan."
+      },
+      {
+        "key": "E",
+        "text": "Membalas satu per satu komentar warga yang menanyakan tanggal dengan informasi yang benar.",
+        "score": 3,
+        "rationale": "Membantu sebagian warga, tetapi tidak menjangkau semua yang sudah membaca."
+      }
+    ],
+    "explanation": "Mengakui dan memperbaiki kesalahan secara terbuka adalah wujud nilai Akuntabel. Di kanal digital, ralat harus sejelas dan seluas informasi keliru yang sudah tersebar, disertai pencegahan agar tidak terulang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0054",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Ponsel dinas Anda tertinggal di angkutan umum. Di ponsel itu masih masuk akun email dinas dan aplikasi persuratan elektronik, sedangkan layarnya hanya dikunci dengan pola sederhana. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu beberapa hari dengan harapan ada yang mengembalikan, tanpa melapor.",
+        "score": 1,
+        "rationale": "Membiarkan akses ke akun dinas terbuka bagi orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Membeli ponsel baru dengan uang pribadi dan memasang ulang semua akun tanpa melapor ke kantor.",
+        "score": 2,
+        "rationale": "Menutupi kehilangan barang milik negara dan akses lama tidak diputus."
+      },
+      {
+        "key": "C",
+        "text": "Melapor kehilangan ke kantor polisi untuk mendapatkan surat keterangan.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi akses ke akun dinas belum diamankan."
+      },
+      {
+        "key": "D",
+        "text": "Mengganti kata sandi email dinas dari komputer kantor.",
+        "score": 4,
+        "rationale": "Mengamankan sebagian akun, tetapi aplikasi lain dan pelaporan barang milik negara terlewat."
+      },
+      {
+        "key": "E",
+        "text": "Segera mengganti kata sandi, meminta tim TI memutus sesi di ponsel itu, dan melaporkan kehilangan sesuai prosedur.",
+        "score": 5,
+        "rationale": "Mengamankan data dengan cepat dan bertanggung jawab atas barang milik negara."
+      }
+    ],
+    "explanation": "Kehilangan perangkat dinas berarti risiko akses tidak sah ke data instansi. Langkah pertama adalah memutus akses akun, lalu melapor sesuai prosedur barang milik negara (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0055",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Seorang rekan di bagian perizinan sering membuat video singkat suasana kerja untuk media sosial pribadinya. Dalam beberapa video, layar komputer yang menampilkan data pemohon izin terlihat jelas di latar belakang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberi tahu rekan secara pribadi bahwa data pemohon terlihat, meminta videonya diturunkan atau disunting, dan mengajaknya memastikan layar tertutup saat merekam.",
+        "score": 5,
+        "rationale": "Menghentikan paparan data dengan santun dan mencegahnya terulang."
+      },
+      {
+        "key": "B",
+        "text": "Ikut tampil dalam video berikutnya karena kontennya menarik dan menaikkan citra kantor.",
+        "score": 1,
+        "rationale": "Ikut memperluas paparan data pemohon."
+      },
+      {
+        "key": "C",
+        "text": "Menulis di kolom komentar videonya bahwa ada data pemohon yang terlihat agar ia segera sadar.",
+        "score": 2,
+        "rationale": "Niatnya mengingatkan, tetapi mempermalukan rekan dan menarik perhatian publik pada data yang terbuka."
+      },
+      {
+        "key": "D",
+        "text": "Tidak berkomentar, tetapi menjaga agar layar komputer Anda sendiri selalu tertutup saat ia merekam.",
+        "score": 3,
+        "rationale": "Melindungi data di meja Anda, tetapi paparan dari komputer lain dibiarkan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan video-video itu kepada atasan agar diterbitkan aturan larangan merekam di ruang layanan.",
+        "score": 4,
+        "rationale": "Sistemik, tetapi video yang sudah beredar belum ditangani dan rekan tidak diajak bicara dulu."
+      }
+    ],
+    "explanation": "Media sosial pribadi ASN tidak boleh menjadi jalan bocornya data layanan. Skor 5 menghentikan paparan secepatnya lewat dialog langsung yang santun dan mencegah pengulangan (Akuntabel, Harmonis).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0056",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda sekretaris desa. Laporan penggunaan dana desa kini wajib diinput melalui aplikasi baru dengan tenggat akhir pekan ini. Para kepala urusan belum bisa memakainya dan menyerahkan kata sandi akun mereka agar Anda yang menginput semua bagian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menginput semua bagian dengan akun mereka dan menyimpan kata sandinya untuk laporan bulan berikutnya.",
+        "score": 1,
+        "rationale": "Memakai dan menyimpan kredensial orang lain sehingga tanggung jawab tiap akun menjadi kabur."
+      },
+      {
+        "key": "B",
+        "text": "Mengembalikan kata sandi dan meminta setiap kepala urusan menyelesaikan bagiannya sendiri sebelum tenggat.",
+        "score": 3,
+        "rationale": "Akun aman, tetapi rekan yang belum mampu dibiarkan berjuang sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menginput semua bagian dengan akun mereka khusus untuk kali ini karena tenggat mendesak dan aplikasinya masih baru, lalu menjadwalkan pelatihan bagi semua kepala urusan sebelum laporan bulan depan.",
+        "score": 2,
+        "rationale": "Tenggat terkejar, tetapi tetap memakai akun orang lain dan mengaburkan tanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Menolak memakai akun mereka dan mengadakan sesi input bersama di kantor desa sebelum tenggat.",
+        "score": 5,
+        "rationale": "Tenggat terkejar, setiap akun dipakai pemiliknya, dan rekan belajar langsung."
+      },
+      {
+        "key": "E",
+        "text": "Menolak memakai akun mereka, menjelaskan bahwa setiap input tercatat atas nama pemilik akun, lalu mengirim video tutorial resmi aplikasi ke grup perangkat desa untuk dipelajari masing-masing.",
+        "score": 4,
+        "rationale": "Aman dan memberi bahan belajar, tetapi tanpa pendampingan langsung sehingga tenggat tetap berisiko."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan tenggat dengan keamanan akun dan akuntabilitas: setiap input laporan keuangan harus tercatat atas nama pemilik akun yang bertanggung jawab. Skor 5 mengejar tenggat lewat pendampingan langsung, bukan dengan mengambil alih akun (Akuntabel; Kompeten: membantu orang lain belajar).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0057",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda ketua tim penyusun laporan tahunan. File laporan beredar lewat email dan WhatsApp dengan nama seperti 'final_revisi2_fix', sehingga anggota sering mengedit versi yang berbeda dan sebagian revisi hilang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menetapkan bahwa hanya Anda yang boleh mengedit file, sedangkan anggota mengirim masukan lewat pesan.",
+        "score": 3,
+        "rationale": "Konflik versi hilang, tetapi beban menumpuk pada Anda dan kerja tim melambat."
+      },
+      {
+        "key": "B",
+        "text": "Memindahkan file ke penyimpanan bersama resmi instansi yang mencatat riwayat versi, menyepakati pembagian bagian, dan memandu anggota yang belum terbiasa.",
+        "score": 5,
+        "rationale": "Memanfaatkan TI untuk kolaborasi yang tertib dan memastikan seluruh anggota mampu memakainya."
+      },
+      {
+        "key": "C",
+        "text": "Membuat aturan penamaan file yang seragam dan meminta setiap anggota mengirim revisi hanya lewat email dinas.",
+        "score": 4,
+        "rationale": "Lebih tertib, tetapi masalah banyak versi belum terselesaikan."
+      },
+      {
+        "key": "D",
+        "text": "Menyalahkan anggota yang revisinya tertimpa karena kurang teliti.",
+        "score": 2,
+        "rationale": "Menyalahkan tanpa memperbaiki cara kerja."
+      },
+      {
+        "key": "E",
+        "text": "Mengunggah file ke layanan penyunting daring dengan akun pribadi dan membagikan tautan terbukanya ke grup.",
+        "score": 1,
+        "rationale": "Dokumen dinas berada di akun pribadi dengan tautan yang bisa dibuka siapa saja."
+      }
+    ],
+    "explanation": "Kolaborasi digital yang baik memakai sarana resmi yang aman dan aturan main yang jelas (Adaptif, Kolaboratif, Akuntabel). Skor 5 menyelesaikan masalah versi sekaligus memastikan semua anggota mampu memakai sarananya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0058",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda kepala seksi pengaduan. Instansi sudah menyediakan aplikasi tiket pengaduan agar setiap aduan tercatat dan terpantau, tetapi dua staf Anda tetap menerima aduan lewat WhatsApp pribadi karena dianggap lebih cepat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena yang penting aduan warga ditanggapi.",
+        "score": 2,
+        "rationale": "Aduan tidak tercatat dan sulit dipertanggungjawabkan."
+      },
+      {
+        "key": "B",
+        "text": "Menegur keras kedua staf di grup kantor agar menjadi pelajaran bagi semua.",
+        "score": 1,
+        "rationale": "Mempermalukan staf tanpa mencari tahu kendalanya."
+      },
+      {
+        "key": "C",
+        "text": "Mengirim surat edaran ke seluruh seksi bahwa semua aduan wajib masuk ke aplikasi tiket.",
+        "score": 3,
+        "rationale": "Aturan dipertegas, tetapi alasan staf tidak digali."
+      },
+      {
+        "key": "D",
+        "text": "Mewajibkan kedua staf menginput ulang semua aduan yang masuk lewat WhatsApp ke aplikasi tiket pada akhir hari.",
+        "score": 4,
+        "rationale": "Aduan tercatat, tetapi alasan staf enggan memakai aplikasi tidak tersentuh."
+      },
+      {
+        "key": "E",
+        "text": "Menanyakan kendala mereka, memperbaiki alur yang lambat bersama pengelola aplikasi, dan memastikan setiap aduan tetap tercatat di aplikasi.",
+        "score": 5,
+        "rationale": "Menyelesaikan akar penolakan dan menjaga akuntabilitas aduan."
+      }
+    ],
+    "explanation": "Sebagai atasan, Anda berwenang membina dan memperbaiki proses. Skor 5 menggali alasan penolakan, memperbaiki sistem, dan memastikan setiap aduan tercatat (Adaptif, Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0059",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Email dinas Anda menerima pesan atas nama sebuah BUMN yang menyatakan Anda memenangkan undian berhadiah sepeda motor. Untuk klaim, Anda diminta mengisi data diri dan nomor rekening melalui tautan dalam 2 x 24 jam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengisi data dan nomor rekening karena tidak ingin melewatkan hadiah.",
+        "score": 1,
+        "rationale": "Menyerahkan data pribadi dan rekening kepada penipu."
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan email itu ke grup kantor untuk menanyakan apakah ada yang pernah menang undian yang sama.",
+        "score": 2,
+        "rationale": "Ikut menyebarkan tautan berbahaya."
+      },
+      {
+        "key": "C",
+        "text": "Tidak mengklik tautan, melaporkan email itu ke tim TI sebagai phishing, lalu menghapusnya.",
+        "score": 5,
+        "rationale": "Aman dan membantu tim TI memblokir serangan serupa."
+      },
+      {
+        "key": "D",
+        "text": "Mengabaikan email itu dan membiarkannya di kotak masuk.",
+        "score": 3,
+        "rationale": "Aman untuk saat itu, tetapi tautan masih bisa terklik tanpa sengaja dan tidak dilaporkan."
+      },
+      {
+        "key": "E",
+        "text": "Tidak mengklik tautan, mengecek di situs resmi BUMN tersebut apakah undian itu benar ada, lalu menghapus email setelah yakin itu penipuan.",
+        "score": 4,
+        "rationale": "Teliti dan aman, tetapi ancaman tidak dilaporkan ke tim TI."
+      }
+    ],
+    "explanation": "Iming-iming hadiah dengan batas waktu adalah ciri umum phishing. Selain tidak mengklik, melaporkan ke tim TI membantu melindungi pegawai lain (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0060",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf TI dinas kependudukan. Vendor aplikasi meminta salinan basis data produksi berisi data warga dikirim ke akun Google Drive pribadinya hari ini untuk memperbaiki galat yang membuat layanan lambat. Atasan sedang cuti dan keluhan warga terus berdatangan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim salinan basis data lengkap ke Drive pribadi vendor agar galat cepat diperbaiki.",
+        "score": 1,
+        "rationale": "Memindahkan data kependudukan ke akun pribadi pihak luar tanpa dasar."
+      },
+      {
+        "key": "B",
+        "text": "Menolak mengirim data asli, menawarkan data uji yang disamarkan, dan melapor ke pejabat pengganti atasan.",
+        "score": 5,
+        "rationale": "Perbaikan tetap berjalan tanpa membocorkan data warga dan pejabat berwenang dilibatkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengirim sebagian kecil data warga ke Drive vendor sebagai sampel, karena galat harus ditelusuri dengan data nyata dan vendor sudah terikat kontrak kerja sama dengan instansi.",
+        "score": 2,
+        "rationale": "Tetap membocorkan data pribadi, hanya dalam jumlah lebih kecil."
+      },
+      {
+        "key": "D",
+        "text": "Menunda semua permintaan vendor sampai atasan kembali dari cuti.",
+        "score": 3,
+        "rationale": "Data aman, tetapi layanan tetap terganggu tanpa upaya mencari jalan yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan, menjelaskan bahwa data kependudukan tidak boleh keluar dari server instansi, lalu meminta vendor mengajukan permintaan resmi tertulis.",
+        "score": 4,
+        "rationale": "Melindungi data, tetapi tanpa alternatif agar perbaikan layanan bisa segera berjalan."
+      }
+    ],
+    "explanation": "Kecepatan memperbaiki layanan tidak boleh dibayar dengan memindahkan data kependudukan ke akun pribadi pihak luar. Sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi, pemrosesan oleh pihak ketiga harus terbatas dan berdasarkan perjanjian. Skor 5 mencari cara teknis yang aman dan melibatkan pejabat yang berwenang (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0061",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf humas. Instansi berlangganan aplikasi desain berbayar dengan satu akun bersama untuk tim humas. Rekan dari bagian lain meminta kata sandi akun itu untuk membuat brosur usaha kateringnya di rumah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak langsung menjawab dan menyarankan ia meminta izin kepala bagian humas terlebih dahulu.",
+        "score": 3,
+        "rationale": "Melempar keputusan padahal aturannya jelas: fasilitas dinas bukan untuk usaha pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Memberikan kata sandi karena langganan sudah dibayar dan akun itu jarang dipakai pada malam hari, sehingga tidak mengganggu pekerjaan tim humas sama sekali.",
+        "score": 1,
+        "rationale": "Membagikan kredensial dinas dan memakai fasilitas negara untuk kepentingan pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan karena akun itu fasilitas dinas yang hanya untuk pekerjaan kantor.",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa alternatif bagi rekan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan karena akun itu fasilitas dinas, lalu menunjukkan aplikasi desain gratis yang bisa ia pakai sendiri.",
+        "score": 5,
+        "rationale": "Menjaga fasilitas dinas sambil tetap membantu secara wajar."
+      },
+      {
+        "key": "E",
+        "text": "Membuatkan brosurnya sendiri memakai akun dinas di sela pekerjaan agar kata sandi tidak perlu dibagikan.",
+        "score": 2,
+        "rationale": "Kata sandi aman, tetapi fasilitas dan jam dinas dipakai untuk usaha pribadi."
+      }
+    ],
+    "explanation": "Akun aplikasi berlisensi milik instansi adalah fasilitas dinas yang tidak boleh dipakai untuk kepentingan pribadi atau dibagikan kata sandinya (Akuntabel: memakai barang milik negara secara bertanggung jawab). Skor 5 menolak dengan sopan sambil memberi alternatif yang sah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0062",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda guru ASN di SMA. Banyak siswa mengumpulkan esai yang jelas dibuat dengan aplikasi AI tanpa diolah. Sebagian guru ingin melarang total penggunaan AI, sebagian lain membiarkannya. Sikap Anda sebagai guru mata pelajaran?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun aturan kelas tentang penggunaan AI yang boleh dan tidak, mengajarkan cara memeriksa dan mencantumkan bantuan AI, serta merancang tugas yang menuntut proses berpikir siswa.",
+        "score": 5,
+        "rationale": "Memanfaatkan teknologi secara bertanggung jawab dan mendidik siswa memakainya dengan jujur."
+      },
+      {
+        "key": "B",
+        "text": "Memberi nilai nol kepada semua siswa yang esainya terdeteksi memakai AI dan mengumumkan nama mereka di kelas.",
+        "score": 1,
+        "rationale": "Menghukum tanpa aturan yang jelas dan mempermalukan siswa."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti keputusan mayoritas guru dalam rapat, apa pun hasilnya.",
+        "score": 3,
+        "rationale": "Netral, tanpa sumbangan pemikiran."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan siswa memakai AI sepenuhnya karena itu tuntutan zaman.",
+        "score": 2,
+        "rationale": "Mengabaikan tujuan belajar dan kejujuran akademik."
+      },
+      {
+        "key": "E",
+        "text": "Melarang penggunaan AI untuk tugas esai di kelas Anda dan meminta siswa menulis tangan di kelas.",
+        "score": 4,
+        "rationale": "Menjaga kejujuran, tetapi menutup kesempatan siswa belajar memakai teknologi secara benar."
+      }
+    ],
+    "explanation": "Sikap Adaptif terhadap teknologi baru bukan berarti menerima atau menolak mentah-mentah, melainkan mengatur pemanfaatannya agar tetap jujur dan mendukung tujuan kerja, dalam hal ini tujuan belajar (Adaptif, Kompeten).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0063",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf dinas pendidikan. Hari ini Anda harus mengirim file nilai dan identitas 5.000 siswa berukuran 2 GB ke dinas provinsi. Email dinas menolak karena ukurannya terlalu besar. Rekan menyarankan layanan transfer file publik yang tautannya bisa diunduh siapa saja. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengirim lewat layanan transfer file publik dan membagikan tautannya di grup operator sekolah agar provinsi bisa mengunduhnya.",
+        "score": 1,
+        "rationale": "Tautan terbuka beredar luas dan membuka data pribadi siswa."
+      },
+      {
+        "key": "B",
+        "text": "Mengabari dinas provinsi bahwa file tidak bisa dikirim hari ini karena keterbatasan email.",
+        "score": 3,
+        "rationale": "Jujur, tetapi tidak mencari jalan aman agar tenggat terpenuhi."
+      },
+      {
+        "key": "C",
+        "text": "Memakai fasilitas berbagi file resmi instansi dengan akses terbatas, lalu mengonfirmasi penerimaannya ke dinas provinsi.",
+        "score": 5,
+        "rationale": "Tenggat terkejar melalui kanal aman dan penerimaan dipastikan."
+      },
+      {
+        "key": "D",
+        "text": "Mengantar sendiri file itu dalam flashdisk terenkripsi milik kantor ke dinas provinsi sore ini.",
+        "score": 4,
+        "rationale": "Aman dan tenggat bisa terkejar, tetapi memakan waktu dan biaya padahal ada kanal digital resmi."
+      },
+      {
+        "key": "E",
+        "text": "Mengirim lewat layanan transfer file publik, tetapi mengunci file arsipnya dengan kata sandi yang dikirim terpisah lewat WhatsApp kepada staf provinsi, karena cara ini cepat dan biasa dipakai banyak operator.",
+        "score": 2,
+        "rationale": "Ada upaya pengamanan, tetapi data siswa tetap tersimpan di layanan publik di luar kendali instansi."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan tenggat dengan keamanan data. Identitas dan nilai siswa adalah data pribadi anak yang perlu perlindungan lebih, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 memakai kanal resmi yang aman dan memastikan penerimaan, bukan sekadar cepat (Akuntabel, Adaptif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0064",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf perencanaan di kabupaten kepulauan. Pimpinan ingin rapat koordinasi bulanan diadakan tatap muka di ibu kota kabupaten, padahal peserta dari pulau terjauh butuh dua hari perjalanan dan biaya besar. Anda diminta menyiapkan rapat itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam-diam mengubah rapat menjadi daring tanpa izin pimpinan karena lebih hemat.",
+        "score": 1,
+        "rationale": "Melampaui wewenang dan mengabaikan keputusan pimpinan."
+      },
+      {
+        "key": "B",
+        "text": "Menyiapkan rapat tatap muka sambil mengeluhkan pemborosan anggaran itu kepada rekan.",
+        "score": 2,
+        "rationale": "Mengeluh di belakang tanpa memberi masukan."
+      },
+      {
+        "key": "C",
+        "text": "Menyiapkan rapat tatap muka sesuai arahan, lalu menghubungi setiap peserta dari pulau terjauh untuk memastikan jadwal kapal, tiket, dan penginapan mereka aman sehingga tidak ada yang terlambat.",
+        "score": 3,
+        "rationale": "Patuh dan teliti, tetapi tidak memberi masukan tentang cara yang lebih efisien."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan kepada pimpinan bahwa rapat daring akan lebih hemat.",
+        "score": 4,
+        "rationale": "Memberi masukan, tetapi tanpa data dan rancangan yang meyakinkan."
+      },
+      {
+        "key": "E",
+        "text": "Menyiapkan rapat sesuai arahan sambil mengusulkan pola hibrida beserta perkiraan penghematan dan hasil uji koneksi di pulau terjauh.",
+        "score": 5,
+        "rationale": "Patuh pada arahan sambil memberi usulan berbasis data yang siap dijalankan."
+      }
+    ],
+    "explanation": "Memanfaatkan TI untuk efisiensi anggaran adalah bagian nilai Akuntabel dan Adaptif. Sebagai staf, skor 5 tetap menjalankan arahan pimpinan sambil memberi usulan yang terukur, bukan mengubah keputusan sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0065",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda melihat rekan satu ruangan menempelkan catatan berisi nama pengguna dan kata sandi beberapa aplikasi kantor di pinggir monitornya. Ruangan itu sering dikunjungi tamu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena setiap pegawai bertanggung jawab atas akunnya sendiri.",
+        "score": 2,
+        "rationale": "Pasif terhadap risiko yang jelas terlihat."
+      },
+      {
+        "key": "B",
+        "text": "Mengingatkannya secara pribadi tentang risikonya dan menawarkan cara aman mengingat kata sandi yang direkomendasikan tim TI.",
+        "score": 5,
+        "rationale": "Menyampaikan risiko dengan santun dan memberi solusi pengganti."
+      },
+      {
+        "key": "C",
+        "text": "Mengingatkannya secara pribadi agar catatan itu segera dicopot.",
+        "score": 4,
+        "rationale": "Tepat dan santun, tetapi tanpa solusi pengganti."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kebiasaan rekan itu kepada tim TI.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi melewatkan teguran langsung yang sederhana."
+      },
+      {
+        "key": "E",
+        "text": "Memotret catatan itu dan mengirimnya ke grup kantor sebagai contoh kebiasaan buruk, dengan maksud agar semua pegawai belajar dan rekan tersebut segera mengganti kata sandinya.",
+        "score": 1,
+        "rationale": "Mempermalukan rekan dan justru menyebarkan kata sandinya lebih luas."
+      }
+    ],
+    "explanation": "Kata sandi yang terpajang sama saja dengan akun tanpa kunci. Skor 5 menegur dengan santun dan memberi cara aman pengganti (Akuntabel, Harmonis).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0066",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf di unit layanan terpadu kabupaten. Survei kepuasan masyarakat masih memakai kuesioner kertas yang direkap manual setiap bulan, sehingga hasilnya sering terlambat dilaporkan. Anda ditugasi menangani survei tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap memakai kuesioner kertas karena sebagian warga tidak memakai ponsel pintar.",
+        "score": 2,
+        "rationale": "Mempertimbangkan warga, tetapi tidak memperbaiki proses yang lambat."
+      },
+      {
+        "key": "B",
+        "text": "Membuat survei daring di akun pribadi yang meminta warga mengisi NIK dan nomor ponsel agar data lebih lengkap.",
+        "score": 1,
+        "rationale": "Mengumpulkan data pribadi berlebihan di akun pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Membuat survei daring di platform resmi dengan kode QR, tetap menyediakan kertas bagi yang membutuhkan, dan menyusun rekap otomatis.",
+        "score": 5,
+        "rationale": "Efisien, inklusif, dan memakai sarana resmi."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan kepada atasan agar rekap survei dikerjakan oleh tenaga tambahan.",
+        "score": 3,
+        "rationale": "Menambah tenaga, tetapi proses tetap lambat."
+      },
+      {
+        "key": "E",
+        "text": "Membuat survei daring di platform resmi instansi dan memasang kode QR di setiap loket, lalu menghapus kuesioner kertas mulai bulan depan agar seluruh rekap bisa langsung otomatis.",
+        "score": 4,
+        "rationale": "Efisien dan resmi, tetapi warga tanpa ponsel pintar kehilangan kesempatan menilai layanan."
+      }
+    ],
+    "explanation": "Digitalisasi layanan harus efisien tanpa meninggalkan warga yang belum terjangkau teknologi dan tanpa mengumpulkan data pribadi yang tidak perlu (Adaptif, Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0067",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda petugas loket Disdukcapil. Karena galat sistem, data seorang warga tersimpan ganda sehingga dokumennya tidak bisa dicetak, padahal ia membutuhkannya hari ini untuk melamar kerja. Rekan yang punya akses basis data menawarkan menghapus salah satu data langsung tanpa tiket perbaikan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan langsung menghapus data ganda dari basis data agar dokumen bisa dicetak sekarang.",
+        "score": 1,
+        "rationale": "Mengubah data kependudukan di luar prosedur dan tanpa jejak."
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga datang lagi setelah galat diperbaiki pusat, tanpa keterangan apa pun.",
+        "score": 3,
+        "rationale": "Prosedur terjaga, tetapi warga dirugikan tanpa solusi sementara."
+      },
+      {
+        "key": "C",
+        "text": "Membuat tiket perbaikan data ganda ke pengelola sistem dan menyampaikan kepada warga perkiraan waktu penyelesaiannya.",
+        "score": 4,
+        "rationale": "Sesuai prosedur dan jujur, tetapi kebutuhan mendesak warga belum dicarikan jalan."
+      },
+      {
+        "key": "D",
+        "text": "Mengizinkan rekan menghapus data asalkan ia mencatat perubahan itu di buku catatan loket, karena warga sangat membutuhkan dokumennya hari ini dan perbaikan resmi bisa memakan waktu berhari-hari.",
+        "score": 2,
+        "rationale": "Ada catatan, tetapi perubahan data tetap dilakukan di luar prosedur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Membuat tiket perbaikan berlabel mendesak, berkoordinasi dengan atasan, dan menanyakan apakah ada keterangan sementara yang sah bagi warga.",
+        "score": 5,
+        "rationale": "Prosedur terjaga sambil berupaya keras memenuhi kebutuhan mendesak warga."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan kecepatan layanan dengan prosedur: data kependudukan hanya boleh diubah melalui mekanisme resmi yang meninggalkan jejak audit. Skor 5 tetap mengikuti prosedur sambil memakai jalur percepatan dan solusi sementara yang sah (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0068",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Atasan Anda tidak percaya pada fitur ekspor laporan dari aplikasi keuangan dan meminta semua angka diketik ulang secara manual ke lembar kerja setiap bulan. Pekerjaan itu memakan dua hari dan pernah menimbulkan salah ketik. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menanyakan keraguan beliau, lalu menunjukkan hasil ekspor yang sudah dicocokkan dengan data sistem pada beberapa sampel.",
+        "score": 5,
+        "rationale": "Menjawab keraguan dengan bukti sehingga beliau bisa memutuskan dengan yakin."
+      },
+      {
+        "key": "B",
+        "text": "Diam-diam memakai fitur ekspor, tetapi melaporkannya seolah-olah diketik ulang.",
+        "score": 1,
+        "rationale": "Tidak jujur kepada atasan."
+      },
+      {
+        "key": "C",
+        "text": "Tetap mengetik ulang secara manual sesuai perintah, tetapi lebih teliti dengan memeriksa setiap angka dua kali dan meminta rekan membaca ulang hasilnya sebelum diserahkan.",
+        "score": 3,
+        "rationale": "Patuh dan teliti, tetapi proses yang tidak efisien dan rawan salah tidak diperbaiki."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan kepada beliau agar beralih ke fitur ekspor karena lebih cepat dan akurat.",
+        "score": 4,
+        "rationale": "Memberi masukan, tetapi tanpa bukti yang bisa menjawab keraguan beliau."
+      },
+      {
+        "key": "E",
+        "text": "Mengeluhkan perintah itu kepada rekan satu bagian.",
+        "score": 2,
+        "rationale": "Tidak menyelesaikan masalah dan merusak suasana kerja."
+      }
+    ],
+    "explanation": "Adaptif mencakup membantu atasan menerima teknologi dengan bukti, bukan dengan memaksa atau mengakali. Skor 5 tetap menghormati kewenangan atasan sambil menunjukkan bahwa hasil sistem dapat dipercaya (Adaptif, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0069",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf kelurahan. Beberapa warga datang menanyakan pesan berantai berisi tautan 'cek penerima bansos 2026' yang meminta mereka memasukkan NIK, nomor KK, dan foto swafoto sambil memegang KTP. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyatakan tidak tahu dan menyarankan warga bertanya ke dinas sosial.",
+        "score": 2,
+        "rationale": "Melepas tanggung jawab padahal warga butuh arahan segera."
+      },
+      {
+        "key": "B",
+        "text": "Mengatakan bahwa pesan itu kemungkinan penipuan dan meminta warga tidak mengisinya.",
+        "score": 3,
+        "rationale": "Benar, tetapi tanpa rujukan kanal resmi dan tanpa tindak lanjut."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan bahwa tautan itu bukan kanal resmi dan menunjukkan cara mengecek status bantuan lewat situs atau aplikasi resmi.",
+        "score": 4,
+        "rationale": "Melindungi warga dan memberi jalan resmi, tetapi sebaran tautan tidak ditindaklanjuti."
+      },
+      {
+        "key": "D",
+        "text": "Menunjukkan cara mengecek lewat kanal resmi, meminta warga tidak mengisi tautan itu, dan melaporkan sebarannya kepada lurah.",
+        "score": 5,
+        "rationale": "Melindungi warga, memberi jalan resmi, dan mendorong klarifikasi agar tidak ada korban lain."
+      },
+      {
+        "key": "E",
+        "text": "Mencoba tautan itu memakai data salah satu warga yang bersedia, untuk memastikan apakah situsnya benar-benar meminta data lengkap sebelum Anda menjelaskan kepada warga lain.",
+        "score": 1,
+        "rationale": "Mengorbankan data warga untuk menguji situs yang mencurigakan."
+      }
+    ],
+    "explanation": "Tautan pengecekan bantuan palsu adalah modus phishing untuk mencuri data kependudukan. Skor 5 melindungi warga, mengarahkan ke kanal resmi, dan mendorong klarifikasi kelembagaan agar korban tidak bertambah (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0070",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda ASN di dinas pendidikan. Sebuah kebijakan dari kementerian lain sedang ramai dikritik di media sosial, dan teman-teman mendesak Anda ikut berkomentar di akun pribadi karena 'ASN juga warga negara'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengunggah kritik pedas dengan bahasa kasar disertai tagar yang sedang ramai.",
+        "score": 1,
+        "rationale": "Tidak etis dan merusak citra ASN."
+      },
+      {
+        "key": "B",
+        "text": "Memahami kebijakan itu dari sumber resmi, menahan diri dari unggahan provokatif, dan bila perlu menyampaikan masukan secara santun dengan data melalui kanal yang tersedia.",
+        "score": 5,
+        "rationale": "Bijak bermedia sosial, tetap kritis, dan menjaga etika ASN."
+      },
+      {
+        "key": "C",
+        "text": "Membagikan ulang unggahan warganet yang paling banyak disukai tanpa memeriksa isinya.",
+        "score": 2,
+        "rationale": "Ikut menyebarkan informasi yang belum diperiksa."
+      },
+      {
+        "key": "D",
+        "text": "Tidak berkomentar sama sekali dan keluar dari percakapan teman-teman.",
+        "score": 3,
+        "rationale": "Aman, tetapi tidak ada upaya memahami atau memberi masukan."
+      },
+      {
+        "key": "E",
+        "text": "Membaca dokumen kebijakan dari sumber resmi, lalu menjelaskan isinya kepada teman-teman tanpa ikut mengkritik di media sosial.",
+        "score": 4,
+        "rationale": "Mengedukasi dengan sumber resmi, tetapi masukan yang mungkin ada tidak disalurkan."
+      }
+    ],
+    "explanation": "ASN tetap boleh berpendapat, tetapi wajib menjaga etika, netralitas, dan nama baik instansi di media sosial (Loyal). Skor 5 bersikap kritis berdasarkan sumber resmi dan menyalurkan masukan secara santun, bukan ikut arus.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0071",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf pengelola arsip yang memigrasikan data perizinan lima tahun ke aplikasi baru. Server lama hampir penuh dan memperlambat layanan. Rekan menyarankan data di server lama langsung dihapus setelah migrasi agar layanan cepat normal kembali. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghapus data lama segera setelah proses migrasi selesai tanpa pemeriksaan.",
+        "score": 1,
+        "rationale": "Berisiko kehilangan arsip secara permanen bila migrasi tidak sempurna."
+      },
+      {
+        "key": "B",
+        "text": "Menunda penghapusan tanpa batas waktu dan membiarkan server tetap lambat.",
+        "score": 3,
+        "rationale": "Data aman, tetapi masalah layanan tidak diselesaikan."
+      },
+      {
+        "key": "C",
+        "text": "Mencocokkan jumlah dan contoh data di aplikasi baru dengan server lama, lalu menghapus data lama jika hasilnya sesuai.",
+        "score": 4,
+        "rationale": "Ada verifikasi, tetapi tanpa cadangan dan tanpa persetujuan sesuai ketentuan arsip."
+      },
+      {
+        "key": "D",
+        "text": "Memindahkan data lama ke hard disk eksternal pribadi Anda sebagai cadangan sebelum menghapusnya dari server, karena hard disk kantor sedang tidak tersedia dan cara ini paling cepat mengosongkan server.",
+        "score": 2,
+        "rationale": "Data tersimpan, tetapi arsip negara berada di perangkat pribadi di luar kendali instansi."
+      },
+      {
+        "key": "E",
+        "text": "Memverifikasi hasil migrasi, membuat cadangan di media resmi, dan menghapus data lama setelah ada persetujuan sesuai ketentuan arsip.",
+        "score": 5,
+        "rationale": "Layanan pulih tanpa mengorbankan keutuhan dan keamanan arsip."
+      }
+    ],
+    "explanation": "Soal ini mempertemukan efisiensi dengan keamanan data: arsip pemerintahan tidak boleh hilang karena terburu-buru. Skor 5 memverifikasi, mencadangkan di media resmi, dan menghapus sesuai ketentuan, sehingga layanan pulih dengan aman (Akuntabel, Adaptif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0072",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Teman lama yang bekerja di perusahaan asuransi meminta Anda, staf kepegawaian, mengirimkan daftar nama dan nomor ponsel seluruh pegawai di instansi Anda untuk keperluan pemasaran produknya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan alasan sedang sibuk dan berjanji akan mempertimbangkannya nanti.",
+        "score": 3,
+        "rationale": "Data aman untuk sementara, tetapi jawabannya tidak jujur dan membuka harapan."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan ia meminta data itu kepada rekan di bagian lain.",
+        "score": 2,
+        "rationale": "Melempar permintaan yang jelas tidak boleh dipenuhi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan tegas bahwa data pegawai tidak boleh diberikan untuk kepentingan pemasaran.",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa penjelasan dan tanpa alternatif."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan karena data pegawai hanya untuk kepentingan dinas, lalu menyarankan jalur resmi seperti mengajukan sosialisasi ke instansi.",
+        "score": 5,
+        "rationale": "Menjaga data, tetap menjaga hubungan, dan memberi jalan yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Mengirimkan daftar itu tanpa nomor ponsel pimpinan, karena teman sudah berjanji tidak menyebarkannya dan pegawai tetap bebas menolak tawaran asuransi bila tidak berminat.",
+        "score": 1,
+        "rationale": "Membocorkan data pribadi pegawai untuk kepentingan komersial."
+      }
+    ],
+    "explanation": "Data pegawai adalah data pribadi yang hanya boleh dipakai sesuai tujuan pengumpulannya. Memberikannya untuk pemasaran bertentangan dengan prinsip UU 27/2022 tentang Pelindungan Data Pribadi dan kewajiban menjaga rahasia jabatan (Loyal, Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0073",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda kepala subbagian umum. Instansi diminta berhemat sehingga rapat internal didorong daring dan surat-menyurat beralih ke dokumen elektronik. Sebagian pegawai, terutama yang mendekati pensiun, belum mampu dan tampak cemas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengumumkan bahwa pegawai yang tidak bisa menyesuaikan diri akan dicatat dalam penilaian kinerja.",
+        "score": 1,
+        "rationale": "Menekan pegawai tanpa membantu mereka."
+      },
+      {
+        "key": "B",
+        "text": "Menyusun tahapan peralihan, menunjuk pendamping dari pegawai yang mahir, dan mengadakan latihan singkat bagi yang belum mampu.",
+        "score": 5,
+        "rationale": "Perubahan berjalan dan pegawai dibantu beradaptasi."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu bagian kepegawaian mengadakan pelatihan resmi sebelum memulai peralihan.",
+        "score": 3,
+        "rationale": "Hati-hati, tetapi menunda perubahan yang sudah diarahkan."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan pegawai yang belum mampu tetap memakai cara lama tanpa batas waktu.",
+        "score": 2,
+        "rationale": "Menghindari konflik, tetapi tujuan efisiensi tidak tercapai."
+      },
+      {
+        "key": "E",
+        "text": "Memberlakukan rapat daring dan dokumen elektronik bagi semua pegawai mulai minggu depan, lalu menyediakan nomor kontak tim TI yang bisa dihubungi kapan saja bila ada yang kesulitan memakai aplikasinya.",
+        "score": 4,
+        "rationale": "Tegas menjalankan arahan dan menyediakan bantuan, tetapi tanpa tahapan dan pendampingan aktif bagi pegawai yang cemas."
+      }
+    ],
+    "explanation": "Sebagai pimpinan unit, Anda berwenang mengatur peralihan. Skor 5 menjalankan arahan efisiensi sambil memastikan tidak ada pegawai yang tertinggal (Adaptif, Kolaboratif; Kompeten: membantu orang lain belajar).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0074",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Saat mencari dokumen di folder bersama jaringan kantor, Anda menemukan file berisi data kesehatan dan nomor rekening seluruh pegawai yang bisa dibuka semua pegawai. Seharusnya file itu hanya bisa diakses bagian kepegawaian. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak menyalin atau menyebarkan file itu, lalu segera memberi tahu bagian kepegawaian dan tim TI agar aksesnya dibatasi.",
+        "score": 5,
+        "rationale": "Menutup kebocoran dengan cepat lewat pihak yang berwenang."
+      },
+      {
+        "key": "B",
+        "text": "Mengunduh file itu sebagai bukti, lalu mengirimkannya ke grup kantor agar semua sadar ada kebocoran.",
+        "score": 1,
+        "rationale": "Justru memperluas kebocoran data pribadi."
+      },
+      {
+        "key": "C",
+        "text": "Menutup file tanpa membacanya lebih lanjut dan tidak memberi tahu siapa pun, karena Anda tidak ingin dianggap sengaja membuka data orang lain dan khawatir dimintai keterangan.",
+        "score": 3,
+        "rationale": "Tidak memperluas kebocoran, tetapi celah akses dibiarkan terbuka."
+      },
+      {
+        "key": "D",
+        "text": "Memberi tahu bagian kepegawaian lewat pesan singkat agar mereka memeriksanya bila sempat.",
+        "score": 4,
+        "rationale": "Tepat sasaran, tetapi tanpa penekanan urgensi sehingga celah bisa terbuka lebih lama."
+      },
+      {
+        "key": "E",
+        "text": "Memindahkan file itu ke folder pribadi Anda agar tidak bisa dibuka pegawai lain.",
+        "score": 2,
+        "rationale": "Niatnya mengamankan, tetapi Anda menguasai data yang bukan wewenang Anda."
+      }
+    ],
+    "explanation": "Data kesehatan dan keuangan adalah data pribadi yang sensitif dan aksesnya harus dibatasi, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi. Skor 5 tidak memperluas kebocoran dan segera melibatkan pemilik data serta tim TI (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-tik-tik-0075",
+    "subtest": "TKP",
+    "group": "tik",
+    "tag": "tik",
+    "stem": "Anda staf pelayanan di dinas penanaman modal. Banyak pemohon lansia dan pelaku usaha kecil bingung memakai aplikasi perizinan daring karena menunya rumit, sehingga mereka datang ke kantor meminta dibantu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengatakan kepada pemohon bahwa aplikasinya sudah jelas dan meminta mereka mencoba lagi di rumah.",
+        "score": 2,
+        "rationale": "Menyalahkan pengguna dan tidak membantu."
+      },
+      {
+        "key": "B",
+        "text": "Membantu setiap pemohon yang datang mengisi aplikasi sampai selesai.",
+        "score": 3,
+        "rationale": "Pemohon terbantu, tetapi masalah desain aplikasi tidak pernah sampai ke pengelola."
+      },
+      {
+        "key": "C",
+        "text": "Membantu pemohon yang datang, mencatat langkah yang paling sering membingungkan, lalu mengusulkan perbaikan menu dan panduan bergambar kepada pengelola aplikasi.",
+        "score": 5,
+        "rationale": "Melayani saat ini sekaligus memperbaiki akar masalahnya."
+      },
+      {
+        "key": "D",
+        "text": "Meminta pemohon menyerahkan akun dan kata sandinya agar Anda bisa mengurus pengajuan mereka dari rumah.",
+        "score": 1,
+        "rationale": "Mengambil alih akun warga dan membuka peluang penyalahgunaan."
+      },
+      {
+        "key": "E",
+        "text": "Membuat panduan bergambar sendiri dan membagikannya kepada pemohon yang datang.",
+        "score": 4,
+        "rationale": "Membantu banyak pemohon, tetapi masukan perbaikan aplikasi tidak disampaikan."
+      }
+    ],
+    "explanation": "Berorientasi Pelayanan mencakup perbaikan tiada henti. Skor 5 tidak hanya membantu pemohon satu per satu, tetapi menyalurkan temuan lapangan agar aplikasi lebih mudah dipakai semua orang (Adaptif, Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

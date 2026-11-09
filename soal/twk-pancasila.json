@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "twk-pilar_negara-pancasila-0001",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Badan bentukan pemerintah pendudukan Jepang yang diketuai dr. Radjiman Wedyodiningrat dan dalam sidang pertamanya membahas rumusan dasar negara Indonesia merdeka adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "PPKI (Dokuritsu Junbi Inkai)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Panitia Sembilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Komite Nasional Indonesia Pusat (KNIP)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "BPUPKI (Dokuritsu Junbi Cosakai)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Chuo Sangi In",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "BPUPKI dibentuk 29 April 1945 dengan ketua dr. Radjiman Wedyodiningrat, dan Sidang I-nya membahas dasar negara. PPKI baru dibentuk 7 Agustus 1945 dan diketuai Soekarno.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0002",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sidang pertama BPUPKI yang membahas rumusan dasar negara berlangsung pada ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "29 April–1 Mei 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "29 Mei–1 Juni 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "1–22 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "10–17 Juli 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "7–18 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sidang I BPUPKI berlangsung 29 Mei–1 Juni 1945 dan membahas dasar negara. Tanggal 10–17 Juli 1945 adalah Sidang II yang membahas rancangan UUD.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0003",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dalam Sidang I BPUPKI, tokoh yang mengusulkan dasar negara berupa persatuan, kekeluargaan, keseimbangan lahir dan batin, musyawarah, dan keadilan rakyat, disertai gagasan negara integralistik, adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mr. Muhammad Yamin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ir. Soekarno",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Drs. Mohammad Hatta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mr. Soepomo",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ki Bagus Hadikusumo",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Usulan itu disampaikan Soepomo pada 31 Mei 1945 dengan paham negara integralistik. Yamin (29 Mei) mengusulkan peri kebangsaan, peri kemanusiaan, peri ketuhanan, peri kerakyatan, dan kesejahteraan rakyat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0004",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Nama \"Pancasila\" untuk dasar negara pertama kali dikemukakan oleh ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mr. Muhammad Yamin pada 29 Mei 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ir. Soekarno pada 1 Juni 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mr. Soepomo pada 31 Mei 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ir. Soekarno pada 22 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Drs. Mohammad Hatta pada 18 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Soekarno memperkenalkan nama Pancasila dalam pidatonya pada 1 Juni 1945 di Sidang I BPUPKI. Tanggal 22 Juni 1945 adalah lahirnya Piagam Jakarta, bukan pidato pemberian nama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0005",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dalam pidato 1 Juni 1945, Soekarno menyatakan bahwa lima dasar yang diusulkannya dapat diperas menjadi Trisila, lalu menjadi Ekasila. Inti Ekasila tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gotong royong",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ketuhanan yang berkebudayaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sosio-nasionalisme",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Musyawarah mufakat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kekeluargaan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ekasila yang dimaksud Soekarno adalah gotong royong. Sosio-nasionalisme merupakan salah satu unsur Trisila, sedangkan kekeluargaan adalah usulan Soepomo.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0006",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Rumusan dasar negara hasil Panitia Sembilan tanggal 22 Juni 1945 dikenal sebagai Piagam Jakarta. Nama \"Piagam Jakarta\" diberikan oleh ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dr. Soekiman Wirjosandjojo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ir. Soekarno",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mr. Achmad Soebardjo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mr. Muhammad Yamin",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "H. Agus Salim",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nama Piagam Jakarta berasal dari Muhammad Yamin. Soekiman Wirjosandjojo menyebut rumusan yang sama dengan istilah Gentlemen's Agreement, sehingga keduanya sering tertukar.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0007",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Tokoh berikut yang tidak termasuk anggota Panitia Sembilan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mr. A.A. Maramis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mr. Soepomo",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Abikoesno Tjokrosoejoso",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Abdul Kahar Muzakir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mr. Achmad Soebardjo",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Panitia Sembilan terdiri atas Soekarno, Hatta, A.A. Maramis, Abikoesno Tjokrosoejoso, Abdul Kahar Muzakir, Agus Salim, Achmad Soebardjo, Wachid Hasjim, dan Muhammad Yamin. Soepomo menonjol di Sidang II BPUPKI sebagai ketua panitia kecil perancang UUD, bukan anggota Panitia Sembilan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0008",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pada 18 Agustus 1945, PPKI melakukan beberapa perubahan atas rancangan hasil BPUPKI. Hal berikut yang tidak termasuk perubahan tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kata \"Mukadimah\" diganti menjadi \"Pembukaan\"",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tujuh kata di belakang kata Ketuhanan pada sila pertama dihapus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Syarat Presiden beragama Islam dihapus dari rancangan UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ketuhanan dipindah dari sila kelima menjadi sila pertama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila pertama dirumuskan menjadi \"Ketuhanan Yang Maha Esa\"",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dalam Piagam Jakarta, Ketuhanan sudah menjadi sila pertama; urutan Ketuhanan sebagai sila kelima hanya ada dalam usulan Soekarno 1 Juni 1945. Empat hal lainnya memang diputuskan pada 18 Agustus 1945.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0009",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Berdasarkan Keputusan Presiden Nomor 24 Tahun 2016, Hari Lahir Pancasila diperingati setiap tanggal ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "29 Mei",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1 Juni",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "22 Juni",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "18 Agustus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1 Oktober",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hari Lahir Pancasila ditetapkan 1 Juni, merujuk pidato Soekarno pada 1 Juni 1945. Tanggal 1 Oktober adalah Hari Kesaktian Pancasila, sedangkan 18 Agustus adalah tanggal pengesahan UUD 1945.",
+    "difficulty": 1,
+    "source": "Keppres 24/2016",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0010",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Rumusan Pancasila yang sah dan resmi sebagai dasar negara tercantum dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pembukaan UUD 1945 alinea ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Piagam Jakarta tanggal 22 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pembukaan UUD 1945 alinea keempat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 36A UUD 1945 tentang lambang negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pidato Ir. Soekarno tanggal 1 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rumusan sah Pancasila terdapat dalam alinea keempat Pembukaan UUD 1945 yang disahkan PPKI pada 18 Agustus 1945. Piagam Jakarta dan pidato 1 Juni 1945 masih berupa rancangan atau usulan.",
+    "difficulty": 1,
+    "source": "Pembukaan UUD 1945 alinea 4",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0011",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Penegasan Pancasila sebagai sumber dari segala sumber hukum telah diatur dalam beberapa peraturan. Urutan peraturan tersebut dari yang paling awal sampai yang berlaku sekarang adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TAP MPR III/MPR/2000, TAP MPRS XX/MPRS/1966, UU 12/2011",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TAP MPR II/MPR/1978, TAP MPR III/MPR/2000, UU 12/2011",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "TAP MPRS XX/MPRS/1966, UU 12/2011, TAP MPR III/MPR/2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "TAP MPRS XX/MPRS/1966, TAP MPR III/MPR/2000, UU 12/2011",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "TAP MPRS XX/MPRS/1966, TAP MPR II/MPR/1978, UU 12/2011",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rumusan sumber dari segala sumber hukum muncul dalam TAP MPRS XX/MPRS/1966, ditegaskan lagi dalam TAP MPR III/MPR/2000 Pasal 1 ayat (3), dan kini dalam UU 12/2011 Pasal 2. TAP MPR II/MPR/1978 mengatur P4, bukan kedudukan Pancasila sebagai sumber hukum.",
+    "difficulty": 3,
+    "source": "UU 12/2011 Pasal 2",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0012",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pancasila berkedudukan sebagai Staatsfundamentalnorm (norma fundamental negara) sehingga tidak dapat diubah melalui prosedur perubahan UUD. Istilah Staatsfundamentalnorm dikemukakan oleh ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hans Nawiasky",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hans Kelsen",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Montesquieu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "John Locke",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jean-Jacques Rousseau",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Istilah Staatsfundamentalnorm berasal dari Hans Nawiasky dalam teori jenjang norma hukum. Hans Kelsen memakai istilah Grundnorm dalam teori jenjang normanya, sehingga keduanya sering tertukar.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0013",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Menurut Undang-Undang Nomor 24 Tahun 2009, letak pohon beringin yang melambangkan sila Persatuan Indonesia pada perisai Garuda Pancasila adalah di bagian ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kanan atas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kiri bawah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kiri atas",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kanan bawah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tengah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pohon beringin (sila ketiga) berada di kiri atas perisai. Kanan atas ditempati kepala banteng (sila keempat), kiri bawah rantai (sila kedua), kanan bawah padi dan kapas (sila kelima), dan bintang (sila pertama) di tengah.",
+    "difficulty": 2,
+    "source": "UU 24/2009 Pasal 48",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0014",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sila \"Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan\" dilambangkan pada perisai Garuda Pancasila dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pohon beringin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rantai mata bulat dan persegi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Padi dan kapas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bintang bersudut lima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kepala banteng",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sila keempat dilambangkan dengan kepala banteng di bagian kanan atas perisai. Pohon beringin adalah lambang sila ketiga, sedangkan padi dan kapas lambang sila kelima.",
+    "difficulty": 1,
+    "source": "UU 24/2009 Pasal 48",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0015",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Rantai pada perisai Garuda Pancasila, lambang sila kedua, tersusun dari mata rantai bulat dan persegi yang saling berkaitan. Makna bentuk mata rantai tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bulat melambangkan perempuan, persegi melambangkan laki-laki",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bulat melambangkan laki-laki, persegi melambangkan perempuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bulat melambangkan rakyat, persegi melambangkan pemerintah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bulat melambangkan generasi tua, persegi melambangkan generasi muda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bulat melambangkan pulau, persegi melambangkan lautan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mata rantai bulat melambangkan perempuan dan persegi melambangkan laki-laki; keduanya saling berkait sebagai gambaran manusia yang saling membutuhkan. Pengecoh yang menukar keduanya adalah kekeliruan yang paling sering terjadi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0016",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Jumlah bulu pada Garuda Pancasila melambangkan tanggal Proklamasi 17-8-1945. Bagian yang berjumlah 19 helai bulu adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ekor",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Leher",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sayap pada setiap sisi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak ada, karena jumlah bulu hanya 17, 8, dan 45",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pangkal ekor",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bulu sayap berjumlah 17 pada setiap sisi, ekor 8, pangkal ekor 19, dan leher 45, sehingga angka 19 dan 45 membentuk tahun 1945. Anggapan bahwa jumlah bulu hanya 17, 8, dan 45 melupakan bulu pangkal ekor.",
+    "difficulty": 2,
+    "source": "UU 24/2009",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0017",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pedoman Penghayatan dan Pengamalan Pancasila (P4) yang memuat 36 butir pengamalan ditetapkan melalui ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TAP MPRS XX/MPRS/1966",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TAP MPR XVIII/MPR/1998",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "TAP MPR III/MPR/2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "TAP MPRS XXV/MPRS/1966",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "TAP MPR II/MPR/1978",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "P4 dengan 36 butir ditetapkan melalui TAP MPR II/MPR/1978. TAP MPR XVIII/MPR/1998 justru mencabut P4, sedangkan TAP MPRS XX/MPRS/1966 mengatur sumber tertib hukum.",
+    "difficulty": 2,
+    "source": "TAP MPR II/MPR/1978",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0018",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sejak masa reformasi, P4 tidak lagi berlaku karena ketetapan yang mengaturnya dicabut melalui ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TAP MPR I/MPR/2003",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TAP MPR III/MPR/2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "TAP MPR VI/MPR/2001",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "TAP MPR XVIII/MPR/1998",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UU Nomor 12 Tahun 2011",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "TAP MPR XVIII/MPR/1998 mencabut TAP MPR II/MPR/1978 tentang P4 sekaligus menegaskan Pancasila sebagai dasar negara. TAP MPR I/MPR/2003 berisi peninjauan status hukum TAP MPR terdahulu, bukan pencabutan P4.",
+    "difficulty": 3,
+    "source": "TAP MPR XVIII/MPR/1998",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0019",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Lembaga yang saat ini bertugas membantu Presiden merumuskan arah kebijakan pembinaan ideologi Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Badan Pembinaan Pendidikan Pelaksanaan P4 (BP7)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Badan Pembinaan Ideologi Pancasila (BPIP)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Lembaga Ketahanan Nasional (Lemhannas)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dewan Pertimbangan Presiden (Wantimpres)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Majelis Permusyawaratan Rakyat (MPR)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pembinaan ideologi Pancasila kini menjadi tugas BPIP yang dibentuk dengan Perpres 7/2018. BP7 adalah lembaga pada masa P4 dan sudah tidak ada.",
+    "difficulty": 2,
+    "source": "Perpres 7/2018",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0020",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dalam kedudukan Pancasila sebagai ideologi terbuka, UUD, undang-undang, dan kebijakan pemerintah yang menjabarkan Pancasila serta dapat disesuaikan dengan perkembangan zaman termasuk nilai ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Instrumental",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dasar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Praksis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Idealisme",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Fleksibilitas",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Penjabaran Pancasila dalam UUD, UU, dan kebijakan disebut nilai instrumental, yang boleh disesuaikan dengan zaman. Nilai dasar bersifat tetap, nilai praksis berupa perilaku nyata, sedangkan idealisme dan fleksibilitas adalah dimensi ideologi, bukan jenis nilai.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0021",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Panitia Persiapan Kemerdekaan Indonesia (PPKI), yang diketuai Soekarno dengan wakil Mohammad Hatta, dibentuk pada tanggal ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "29 April 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "22 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "17 Juli 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "7 Agustus 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "18 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PPKI dibentuk pada 7 Agustus 1945. Tanggal 18 Agustus 1945 adalah sidang PPKI yang mengesahkan UUD, sedangkan 29 April 1945 adalah pembentukan BPUPKI.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0022",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Selama bulan Ramadan, Wayan yang beragama Hindu tidak makan dan minum di depan rekan-rekannya yang sedang berpuasa. Saat Hari Raya Nyepi, rekan-rekannya juga menjaga ketenangan di lingkungan tempat tinggal Wayan. Sikap saling menghormati tersebut paling mencerminkan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Saling menghormati kebebasan menjalankan ibadah sesuai agama masing-masing adalah butir sila pertama. Sila kedua (tenggang rasa) memang dekat, tetapi konteks kasus ini adalah penghormatan terhadap ibadah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0023",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seseorang mengunggah video yang menertawakan tata cara ibadah pemeluk agama lain dan menyebutnya sebagai ajaran yang menyesatkan. Perbuatan tersebut terutama bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila kedua, karena tidak mengembangkan sikap tenggang rasa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila ketiga, karena dapat memicu perpecahan antarkelompok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila keempat, karena tidak menyampaikan pendapat dengan bijaksana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila kelima, karena merugikan kepentingan umum para pengguna media sosial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila pertama, karena tidak menghormati agama dan kepercayaan orang lain",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menghina tata cara ibadah dan keyakinan orang lain terutama melanggar sila pertama yang menuntut sikap saling menghormati antarpemeluk agama. Perpecahan (sila ketiga) memang dapat timbul, tetapi itu akibat, bukan inti pelanggarannya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0024",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sekelompok warga beragama minoritas di sebuah perumahan berencana mengadakan ibadah bersama di rumah salah satu warga. Sebagian warga lain keberatan dan meminta kegiatan itu dibubarkan. Sebagai ketua RT, tindakan yang paling sesuai dengan nilai Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membubarkan kegiatan ibadah itu agar tidak terjadi keributan di lingkungan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga minoritas beribadah di tempat ibadah resmi di luar kompleks agar suasana tetap kondusif",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengadakan pemungutan suara warga untuk menentukan boleh tidaknya ibadah itu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan warga menyelesaikan perbedaan itu sendiri tanpa campur tangan pengurus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memfasilitasi dialog warga sambil menjamin ibadah itu tetap berlangsung dengan tertib",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ketua RT perlu menjamin kebebasan beribadah (sila pertama) sekaligus meredakan keberatan lewat dialog. Pemungutan suara tidak tepat karena kebebasan beribadah adalah hak yang tidak dapat ditentukan oleh suara mayoritas.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0025",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Kepala sebuah sekolah negeri mendatangkan guru agama sesuai agama setiap siswa dan tidak mewajibkan siswa mengikuti pelajaran agama yang bukan agamanya. Kebijakan tersebut sesuai dengan butir pengamalan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak memaksakan kehendak kepada orang lain dalam mengambil keputusan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mengembangkan sikap tenggang rasa terhadap sesama manusia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak memaksakan suatu agama dan kepercayaan kepada orang lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menghormati hak-hak orang lain",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memajukan pergaulan demi persatuan bangsa yang ber-Bhinneka Tunggal Ika",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tidak mewajibkan siswa mengikuti pelajaran agama lain adalah wujud butir sila pertama, yaitu tidak memaksakan agama kepada orang lain. Butir \"tidak memaksakan kehendak\" mirip bunyinya, tetapi berasal dari sila keempat dan berkaitan dengan musyawarah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0026",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Perhatikan perilaku berikut.\n(1) Membantu tetangga yang berbeda agama memperbaiki rumahnya yang rusak.\n(2) Tidak memaksa rekan kerja mengikuti keyakinan yang dianutnya.\n(3) Menerima keputusan rapat meskipun usulannya ditolak.\n(4) Menjaga ketenangan lingkungan ketika tetangga sedang beribadah.\n(5) Ikut menggalang dana untuk korban bencana di negara lain.\nPerilaku yang mencerminkan sila pertama ditunjukkan oleh nomor ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "(1), (2), dan (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "(2) dan (4)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "(2), (4), dan (5)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "(1) dan (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "(3) dan (5)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nomor (2) dan (4) berkaitan langsung dengan kebebasan beragama dan beribadah, sehingga termasuk sila pertama. Nomor (1) melibatkan tetangga yang berbeda agama, tetapi inti perbuatannya adalah tolong-menolong sesama manusia, bukan pengamalan sila pertama.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0027",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Kepala sebuah lembaga pemasyarakatan memastikan setiap narapidana dapat menjalankan ibadah sesuai agamanya, antara lain dengan menyediakan ruang ibadah dan mendatangkan pembimbing rohani dari berbagai agama. Kebijakan tersebut paling tepat dinilai sebagai pengamalan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila kedua, karena narapidana tetap diperlakukan secara manusiawi selama menjalani hukuman",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kelima, karena fasilitas lembaga pemasyarakatan dibagi merata kepada semua penghuni",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga, karena narapidana dari berbagai agama dibina bersama dalam satu lembaga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila pertama, karena menjamin kebebasan menjalankan ibadah sesuai agama masing-masing",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila keempat, karena jadwal ibadah disepakati bersama oleh para narapidana",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Fokus kebijakan adalah menjamin setiap narapidana dapat beribadah sesuai agamanya, yang merupakan nilai sila pertama. Perlakuan manusiawi (sila kedua) memang terkait, tetapi kebijakan ini secara khusus mengatur kebebasan beribadah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0028",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Menjelang Natal, Ahmad menawarkan diri menggantikan jadwal piket rekannya, Yohanes, agar Yohanes dapat mengikuti ibadah bersama keluarganya. Sikap Ahmad paling sesuai dengan butir pengamalan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembangkan sikap saling mencintai, tenggang rasa, dan tepa selira terhadap sesama manusia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menjaga keseimbangan antara hak dan kewajiban",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Memajukan pergaulan demi persatuan dan kesatuan bangsa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Saling menghormati kebebasan menjalankan ibadah sesuai agama dan kepercayaannya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengutamakan musyawarah dalam mengambil keputusan bersama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tindakan Ahmad secara khusus memberi kesempatan rekannya beribadah, sesuai butir sila pertama tentang menghormati kebebasan menjalankan ibadah. Tenggang rasa (sila kedua) lebih umum dan tidak menunjuk pada urusan ibadah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0029",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Relawan sebuah dapur umum membagikan makanan kepada seluruh pengungsi banjir tanpa menanyakan suku, agama, ataupun pilihan politik mereka. Sikap tidak membeda-bedakan penerima bantuan tersebut paling mencerminkan sila ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ketuhanan Yang Maha Esa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kemanusiaan yang Adil dan Beradab",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Persatuan Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Memperlakukan semua korban secara setara tanpa melihat latar belakang adalah wujud pengakuan persamaan derajat manusia dalam sila kedua. Sila ketiga dekat maknanya, tetapi kasus ini menekankan perlakuan terhadap sesama manusia, bukan upaya menjaga persatuan bangsa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0030",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Warga menangkap seorang terduga pencuri sepeda motor, lalu memukulinya beramai-ramai sebelum polisi tiba di lokasi. Tindakan warga tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Main hakim sendiri adalah perbuatan semena-mena yang tidak menjunjung nilai kemanusiaan sehingga melanggar sila kedua. Sila kelima tampak dekat karena menyangkut keadilan, tetapi intinya adalah perlakuan tidak manusiawi terhadap orang lain.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0031",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Andi melihat teman sekelasnya terus-menerus diejek karena logat daerahnya. Sikap Andi yang paling sesuai dengan nilai Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut tertawa agar dirinya tidak menjadi sasaran berikutnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan temannya mengubah logat agar tidak diejek lagi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Diam saja karena perundungan itu bukan urusannya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Membalas para pengejek dengan ejekan yang lebih keras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Membela temannya dan melaporkan perundungan itu kepada guru",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Membela korban dan melapor kepada guru adalah tindakan aktif yang menjunjung martabat manusia (sila kedua) dan menghargai keragaman. Menyarankan korban mengubah logat justru menyalahkan korban, bukan menghentikan perundungan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0032",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Rahmat menjadi saksi dalam perkara penggelapan dana yang melibatkan atasannya. Meskipun dibujuk untuk mengubah keterangan, ia tetap memberikan kesaksian sesuai fakta di persidangan. Butir pengamalan yang paling tepat menggambarkan sikap Rahmat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berani membela kebenaran dan keadilan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bersikap adil terhadap sesama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menjauhi sikap pemerasan terhadap orang lain",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak melakukan perbuatan yang merugikan kepentingan umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dengan iktikad baik menerima dan melaksanakan hasil keputusan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tetap bersaksi jujur walaupun berisiko adalah wujud butir sila kedua, yaitu berani membela kebenaran dan keadilan. Butir \"bersikap adil terhadap sesama\" dari sila kelima berkaitan dengan cara memperlakukan orang lain, bukan keberanian menyatakan kebenaran.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0033",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang kepala bagian memaki dan merendahkan bawahannya di depan rekan-rekan kerja karena kesalahan kecil dalam laporan. Perbuatan tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila keempat, karena tidak menyelesaikan masalah melalui musyawarah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kelima, karena tidak menjaga keseimbangan antara hak dan kewajiban",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga, karena dapat merusak kekompakan dan persatuan tim kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila kedua, karena bersikap semena-mena dan merendahkan martabat orang lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila pertama, karena perbuatan tersebut tidak terpuji menurut ajaran agama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Merendahkan orang lain di depan umum adalah sikap semena-mena yang bertentangan dengan butir sila kedua. Rusaknya kekompakan tim (sila ketiga) hanyalah dampak, bukan inti pelanggaran.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0034",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dalam perjalanan ke kantor, Nina melihat seorang pengendara motor terjatuh dan terluka, sementara beberapa orang di sekitarnya justru sibuk merekam. Tindakan Nina yang paling sesuai dengan nilai kemanusiaan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut merekam kejadian itu agar ada bukti jika nanti diperlukan polisi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Melanjutkan perjalanan karena sudah banyak orang di lokasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menolong sebatas kemampuannya dan segera menghubungi layanan darurat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengunggah video kejadian agar pengguna jalan lain berhati-hati",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menegur orang-orang yang merekam, lalu meninggalkan lokasi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menolong sebatas kemampuan dan memanggil bantuan profesional mencerminkan nilai kemanusiaan yang adil dan beradab. Merekam atau mengunggah video tanpa menolong justru mengabaikan keselamatan korban.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0035",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sebuah kapal berisi pengungsi dari negara lain terdampar di perairan Indonesia. Pemerintah dan warga setempat memberikan tempat tinggal sementara, makanan, dan layanan kesehatan sambil berkoordinasi dengan lembaga internasional. Tindakan tersebut paling sesuai dengan butir pengamalan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menempatkan kepentingan bangsa dan negara di atas kepentingan pribadi atau golongan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menjunjung tinggi nilai kemanusiaan dan merasa sebagai bagian dari seluruh umat manusia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bersama-sama berusaha mewujudkan kemajuan yang merata dan berkeadilan sosial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengutamakan musyawarah untuk mencapai mufakat dalam mengambil keputusan demi kepentingan bersama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Hormat-menghormati dan bekerja sama antarpemeluk agama yang berbeda-beda",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menolong pengungsi asing tanpa memandang kewarganegaraannya adalah pengamalan sila kedua: menjunjung nilai kemanusiaan dan memandang diri sebagai bagian dari umat manusia. Butir sila ketiga tentang kepentingan bangsa tidak menjadi inti tindakan kemanusiaan ini.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0036",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dewi memilih sepatu dan pakaian buatan perajin dalam negeri meskipun tersedia produk impor dengan harga serupa, karena ingin menunjukkan kecintaannya pada tanah air. Sikap Dewi paling mencerminkan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Memilih produk dalam negeri karena cinta tanah air adalah butir sila ketiga. Sila kelima memang berkaitan dengan kemajuan ekonomi, tetapi alasan Dewi menekankan rasa cinta dan bangga pada tanah air.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0037",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Menjelang pemilihan kepala daerah, sebuah akun media sosial menyebarkan potongan video yang disunting untuk memancing permusuhan antara dua kelompok etnis pendukung calon yang berbeda. Perbuatan tersebut terutama bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila ketiga, karena memecah belah persatuan antarkelompok bangsa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila keempat, karena mengganggu jalannya pemilihan yang demokratis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila kedua, karena merendahkan martabat kelompok etnis tertentu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila pertama, karena menyebarkan kebohongan yang dilarang agama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima, karena merugikan salah satu calon kepala daerah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konten yang sengaja mengadu domba kelompok etnis terutama mengancam persatuan bangsa sehingga bertentangan dengan sila ketiga. Gangguan terhadap pemilihan (sila keempat) bukan tujuan utama konten tersebut, melainkan memicu permusuhan antarkelompok.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0038",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Bima menerima pesan berantai yang menuduh suku tertentu sebagai penyebab kerusuhan di kotanya, tanpa sumber yang jelas. Tindakan Bima yang paling sesuai dengan nilai Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak meneruskan pesan itu dan memeriksa kebenarannya melalui sumber resmi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Meneruskan pesan itu ke grup keluarga agar mereka lebih waspada",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Membalas pesan itu dengan menuduh balik kelompok pengirimnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menyimpan pesan itu dan baru menyebarkannya jika ramai dibicarakan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Keluar dari grup percakapan itu tanpa memberi tanggapan atau penjelasan apa pun",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menghentikan sebaran dan memeriksa kebenaran mencegah hoaks yang dapat memecah belah bangsa, sesuai sila ketiga. Meneruskan pesan \"agar waspada\" tetap ikut menyebarkan tuduhan yang belum jelas kebenarannya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0039",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Perilaku berikut mencerminkan pengamalan sila ketiga, kecuali ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti upacara bendera dengan tertib dan khidmat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bangga mengenakan batik dan produk buatan dalam negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak menyebarkan konten yang mengadu domba antarkelompok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rela menunda kepentingan pribadi demi kepentingan bangsa dan negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menghormati hasil musyawarah meskipun pendapatnya tidak diterima",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menghormati hasil musyawarah walaupun pendapat sendiri tidak diterima adalah butir sila keempat. Empat perilaku lainnya mencerminkan cinta tanah air, bangga berbangsa, dan rela berkorban demi persatuan, yang merupakan butir sila ketiga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0040",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Warga sebuah desa di perbatasan tetap memakai rupiah dan mengibarkan Merah Putih setiap bulan Agustus, meskipun barang dan pekerjaan lebih mudah diperoleh di negara tetangga. Sikap warga tersebut paling mencerminkan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tetap memakai rupiah dan mengibarkan Merah Putih menunjukkan cinta tanah air dan bangga sebagai bangsa Indonesia, butir sila ketiga. Sila kelima tidak tepat karena kasus ini tidak menyangkut pemerataan kesejahteraan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0041",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pemerintah menyelenggarakan program pertukaran pelajar antarprovinsi agar siswa dapat tinggal bersama keluarga dari suku dan budaya yang berbeda. Program ini paling sejalan dengan sila ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ketuhanan Yang Maha Esa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kemanusiaan yang Adil dan Beradab",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Persatuan Indonesia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Program yang mempertemukan pelajar dari berbagai suku dan budaya memajukan pergaulan demi persatuan bangsa yang ber-Bhinneka Tunggal Ika, butir sila ketiga. Sila kedua kurang tepat karena tujuan program adalah mempererat persatuan, bukan menolong sesama.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0042",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang tokoh menghasut warga di daerahnya untuk menolak simbol-simbol negara dan memisahkan diri dari Negara Kesatuan Republik Indonesia. Perbuatan tersebut terutama bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila keempat, karena tidak dibicarakan lebih dulu dengan pemerintah pusat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila ketiga, karena mengancam keutuhan wilayah dan persatuan bangsa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila kelima, karena menghambat pemerataan pembangunan di daerah tersebut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila kedua, karena berpotensi menimbulkan korban jiwa di masyarakat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila pertama, karena tidak mensyukuri kemerdekaan sebagai rahmat Tuhan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hasutan untuk memisahkan diri mengancam keutuhan NKRI dan persatuan bangsa, sehingga bertentangan dengan sila ketiga. Pilihan sila keempat keliru karena memisahkan diri tetap bertentangan dengan Pancasila meskipun dibicarakan lebih dulu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0043",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Dalam rapat organisasi mahasiswa, peserta terbelah menjadi dua kubu tentang lokasi bakti sosial. Sebagai ketua, tindakan Dimas yang paling sesuai dengan sila keempat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memutuskan sendiri karena ia memegang wewenang penuh sebagai ketua organisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti usulan anggota paling senior agar rapat cepat selesai",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengajak peserta bermusyawarah mencari mufakat, lalu voting bila tetap buntu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menunda kegiatan sampai seluruh anggota setuju, berapa pun lamanya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengundi lokasi agar tidak ada kubu yang merasa dikalahkan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sila keempat mengutamakan musyawarah untuk mufakat dan memakai suara terbanyak bila mufakat tidak tercapai. Memutuskan sendiri atas dasar jabatan berarti memaksakan kehendak, sedangkan undian mengabaikan pertimbangan bersama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0044",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Warga sebuah dusun sepakat mengutus tiga orang wakil untuk membawa usulan mereka ke musyawarah perencanaan pembangunan desa, lalu menerima hasil yang dibawa pulang para wakil tersebut. Butir pengamalan yang paling sesuai adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembangkan perbuatan luhur yang mencerminkan sikap kekeluargaan dan kegotongroyongan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mengembangkan sikap saling menghargai dan tenggang rasa terhadap sesama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rela berkorban untuk kepentingan bangsa dan negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memajukan pergaulan demi persatuan dan kesatuan bangsa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memberikan kepercayaan kepada wakil yang dipercayai untuk melaksanakan permusyawaratan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mengutus wakil dan mempercayakan musyawarah kepada mereka adalah butir sila keempat. Butir kekeluargaan dan kegotongroyongan berasal dari sila kelima sehingga tidak tepat untuk kasus perwakilan dalam musyawarah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0045",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sebelum menetapkan peraturan daerah tentang tata ruang, pemerintah kabupaten menggelar konsultasi publik dan membuka kanal daring agar warga dapat memberi masukan. Langkah tersebut paling mencerminkan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Melibatkan warga sebelum menetapkan kebijakan mencerminkan kedaulatan rakyat dan musyawarah dalam sila keempat. Sila kelima kurang tepat karena kasus ini menekankan partisipasi dalam pengambilan keputusan, bukan pemerataan hasil.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0046",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang calon anggota DPRD membagikan amplop berisi uang kepada warga dengan pesan agar memilihnya pada hari pemungutan suara. Perbuatan tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila kelima, karena uang itu hanya dibagikan kepada sebagian warga, tidak merata",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila keempat, karena merusak kebebasan rakyat menentukan wakilnya secara jujur",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila kedua, karena memperlakukan pemilih secara tidak beradab",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila ketiga, karena dapat memecah warga menjadi kelompok-kelompok pendukung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila pertama, karena perbuatan suap dilarang oleh ajaran agama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Politik uang merusak kedaulatan rakyat dalam memilih wakilnya, sehingga terutama bertentangan dengan sila keempat. Alasan \"tidak merata\" pada sila kelima keliru karena politik uang tetap salah walaupun dibagikan kepada semua warga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0047",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang pejabat berpendapat bahwa demi menjaga persatuan bangsa, kritik masyarakat terhadap kebijakan pemerintah sebaiknya dibatasi. Penilaian yang paling tepat berdasarkan Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tepat, karena sila ketiga berkedudukan lebih tinggi daripada sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tepat, asalkan pembatasan kritik itu diberlakukan sama kepada semua golongan masyarakat tanpa kecuali",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kurang tepat, karena kritik hanya sah bila disalurkan melalui wakil rakyat di DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kurang tepat, karena persatuan tidak boleh diwujudkan dengan mengorbankan nilai kerakyatan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tepat, karena kepentingan bangsa harus didahulukan di atas kepentingan golongan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sila-sila Pancasila merupakan satu kesatuan, sehingga persatuan tidak boleh dicapai dengan menekan kebebasan rakyat menyampaikan pendapat yang dijamin nilai kerakyatan. Susunan hierarkis-piramidal berarti sila sebelumnya menjiwai sila sesudahnya, bukan berarti sila ketiga boleh mengalahkan sila keempat.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0048",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Frasa \"hikmat kebijaksanaan\" dalam sila keempat paling tepat diwujudkan dalam musyawarah dengan cara ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan keputusan kepada peserta yang jabatan atau tingkat pendidikannya paling tinggi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Memakai akal sehat dan hati nurani demi keputusan terbaik bagi kepentingan bersama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mengambil keputusan dengan suara terbanyak sejak awal agar rapat lebih efisien",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti pendapat kelompok mayoritas agar tidak terjadi perpecahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Menunda keputusan sampai semua peserta tanpa kecuali menyetujuinya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hikmat kebijaksanaan berarti musyawarah dituntun oleh akal sehat dan hati nurani yang luhur demi kepentingan bersama. Menyerahkan keputusan kepada peserta yang paling tinggi jabatannya salah memahami kata \"dipimpin\" sebagai dipimpin oleh orang tertentu.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0049",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang petugas di kantor kelurahan mendahulukan warga yang memberinya uang tambahan, sementara warga lain yang datang lebih awal dibiarkan menunggu. Perbuatan petugas tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Meminta imbalan dan mendahulukan warga yang membayar adalah pungutan liar dan pelayanan pilih kasih yang bertentangan dengan keadilan sosial (sila kelima). Sila kedua dekat maknanya, tetapi inti kasus adalah ketidakadilan dalam pelayanan publik.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0050",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pemerintah menetapkan agar harga bahan bakar minyak di daerah terpencil, termasuk wilayah pegunungan Papua, sama dengan harga di kota-kota besar. Kebijakan tersebut paling sejalan dengan sila ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ketuhanan Yang Maha Esa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kemanusiaan yang Adil dan Beradab",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Persatuan Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menyamakan harga BBM di daerah terpencil adalah upaya pemerataan agar seluruh rakyat menikmati hasil pembangunan secara adil, sesuai sila kelima. Sila ketiga kurang tepat karena tujuan utamanya pemerataan kesejahteraan, bukan menjaga persatuan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0051",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pak Harun, pemilik usaha konveksi, selalu membayar upah karyawannya tepat waktu sesuai ketentuan, memberikan hak cuti, dan tidak membebani mereka lembur tanpa bayaran. Butir pengamalan yang paling sesuai dengan sikap Pak Harun adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Saling mencintai sesama manusia dan gemar melakukan kegiatan kemanusiaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menempatkan kepentingan bangsa di atas kepentingan pribadi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menghormati hak-hak orang lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dengan iktikad baik melaksanakan hasil keputusan bersama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Percaya dan takwa kepada Tuhan sesuai agama masing-masing",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Membayar upah tepat waktu, memberi cuti, dan tidak memaksa lembur tanpa bayaran adalah wujud menghormati hak orang lain, butir sila kelima. Butir sila kedua tentang kegiatan kemanusiaan menyangkut kepedulian sukarela, bukan pemenuhan hak pekerja dalam hubungan kerja.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0052",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang ASN di bagian perizinan ditawari hadiah oleh pemohon agar izinnya diproses lebih dahulu daripada pemohon lain. Sikap ASN yang paling sesuai dengan nilai Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak hadiah itu dan memproses izin sesuai urutan dan prosedur",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Menerima hadiah, tetapi tetap memproses izin sesuai antrean",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menolak hadiah lalu menunda izin pemohon itu sebagai pelajaran",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Menerima hadiah dan menyerahkannya ke kas kantor untuk kegiatan bersama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Meminta pemohon menemuinya di luar jam kerja untuk membicarakannya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menolak hadiah dan melayani sesuai urutan menjamin pelayanan yang adil tanpa pilih kasih, sesuai sila kelima. Menerima hadiah walau tetap memproses sesuai antrean tetap salah karena membuka peluang gratifikasi dan konflik kepentingan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0053",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Setelah menerima gaji pertamanya, Lina menyisihkan sebagian untuk tabungan dan menahan diri dari membeli barang mewah yang tidak ia butuhkan. Sikap Lina paling sesuai dengan butir pengamalan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembangkan sikap tenggang rasa terhadap sesama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bangga sebagai bangsa Indonesia dan bertanah air Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak bersifat boros dan tidak bergaya hidup mewah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak memaksakan kehendak kepada orang lain",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Percaya dan takwa kepada Tuhan Yang Maha Esa",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menabung dan menahan diri dari barang mewah sesuai dengan butir sila kelima, yaitu tidak boros dan tidak bergaya hidup mewah. Butir lainnya berasal dari sila pertama sampai keempat dan tidak berkaitan dengan cara mengelola penghasilan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0054",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pemerintah memberikan beasiswa khusus bagi lulusan SMA dari daerah tertinggal, terdepan, dan terluar agar mereka dapat berkuliah di perguruan tinggi unggulan. Alasan kebijakan ini sesuai dengan Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mewujudkan sila ketiga karena mahasiswa dari berbagai daerah berkumpul di satu kampus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mewujudkan sila kedua karena semua pelajar mendapat perlakuan yang persis sama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mewujudkan sila kelima melalui pemerataan kesempatan pendidikan bagi seluruh rakyat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mewujudkan sila keempat karena penerima beasiswa dipilih melalui musyawarah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mewujudkan sila pertama karena menuntut ilmu merupakan amanat agama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Beasiswa afirmasi memberi kesempatan yang lebih adil bagi pelajar dari daerah tertinggal, sesuai sila kelima. Alasan \"perlakuan yang persis sama\" keliru karena keadilan sosial justru dapat menuntut perlakuan khusus bagi yang tertinggal.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0055",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Seorang mahasiswa memperbanyak buku teks karya dosennya tanpa izin, lalu menjualnya kepada adik tingkat dengan harga murah. Perbuatan tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila kelima, karena tidak menghargai hasil karya orang lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila pertama, karena mengambil sesuatu yang bukan haknya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga, karena merugikan industri perbukuan nasional",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat, karena tidak meminta pendapat teman-temannya lebih dahulu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kedua, karena tidak mengakui persamaan derajat penulis buku",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Memperbanyak dan menjual karya orang lain tanpa izin berarti tidak menghargai hasil karya orang lain, butir sila kelima. Alasan sila pertama terdengar masuk akal, tetapi butir yang langsung mengatur penghargaan atas karya orang lain ada pada sila kelima.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0056",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sebuah perusahaan menguasai seluruh jalur distribusi pupuk di suatu kabupaten, lalu menahan pasokan agar dapat menetapkan harga jual setinggi-tingginya kepada petani. Praktik tersebut paling bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sila ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sila kelima",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menguasai distribusi untuk menetapkan harga sesuka hati adalah praktik monopoli yang merugikan kepentingan umum dan bertentangan dengan keadilan sosial (sila kelima). Sila kedua kurang tepat karena inti masalahnya adalah ketidakadilan ekonomi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0057",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Musyawarah sebuah kampung memutuskan dengan suara bulat untuk melarang warga pendatang mengadakan ibadah keluarga di rumahnya sendiri. Penilaian yang paling tepat berdasarkan Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sejalan, karena keputusan diambil secara bulat melalui musyawarah sesuai sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sejalan, asalkan warga pendatang tetap diberi kesempatan beribadah di tempat ibadah umum terdekat dari kampung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak sejalan, karena keputusan seharusnya diambil melalui pemungutan suara terbanyak",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sejalan, karena warga asli berhak menjaga adat dan ketertiban kampungnya sendiri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak sejalan, karena hasil musyawarah tetap harus menghormati kebebasan beribadah dan martabat manusia",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hasil musyawarah harus dapat dipertanggungjawabkan secara moral kepada Tuhan dan menjunjung martabat manusia, sehingga tidak boleh meniadakan kebebasan beribadah. Suara bulat tidak membuat keputusan itu sejalan dengan Pancasila karena sila keempat dijiwai sila pertama dan kedua.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0058",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pak Burhan, pengusaha di sebuah desa, dikenal dermawan karena rutin menyumbang pembangunan rumah ibadah. Namun, ia membayar buruh di pabriknya di bawah upah minimum. Penilaian yang paling tepat berdasarkan Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Belum utuh, karena ia mengabaikan hak buruh yang dijamin nilai keadilan sosial",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sudah sesuai Pancasila, karena sila pertama menjiwai dan meliputi sila-sila yang lain",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sudah cukup baik, karena kedermawanannya menutupi kekurangan dalam membayar upah buruh",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak berkaitan dengan Pancasila, karena pengupahan merupakan urusan bisnis pribadinya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Melanggar sila kedua, karena sumbangannya hanya diberikan kepada satu agama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengamalan Pancasila harus utuh; membayar di bawah upah minimum mengabaikan hak buruh dan bertentangan dengan sila kelima. Sifat hierarkis sila pertama tidak berarti amal pada sila pertama menutupi pelanggaran terhadap sila lainnya.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0059",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Pemerintah menerapkan tarif pajak penghasilan progresif: makin tinggi penghasilan seseorang, makin besar persentase pajaknya. Sebagian hasilnya digunakan untuk bantuan sosial bagi warga miskin. Penilaian yang paling tepat berdasarkan Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sesuai sila kelima, karena beban disesuaikan dengan kemampuan demi pemerataan kesejahteraan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bertentangan dengan sila kelima, karena tarif pajak tidak sama bagi setiap warga negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bertentangan dengan sila kedua, karena membedakan perlakuan negara terhadap warganya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sesuai sila ketiga, karena seluruh warga negara ikut membiayai pembangunan bangsa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bertentangan dengan sila keempat, karena wajib pajak berpenghasilan tinggi tidak dimintai persetujuan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pajak progresif membebankan pajak sesuai kemampuan dan hasilnya dipakai untuk pemerataan, sehingga sejalan dengan keadilan sosial. Keadilan tidak selalu berarti tarif yang sama bagi semua orang, jadi anggapan bahwa tarif berbeda bertentangan dengan sila kelima keliru.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-pancasila-0060",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "pancasila",
+    "stem": "Sekelompok warga yang keberatan terhadap undang-undang yang baru disahkan DPR dan Presiden mengajukan permohonan uji materi ke Mahkamah Konstitusi. Penilaian yang paling tepat berdasarkan nilai Pancasila adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bertentangan dengan sila keempat, karena keputusan wakil rakyat harus diterima tanpa syarat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bertentangan dengan sila ketiga, karena memperpanjang perselisihan antargolongan masyarakat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sejalan dengan sila keempat, karena ketidaksetujuan disalurkan melalui mekanisme hukum yang sah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sejalan, asalkan permohonan itu disertai pengerahan massa ke gedung MK agar aspirasinya diperhatikan hakim",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak berkaitan dengan Pancasila, karena uji materi merupakan urusan hukum semata",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mengajukan uji materi ke MK adalah cara konstitusional menyalurkan ketidaksetujuan, sejalan dengan semangat kedaulatan rakyat dan musyawarah. Menerima keputusan bersama tidak berarti menutup jalur hukum yang sah untuk menguji keputusan itu.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

@@ -1,0 +1,3082 @@
+[
+ {
+  "id": "tiu-figural-analogi_gambar-0001",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n#..\n#..\n##.\nGambar 2:\n###\n#..\n...\nGambar 3:\noo.\n..#\n..#\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "..o\n..o\n##.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".##\no..\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".oo\n#..\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#..\n#..\n.oo",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "oo.\n..#\n..#",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 seluruh grid diputar 90 derajat searah jarum jam: kolom kiri berpindah menjadi baris atas. Putaran yang sama pada Gambar 3 memindahkan baris atas (o o) ke kolom kanan. Jawabannya A. Pengecoh: B diputar 90 derajat berlawanan arah jarum jam; C dicerminkan kiri-kanan, bukan diputar; D diputar 180 derajat; E sama dengan Gambar 3, belum diputar.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0002",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n##.\n#..\no..\nGambar 2:\n.##\n..#\n..o\nGambar 3:\no..\n##.\n#..\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#..\n##.\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\n.##\n..o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..o\n.##\n..#",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "##o\n.#.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "o..\n##.\n#..",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar 2 adalah bayangan cermin Gambar 1 terhadap sumbu vertikal: kolom kiri dan kolom kanan bertukar, kolom tengah tetap. Cerminkan Gambar 3 dengan cara yang sama. Jawabannya C. Pengecoh: A dicerminkan atas-bawah; B diputar 180 derajat, bukan dicerminkan; D diputar 90 derajat searah jarum jam; E tidak diubah.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0003",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\no##\n..#\n...\nGambar 2:\n...\n..#\no##\nGambar 3:\n#x.\n..x\n...\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".x#\nx..\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\nx..\n.x#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n..x\n.x.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#x.\n..x\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n..x\n#x.",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar 2 adalah bayangan cermin Gambar 1 terhadap sumbu horizontal: baris atas dan baris bawah bertukar, baris tengah tetap. Baris atas Gambar 3 (# x .) turun ke baris bawah. Jawabannya E. Pengecoh: A dicerminkan kiri-kanan, sumbunya salah; B diputar 180 derajat, bukan dicerminkan; C diputar 90 derajat searah jarum jam; D tidak diubah.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0004",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n##.\n..o\n...\nGambar 2:\n...\no..\n.##\nGambar 3:\nx#.\nx..\n..o\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".xx\n..#\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "o..\n..x\n.#x",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".#x\n..x\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..o\nx..\nx#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "x#.\nx..\n..o",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar 1 diputar 180 derajat menjadi Gambar 2: sel kiri atas pindah ke kanan bawah dan sebaliknya. Putar Gambar 3 sejauh 180 derajat. Putaran 180 derajat sama dengan dua kali cermin, jadi satu kali cermin saja belum cukup. Jawabannya B. Pengecoh: A diputar 90 derajat, bukan 180 derajat; C hanya dicerminkan kiri-kanan; D hanya dicerminkan atas-bawah; E tidak diubah.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0005",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n#.o\no#.\n..#\nGambar 2:\no.#\n#o.\n..o\nGambar 3:\no#.\n#..\n.oo\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "o#.\n#..\n.oo",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "oo.\no..\n.oo",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "##.\n#..\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#o.\no..\n.##",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".o#\n..o\n##.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Posisi tidak berubah; yang berubah hanya isinya: setiap kotak hitam (#) menjadi lingkaran (o) dan setiap lingkaran menjadi kotak hitam. Tukar isi Gambar 3 di tempatnya. Jawabannya D. Pengecoh: A tidak ada yang ditukar; B hanya # yang diganti o, o lama tidak menjadi #; C hanya o yang diganti #; E isinya sudah ditukar tetapi grid juga dicerminkan.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0006",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segienam; isi=putih; titik=3\nGambar 2: bentuk=segienam; isi=putih; titik=4\nGambar 3: bentuk=segilima; isi=hitam; titik=5\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segilima; isi=hitam; titik=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segilima; isi=hitam; titik=6",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segilima; isi=hitam; titik=7",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segilima; isi=putih; titik=6",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segienam; isi=hitam; titik=6",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 hanya jumlah titik yang berubah, bertambah satu (3 menjadi 4); bentuk dan isi tetap. Gambar 3 berisi 5 titik, jadi pasangannya segilima hitam dengan 6 titik. Jawabannya B. Pengecoh: A jumlah titik tidak ditambah; C titik ditambah dua; D isi ikut diubah menjadi putih padahal isi tidak pernah berubah; E bentuk diganti seperti Gambar 1 padahal bentuk tetap.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0007",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=lingkaran; isi=hitam; panah=kanan-atas\nGambar 2: bentuk=lingkaran; isi=putih; panah=kanan-atas\nGambar 3: bentuk=segitiga; isi=putih; panah=kiri-bawah\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; isi=putih; panah=kiri-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=hitam; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; isi=hitam; panah=kiri-bawah",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=lingkaran; isi=hitam; panah=kiri-bawah",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Aturannya: warna isi dibalik (hitam menjadi putih, putih menjadi hitam), sedangkan bentuk dan arah panah tetap. Gambar 3 berisi putih, jadi pasangannya segitiga hitam dengan panah kiri-bawah. Jawabannya D. Pengecoh: A sama dengan Gambar 3, isi belum dibalik; B panah disamakan dengan Gambar 1; C panah ikut diputar padahal arah panah tetap; E segitiga diganti lingkaran.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0008",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n#o.\n#..\n#..\nGambar 2:\n...\no..\n###\nGambar 3:\n.o#\n..#\n.x.\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "##.\no.x\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\nx.o\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".x.\n#..\n#o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".x.\n..#\n.o#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\no.x\n##.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 grid diputar 90 derajat berlawanan arah jarum jam: kolom kiri (# # #) berpindah menjadi baris bawah. Putar Gambar 3 ke arah yang sama, sehingga kolom kanannya (# # .) menjadi baris atas. Jawabannya A. Pengecoh: B diputar searah jarum jam, arah putarnya terbalik; C diputar 180 derajat; D dicerminkan atas-bawah; E dicerminkan terhadap diagonal kiri atas-kanan bawah.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0009",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n/.#\n...\no..\nGambar 2:\no.\\\n...\n..#\nGambar 3:\n\\#.\n..o\n/..\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "/.\\\n..#\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".o.\n#..\n/.\\",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".#/\no..\n..\\",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "../\no..\n.#\\",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "\\./\n..#\n.o.",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 grid diputar 90 derajat searah jarum jam. Garis miring ikut berputar: pada putaran 90 derajat garis / menjadi \\ dan garis \\ menjadi /. Terapkan pada Gambar 3, termasuk membalik arah kedua garisnya. Jawabannya E. Pengecoh: A posisinya sudah diputar tetapi arah garis miring tidak ikut berubah; B diputar berlawanan arah jarum jam; C dicerminkan kiri-kanan; D diputar 180 derajat.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0010",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n/#.\n..\\\n...\nGambar 2:\n.#\\\n/..\n...\nGambar 3:\no./\n\\..\n.#.\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "/.o\n..\\\n.#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".#.\n/..\no.\\",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "\\.o\n../\n.#.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "./o\n#..\n..\\",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".#.\n..\\\n/.o",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar 2 adalah cermin kiri-kanan Gambar 1. Pada pencerminan, garis / menjadi \\ dan sebaliknya, seperti terlihat pada Gambar 1 ke Gambar 2. Cerminkan Gambar 3 dan balik arah garisnya. Jawabannya C. Pengecoh: A posisinya sudah dicerminkan tetapi arah garis miring tidak dibalik; B dicerminkan atas-bawah; D diputar 90 derajat; E diputar 180 derajat.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0011",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\no#.\n.o#\n#.o\nGambar 2:\n.#.\n..#\n#..\nGambar 3:\n#o.\no.#\n.o#\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".o.\no..\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "##.\n#.#\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "#..\n..#\n..#",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#o.\no.#\n.o#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "#x.\nx.#\n.x#",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 semua lingkaran (o) dihapus, sedangkan kotak hitam (#) tetap di tempatnya. Hapus ketiga lingkaran pada Gambar 3. Jawabannya C. Pengecoh: A yang dihapus justru kotak hitam; B lingkaran diganti kotak hitam, bukan dihapus; D tidak ada yang dihapus; E lingkaran diganti x, bukan dihapus.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0012",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\nx#.\n.o.\n#..\nGambar 2:\nx#x\n.o.\n#.x\nGambar 3:\n..#\no..\n.#.\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "x.#\no..\nx#x",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\nox.\n.#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "o.#\no..\no#o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "x.#\no..\nx#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..#\no..\n.#.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dari Gambar 1 ke Gambar 2 setiap pojok yang masih kosong diisi x; sel lain tidak berubah. Gambar 3 punya tiga pojok kosong (kiri atas, kiri bawah, kanan bawah), jadi ketiganya diisi x. Jawabannya A. Pengecoh: B x diletakkan di pusat, bukan di pojok; C pojok kosong diisi o, bukan x; D baru dua pojok yang diisi, pojok kanan bawah terlewat; E tidak ada yang ditambahkan.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0013",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=persegi; titik=2; panah=atas\nGambar 2: bentuk=persegi; titik=2; panah=kanan\nGambar 3: bentuk=segienam; titik=3; panah=kiri-bawah\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segienam; titik=3; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; titik=3; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; titik=3; panah=kiri",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; titik=3; panah=kiri-atas",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segienam; titik=4; panah=kiri-atas",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah diputar 90 derajat searah jarum jam (atas menjadi kanan), bentuk dan jumlah titik tetap. Panah kiri-bawah diputar 90 derajat searah jarum jam menjadi kiri-atas. Jawabannya D. Pengecoh: A panah diputar 90 derajat berlawanan arah jarum jam; B panah diputar 180 derajat; C panah baru diputar 45 derajat; E jumlah titik ikut ditambah padahal tetap.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0014",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segitiga; isi=putih; rotasi=0\nGambar 2: bentuk=segitiga; isi=putih; rotasi=270\nGambar 3: bentuk=segitiga; isi=hitam; rotasi=90\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=180",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=270",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=90",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; isi=putih; rotasi=0",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=0",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Segitiga diputar 90 derajat berlawanan arah jarum jam (puncak yang menghadap atas menjadi menghadap kiri, rotasi 0 menjadi 270), isi tetap. Gambar 3 menghadap kanan (rotasi 90); diputar 90 derajat berlawanan arah menjadi menghadap atas (rotasi 0). Jawabannya E. Pengecoh: A diputar searah jarum jam, arah putarnya terbalik; B rotasinya disalin dari Gambar 2, bukan diputar dari Gambar 3; C tidak diputar; D isi ikut diubah menjadi putih.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0015",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segilima; titik=2\nGambar 2: bentuk=segilima; titik=5\nGambar 3: bentuk=segienam; titik=1\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segienam; titik=1",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; titik=6",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; titik=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; titik=7",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; titik=6",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah titik diubah menjadi sama dengan jumlah sisi bangunnya: segilima berisi 5 titik. Segienam harus berisi 6 titik. Tafsiran 'tambah 3 titik' menghasilkan 4 titik yang tidak ada di opsi, jadi aturan yang konsisten adalah titik = jumlah sisi. Jawabannya B. Pengecoh: A jumlah titik tidak diubah; C jumlah titik disalin dari Gambar 2; D titik dibuat satu lebih banyak dari jumlah sisi; E bentuk ikut diganti menjadi segilima.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0016",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=lingkaran; isi=putih; garis=3\nGambar 2: bentuk=lingkaran; isi=putih; garis=5\nGambar 3: bentuk=persegi; isi=hitam; garis=4\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=hitam; garis=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; isi=hitam; garis=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=persegi; isi=hitam; garis=7",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=persegi; isi=hitam; garis=8",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=persegi; isi=hitam; garis=6",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah garis di dalam bangun bertambah dua (3 menjadi 5), bentuk dan isi tetap. Persegi dengan 4 garis menjadi 6 garis. Jawabannya E. Pengecoh: A jumlah garis tidak ditambah; B jumlah garis disalin dari Gambar 2; C garis ditambah tiga; D jumlah garis dikali dua.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0017",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segilima; isi=putih; ukuran=kecil\nGambar 2: bentuk=segilima; isi=hitam; ukuran=besar\nGambar 3: bentuk=lingkaran; isi=hitam; ukuran=kecil\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=lingkaran; isi=hitam; ukuran=besar",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; isi=putih; ukuran=besar",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; isi=putih; ukuran=kecil",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=lingkaran; isi=putih; ukuran=sedang",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; isi=putih; ukuran=besar",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan sekaligus: ukuran kecil menjadi besar dan warna isi dibalik (putih menjadi hitam). Lingkaran hitam kecil menjadi lingkaran putih besar. Jawabannya B. Pengecoh: A baru ukurannya yang diubah, isi belum dibalik; C baru isinya yang dibalik, ukuran tetap kecil; D ukuran hanya naik satu tingkat; E bentuk diganti menjadi segilima.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0018",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n#.#\n##.\n...\nGambar 2:\n.#.\n..#\n###\nGambar 3:\n##.\n.#.\n#.#\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "##.\n.#.\n#.#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "#..\n#.#\n.#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n#.#\n.#.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".#.\n#..\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..#\n###\n.#.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Setiap sel dibalik: kotak hitam menjadi kosong dan sel kosong menjadi kotak hitam, posisinya tetap. Balik kesembilan sel Gambar 3. Jawabannya C. Pengecoh: A tidak dibalik; B sudah dibalik tetapi juga dicerminkan; D sudah dibalik tetapi juga diputar; E sel pusat tidak ikut dibalik.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0019",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segitiga; rotasi=90; panah=kanan-atas\nGambar 2: bentuk=segitiga; rotasi=270; panah=kiri-atas\nGambar 3: bentuk=segitiga; rotasi=270; panah=kanan-bawah\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; rotasi=90; panah=kiri-bawah",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; rotasi=90; panah=kiri-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; rotasi=270; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; rotasi=270; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; rotasi=270; panah=kiri-bawah",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar 2 adalah cermin kiri-kanan Gambar 1: segitiga yang menghadap kanan menjadi menghadap kiri dan panah kanan-atas menjadi kiri-atas. Putaran 180 derajat juga membalik arah segitiga, tetapi panahnya akan menjadi kiri-bawah, jadi aturannya pencerminan. Cerminkan Gambar 3: segitiga menghadap kiri menjadi menghadap kanan (rotasi 90) dan panah kanan-bawah menjadi kiri-bawah. Jawabannya A. Pengecoh: B seluruh gambar diputar 180 derajat, bukan dicerminkan; C dicerminkan atas-bawah; D tidak diubah; E hanya panah yang dicerminkan, segitiga tetap.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0020",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n##o\n...\no..\nGambar 2:\n..#\n...\n#oo\nGambar 3:\no#.\n.o#\n...\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n#o.\n.#o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "#o.\n.#o\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n.#o\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "...\no#.\n.o#",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n.#o\n#o.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan: grid diputar 180 derajat dan isi # dan o ditukar. Putar Gambar 3 sejauh 180 derajat (baris atasnya pindah ke bawah dan terbalik urutannya), lalu tukar # dengan o. Jawabannya D. Pengecoh: A sudah diputar 180 derajat tetapi isi belum ditukar; B isi sudah ditukar tetapi belum diputar; C diputar 90 derajat, bukan 180 derajat; E dicerminkan atas-bawah, bukan diputar 180 derajat.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0021",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\nx#.\no.x\n..#\nGambar 2:\n.#.\n..o\n#..\nGambar 3:\n#.x\nx.o\n.x#\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "x.#\no.x\n#x.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "#..\n..o\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n..o\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..#\no..\n#..",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..#\n...\n#o.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan: grid dicerminkan kiri-kanan dan semua x dihapus. Cerminkan Gambar 3 lalu hapus ketiga x-nya; yang tersisa # dan o di posisi cerminnya. Jawabannya D. Pengecoh: A sudah dicerminkan tetapi x belum dihapus; B x sudah dihapus tetapi grid belum dicerminkan; C dicerminkan atas-bawah, bukan kiri-kanan; E diputar 90 derajat, bukan dicerminkan.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0022",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n#x.\n...\n#..\nGambar 2:\n#.#\n.ox\n...\nGambar 3:\n#.x\n...\n.#.\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "..#\n#..\n..x",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "x..\n.o#\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "x.#\n.o.\n.#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..#\n##.\n..x",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..#\n#o.\n..x",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan: grid diputar 90 derajat searah jarum jam dan sel pusat yang kosong diisi lingkaran (o). Putar Gambar 3 lalu isi pusatnya dengan o. Jawabannya E. Pengecoh: A sudah diputar tetapi lingkaran di pusat belum ditambahkan; B diputar berlawanan arah jarum jam; C dicerminkan kiri-kanan, bukan diputar; D yang ditambahkan di pusat kotak hitam, bukan lingkaran.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0023",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segienam; titik=1\nGambar 2: bentuk=segilima; titik=3\nGambar 3: bentuk=persegi; titik=2\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segilima; titik=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; titik=4",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; titik=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=persegi; titik=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; titik=3",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan: jumlah sisi berkurang satu (segienam menjadi segilima) dan jumlah titik bertambah dua (1 menjadi 3). Persegi menjadi segitiga dan 2 titik menjadi 4 titik. Jawabannya B. Pengecoh: A jumlah sisi ditambah, padahal seharusnya berkurang satu; C jumlah titik tidak ditambah; D bentuk tidak diubah; E jumlah titik disalin dari Gambar 2.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0024",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[bentuk] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1: bentuk=segitiga; isi=hitam; rotasi=0; panah=kiri\nGambar 2: bentuk=segitiga; isi=putih; rotasi=90; panah=atas\nGambar 3: bentuk=segitiga; isi=putih; rotasi=180; panah=kanan-atas\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=90; panah=kiri-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=putih; rotasi=270; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=270; panah=kanan-bawah",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=270; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=180; panah=kiri-atas",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Seluruh gambar diputar 90 derajat searah jarum jam (segitiga menghadap atas menjadi menghadap kanan, panah kiri menjadi atas) dan isi dibalik. Pada Gambar 3: rotasi 180 menjadi 270, panah kanan-atas menjadi kanan-bawah, isi putih menjadi hitam. Jawabannya C. Pengecoh: A diputar berlawanan arah jarum jam; B sudah diputar tetapi isi belum dibalik; D hanya segitiga yang diputar, panah tetap; E dicerminkan kiri-kanan, bukan diputar.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-analogi_gambar-0025",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "analogi_gambar",
+  "stem": "[grid] Gambar 1 : Gambar 2 = Gambar 3 : ?\nGambar 1:\n/#.\n..o\n...\nGambar 2:\n.#.\no..\n\\..\nGambar 3:\no.\\\n#..\n..#\nGambar pengganti tanda ? adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "/.o\n...\n#o.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".o#\n...\no./",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "/.#\n...\no#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "\\.o\n...\n#o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..o\no..\n#./",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Ada dua perubahan: grid diputar 90 derajat berlawanan arah jarum jam (garis / ikut berputar menjadi \\) dan isi # dan o ditukar. Terapkan keduanya pada Gambar 3, termasuk membalik arah garis miringnya. Jawabannya A. Pengecoh: B diputar searah jarum jam, arah putarnya terbalik; C sudah diputar tetapi # dan o belum ditukar; D posisi dan isi sudah benar tetapi arah garis miring tidak dibalik; E dicerminkan atas-bawah, bukan diputar.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0001",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid berisi kotak hitam (#) dengan susunan berbeda-beda. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n##.\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".#.\n.##\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "#..\n...\n###",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "##.\n###\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..#\n..#\n.##",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Aturannya jumlah elemen: gambar A, B, C, E masing-masing berisi tepat 4 kotak hitam, sedangkan D berisi 5. Letak dan bentuk susunan kotak sengaja dibuat acak sehingga bukan itu yang dinilai. Jawabannya D.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0002",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid berisi kotak hitam (#) dan lingkaran (o) dalam jumlah yang beragam. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "..o\n..#\n.o.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "o..\n.##\n#oo",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\no##\no.o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "o..\no.o\n###",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".#o\no.o\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar B, C, D, E masing-masing memuat tepat 3 lingkaran, sedangkan A hanya memuat 2. Jumlah kotak hitam berbeda-beda di semua gambar, jadi hanya pengecoh. Jawabannya A.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0003",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid berisi pola kotak hitam (#) dan lingkaran (o). Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "###\n...\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".#.\no#o\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "o#.\n.o.\no#o",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "###\n...\n#o#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n.o.\n#.#",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar A, B, D, E simetris terhadap sumbu vertikal: kolom kiri persis sama dengan kolom kanan. Pada C kolom kiri dan kolom kanannya tidak sama. Jumlah dan jenis elemen bervariasi di semua gambar sehingga bukan aturannya. Jawabannya C.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0004",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid memuat susunan kotak hitam (#) dan lingkaran (o) yang tampak mirip. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#..\n.o.\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "##.\n.o.\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n#o.\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..#\n.o#\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "#..\n.o#\n..#",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar A, B, C, D adalah satu pola yang sama dalam empat posisi putar: A = pola dasar; B = pola dasar diputar 180 derajat; C = pola dasar diputar 90 derajat searah jarum jam; D = pola dasar diputar 90 derajat berlawanan arah jarum jam. E adalah bayangan cermin pola itu; hasil pencerminan tidak bisa didapat hanya dengan memutar. Jawabannya E.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0005",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun datar dengan isi hitam atau putih. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segilima; isi=putih",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segidelapan; isi=putih",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=belah ketupat; isi=putih",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Aturannya jumlah sisi: persegi (4), segidelapan (8), segienam (6), dan belah ketupat (4) bersisi genap, sedangkan segilima bersisi 5 (ganjil). Warna isi terbagi 2 hitam dan 3 putih, jadi warna hanya pengecoh. Jawabannya B.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0006",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun datar berisi sejumlah titik. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=putih; titik=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; isi=hitam; titik=6",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; titik=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segilima; isi=putih; titik=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segidelapan; isi=hitam; titik=7",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Pada empat gambar jumlah titik sama dengan jumlah sisi bangunnya (persegi 4, segienam 6, segitiga 3, segilima 5). Segidelapan hanya berisi 7 titik, kurang satu. Warna isi tidak berpola. Jawabannya E.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0007",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun datar dengan isi dan jumlah titik berbeda. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; isi=hitam; titik=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; isi=hitam; titik=3",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=persegi; isi=putih; titik=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segilima; isi=hitam; titik=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segidelapan; isi=putih; titik=3",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Isi ditentukan oleh bentuk: bangun bersisi ganjil (segitiga, segilima) berisi hitam, bangun bersisi genap (persegi, segidelapan) berisi putih. Segienam bersisi genap tetapi berisi hitam. Jumlah titik hanya pengecoh. Jawabannya B.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0008",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid memuat campuran kotak hitam (#), lingkaran (o), dan silang (x). Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#o.\nx#x\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".x#\n...\nxo#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "o.x\n..#\n.ox",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".o.\n#.#\nox#",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..o\nox#\no..",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Hitung semua elemen tanpa membedakan jenisnya: gambar A, B, C, E masing-masing berisi 5 elemen, sedangkan D berisi 6. Banyaknya #, o, dan x per jenis sengaja berbeda-beda sebagai pengecoh. Jawabannya D.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0009",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima pola grid tersusun dari kotak hitam (#) dan silang (x). Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#..\n#xx\nx..",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\nx#x\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "#x.\n#..\n#x.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "xx.\nx#.\nxx.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..x\n.x#\n..x",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar B, C, D, E simetris terhadap sumbu horizontal: baris atas persis sama dengan baris bawah. Pada A baris atas dan baris bawahnya berbeda. Banyaknya # dan x tidak berpola. Jawabannya A.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0010",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima segitiga dengan arah hadap dan panah yang berbeda-beda. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=0; panah=atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=putih; rotasi=90; panah=kanan",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; rotasi=180; panah=atas",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; isi=putih; rotasi=270; panah=kiri",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; isi=putih; rotasi=180; panah=bawah",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Pada empat gambar panah menunjuk ke arah puncak segitiga: rotasi 0 dengan panah atas, rotasi 90 dengan panah kanan, rotasi 270 dengan panah kiri, rotasi 180 dengan panah bawah. Pada C segitiga menghadap bawah tetapi panahnya ke atas, menjauhi puncak. Pengecoh utamanya E yang rotasinya sama (180) tetapi panahnya benar. Jawabannya C.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0011",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid masing-masing memuat satu silang (x) di antara elemen lain. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#.x\n.#o\n.#.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\n.x.\n.#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".#.\n.xo\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..#\n.x.\n..o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".#.\n.x.\n..#",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Pada gambar B, C, D, E silang (x) selalu berada di sel pusat. Pada A silang berada di tepi dan pusatnya diisi elemen lain. Jumlah kotak hitam dan lingkaran berbeda-beda sehingga bukan aturannya. Jawabannya A.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0012",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun berisi titik dan garis. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=lingkaran; titik=2; garis=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; titik=5; garis=1",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; titik=3; garis=4",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; titik=4; garis=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; titik=6; garis=0",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah elemen di dalam bangun (titik ditambah garis) selalu 6: 2+4, 5+1, 4+2, dan 6+0. Pada C jumlahnya 3+4 = 7. Bentuk luar tidak berpengaruh. Jawabannya C.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0013",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima pola grid kotak hitam (#) dengan bentuk yang hampir serupa. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#..\n...\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "#..\n.#.\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "##.\n###\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".##\n.#.\n##.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "###\n#.#\n...",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar A, B, C, D memiliki simetri putar: setelah diputar 180 derajat terhadap pusat polanya tetap sama, padahal tidak simetris kiri-kanan maupun atas-bawah. E justru simetris cermin kiri-kanan tetapi tidak sama lagi jika diputar 180 derajat. Jawabannya E.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0014",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun dengan ukuran dan isi beragam. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=putih; ukuran=besar",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; isi=putih; ukuran=kecil",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; isi=hitam; ukuran=kecil",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; isi=abu; ukuran=sedang",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; isi=putih; ukuran=besar",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Isi bergantung pada ukuran: bangun besar berisi putih, sedang berisi abu, kecil berisi hitam. Lingkaran kecil seharusnya hitam tetapi berisi putih. Jenis bangun tidak berpengaruh. Jawabannya B.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0015",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid masing-masing memuat tepat tiga elemen. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".o.\n.o.\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "x..\no..\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "...\nooo\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "...\n..#\n#.x",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\nxo#\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Pada gambar A, B, C, E ketiga elemen terletak pada satu garis lurus (satu baris, satu kolom, atau satu diagonal). Pada D ketiga elemennya tidak segaris. Jenis elemen (#, o, x) dicampur acak sebagai pengecoh. Jawabannya D.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0016",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun berwarna dengan titik dan garis di dalamnya. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segienam; isi=hitam; titik=4; garis=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; isi=putih; titik=1; garis=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segilima; isi=putih; titik=2; garis=2",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segidelapan; isi=putih; titik=3; garis=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; isi=hitam; titik=3; garis=0",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah sisi bangun sama dengan jumlah titik ditambah jumlah garis: segienam 4+2, persegi 1+3, segidelapan 3+5, segitiga 3+0. Segilima seharusnya memuat 5 elemen, tetapi hanya 2+2 = 4. Warna isi tidak berpola. Jawabannya C.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0017",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid memuat garis miring (/ atau \\) dan kotak hitam (#). Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "/..\n/..\n./.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "./.\n...\n../",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".\\.\n#\\\\\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".\\.\n.\\\\\n\\##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".#.\n/.#\n\\./",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Pada gambar A, B, C, D semua garis miringnya sejajar (semuanya / atau semuanya \\). E mencampur garis / dan \\. Jumlah garis dan kotak hitam berbeda-beda sehingga bukan aturannya. Jawabannya E.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0018",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun datar dengan tiga macam warna isi. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segilima; isi=abu",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=trapesium; isi=putih",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=layang-layang; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=belah ketupat; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Empat bangun adalah segi empat (persegi, trapesium, layang-layang, belah ketupat), masing-masing bersisi 4. Segilima bersisi 5. Warna isi tidak berpola. Jawabannya A.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0019",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[grid] Lima grid memuat garis miring, kotak hitam, dan lingkaran yang tampak serupa. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".#/\n..#\n..o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "o..\n#..\n/#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "\\#o\n#..\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..o\n..#\n.#\\",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n..#\no#\\",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Gambar A, B, C, E adalah satu pola yang sama dalam empat posisi putar: A = pola dasar diputar 180 derajat; B = pola dasar; C = pola dasar diputar 90 derajat searah jarum jam; E = pola dasar diputar 90 derajat berlawanan arah jarum jam. Perhatikan bahwa pada putaran 90 derajat garis / berubah menjadi \\, jadi arah garis saja tidak cukup untuk membedakan. D adalah bayangan cermin pola itu; hasil pencerminan tidak bisa didapat hanya dengan memutar. Jawabannya D.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-ketidaksamaan-0020",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "ketidaksamaan",
+  "stem": "[bentuk] Lima bangun datar, masing-masing berisi beberapa titik. Empat gambar mengikuti satu aturan yang sama dan satu gambar tidak. Gambar yang berbeda adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=hitam; titik=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=putih; titik=4",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; isi=hitam; titik=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; isi=putih; titik=3",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; isi=putih; titik=3",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Empat bangun berisi tepat 3 titik, sedangkan segitiga berisi 4 titik. Bentuk dan warna isi sengaja dibuat beragam sebagai pengecoh. Jawabannya B.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0001",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n.#.\n.o.\n...\nGambar 2:\n..#\n.o.\n...\nGambar 3:\n...\n.o#\n...\nGambar 4:\n...\n.o.\n..#\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n.o.\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\n.o.\n.#.",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "...\n.o#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "...\n.o.\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n...\n.#.",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Kotak hitam berpindah satu sel searah jarum jam mengelilingi tepi grid (tengah atas, kanan atas, kanan tengah, kanan bawah), lingkaran di pusat diam. Langkah berikutnya kotak berada di tengah bawah. Jawabannya B. Pengecoh: A kotak melompat dua sel; C kotak bergerak mundur, berlawanan arah jarum jam; D kotak tidak bergerak dari posisi Gambar 4; E lingkaran di pusat hilang.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0002",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n##o\n#..\n...\nGambar 2:\n.##\n..#\n..o\nGambar 3:\n...\n..#\no##\nGambar 4:\no..\n#..\n##.\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n..#\no##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "o..\n#..\n##.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".##\n..#\n..o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..o\n..#\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "##o\n#..\n...",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Seluruh grid berputar 90 derajat searah jarum jam setiap langkah. Gambar 5 adalah Gambar 4 diputar 90 derajat lagi; karena sudah empat kali berputar (360 derajat), hasilnya kembali sama dengan Gambar 1. Jawabannya E. Pengecoh: A berputar berlawanan arah jarum jam (sama dengan Gambar 3); B tidak berputar; C berputar 180 derajat; D dicerminkan, bukan diputar.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0003",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\no..\n...\n...\nGambar 2:\noo.\n...\n...\nGambar 3:\nooo\n...\n...\nGambar 4:\nooo\n..o\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "ooo\n..o\n..o",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "ooo\n..o\n.o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "ooo\no.o\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "ooo\n.oo\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "ooo\n..o\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Lingkaran bertambah satu setiap langkah dan mengisi tepi grid searah jarum jam mulai dari kiri atas: kiri atas, tengah atas, kanan atas, kanan tengah. Lingkaran kelima menempati kanan bawah. Jawabannya A. Pengecoh: B lingkaran kelima melompati satu sel; C lingkaran kelima ditambahkan ke arah berlawanan; D lingkaran kelima diletakkan di pusat; E tidak ada lingkaran yang ditambahkan.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0004",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=lingkaran; isi=abu; panah=kiri\nGambar 2: bentuk=lingkaran; isi=abu; panah=kiri-atas\nGambar 3: bentuk=lingkaran; isi=abu; panah=atas\nGambar 4: bentuk=lingkaran; isi=abu; panah=kanan-atas\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=lingkaran; isi=abu; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; isi=abu; panah=atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; isi=abu; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=lingkaran; isi=abu; panah=kanan",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=lingkaran; isi=hitam; panah=kanan",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah berputar 45 derajat searah jarum jam setiap langkah: kiri, kiri-atas, atas, kanan-atas, lalu kanan. Bentuk dan isi tetap. Jawabannya D. Pengecoh: A panah berputar 90 derajat, bukan 45 derajat; B panah berputar mundur; C panah tidak berputar; E isi ikut berubah padahal tetap abu.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0005",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=persegi; isi=hitam; titik=1\nGambar 2: bentuk=persegi; isi=hitam; titik=3\nGambar 3: bentuk=persegi; isi=hitam; titik=5\nGambar 4: bentuk=persegi; isi=hitam; titik=7\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=hitam; titik=8",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; isi=hitam; titik=10",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=persegi; isi=hitam; titik=9",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=persegi; isi=putih; titik=9",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=persegi; isi=hitam; titik=11",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah titik bertambah 2 setiap langkah: 1, 3, 5, 7, lalu 9. Bentuk dan isi tetap. Jawabannya C. Pengecoh: A titik hanya bertambah satu; B titik bertambah tiga; D isi ikut berubah padahal tetap hitam; E titik bertambah empat.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0006",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segidelapan; isi=abu\nGambar 2: bentuk=segitujuh; isi=abu\nGambar 3: bentuk=segienam; isi=abu\nGambar 4: bentuk=segilima; isi=abu\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=abu",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segilima; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=persegi; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah sisi berkurang satu setiap langkah: 8, 7, 6, 5, lalu 4 (persegi). Isi tetap abu. Jawabannya A. Pengecoh: B jumlah sisi berkurang dua; C jumlah sisi bertambah; D bentuk tidak berubah; E isi ikut berubah padahal tetap abu.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0007",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n###\n.o#\n.##\nGambar 2:\n###\n.o#\n..#\nGambar 3:\n###\n.o#\n...\nGambar 4:\n###\n.o.\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#.#\n.o.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".##\n.o.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "##.\n.o.\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#..\n.o.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "###\n.o.\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Kotak hitam berkurang satu setiap langkah. Kotak-kotak itu berderet di tepi grid searah jarum jam mulai kiri atas, dan yang hilang selalu kotak paling ujung deretan. Gambar 4 tersisa tiga kotak di baris atas, jadi Gambar 5 tersisa kiri atas dan tengah atas. Lingkaran di pusat tetap. Jawabannya C. Pengecoh: A kotak yang dihapus berada di tengah deretan, bukan di ujung; B yang dihapus kotak pertama (kiri atas), bukan kotak terakhir; D dua kotak dihapus sekaligus; E tidak ada kotak yang dihapus.",
+  "difficulty": 1,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0008",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n#..\n...\n.o.\nGambar 2:\n...\n..#\n..o\nGambar 3:\n...\n..o\n#..\nGambar 4:\n.#o\n...\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n..o\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".o#\n...\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..o\n...\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": ".o.\n...\n#..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".o.\n...\n..#",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), ada dua elemen dengan laju berbeda. Kotak hitam melompat 3 sel searah jarum jam (1, 4, 7, 2, lalu 5), sedangkan lingkaran mundur 1 sel berlawanan arah jarum jam (6, 5, 4, 3, lalu 2). Jawabannya E. Pengecoh: A lingkaran bergerak searah jarum jam; B kotak hanya bergeser satu sel; C lingkaran tidak bergerak; D kotak bergerak berlawanan arah jarum jam.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0009",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n..x\n.#.\n...\nGambar 2:\n...\n.o.\n.x.\nGambar 3:\nx..\n.#.\n...\nGambar 4:\n...\n.ox\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n.o.\nx..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\n.#.\nx..",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "...\n.#.\n.x.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "x..\n.#.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n.#x\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), dua aturan berjalan bersamaan. Sel pusat berganti selang-seling antara kotak hitam dan lingkaran, sedangkan x melompat 3 sel searah jarum jam di tepi grid (3, 6, 1, 4, lalu 7). Gambar 5: x di kiri bawah dan pusat berisi kotak hitam. Jawabannya B. Pengecoh: A isi pusat tidak berganti; C x hanya maju dua sel; D x bergerak berlawanan arah jarum jam; E x tidak bergerak.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0010",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n##.\n..o\n...\nGambar 2:\n..o\n#..\n#..\nGambar 3:\n.o.\n...\n.##\nGambar 4:\no.#\n..#\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "##.\n...\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\no.#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "...\no..\n.##",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "##.\no..\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "##o\n...\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), pasangan kotak hitam berputar 90 derajat berlawanan arah jarum jam mengelilingi pusat setiap langkah (bergeser 2 sel: 1-2, 7-8, 5-6, 3-4, lalu kembali 1-2), sedangkan lingkaran mundur 1 sel (4, 3, 2, 1, lalu 8). Jawabannya D. Pengecoh: A lingkaran mundur dua sel; B pasangan kotak tidak berputar; C pasangan kotak berputar searah jarum jam; E lingkaran bergerak dua sel searah jarum jam.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0011",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segidelapan; isi=hitam\nGambar 2: bentuk=segitujuh; isi=abu\nGambar 3: bentuk=segienam; isi=putih\nGambar 4: bentuk=segilima; isi=hitam\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; isi=hitam",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; isi=putih",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; isi=abu",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=persegi; isi=abu",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dua pola: jumlah sisi berkurang satu (8, 7, 6, 5, lalu 4) dan isi bergilir hitam, abu, putih dengan periode 3. Setelah hitam datang abu, jadi langkah kelima persegi berisi abu. Jawabannya E. Pengecoh: A isi tidak bergilir; B urutan gilir isi salah; C jumlah sisi bertambah; D jumlah sisi berkurang dua.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0012",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segitiga; rotasi=0; titik=5\nGambar 2: bentuk=segitiga; rotasi=90; titik=4\nGambar 3: bentuk=segitiga; rotasi=180; titik=3\nGambar 4: bentuk=segitiga; rotasi=270; titik=2\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segitiga; rotasi=180; titik=1",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segitiga; rotasi=270; titik=1",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segitiga; rotasi=0; titik=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segitiga; rotasi=0; titik=1",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segitiga; rotasi=0; titik=0",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Segitiga berputar 90 derajat searah jarum jam setiap langkah (rotasi 0, 90, 180, 270, lalu kembali 0) dan jumlah titik berkurang satu (5, 4, 3, 2, lalu 1). Jawabannya D. Pengecoh: A segitiga berputar berlawanan arah jarum jam; B segitiga tidak berputar; C jumlah titik tidak berkurang; E titik berkurang dua.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0013",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=persegi; panah=atas; ukuran=kecil\nGambar 2: bentuk=persegi; panah=kanan; ukuran=sedang\nGambar 3: bentuk=persegi; panah=bawah; ukuran=besar\nGambar 4: bentuk=persegi; panah=kiri; ukuran=kecil\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; panah=atas; ukuran=kecil",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=persegi; panah=atas; ukuran=sedang",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=persegi; panah=atas; ukuran=besar",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=persegi; panah=bawah; ukuran=sedang",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=persegi; panah=kiri; ukuran=sedang",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah berputar 90 derajat searah jarum jam (atas, kanan, bawah, kiri, lalu atas lagi) dan ukuran bergilir kecil, sedang, besar dengan periode 3. Gambar 4 kecil, jadi Gambar 5 sedang. Jawabannya B. Pengecoh: A ukuran tidak bergilir; C ukuran dianggap terus membesar; D panah berputar berlawanan arah jarum jam; E panah tidak berputar.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0014",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=lingkaran; isi=putih; garis=1\nGambar 2: bentuk=lingkaran; isi=hitam; garis=2\nGambar 3: bentuk=lingkaran; isi=putih; garis=3\nGambar 4: bentuk=lingkaran; isi=hitam; garis=4\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=lingkaran; isi=hitam; garis=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; isi=putih; garis=4",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; isi=putih; garis=5",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=lingkaran; isi=putih; garis=6",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=lingkaran; isi=abu; garis=5",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Jumlah garis di dalam lingkaran bertambah satu setiap langkah (1, 2, 3, 4, lalu 5) dan isi berselang-seling putih dan hitam. Langkah kelima berisi putih dengan 5 garis. Jawabannya C. Pengecoh: A isi tidak berselang-seling; B jumlah garis tidak bertambah; D garis bertambah dua; E isi berubah menjadi abu yang tidak pernah muncul.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0015",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n..o\n.#.\n...\nGambar 2:\n...\no..\n...\nGambar 3:\n...\n.#.\n..o\nGambar 4:\n.o.\n...\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n.#.\no..",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\n...\no..",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "...\n.#.\n..o",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "...\no#.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".o.\n.#.\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), lingkaran melompat 3 sel berlawanan arah jarum jam (3, 8, 5, 2, lalu 7), sedangkan kotak hitam di pusat muncul dan hilang bergantian. Gambar 4 pusatnya kosong, jadi Gambar 5 pusatnya berisi kotak hitam. Jawabannya A. Pengecoh: B kotak di pusat tidak muncul kembali; C lingkaran bergerak searah jarum jam; D lingkaran hanya mundur dua sel; E lingkaran tidak bergerak.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0016",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segienam; titik=2; panah=atas\nGambar 2: bentuk=segienam; titik=2; panah=kanan-bawah\nGambar 3: bentuk=segienam; titik=2; panah=kiri\nGambar 4: bentuk=segienam; titik=2; panah=kanan-atas\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segienam; titik=2; panah=kanan-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; titik=2; panah=kiri",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; titik=2; panah=bawah",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; titik=2; panah=kiri-bawah",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segienam; titik=3; panah=bawah",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah berputar 135 derajat searah jarum jam setiap langkah: atas, kanan-bawah, kiri, kanan-atas, lalu bawah. Bentuk dan jumlah titik tetap. Jawabannya C. Pengecoh: A panah berputar 90 derajat, bukan 135 derajat; B panah berputar berlawanan arah jarum jam; D panah berputar 180 derajat; E jumlah titik ikut bertambah padahal tetap.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0017",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n##.\n.o.\n...\nGambar 2:\n.##\n.o.\n...\nGambar 3:\n..#\n.o#\n...\nGambar 4:\n...\n.o#\n..#\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "...\n.o.\n.##",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "...\n.o.\n##.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\n.o#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "...\n.o#\n..#",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "...\n...\n.##",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Sepasang kotak hitam bergeser satu sel searah jarum jam di tepi grid setiap langkah, lingkaran di pusat tetap. Gambar 4 menempati kanan tengah dan kanan bawah, jadi Gambar 5 menempati kanan bawah dan tengah bawah. Jawabannya A. Pengecoh: B pasangan kotak bergeser dua sel; C pasangan kotak bergerak mundur; D pasangan kotak tidak bergerak; E lingkaran di pusat hilang.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0018",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=lingkaran; panah=kanan; garis=8\nGambar 2: bentuk=lingkaran; panah=atas; garis=6\nGambar 3: bentuk=lingkaran; panah=kiri; garis=4\nGambar 4: bentuk=lingkaran; panah=bawah; garis=2\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=lingkaran; panah=kiri; garis=0",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; panah=bawah; garis=0",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; panah=kanan; garis=2",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=lingkaran; panah=kanan; garis=0",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=lingkaran; panah=atas; garis=0",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah berputar 90 derajat berlawanan arah jarum jam (kanan, atas, kiri, bawah, lalu kanan) dan jumlah garis berkurang 2 (8, 6, 4, 2, lalu 0, tanpa garis). Jawabannya D. Pengecoh: A panah berputar searah jarum jam; B panah tidak berputar; C jumlah garis tidak berkurang; E panah berputar 180 derajat.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0019",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n...\n..^\n##.\nGambar 2:\n^..\n#..\n#..\nGambar 3:\n#..\n#..\n.^.\nGambar 4:\n##^\n...\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".##\n...\n.^.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "..#\n^.#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "##.\n^..\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "^##\n...\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": ".##\n^..\n...",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), sepasang kotak hitam bergeser 1 sel searah jarum jam (6-7, 7-8, 8-1, 1-2, lalu 2-3), sedangkan segitiga melompat 3 sel berlawanan arah jarum jam (4, 1, 6, 3, lalu 8). Jawabannya E. Pengecoh: A segitiga bergerak searah jarum jam; B pasangan kotak bergeser dua sel; C pasangan kotak tidak bergerak; D segitiga hanya mundur dua sel.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0020",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=lingkaran; titik=2\nGambar 2: bentuk=persegi; titik=3\nGambar 3: bentuk=lingkaran; titik=4\nGambar 4: bentuk=persegi; titik=5\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=persegi; titik=6",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=lingkaran; titik=6",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=lingkaran; titik=5",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=lingkaran; titik=7",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; titik=6",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Bentuk berselang-seling lingkaran dan persegi, sedangkan jumlah titik bertambah satu (2, 3, 4, 5, lalu 6). Langkah kelima adalah lingkaran dengan 6 titik. Jawabannya B. Pengecoh: A bentuk tidak berselang-seling; C jumlah titik tidak bertambah; D titik bertambah dua; E bentuk dianggap bertambah sisi.",
+  "difficulty": 2,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0021",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\no..\n...\n..#\nGambar 2:\n.o.\n..#\n...\nGambar 3:\n..#\n..o\n...\nGambar 4:\n.#.\n...\no..\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "#..\no..\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "#o.\n...\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".#o\n...\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "#.o\n...\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "..o\n#..\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), lingkaran bergerak searah jarum jam dengan langkah yang terus bertambah: 1, 2, 4, 7 (maju 1, 2, lalu 3 sel), jadi berikutnya maju 4 sel ke posisi 11 - 8 = 3 (kanan atas). Kotak hitam mundur 1 sel: 5, 4, 3, 2, lalu 1 (kiri atas). Jawabannya D. Pengecoh: A langkah lingkaran dianggap tetap satu sel; B langkah lingkaran dianggap tetap tiga sel; C kotak tidak bergerak; E kotak mundur dua sel.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0022",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segilima; isi=hitam; panah=kanan\nGambar 2: bentuk=segilima; isi=putih; panah=kanan-atas\nGambar 3: bentuk=segilima; isi=hitam; panah=kiri-atas\nGambar 4: bentuk=segilima; isi=putih; panah=bawah\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segilima; isi=hitam; panah=kanan-atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segilima; isi=hitam; panah=atas",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segilima; isi=putih; panah=atas",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segilima; isi=hitam; panah=kiri",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segilima; isi=hitam; panah=bawah",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Panah berputar berlawanan arah jarum jam dengan sudut yang bertambah 45 derajat setiap langkah: 45, 90, 135, lalu 180 derajat (kanan, kanan-atas, kiri-atas, bawah). Dari bawah, putaran 180 derajat menghasilkan atas. Isi berselang-seling hitam dan putih, jadi langkah kelima hitam. Jawabannya B. Pengecoh: A putaran tidak bertambah, tetap 135 derajat; C isi tidak berselang-seling; D panah berputar 90 derajat searah jarum jam; E panah tidak berputar.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0023",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[bentuk] Lanjutkan barisan gambar berikut.\nGambar 1: bentuk=segienam; isi=putih; titik=2\nGambar 2: bentuk=segienam; isi=abu; titik=3\nGambar 3: bentuk=segienam; isi=putih; titik=6\nGambar 4: bentuk=segienam; isi=abu; titik=11\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "bentuk=segienam; isi=putih; titik=16",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "bentuk=segienam; isi=putih; titik=17",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "bentuk=segienam; isi=putih; titik=18",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "bentuk=segienam; isi=abu; titik=18",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "bentuk=segienam; isi=putih; titik=22",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Selisih jumlah titik bertambah 2 setiap langkah: 2, 3, 6, 11 (selisih 1, 3, 5), jadi selisih berikutnya 7 dan titik menjadi 18. Isi berselang-seling putih dan abu, sehingga langkah kelima putih. Jawabannya C. Pengecoh: A selisih dianggap tetap 5; B selisih dianggap 6; D isi tidak berselang-seling; E jumlah titik dikali dua.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0024",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n.#.\n.x.\n.o.\nGambar 2:\n..#\n...\n..o\nGambar 3:\n...\n.xo\n..#\nGambar 4:\n..o\n#..\n...\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": ".o.\n.x#\n...",
+    "score": 5,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": ".o#\n.x.\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": ".o.\n..#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..o\n.x#\n...",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "o..\n.x#\n...",
+    "score": 0,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dengan penomoran tepi grid 1-8 searah jarum jam mulai kiri atas (1 kiri atas, 2 tengah atas, 3 kanan atas, 4 kanan tengah, 5 kanan bawah, 6 tengah bawah, 7 kiri bawah, 8 kiri tengah), tiga aturan berjalan bersamaan. Kotak hitam maju searah jarum jam dengan langkah 1, 2, 3, lalu 4 (posisi 2, 3, 5, 8, lalu 12 - 8 = 4). Lingkaran mundur 1 sel (6, 5, 4, 3, lalu 2). Silang di pusat muncul dan hilang bergantian, jadi pada Gambar 5 muncul lagi. Jawabannya A. Pengecoh: B langkah kotak tidak bertambah (tetap 3 sel); C silang di pusat tidak muncul kembali; D lingkaran tidak bergerak; E lingkaran mundur dua sel.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ },
+ {
+  "id": "tiu-figural-serial-0025",
+  "subtest": "TIU",
+  "group": "figural",
+  "tag": "serial",
+  "stem": "[grid] Lanjutkan barisan gambar berikut.\nGambar 1:\n##.\no..\n..#\nGambar 2:\n.o#\n..#\n#..\nGambar 3:\n.#o\n..o\no..\nGambar 4:\no..\n..#\n.oo\nGambar 5 adalah ...",
+  "image": null,
+  "options": [
+   {
+    "key": "A",
+    "text": "..o\no..\no#.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "o..\n..#\n.oo",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "..#\no..\n##.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "..#\n#..\n#o.",
+    "score": 0,
+    "rationale": ""
+   },
+   {
+    "key": "E",
+    "text": "#..\n..o\n.##",
+    "score": 5,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Dua aturan dipakai bergantian: langkah pertama dan ketiga memutar grid 90 derajat searah jarum jam, langkah kedua dan keempat menukar # dengan o tanpa memutar. Gambar 4 ke Gambar 5 adalah langkah keempat, jadi cukup tukar # dan o pada Gambar 4. Jawabannya E. Pengecoh: A diputar lagi, padahal langkah keempat adalah langkah menukar isi; B tidak diubah; C isinya sudah ditukar tetapi juga dicerminkan; D isi ditukar dan diputar sekaligus.",
+  "difficulty": 3,
+  "source": "ditulis sendiri",
+  "status": "draft"
+ }
+]

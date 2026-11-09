@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0001",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf subbagian umum. Tiga puluh menit sebelum rapat koordinasi lintas dinas dimulai, kepala subbagian meminta Anda menggantikan rekan yang mendadak sakit sebagai notulis. Anda belum pernah menjadi notulis rapat sebesar itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan alasan tugas notulis tidak tercantum dalam uraian jabatan Anda dan Anda khawatir hasilnya keliru.",
+        "score": 1,
+        "rationale": "Menolak perintah atasan yang sah dan wajar."
+      },
+      {
+        "key": "B",
+        "text": "Menerima, tetapi menanyakan dulu apakah ada pegawai lain yang lebih berpengalaman, karena notula rapat lintas dinas akan menjadi rujukan banyak pihak dan kesalahannya bisa berdampak luas.",
+        "score": 3,
+        "rationale": "Alasannya terdengar hati-hati, tetapi tetap berusaha mengalihkan tugas yang sah kepada orang lain."
+      },
+      {
+        "key": "C",
+        "text": "Menerima tugas, meminta agenda dan daftar peserta, lalu menyerahkan draf notula kepada kepala subbagian untuk diperiksa sebelum diedarkan.",
+        "score": 5,
+        "rationale": "Menerima perintah yang sah, mempersiapkan diri dengan cepat, dan memastikan mutu hasil lewat pemeriksaan atasan."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan agar rapat cukup direkam sehingga notula dapat disusun oleh rekan yang sakit setelah ia kembali bekerja.",
+        "score": 2,
+        "rationale": "Menunda pekerjaan dan melempar beban kepada rekan yang sedang sakit."
+      },
+      {
+        "key": "E",
+        "text": "Menerima tugas dan mencatat jalannya rapat selengkap mungkin dengan cara yang Anda pahami.",
+        "score": 4,
+        "rationale": "Tugas dijalankan, tetapi tanpa persiapan dan tanpa pengecekan mutu notula."
+      }
+    ],
+    "explanation": "Profesionalisme menuntut kesediaan melaksanakan perintah atasan yang sah dan wajar meskipun mendadak, disertai persiapan agar hasil kerja tetap bermutu (Akuntabel, Kompeten).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0002",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda analis kepegawaian. Pada minggu yang sama Anda harus menyelesaikan usulan kenaikan pangkat dengan batas waktu Kamis dari BKN, rekap data cuti yang diminta kepala bidang untuk Jumat, dan bahan sosialisasi yang diminta kepala subbagian untuk Kamis. Anda memperkirakan ketiganya tidak akan selesai tepat waktu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyusun prioritas berdasarkan tenggat dan dampak, lalu sejak awal menyampaikan beban kerja kepada kepala subbagian beserta usulan jadwal atau pembagian tugas.",
+        "score": 5,
+        "rationale": "Terbuka tentang kendala sejak awal, terencana, dan tetap melalui atasan langsung."
+      },
+      {
+        "key": "B",
+        "text": "Mendahulukan permintaan kepala bidang karena jabatannya paling tinggi di antara para pemberi tugas.",
+        "score": 2,
+        "rationale": "Prioritas ditentukan oleh jabatan pemberi tugas, bukan oleh tenggat dan dampak pekerjaan."
+      },
+      {
+        "key": "C",
+        "text": "Mendahulukan usulan kenaikan pangkat karena tenggat BKN mengikat dan menyangkut hak pegawai, lalu menyelesaikan rekap cuti dan bahan sosialisasi dengan lembur agar semuanya tetap terkejar.",
+        "score": 4,
+        "rationale": "Prioritasnya tepat, tetapi atasan tidak diberi tahu risiko keterlambatan tugas lain."
+      },
+      {
+        "key": "D",
+        "text": "Mengerjakan tugas yang paling mudah lebih dulu dan baru memberi tahu atasan setelah batas waktu tugas lain terlewat.",
+        "score": 1,
+        "rationale": "Menyembunyikan masalah sampai terlambat sehingga merugikan pegawai dan organisasi."
+      },
+      {
+        "key": "E",
+        "text": "Mengerjakan ketiganya sekaligus dengan lembur setiap malam sambil berharap semuanya selesai.",
+        "score": 3,
+        "rationale": "Bertanggung jawab, tetapi tanpa perencanaan sehingga mutu dan ketepatan waktu tetap berisiko."
+      }
+    ],
+    "explanation": "Yang dinilai adalah kemampuan mengelola prioritas dan keterbukaan tentang beban kerja kepada atasan langsung agar tidak ada tenggat yang dikorbankan diam-diam (Akuntabel, Kompeten).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0003",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas verifikasi berkas beasiswa pemerintah daerah. Setelah hasil seleksi diumumkan, Anda menemukan satu berkas pendaftar yang memenuhi syarat terselip di laci dan tidak pernah masuk ke daftar penilaian. Belum ada yang mengetahuinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Segera melapor kepada ketua tim, menyerahkan berkas itu untuk ditangani sesuai mekanisme, dan mengusulkan daftar periksa penerimaan berkas.",
+        "score": 5,
+        "rationale": "Jujur, memulihkan hak pendaftar lewat mekanisme resmi, dan mencegah kesalahan terulang."
+      },
+      {
+        "key": "B",
+        "text": "Menyimpan berkas itu dengan rapi beserta catatan tanggal ditemukannya, lalu menyampaikannya bila kelak pendaftar tersebut mengajukan keberatan atas hasil seleksi.",
+        "score": 3,
+        "rationale": "Tampak tertib, tetapi menunggu masalah muncul sebelum mengakui kesalahan."
+      },
+      {
+        "key": "C",
+        "text": "Melapor kepada ketua tim dan menyerahkan berkas itu untuk ditindaklanjuti.",
+        "score": 4,
+        "rationale": "Jujur dan bertanggung jawab, tetapi belum ada langkah pencegahan."
+      },
+      {
+        "key": "D",
+        "text": "Menghubungi pendaftar secara pribadi dan menyarankannya mendaftar lagi tahun depan tanpa menjelaskan apa yang terjadi.",
+        "score": 2,
+        "rationale": "Menghindari pengakuan dan tidak memulihkan kerugian pendaftar."
+      },
+      {
+        "key": "E",
+        "text": "Memasukkan berkas itu ke tumpukan berkas yang tidak lolos administrasi agar arsipnya tampak wajar.",
+        "score": 1,
+        "rationale": "Menutupi kesalahan dengan memanipulasi arsip seleksi."
+      }
+    ],
+    "explanation": "Mengakui kesalahan sendiri yang belum diketahui orang lain dan memperbaikinya melalui jalur resmi adalah inti nilai Akuntabel; langkah pencegahan membedakan skor 5 dari skor 4.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0004",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda bendahara pengeluaran di sebuah dinas. Kepala dinas, yang selama ini banyak mendukung karier Anda, meminta Anda mencairkan uang perjalanan dinas untuk kegiatan yang tidak pernah dilaksanakan. Menurut beliau, dana itu akan dipakai menutup kebutuhan operasional kantor yang tidak dianggarkan, bukan untuk pribadi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa permintaan itu melanggar aturan pengelolaan keuangan negara.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi kebutuhan operasional kantor tidak dicarikan jalan keluar."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan, menjelaskan bahwa pencairan tanpa kegiatan nyata adalah pertanggungjawaban fiktif, lalu menawarkan bantuan menyiapkan revisi anggaran sesuai ketentuan.",
+        "score": 5,
+        "rationale": "Integritas terjaga, pimpinan tetap dihormati, dan kebutuhan kantor dicarikan jalan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Meminta kepala dinas menuangkan perintah itu secara tertulis sebelum Anda memprosesnya.",
+        "score": 3,
+        "rationale": "Melindungi diri sendiri, tetapi tidak mencegah pelanggaran."
+      },
+      {
+        "key": "D",
+        "text": "Mencairkan dana karena digunakan untuk kepentingan kantor dan Anda ingin menjaga kepercayaan pimpinan yang selama ini membina Anda.",
+        "score": 1,
+        "rationale": "Ikut membuat pertanggungjawaban fiktif dengan dalih loyalitas dan kepentingan dinas."
+      },
+      {
+        "key": "E",
+        "text": "Menunda-nunda pencairan sambil berharap kepala dinas melupakan permintaannya.",
+        "score": 2,
+        "rationale": "Menghindar tanpa sikap yang jelas sehingga pelanggaran masih bisa terjadi."
+      }
+    ],
+    "explanation": "Loyal kepada pimpinan tidak berarti mengikuti perintah yang melanggar hukum; ASN hanya wajib patuh pada perintah yang sah dan wajar. Skor tertinggi menolak dengan santun sambil menawarkan mekanisme yang sah (Akuntabel, Loyal).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0005",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai di kantor kecamatan. Pukul 14.00 seorang rekan menitipkan ponselnya kepada Anda karena ingin pulang lebih awal untuk menjemput anak, lalu meminta Anda melakukan presensi pulang dengan ponselnya pukul 16.00 nanti. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengembalikan ponselnya dan mengingatkan bahwa titip presensi merupakan pelanggaran disiplin.",
+        "score": 4,
+        "rationale": "Menolak dengan benar, tetapi tanpa menawarkan jalan keluar."
+      },
+      {
+        "key": "B",
+        "text": "Mengembalikan ponselnya tanpa banyak penjelasan.",
+        "score": 3,
+        "rationale": "Tidak ikut melanggar, tetapi tidak mengedukasi rekan."
+      },
+      {
+        "key": "C",
+        "text": "Mengembalikan ponselnya dengan sopan, menjelaskan bahwa presensi harus sesuai kehadiran, dan menyarankannya meminta izin kepada atasan.",
+        "score": 5,
+        "rationale": "Menolak pelanggaran dengan santun sambil menunjukkan jalan yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Menerima ponselnya agar rekan tidak tersinggung, tetapi diam-diam tidak melakukan presensi untuknya dan baru menjelaskan alasannya keesokan hari ketika ia bertanya.",
+        "score": 2,
+        "rationale": "Tidak terus terang dan menghindari sikap yang jelas."
+      },
+      {
+        "key": "E",
+        "text": "Melakukan presensi untuknya karena alasan menjemput anak dapat dimaklumi dan ia hanya pulang dua jam lebih awal.",
+        "score": 1,
+        "rationale": "Ikut memalsukan data kehadiran."
+      }
+    ],
+    "explanation": "Titip presensi adalah pemalsuan data kehadiran yang melanggar disiplin PNS. Sikap profesional menolak dengan santun dan mengarahkan ke prosedur izin yang sah (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0006",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda penyuluh pertanian. Setelah panen raya, kelompok tani yang Anda dampingi mendatangi rumah Anda membawa sekarung beras hasil panen sebagai tanda terima kasih atas pendampingan selama musim tanam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima agar tidak menyinggung perasaan kelompok tani yang datang jauh-jauh, lalu menyerahkannya ke kantor untuk dibagikan kepada seluruh pegawai sehingga tidak Anda nikmati sendiri.",
+        "score": 3,
+        "rationale": "Tidak dinikmati sendiri, tetapi pemberian terkait jabatan tetap diterima tanpa jalur yang benar."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan halus sambil berterima kasih atas niat baik mereka.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi tanpa penjelasan yang mencegah pemberian serupa."
+      },
+      {
+        "key": "C",
+        "text": "Menerima karena nilainya tidak besar dan memberi hasil panen sudah menjadi tradisi syukuran di desa itu.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dengan dalih tradisi."
+      },
+      {
+        "key": "D",
+        "text": "Menerima setengah karung saja sebagai bentuk menghargai dan mengembalikan sisanya.",
+        "score": 2,
+        "rationale": "Sebagian pemberian terkait jabatan tetap diterima."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan halus sambil berterima kasih, menjelaskan bahwa pendampingan adalah tugas Anda, dan menyarankan beras disimpan di lumbung kelompok.",
+        "score": 5,
+        "rationale": "Menolak gratifikasi tanpa menyinggung dan memberi arah yang bermanfaat bagi kelompok."
+      }
+    ],
+    "explanation": "Pemberian dari pihak yang dilayani karena jabatan termasuk gratifikasi meskipun nilainya kecil. Penolakan yang santun dan disertai penjelasan menjaga integritas sekaligus hubungan baik (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0007",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda arsiparis di sebuah dinas. Operator situs web dinas sedang cuti panjang, dan sekretaris dinas meminta Anda sementara mengunggah pengumuman resmi ke situs web. Tugas itu bukan tugas pokok Anda dan Anda belum pernah melakukannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima dan mempelajari sendiri cara mengunggah pengumuman dari panduan yang tersedia di internet, lalu langsung mengerjakannya agar pengumuman tidak tertunda.",
+        "score": 4,
+        "rationale": "Bersedia dan sigap, tetapi tanpa akses dan panduan resmi sehingga rawan keliru."
+      },
+      {
+        "key": "B",
+        "text": "Menerima, tetapi hanya mengunggah pengumuman yang mendesak dan menunggu operator kembali untuk sisanya.",
+        "score": 3,
+        "rationale": "Tugas dijalankan sebagian, sisanya ditunda."
+      },
+      {
+        "key": "C",
+        "text": "Menolak karena tugas itu tidak sesuai uraian jabatan dan Anda tidak mau disalahkan bila terjadi kesalahan unggah.",
+        "score": 1,
+        "rationale": "Menolak perintah yang sah demi menghindari risiko pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Menerima, meminta akses resmi dan panduan dari pengelola TI, lalu mengatur waktu agar pekerjaan kearsipan tetap berjalan.",
+        "score": 5,
+        "rationale": "Menerima tugas tambahan yang sah, belajar lewat jalur resmi, dan tetap menjaga tugas pokok."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan sekretaris dinas menugaskan pegawai lain yang lebih paham teknologi.",
+        "score": 2,
+        "rationale": "Mengalihkan tugas yang sebenarnya bisa dipelajari."
+      }
+    ],
+    "explanation": "Tugas tambahan yang sah dari atasan tetap bagian dari profesionalisme. Kesediaan mempelajari keterampilan baru melalui jalur resmi tanpa mengorbankan tugas pokok mencerminkan Kompeten dan Adaptif.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0008",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf bagian umum. Anda beberapa kali melihat seorang rekan satu tim memakai mobil dinas pada akhir pekan untuk keperluan keluarga, lalu mengisi bahan bakarnya dengan kartu BBM kantor. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima tawarannya ketika ia mengajak keluarga Anda ikut berlibur dengan mobil dinas itu.",
+        "score": 1,
+        "rationale": "Ikut menyalahgunakan fasilitas negara."
+      },
+      {
+        "key": "B",
+        "text": "Diam karena khawatir hubungan kerja menjadi tidak nyaman.",
+        "score": 2,
+        "rationale": "Membiarkan penyalahgunaan aset negara."
+      },
+      {
+        "key": "C",
+        "text": "Mengingatkannya secara pribadi, lalu menganggap masalahnya selesai tanpa memperhatikan kelanjutannya.",
+        "score": 3,
+        "rationale": "Langkah awal benar, tetapi tanpa tindak lanjut bila pelanggaran berulang."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kepada atasan secara tertulis disertai catatan tanggal, lokasi, dan foto kendaraan yang Anda lihat, agar penanganannya objektif dan tidak menjadi gosip.",
+        "score": 4,
+        "rationale": "Objektif dan lewat jalur resmi, tetapi tanpa memberi kesempatan rekan memperbaiki diri lebih dulu."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkannya secara pribadi tentang aturan kendaraan dinas dan kartu BBM, lalu melapor kepada atasan bila kebiasaan itu berlanjut.",
+        "score": 5,
+        "rationale": "Memberi kesempatan memperbaiki diri lebih dulu dan tetap menindaklanjuti lewat jalur resmi."
+      }
+    ],
+    "explanation": "Penggunaan kendaraan dinas dan BBM untuk kepentingan pribadi merugikan negara. ASN menggunakan barang milik negara secara bertanggung jawab serta berani mengingatkan dan melapor melalui jalur yang tepat (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0009",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda statistisi di sebuah dinas. Kepala bidang meminta Anda \"menyesuaikan\" angka capaian kinerja program menjadi 100 persen dalam laporan akhir tahun karena dinas sedang dinilai untuk sebuah penghargaan, padahal data riil menunjukkan capaian 82 persen. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyesuaikan angka sesuai arahan demi nama baik dinas, karena Anda hanya pelaksana teknis dan tanggung jawab ada pada pimpinan.",
+        "score": 1,
+        "rationale": "Ikut memanipulasi data dengan dalih perintah atasan."
+      },
+      {
+        "key": "B",
+        "text": "Meminta kepala bidang membicarakannya dahulu dengan kepala dinas sebelum Anda mengubah angka.",
+        "score": 3,
+        "rationale": "Menunda dan menyerahkan keputusan, tanpa menolak pelanggaran."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan dengan sopan bahwa angka capaian harus sesuai data, lalu menawarkan menyusun analisis penyebab capaian 82 persen beserta rencana perbaikan agar laporan tetap kuat dan dapat dipertanggungjawabkan.",
+        "score": 5,
+        "rationale": "Menolak manipulasi dengan santun dan memberi jalan keluar yang membantu pimpinan."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan pengolahan laporan kepada rekan lain dengan alasan Anda sedang menyelesaikan pekerjaan mendesak.",
+        "score": 2,
+        "rationale": "Menghindar sehingga manipulasi tetap bisa dilakukan orang lain."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan karena mengubah angka capaian sama dengan memalsukan laporan.",
+        "score": 4,
+        "rationale": "Sikapnya benar, tetapi tanpa alternatif bagi kebutuhan pimpinan."
+      }
+    ],
+    "explanation": "Laporan kinerja adalah dokumen pertanggungjawaban publik. Menjaga keakuratan data sambil tetap membantu pimpinan dengan analisis yang jujur mencerminkan Akuntabel, dan Loyal dalam arti menjaga nama baik instansi dengan cara yang benar.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0010",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf bagian perencanaan. Menjelang batas akhir penyusunan rencana kerja dan anggaran, tim harus bekerja sampai malam selama satu minggu, sementara anggaran uang lembur tahun ini sudah habis. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut lembur, lalu mencatat jam lembur itu pada bulan berikutnya ketika anggaran uang lembur sudah tersedia.",
+        "score": 1,
+        "rationale": "Memanipulasi data lembur untuk keuntungan pribadi."
+      },
+      {
+        "key": "B",
+        "text": "Tetap ikut lembur bersama tim sampai pekerjaan selesai.",
+        "score": 4,
+        "rationale": "Bertanggung jawab pada tugas, tetapi tanpa upaya perbaikan ke depan."
+      },
+      {
+        "key": "C",
+        "text": "Tetap menyelesaikan bagian Anda bersama tim, lalu setelah tenggat lewat mengusulkan perbaikan jadwal penyusunan untuk tahun depan.",
+        "score": 5,
+        "rationale": "Mendahulukan tuntutan tugas dan memberi masukan agar beban serupa dapat dicegah."
+      },
+      {
+        "key": "D",
+        "text": "Pulang tepat waktu dan mengerjakan bagian Anda sebisanya pada jam kerja, meskipun tim kewalahan.",
+        "score": 2,
+        "rationale": "Mendahulukan kenyamanan pribadi saat organisasi membutuhkan."
+      },
+      {
+        "key": "E",
+        "text": "Ikut lembur pada hari-hari yang paling mendesak saja, sedangkan pada hari lain Anda pulang tepat waktu dan menyelesaikan sisa bagian Anda dari rumah semampunya.",
+        "score": 3,
+        "rationale": "Setengah hati sehingga beban tim tidak terbagi merata."
+      }
+    ],
+    "explanation": "Profesionalisme ditunjukkan dengan menuntaskan tugas organisasi pada saat genting tanpa mengakali hak, sambil mendorong perencanaan yang lebih baik (Akuntabel, Kompeten).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0011",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas pelayanan di kantor Samsat. Di tengah jam layanan yang ramai, keluarga menelepon dan meminta Anda segera mengurus pembayaran uang sekolah anak yang batas akhirnya hari ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengurus pembayaran melalui ponsel di sela-sela melayani warga di loket.",
+        "score": 3,
+        "rationale": "Urusan selesai, tetapi perhatian pada pelayanan terbagi."
+      },
+      {
+        "key": "B",
+        "text": "Meminta anggota keluarga lain mengurusnya atau membayar secara daring saat jam istirahat, sehingga loket tetap melayani.",
+        "score": 5,
+        "rationale": "Urusan pribadi diselesaikan tanpa mengganggu pelayanan."
+      },
+      {
+        "key": "C",
+        "text": "Meminta izin kepada koordinator untuk keluar sebentar, memastikan rekan menggantikan Anda di loket, dan kembali secepatnya setelah pembayaran selesai.",
+        "score": 4,
+        "rationale": "Prosedural, tetapi pelayanan tetap berkurang karena urusan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Meninggalkan loket tanpa pemberitahuan karena pembayaran sekolah tidak bisa ditunda dan hanya memakan waktu sebentar.",
+        "score": 1,
+        "rationale": "Meninggalkan tugas pelayanan tanpa izin demi urusan pribadi."
+      },
+      {
+        "key": "E",
+        "text": "Meminta rekan di loket sebelah melayani antrean Anda sementara Anda keluar tanpa izin koordinator.",
+        "score": 2,
+        "rationale": "Membebani rekan dan melangkahi prosedur izin."
+      }
+    ],
+    "explanation": "Urusan pribadi semestinya diselesaikan tanpa mengorbankan jam kerja dan pelayanan. Bila memang harus meninggalkan tugas, gunakan izin resmi (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0012",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai yang ditugaskan di sekretariat panitia seleksi PPPK di instansi Anda. Sepupu Anda yang menjadi peserta seleksi tersebut meminta Anda memberi tahu materi wawancara yang akan digunakan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan halus karena Anda wajib menjaga kerahasiaan seleksi, mengarahkannya ke kisi-kisi resmi yang sudah diumumkan, dan memberi tahu ketua panitia bahwa kerabat Anda menjadi peserta.",
+        "score": 5,
+        "rationale": "Menjaga rahasia jabatan, tetap membantu secara sah, dan terbuka tentang benturan kepentingan."
+      },
+      {
+        "key": "B",
+        "text": "Memberi gambaran umum topik pertanyaan karena Anda merasa tidak menyebutkan soalnya secara persis.",
+        "score": 1,
+        "rationale": "Tetap membocorkan informasi rahasia seleksi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan halus dan menjelaskan bahwa materi seleksi bersifat rahasia.",
+        "score": 4,
+        "rationale": "Benar, tetapi potensi benturan kepentingan tidak disampaikan kepada panitia."
+      },
+      {
+        "key": "D",
+        "text": "Mengatakan bahwa Anda sama sekali tidak mengetahui materi wawancara agar tidak perlu menolak secara langsung.",
+        "score": 2,
+        "rationale": "Kerahasiaan terjaga, tetapi dengan cara berbohong."
+      },
+      {
+        "key": "E",
+        "text": "Mengalihkan pembicaraan setiap kali ia menanyakan hal itu.",
+        "score": 3,
+        "rationale": "Tidak membocorkan, tetapi tidak bersikap tegas."
+      }
+    ],
+    "explanation": "Menjaga rahasia jabatan dan mengungkapkan benturan kepentingan merupakan bagian dari profesionalisme ASN (Loyal, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0013",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai baru di bagian hukum. Dalam rapat, kepala bagian menanyakan pendapat Anda tentang ketentuan sebuah peraturan daerah yang belum pernah Anda pelajari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan yang lebih senior untuk menjawab pertanyaan itu.",
+        "score": 3,
+        "rationale": "Pertanyaan terjawab, tetapi Anda melepaskan kesempatan bertanggung jawab."
+      },
+      {
+        "key": "B",
+        "text": "Mengakui bahwa Anda belum menguasainya dan berjanji akan mempelajarinya.",
+        "score": 4,
+        "rationale": "Jujur, tetapi tanpa tenggat dan hasil yang jelas."
+      },
+      {
+        "key": "C",
+        "text": "Mengakui terus terang bahwa Anda belum menguasainya dan berjanji menyampaikan kajian singkat beserta rujukan pasalnya pada waktu yang disepakati.",
+        "score": 5,
+        "rationale": "Jujur tentang batas pengetahuan dan memberi komitmen penyelesaian yang jelas."
+      },
+      {
+        "key": "D",
+        "text": "Menjawab berdasarkan perkiraan dengan nada yakin, karena pegawai baru perlu menunjukkan kemampuan di depan pimpinan dan Anda masih bisa meralatnya nanti bila ternyata keliru.",
+        "score": 1,
+        "rationale": "Memberi informasi yang belum tentu benar demi citra diri."
+      },
+      {
+        "key": "E",
+        "text": "Menjawab secara umum dan berputar-putar agar tidak terlihat tidak tahu.",
+        "score": 2,
+        "rationale": "Menutupi ketidaktahuan dan tidak memberi jawaban yang berguna."
+      }
+    ],
+    "explanation": "Mengakui ketidaktahuan secara jujur lalu menindaklanjutinya dengan belajar adalah wujud Akuntabel dan Kompeten.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0014",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda baru dimutasi dari bagian umum ke bagian pengadaan barang dan jasa. Sebagian besar regulasi pengadaan belum Anda kuasai, sementara paket pertama yang Anda tangani harus diproses bulan depan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan mengembalikan Anda ke bagian umum karena tugas baru tidak sesuai latar belakang Anda.",
+        "score": 2,
+        "rationale": "Menghindari tantangan jabatan baru."
+      },
+      {
+        "key": "B",
+        "text": "Mempelajari regulasi dan dokumen paket sebelumnya, mendaftar pelatihan pengadaan, dan meminta pendampingan rekan berpengalaman pada paket pertama.",
+        "score": 5,
+        "rationale": "Terencana, memanfaatkan sumber belajar resmi, dan menjaga mutu sejak paket pertama."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti pola dokumen paket tahun lalu tanpa memahami dasar aturannya.",
+        "score": 3,
+        "rationale": "Pekerjaan berjalan, tetapi kesalahan lama bisa terulang."
+      },
+      {
+        "key": "D",
+        "text": "Meminta penyedia yang biasa bekerja sama dengan kantor menyiapkan dokumen pengadaan karena mereka lebih berpengalaman, sehingga hasilnya tidak salah dan paket pertama dapat diproses tepat waktu.",
+        "score": 1,
+        "rationale": "Membuka benturan kepentingan dan menyerahkan tugas jabatan kepada pihak yang berkepentingan."
+      },
+      {
+        "key": "E",
+        "text": "Mempelajari regulasi pengadaan secara mandiri di luar jam kerja.",
+        "score": 4,
+        "rationale": "Mau belajar, tetapi tanpa memanfaatkan pendampingan dan pelatihan yang tersedia."
+      }
+    ],
+    "explanation": "Meningkatkan kompetensi secara terencana untuk memenuhi tuntutan jabatan baru adalah wujud Kompeten; menyerahkan tugas kepada pihak yang berkepentingan melanggar integritas (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0015",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengawas pekerjaan konstruksi di dinas pekerjaan umum. Kontraktor meminta Anda menandatangani berita acara pemeriksaan hari ini agar termin dapat dicairkan sebelum tutup tahun anggaran. Hasil pemeriksaan Anda menunjukkan sebagian pekerjaan belum sesuai spesifikasi, sementara atasan berpesan agar penyerapan anggaran jangan sampai gagal. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak menandatangani berita acara yang tidak sesuai fakta, melaporkan hasil pemeriksaan kepada atasan, dan mengusulkan pembayaran sesuai progres riil atau pemeriksaan ulang setelah perbaikan.",
+        "score": 5,
+        "rationale": "Menjaga kebenaran dokumen sekaligus membantu atasan mencari jalan sah agar anggaran tetap terserap."
+      },
+      {
+        "key": "B",
+        "text": "Meminta rekan pengawas lain yang menandatangani karena Anda tidak ingin berselisih dengan kontraktor maupun atasan.",
+        "score": 2,
+        "rationale": "Menghindar dan membiarkan dokumen yang tidak benar tetap terbit."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan keputusan penandatanganan kepada kepala dinas karena menyangkut penyerapan anggaran.",
+        "score": 3,
+        "rationale": "Menghindari keputusan teknis yang sebenarnya menjadi wewenang Anda."
+      },
+      {
+        "key": "D",
+        "text": "Tidak menandatangani dan meminta kontraktor memperbaiki pekerjaan terlebih dahulu.",
+        "score": 4,
+        "rationale": "Tegas menjaga mutu, tetapi atasan tidak dilibatkan dalam mencari solusi penyerapan anggaran."
+      },
+      {
+        "key": "E",
+        "text": "Menandatangani karena kontraktor sudah berjanji menyelesaikan kekurangan pada awal tahun depan dan atasan menginginkan anggaran terserap.",
+        "score": 1,
+        "rationale": "Membuat berita acara yang tidak sesuai fakta."
+      }
+    ],
+    "explanation": "Ketika tenggat bertabrakan dengan mutu, ASN tidak mengorbankan kebenaran dokumen. Skor tertinggi tetap menghormati atasan dengan melapor dan menawarkan pilihan yang sah (Akuntabel, Kompeten).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0016",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf bidang sosial. Atasan meminta Anda memakai data penduduk tahun lalu untuk menghitung kebutuhan bantuan tahun ini karena lebih cepat diolah. Padahal data terbaru sudah tersedia dan selisih jumlah penduduk miskinnya cukup besar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam-diam memakai data terbaru tanpa memberi tahu atasan, karena hasilnya pasti lebih akurat, selisih waktunya tidak besar, dan atasan pada akhirnya hanya membutuhkan angka yang benar.",
+        "score": 2,
+        "rationale": "Hasilnya lebih akurat, tetapi tidak transparan dan melangkahi arahan atasan."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti arahan, lalu menyampaikan bahwa itu keputusan atasan bila kelak hasil perhitungan dipersoalkan.",
+        "score": 1,
+        "rationale": "Melempar tanggung jawab atas hasil kerja sendiri."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada atasan perbandingan kedua data dan dampaknya pada jumlah bantuan, lalu menawarkan memakai data terbaru tanpa melewati tenggat.",
+        "score": 5,
+        "rationale": "Memberi masukan berbasis data, solutif, dan tetap menyerahkan keputusan kepada atasan."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti arahan atasan karena keputusan ada pada beliau.",
+        "score": 3,
+        "rationale": "Patuh, tetapi tidak menyampaikan informasi penting yang Anda ketahui."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan bahwa data terbaru sudah tersedia dan sebaiknya dipakai.",
+        "score": 4,
+        "rationale": "Masukan tepat, tetapi tanpa data pendukung dan solusi soal waktu."
+      }
+    ],
+    "explanation": "Profesionalisme mencakup keberanian memberi masukan teknis kepada atasan secara santun dan berbasis data, tanpa melangkahi hierarki (Kompeten, Akuntabel, Loyal).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0017",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pejabat pengadaan. Menjelang hari raya, sebuah perusahaan yang sedang mengikuti proses pemilihan penyedia di unit Anda mengirim parsel ke rumah saat Anda tidak ada, dan keluarga Anda menerimanya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak memakai parsel itu, melaporkannya ke UPG dalam batas waktu yang ditentukan, dan meminta keluarga menolak kiriman serupa.",
+        "score": 5,
+        "rationale": "Tertib prosedur gratifikasi dan mencegah kejadian berulang."
+      },
+      {
+        "key": "B",
+        "text": "Menyimpan parsel karena Anda tidak memintanya dan yang menerima adalah keluarga, bukan Anda.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dari pihak yang berkepentingan dengan dalih tidak meminta."
+      },
+      {
+        "key": "C",
+        "text": "Membagikan isi parsel kepada tetangga agar tidak Anda nikmati sendiri.",
+        "score": 2,
+        "rationale": "Tidak dinikmati pribadi, tetapi gratifikasi tetap tidak dilaporkan."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan parsel kepada atasan agar beliau yang memutuskan.",
+        "score": 3,
+        "rationale": "Tidak disembunyikan, tetapi bukan jalur pelaporan yang tepat."
+      },
+      {
+        "key": "E",
+        "text": "Mengembalikan parsel ke perusahaan tersebut melalui kurir disertai surat penolakan yang sopan, sehingga perusahaan memahami bahwa Anda tidak dapat menerima pemberian apa pun selama proses berlangsung.",
+        "score": 4,
+        "rationale": "Menolak dengan benar, tetapi tanpa pencatatan resmi ke UPG dan tanpa pencegahan di rumah."
+      }
+    ],
+    "explanation": "Pemberian dari peserta pengadaan jelas berkaitan dengan jabatan. Gratifikasi yang terlanjur diterima wajib dilaporkan ke UPG instansi atau KPK sesuai ketentuan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0018",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda perawat di puskesmas. Menjelang pergantian jaga, kepala puskesmas meminta Anda ikut tim imunisasi ke sekolah besok pagi menggantikan rekan yang sakit, padahal besok jadwal libur Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyanggupi dan berangkat bersama tim besok pagi.",
+        "score": 4,
+        "rationale": "Bertanggung jawab, tetapi tanpa persiapan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak karena hari libur adalah hak Anda yang sudah dijadwalkan.",
+        "score": 2,
+        "rationale": "Mendahulukan kepentingan pribadi saat layanan membutuhkan."
+      },
+      {
+        "key": "C",
+        "text": "Menyanggupi dengan syarat libur pengganti diberikan lebih dulu, karena jadwal libur sudah ditetapkan sejak awal bulan dan Anda sudah membuat janji dengan keluarga.",
+        "score": 3,
+        "rationale": "Bersedia, tetapi bersyarat."
+      },
+      {
+        "key": "D",
+        "text": "Menyanggupi, tetapi besok pagi tidak datang dengan alasan mendadak ada urusan keluarga.",
+        "score": 1,
+        "rationale": "Ingkar janji, tidak jujur, dan mengganggu layanan."
+      },
+      {
+        "key": "E",
+        "text": "Menyanggupi, menyesuaikan rencana pribadi, mempelajari daftar sasaran hari ini, lalu mengajukan libur pengganti sesuai aturan.",
+        "score": 5,
+        "rationale": "Mendahulukan tugas, siap sejak awal, dan tetap memakai hak secara tertib."
+      }
+    ],
+    "explanation": "Kesediaan menjalankan tugas mendadak demi kelangsungan layanan, dengan tetap memakai hak secara tertib, mencerminkan Akuntabel dan Berorientasi Pelayanan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0019",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda operator aplikasi gaji. Anda baru menyadari bahwa bulan lalu Anda salah memasukkan data tunjangan keluarga seorang pegawai sehingga ia menerima tunjangan lebih besar dari haknya. Pegawai itu tidak menyadarinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memperbaiki data sekaligus mengubah catatan riwayat input agar kesalahan tidak terlacak.",
+        "score": 1,
+        "rationale": "Menutupi kesalahan dengan memanipulasi jejak sistem."
+      },
+      {
+        "key": "B",
+        "text": "Melapor kepada atasan, memperbaiki data sesuai prosedur, menjelaskan mekanisme pengembalian kelebihan bayar kepada pegawai itu, dan menerapkan pengecekan ganda.",
+        "score": 5,
+        "rationale": "Jujur, memulihkan kerugian negara, dan mencegah kesalahan berulang."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena selisihnya tidak besar dan pegawai itu tidak dirugikan.",
+        "score": 2,
+        "rationale": "Tidak cermat dan tidak bertanggung jawab atas keuangan negara."
+      },
+      {
+        "key": "D",
+        "text": "Memperbaiki data mulai bulan berikutnya tanpa melaporkan kelebihan bayar bulan lalu, karena pengembaliannya akan merepotkan pegawai tersebut padahal kesalahan itu berasal dari Anda.",
+        "score": 3,
+        "rationale": "Kesalahan tidak berlanjut, tetapi kerugian negara dibiarkan dan tidak dilaporkan."
+      },
+      {
+        "key": "E",
+        "text": "Melapor kepada atasan dan memperbaiki data untuk bulan berikutnya.",
+        "score": 4,
+        "rationale": "Jujur, tetapi kelebihan bayar dan pencegahan belum ditangani tuntas."
+      }
+    ],
+    "explanation": "Kesalahan sendiri yang menimbulkan kelebihan bayar harus diakui dan dipulihkan melalui prosedur resmi (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0020",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda sekretaris pimpinan di sebuah badan. Kepala badan meminta Anda memesankan tiket pesawat dan hotel untuk liburan keluarganya dengan anggaran perjalanan dinas, sekaligus membuatkan surat tugas ke kota tujuan liburan tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan dengan sopan bahwa surat tugas tanpa kegiatan dinas berisiko hukum bagi beliau, lalu menawarkan membantu memesan dengan biaya pribadi.",
+        "score": 5,
+        "rationale": "Menolak pelanggaran dengan santun, melindungi pimpinan, dan tetap membantu secara sah."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan sopan bahwa surat tugas tanpa kegiatan dinas melanggar aturan.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi tanpa tawaran bantuan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Mengaku sedang banyak pekerjaan dan meminta staf lain mengurusnya.",
+        "score": 2,
+        "rationale": "Menghindar sehingga pelanggaran tetap bisa terjadi lewat orang lain."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan bahwa Anda perlu berkonsultasi dulu dengan bagian keuangan tentang ketentuan perjalanan dinas, sehingga pemesanan baru diproses setelah ada kepastian bahwa semuanya aman secara administrasi.",
+        "score": 3,
+        "rationale": "Menunda tanpa sikap yang jelas terhadap pelanggaran."
+      },
+      {
+        "key": "E",
+        "text": "Memproses sesuai permintaan karena itu perintah langsung pimpinan dan tugas Anda adalah memperlancar urusan beliau.",
+        "score": 1,
+        "rationale": "Ikut menyalahgunakan anggaran negara dengan dalih loyalitas."
+      }
+    ],
+    "explanation": "Loyal kepada pimpinan berarti menjaga beliau dari pelanggaran, bukan memfasilitasinya. Menolak dengan santun sambil menawarkan cara yang sah adalah pola skor tertinggi (Loyal, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0021",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai baru di sebuah dinas. Jam kerja dimulai pukul 07.30, tetapi rekan-rekan di unit Anda terbiasa datang sekitar pukul 08.30 dengan alasan \"atasan juga datang siang\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Datang tepat waktu, tetapi menunggu rekan lain datang sebelum mulai bekerja.",
+        "score": 3,
+        "rationale": "Hadir, tetapi waktu kerja tidak dimanfaatkan."
+      },
+      {
+        "key": "B",
+        "text": "Tetap datang tepat waktu sesuai ketentuan.",
+        "score": 4,
+        "rationale": "Disiplin, tetapi belum memanfaatkan waktu secara produktif."
+      },
+      {
+        "key": "C",
+        "text": "Menyesuaikan jam datang dengan kebiasaan rekan agar tidak dianggap mencari muka.",
+        "score": 2,
+        "rationale": "Mengikuti kebiasaan buruk demi diterima kelompok."
+      },
+      {
+        "key": "D",
+        "text": "Datang siang seperti rekan lain, tetapi meminta rekan yang datang lebih awal mencatatkan kehadiran Anda pukul 07.30 agar tidak tercatat terlambat.",
+        "score": 1,
+        "rationale": "Melanggar jam kerja sekaligus memalsukan kehadiran."
+      },
+      {
+        "key": "E",
+        "text": "Tetap datang dan mulai bekerja pukul 07.30, memanfaatkan waktu pagi untuk menyiapkan pekerjaan tanpa menyindir rekan.",
+        "score": 5,
+        "rationale": "Disiplin, produktif, dan tetap menjaga hubungan kerja."
+      }
+    ],
+    "explanation": "Disiplin jam kerja diatur dalam PP 94/2021 dan tidak gugur karena kebiasaan lingkungan. Pegawai profesional tetap disiplin tanpa menghakimi rekan (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0022",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota tim monitoring dinas kesehatan yang ditugaskan mengunjungi lima desa. Karena jalan putus akibat longsor, tim hanya berhasil mengunjungi tiga desa. Ketua tim menyarankan laporan tetap mencantumkan lima desa, dengan data dua desa diambil dari laporan bulan lalu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menelepon perangkat dua desa itu untuk meminta data seadanya, lalu menuliskannya seolah-olah hasil kunjungan langsung.",
+        "score": 2,
+        "rationale": "Datanya baru, tetapi cara memperolehnya disamarkan sehingga laporan tetap tidak jujur."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan keputusan isi laporan sepenuhnya kepada ketua tim karena ia yang bertanggung jawab.",
+        "score": 3,
+        "rationale": "Pasif terhadap potensi laporan yang tidak benar."
+      },
+      {
+        "key": "C",
+        "text": "Menyetujui saran ketua tim karena kondisi dua desa itu diperkirakan tidak banyak berubah dari bulan lalu.",
+        "score": 1,
+        "rationale": "Ikut membuat laporan fiktif."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan keberatan kepada ketua tim dan meminta laporan hanya memuat tiga desa yang benar-benar dikunjungi.",
+        "score": 4,
+        "rationale": "Jujur dan tegas, tetapi tanpa upaya melengkapi data yang kurang."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada ketua tim bahwa laporan harus sesuai fakta, mencatat dua desa sebagai belum terkunjungi beserta alasannya, dan mengusulkan kunjungan susulan.",
+        "score": 5,
+        "rationale": "Jujur, santun kepada ketua tim, dan memberi jalan keluar agar tujuan monitoring tetap tercapai."
+      }
+    ],
+    "explanation": "Laporan kegiatan harus menggambarkan fakta lapangan. Kendala yang dijelaskan dengan jujur lebih dapat dipertanggungjawabkan daripada laporan yang tampak lengkap (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0023",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pranata komputer yang mengelola jaringan kantor. Saat memeriksa lalu lintas jaringan, Anda mendapati seorang rekan memakai komputer dan internet kantor untuk menjalankan toko daring pribadinya hampir sepanjang jam kerja. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyebarkan tangkapan layar aktivitas rekan itu ke grup pegawai sebagai peringatan bagi semua.",
+        "score": 1,
+        "rationale": "Mempermalukan rekan dan menyalahgunakan akses data jaringan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan temuan kepada atasan secara tertulis, lengkap dengan data lalu lintas jaringan, jam akses, dan daftar situs yang dibuka, agar atasan dapat menilai pelanggarannya secara objektif.",
+        "score": 4,
+        "rationale": "Tepat dan berbasis data, tetapi tanpa upaya mengingatkan rekan lebih dulu."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena pekerjaan rekan itu tetap selesai.",
+        "score": 2,
+        "rationale": "Membiarkan penyalahgunaan fasilitas dan jam kerja."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan rekan itu secara pribadi, melapor kepada atasan bila kebiasaan itu berlanjut, dan mengusulkan aturan penggunaan internet yang lebih jelas.",
+        "score": 5,
+        "rationale": "Menangani pelaku secara santun, menyiapkan eskalasi, dan memperbaiki sistem."
+      },
+      {
+        "key": "E",
+        "text": "Mengirim imbauan umum ke grup kantor tentang larangan memakai fasilitas kantor untuk usaha pribadi.",
+        "score": 3,
+        "rationale": "Normatif dan tidak menyentuh pelaku secara langsung."
+      }
+    ],
+    "explanation": "Fasilitas kantor dan jam kerja adalah milik negara. Sikap profesional mengingatkan secara santun lalu melakukan eskalasi melalui jalur resmi bila perlu, tanpa menyalahgunakan data yang diakses karena jabatan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0024",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda guru di SMP negeri. Saat merekap nilai, Anda menyadari kunci jawaban yang Anda pakai untuk mengoreksi ulangan satu kelas ternyata keliru pada tiga nomor, padahal nilainya sudah dibagikan kepada siswa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena hanya tiga nomor dan nilai rapor dihitung dari banyak komponen.",
+        "score": 2,
+        "rationale": "Tidak bertanggung jawab atas kesalahan sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Memperbaiki nilai hanya bagi siswa yang datang mengajukan keberatan.",
+        "score": 3,
+        "rationale": "Sebagian diperbaiki, tetapi tidak adil bagi siswa yang tidak mengajukan keberatan."
+      },
+      {
+        "key": "C",
+        "text": "Mengoreksi ulang semua lembar jawaban dan memperbarui nilai di daftar nilai.",
+        "score": 4,
+        "rationale": "Adil dan bertanggung jawab, tetapi tanpa keterbukaan kepada siswa dan tanpa pencegahan."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kepada siswa bahwa ketiga nomor itu memang sengaja dinilai dengan cara berbeda, agar wibawa Anda sebagai guru tetap terjaga dan siswa tidak meragukan penilaian lain.",
+        "score": 1,
+        "rationale": "Berbohong untuk menutupi kesalahan."
+      },
+      {
+        "key": "E",
+        "text": "Mengakui kekeliruan kepada siswa, mengoreksi ulang semua lembar jawaban, memperbarui nilai, dan memeriksa kunci dua kali ke depannya.",
+        "score": 5,
+        "rationale": "Jujur, adil bagi semua siswa, dan mencegah kesalahan berulang."
+      }
+    ],
+    "explanation": "Mengakui dan memperbaiki kesalahan sendiri secara terbuka serta mencegahnya terulang adalah wujud Akuntabel.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0025",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf pelayanan perizinan. Atasan meminta Anda memproses lebih dulu izin usaha milik seorang pejabat daerah tanpa verifikasi lapangan karena menurut beliau berkasnya \"pasti lengkap\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan dengan sopan bahwa semua permohonan wajib diverifikasi, lalu menawarkan agar verifikasi berkas itu dijadwalkan sesuai standar waktu layanan.",
+        "score": 5,
+        "rationale": "Menolak penyimpangan prosedur dengan santun dan tetap memberi kepastian layanan."
+      },
+      {
+        "key": "B",
+        "text": "Mengulur-ulur pemrosesan berkas itu tanpa memberi penjelasan kepada atasan.",
+        "score": 2,
+        "rationale": "Menghindar dan tidak transparan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan dengan sopan bahwa verifikasi lapangan wajib untuk semua permohonan.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa tawaran solusi."
+      },
+      {
+        "key": "D",
+        "text": "Memproses lebih dulu tanpa verifikasi karena pemohonnya pejabat dan atasan sudah menjamin kelengkapannya.",
+        "score": 1,
+        "rationale": "Memberi perlakuan istimewa dan menyimpang dari prosedur."
+      },
+      {
+        "key": "E",
+        "text": "Meminta atasan menuangkan perintah itu dalam disposisi tertulis sebelum Anda memprosesnya, sehingga bila kelak ada pemeriksaan, jelas siapa yang memberi perintah dan atas dasar apa.",
+        "score": 3,
+        "rationale": "Berhati-hati untuk diri sendiri, tetapi tidak mencegah penyimpangan."
+      }
+    ],
+    "explanation": "Kepatuhan kepada atasan berlaku untuk perintah yang sah dan wajar. Semua pemohon diperlakukan setara dan prosedur verifikasi tidak dilangkahi (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0026",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda analis kebijakan yang menyusun kajian untuk dipaparkan kepada kepala daerah lusa. Saat mengolah data, Anda menemukan bahwa data survei dari pihak ketiga yang menjadi dasar kajian memuat banyak isian ganda sehingga kesimpulannya bisa keliru. Membersihkan data membutuhkan tiga hari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Segera melapor kepada atasan dan mengusulkan paparan lusa memakai temuan sementara dari data yang sudah divalidasi dengan catatan keterbatasan, lalu menuntaskan pembersihan data.",
+        "score": 5,
+        "rationale": "Jujur tentang mutu data dan tetap memenuhi kebutuhan pimpinan tepat waktu."
+      },
+      {
+        "key": "B",
+        "text": "Membuang data yang tidak mendukung kesimpulan awal agar kajian tampak konsisten dan selesai tepat waktu.",
+        "score": 1,
+        "rationale": "Memanipulasi data."
+      },
+      {
+        "key": "C",
+        "text": "Menyusun kajian tepat waktu dengan catatan kecil di lampiran bahwa data belum dibersihkan.",
+        "score": 3,
+        "rationale": "Ada keterbukaan, tetapi minim dan mudah terlewat oleh pengambil keputusan."
+      },
+      {
+        "key": "D",
+        "text": "Menyusun kajian dengan data apa adanya tanpa menyebut masalahnya karena tenggat tidak bisa diundur.",
+        "score": 2,
+        "rationale": "Mengorbankan mutu dan menyembunyikan risiko demi tenggat."
+      },
+      {
+        "key": "E",
+        "text": "Melapor kepada atasan bahwa data survei bermasalah, menjelaskan contoh isian ganda yang ditemukan, dan meminta paparan kepada kepala daerah ditunda tiga hari sampai seluruh data selesai dibersihkan.",
+        "score": 4,
+        "rationale": "Jujur dan rinci, tetapi tidak menawarkan cara agar kebutuhan pimpinan tetap terpenuhi tepat waktu."
+      }
+    ],
+    "explanation": "Saat tenggat bertabrakan dengan mutu, pilihan terbaik adalah transparan tentang keterbatasan dan mencari bentuk hasil yang tetap dapat dipertanggungjawabkan (Kompeten, Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0027",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota tim penilai proposal hibah daerah. Saat pembagian berkas, Anda mendapati salah satu lembaga pengusul adalah yayasan yang diketuai kakak kandung Anda, dan berkas itu masuk ke daftar yang harus Anda nilai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberi tahu ketua tim secara lisan dan meminta berkas itu dialihkan.",
+        "score": 4,
+        "rationale": "Tepat, tetapi tidak terdokumentasi."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan hubungan keluarga itu secara tertulis kepada ketua tim dan meminta berkas tersebut dinilai oleh penilai lain.",
+        "score": 5,
+        "rationale": "Mengungkap benturan kepentingan secara resmi dan menjaga objektivitas penilaian."
+      },
+      {
+        "key": "C",
+        "text": "Memberi masukan kepada kakak Anda tentang kriteria penilaian yang belum diumumkan agar proposalnya lebih kuat.",
+        "score": 1,
+        "rationale": "Membocorkan informasi dan memberi keuntungan kepada kerabat."
+      },
+      {
+        "key": "D",
+        "text": "Tetap menilai dengan objektif tanpa memberi tahu siapa pun, karena Anda yakin mampu bersikap adil dan memakai rubrik penilaian yang sama untuk semua pengusul.",
+        "score": 3,
+        "rationale": "Mungkin objektif, tetapi benturan kepentingan tidak diungkapkan."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan kakak Anda menarik proposalnya agar Anda tidak repot.",
+        "score": 2,
+        "rationale": "Mencampuri hak pengusul alih-alih menempuh prosedur benturan kepentingan."
+      }
+    ],
+    "explanation": "Benturan kepentingan wajib diungkapkan dan dihindari, bukan cukup diyakini dapat dikendalikan sendiri (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0028",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda kepala subbidang. Laporan yang Anda tandatangani dan sudah dikirim ke pemerintah provinsi ternyata memuat data keliru yang disusun oleh staf Anda. Provinsi menyampaikan teguran kepada kantor Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengakui kepada atasan bahwa Anda ikut bertanggung jawab sebagai penanda tangan, segera mengirim ralat, dan membenahi alur verifikasi bersama staf.",
+        "score": 5,
+        "rationale": "Bertanggung jawab sebagai pimpinan unit, memperbaiki, dan mencegah terulang."
+      },
+      {
+        "key": "B",
+        "text": "Segera mengirim ralat dan memberi tahu atasan bahwa laporan sudah diperbaiki.",
+        "score": 4,
+        "rationale": "Memperbaiki dengan cepat, tetapi tanpa pembenahan proses."
+      },
+      {
+        "key": "C",
+        "text": "Menegur staf penyusun di depan rekan-rekannya agar kejadian serupa tidak terulang.",
+        "score": 2,
+        "rationale": "Mempermalukan staf dan tidak memperbaiki laporan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta staf penyusun menjelaskan sendiri kesalahannya kepada atasan.",
+        "score": 3,
+        "rationale": "Melepaskan sebagian tanggung jawab yang melekat pada penanda tangan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan bahwa kesalahan itu sepenuhnya tanggung jawab staf penyusun, karena Anda menandatangani berdasarkan kepercayaan dan tidak mungkin memeriksa ulang semua angka.",
+        "score": 1,
+        "rationale": "Melempar tanggung jawab kepada bawahan."
+      }
+    ],
+    "explanation": "Penanda tangan dokumen ikut bertanggung jawab atas isinya. Pimpinan yang profesional mengakui, memperbaiki, dan membenahi sistem kerja timnya (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0029",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai yang memiliki usaha katering sampingan. Menjelang akhir tahun, pesanan sedang ramai dan pelanggan sering menelepon Anda pada jam kerja. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima telepon pesanan dengan singkat agar pelanggan tidak kecewa, lalu kembali bekerja.",
+        "score": 3,
+        "rationale": "Gangguan kecil, tetapi tetap mencampur urusan pribadi dengan jam kerja."
+      },
+      {
+        "key": "B",
+        "text": "Menugaskan karyawan atau keluarga menerima pesanan pada jam kerja dan mencantumkan jam layanan di luar jam kantor.",
+        "score": 5,
+        "rationale": "Usaha pribadi dipisahkan tegas dari jam kerja."
+      },
+      {
+        "key": "C",
+        "text": "Mengurus pesanan di sela pekerjaan kantor selama pekerjaan utama tetap selesai.",
+        "score": 2,
+        "rationale": "Memakai jam kerja untuk kepentingan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Mematikan nada dering ponsel selama jam kerja, lalu membalas semua pesan pesanan pada jam istirahat siang dan setelah pulang kantor agar pelanggan tetap terlayani.",
+        "score": 4,
+        "rationale": "Tidak mengganggu pekerjaan, tetapi belum mengatur usaha secara tuntas sehingga gangguan masih bisa terjadi."
+      },
+      {
+        "key": "E",
+        "text": "Keluar kantor sebentar pada jam kerja untuk mengantar pesanan besar ke pelanggan tanpa meminta izin.",
+        "score": 1,
+        "rationale": "Meninggalkan tugas tanpa izin demi usaha pribadi."
+      }
+    ],
+    "explanation": "Jam kerja dan fasilitas kantor diperuntukkan bagi tugas negara. Usaha pribadi boleh dijalankan sepanjang tidak mengganggu tugas dan tidak memakai fasilitas negara (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0030",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda kepala seksi. Anda mengetahui seorang staf memakai aplikasi pemalsu lokasi agar dapat melakukan presensi daring dari rumah, padahal ia tidak sedang mendapat izin bekerja dari luar kantor. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memanggil staf itu dan memberi teguran lisan agar tidak mengulanginya.",
+        "score": 4,
+        "rationale": "Menangani langsung, tetapi tanpa proses sesuai aturan disiplin dan tanpa menggali penyebab."
+      },
+      {
+        "key": "B",
+        "text": "Memanggil staf itu untuk klarifikasi, menindaklanjutinya sesuai kewenangan Anda dalam aturan disiplin, dan menanyakan kendala yang membuatnya sulit hadir.",
+        "score": 5,
+        "rationale": "Tegas sesuai kewenangan atasan langsung, adil, dan mencari akar masalah."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena pekerjaannya selalu selesai tepat waktu.",
+        "score": 2,
+        "rationale": "Membiarkan pelanggaran disiplin."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkannya kepada kepala bidang beserta tangkapan layar data lokasi presensi, lalu menyerahkan penanganan sepenuhnya kepada beliau agar keputusannya lebih objektif dan berwibawa.",
+        "score": 3,
+        "rationale": "Melempar penanganan yang sebenarnya menjadi wewenang Anda sebagai atasan langsung."
+      },
+      {
+        "key": "E",
+        "text": "Ikut menutupi ketika bagian kepegawaian menanyakan kejanggalan data lokasi presensinya.",
+        "score": 1,
+        "rationale": "Melindungi pelanggaran dan ikut tidak jujur."
+      }
+    ],
+    "explanation": "Atasan langsung berwenang sekaligus wajib menangani pelanggaran disiplin bawahannya sesuai PP 94/2021. Melapor ke atas tanpa menangani sendiri justru melempar tanggung jawab (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0031",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf keuangan. Auditor BPK sedang memeriksa instansi Anda dan meminta sejumlah dokumen pertanggungjawaban. Atasan meminta Anda tidak menyerahkan satu berkas yang memuat kekurangan administrasi dan menyampaikan kepada auditor bahwa berkas itu \"masih dicari\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengambil cuti selama masa pemeriksaan agar tidak terlibat.",
+        "score": 2,
+        "rationale": "Menghindar dan membiarkan pemeriksaan terhambat."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan keputusan kepada atasan karena berkas itu berada di bawah tanggung jawab beliau.",
+        "score": 3,
+        "rationale": "Tidak bersikap atas permintaan yang menyesatkan pemeriksa."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti arahan atasan dan menyampaikan kepada auditor bahwa berkas itu masih dicari.",
+        "score": 1,
+        "rationale": "Berbohong kepada pemeriksa dan menghalangi pemeriksaan."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan kepada atasan secara pribadi bahwa dokumen yang diminta pemeriksa wajib diserahkan, menyarankan kekurangannya dijelaskan beserta rencana perbaikan, lalu menyerahkan berkas itu.",
+        "score": 5,
+        "rationale": "Jujur kepada pemeriksa, menghormati atasan dengan memberi tahu lebih dulu, dan menawarkan langkah perbaikan."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan berkas kepada auditor sesuai permintaan tanpa membahasnya dengan atasan.",
+        "score": 4,
+        "rationale": "Jujur kepada pemeriksa, tetapi atasan tidak diajak memahami risikonya."
+      }
+    ],
+    "explanation": "Kejujuran kepada pemeriksa negara tidak boleh dikorbankan demi menutupi kekurangan unit. Skor tertinggi tetap menghormati hierarki dengan menjelaskan risiko kepada atasan sebelum bertindak (Akuntabel, Loyal).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0032",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda penyuluh keluarga berencana. Dalam penyuluhan di balai desa, seorang warga menanyakan efek samping sebuah metode kontrasepsi baru yang belum Anda pelajari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjawab secara umum bahwa setiap metode memiliki efek samping yang berbeda pada setiap orang.",
+        "score": 3,
+        "rationale": "Tidak salah, tetapi tidak menjawab pertanyaan warga."
+      },
+      {
+        "key": "B",
+        "text": "Menjawab berdasarkan informasi yang pernah Anda baca di media sosial agar warga tidak ragu terhadap program.",
+        "score": 1,
+        "rationale": "Berisiko memberi informasi keliru demi citra program."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan bahwa Anda belum tahu, lalu menyarankan warga bertanya langsung kepada bidan atau dokter di puskesmas terdekat yang lebih berwenang menjelaskan efek samping kontrasepsi.",
+        "score": 4,
+        "rationale": "Jujur dan mengarahkan dengan benar, tetapi tanpa tindak lanjut dari Anda."
+      },
+      {
+        "key": "D",
+        "text": "Mengakui belum memiliki informasi yang akurat, mencatat pertanyaannya, berkonsultasi dengan bidan puskesmas, lalu menyampaikan jawabannya melalui kader.",
+        "score": 5,
+        "rationale": "Jujur, menindaklanjuti sendiri, dan memastikan warga mendapat informasi yang benar."
+      },
+      {
+        "key": "E",
+        "text": "Mengalihkan pembicaraan ke metode lain yang Anda kuasai.",
+        "score": 2,
+        "rationale": "Menghindari pertanyaan."
+      }
+    ],
+    "explanation": "Mengakui keterbatasan pengetahuan lalu menindaklanjutinya dengan sumber yang kompeten lebih profesional daripada memberi jawaban yang belum pasti (Kompeten, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0033",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengelola persediaan barang di kantor. Menjelang tahun ajaran baru, Anda melihat beberapa rekan membawa pulang kertas dan tinta printer kantor untuk keperluan sekolah anak mereka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengingatkan rekan-rekan dengan sopan bahwa alat tulis kantor hanya untuk keperluan dinas.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi tanpa pembenahan pencatatan."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan karena jumlahnya sedikit dan rekan lain juga melakukannya.",
+        "score": 2,
+        "rationale": "Membiarkan penyalahgunaan barang milik negara."
+      },
+      {
+        "key": "C",
+        "text": "Mengingatkan rekan-rekan dengan sopan bahwa alat tulis kantor hanya untuk keperluan dinas, lalu menertibkan pencatatan permintaan barang.",
+        "score": 5,
+        "rationale": "Bertindak sesuai wewenang pengelola dan memperbaiki sistem."
+      },
+      {
+        "key": "D",
+        "text": "Mengunci lemari persediaan dan hanya mengeluarkan barang dengan formulir bertanda tangan atasan, tanpa menjelaskan alasannya kepada rekan-rekan agar tidak ada yang tersinggung.",
+        "score": 3,
+        "rationale": "Mencegah, tetapi tanpa komunikasi sehingga perilaku rekan tidak dibahas dan bisa memicu salah paham."
+      },
+      {
+        "key": "E",
+        "text": "Ikut mengambil beberapa rim kertas karena stok kantor masih banyak dan anak Anda juga membutuhkannya.",
+        "score": 1,
+        "rationale": "Ikut menyalahgunakan barang milik negara."
+      }
+    ],
+    "explanation": "ASN menggunakan barang milik negara secara bertanggung jawab. Sebagai pengelola, Anda berwenang menertibkan langsung sebelum melibatkan atasan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0034",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda guru SD. Kurikulum baru mewajibkan asesmen berbasis proyek yang belum Anda pahami, sementara sekolah belum menjadwalkan pelatihan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempelajari panduan resmi kurikulum, berdiskusi di kelompok kerja guru, lalu mencobanya di kelas dan mengevaluasi hasilnya.",
+        "score": 5,
+        "rationale": "Proaktif belajar, berkolaborasi, dan langsung menerapkan."
+      },
+      {
+        "key": "B",
+        "text": "Mempelajari panduan resmi secara mandiri, lalu menerapkannya di kelas.",
+        "score": 4,
+        "rationale": "Mau belajar dan menerapkan, tetapi tanpa diskusi dan evaluasi."
+      },
+      {
+        "key": "C",
+        "text": "Tetap memakai cara penilaian lama sampai ada teguran dari kepala sekolah.",
+        "score": 2,
+        "rationale": "Menolak perubahan secara diam-diam."
+      },
+      {
+        "key": "D",
+        "text": "Menyalin rancangan asesmen milik guru sekolah lain yang sudah dinilai baik oleh pengawas, lalu mengakuinya sebagai karya sendiri untuk penilaian kinerja Anda.",
+        "score": 1,
+        "rationale": "Plagiat dan tidak jujur."
+      },
+      {
+        "key": "E",
+        "text": "Menunggu pelatihan resmi dari dinas sebelum mulai menerapkan.",
+        "score": 3,
+        "rationale": "Pasif menunggu."
+      }
+    ],
+    "explanation": "Meningkatkan kompetensi secara mandiri saat tuntutan tugas berubah mencerminkan Kompeten dan Adaptif.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0035",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf Badan Penanggulangan Bencana Daerah. Memasuki puncak musim hujan, Anda masuk jadwal siaga malam secara bergiliran tanpa tambahan honor karena anggarannya tidak tersedia. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjalankan jadwal siaga dan siap bila dihubungi.",
+        "score": 4,
+        "rationale": "Bertanggung jawab, tetapi tanpa persiapan."
+      },
+      {
+        "key": "B",
+        "text": "Bersedia siaga, tetapi meminta kepastian honor terlebih dahulu.",
+        "score": 3,
+        "rationale": "Bersedia secara bersyarat."
+      },
+      {
+        "key": "C",
+        "text": "Tetap masuk jadwal siaga, tetapi menonaktifkan ponsel pada malam hari agar tidak terganggu.",
+        "score": 1,
+        "rationale": "Mengabaikan tugas siaga secara diam-diam dan membahayakan penanganan bencana."
+      },
+      {
+        "key": "D",
+        "text": "Menjalankan jadwal siaga, memastikan peralatan dan kontak darurat siap sebelum giliran Anda, dan mengatur urusan keluarga.",
+        "score": 5,
+        "rationale": "Bertanggung jawab dan siap sejak awal."
+      },
+      {
+        "key": "E",
+        "text": "Meminta dikeluarkan dari jadwal siaga karena tugas di luar jam kerja tanpa honor bukan kewajiban Anda, dan mengusulkan agar jadwal diisi relawan yang memang bersedia.",
+        "score": 2,
+        "rationale": "Mendahulukan kepentingan pribadi di atas tugas kebencanaan."
+      }
+    ],
+    "explanation": "Tugas siaga menyangkut keselamatan warga. Profesionalisme ditunjukkan dengan kesiapan menjalankan tugas, bukan dengan menjadikan honor sebagai syarat (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0036",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf yang menyiapkan data untuk pimpinan. Dalam wawancara dengan wartawan, atasan Anda menyebut jumlah penerima bantuan jauh lebih besar dari data sebenarnya, dan beritanya sudah terbit. Atasan tampaknya tidak menyadari kekeliruan itu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menunggu sampai ada pihak yang mempertanyakan angka itu.",
+        "score": 3,
+        "rationale": "Pasif terhadap informasi keliru yang sudah beredar."
+      },
+      {
+        "key": "B",
+        "text": "Mengunggah klarifikasi di media sosial pribadi bahwa angka yang disampaikan pimpinan keliru, lengkap dengan data resmi, agar masyarakat tidak tersesat oleh berita itu.",
+        "score": 1,
+        "rationale": "Mempermalukan pimpinan dan memakai kanal yang tidak resmi."
+      },
+      {
+        "key": "C",
+        "text": "Membicarakan kekeliruan atasan itu dengan rekan-rekan di kantor.",
+        "score": 2,
+        "rationale": "Menggunjingkan pimpinan tanpa memperbaiki masalah."
+      },
+      {
+        "key": "D",
+        "text": "Segera menyampaikan angka yang benar beserta sumbernya kepada atasan secara pribadi, lalu menawarkan bahan ralat melalui humas.",
+        "score": 5,
+        "rationale": "Menjaga akurasi informasi publik sekaligus nama baik pimpinan lewat kanal resmi."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan secara pribadi bahwa angka yang disebutkan keliru.",
+        "score": 4,
+        "rationale": "Tepat, tetapi tanpa tawaran langkah perbaikan."
+      }
+    ],
+    "explanation": "Loyal berarti menjaga nama baik pimpinan dan instansi dengan cara yang benar: mengingatkan secara pribadi dan meluruskan informasi melalui kanal resmi (Loyal, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0037",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda dosen berstatus ASN di perguruan tinggi negeri. Seusai sidang skripsi dan sebelum nilai diumumkan, seorang mahasiswa bimbingan Anda menyerahkan kue dan voucher belanja sebagai ucapan terima kasih. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima karena sudah menjadi kebiasaan di kampus dan nilainya tidak besar.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi yang dapat memengaruhi penilaian."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan halus sambil berterima kasih atas niat baiknya.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi tanpa penjelasan."
+      },
+      {
+        "key": "C",
+        "text": "Menerima, lalu menyerahkannya kepada ketua program studi untuk diputuskan.",
+        "score": 3,
+        "rationale": "Tidak disembunyikan, tetapi bukan jalur yang tepat."
+      },
+      {
+        "key": "D",
+        "text": "Menerima kuenya untuk dimakan bersama dosen penguji sebagai bentuk menghargai, tetapi mengembalikan voucher belanja karena nilainya lebih besar dan bisa dianggap gratifikasi.",
+        "score": 2,
+        "rationale": "Sebagian pemberian terkait penilaian tetap diterima."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan halus, menjelaskan bahwa dosen tidak boleh menerima pemberian terkait penilaian, dan berterima kasih atas niat baiknya.",
+        "score": 5,
+        "rationale": "Menjaga objektivitas penilaian dan mengedukasi mahasiswa dengan santun."
+      }
+    ],
+    "explanation": "Pemberian dari pihak yang sedang dinilai berpotensi memengaruhi objektivitas dan termasuk gratifikasi (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0038",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf di sebuah bidang. Kepala seksi meminta Anda menyusun laporan triwulan dengan format A, tetapi kemudian kepala bidang secara langsung meminta format B untuk laporan yang sama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti format yang paling mudah, lalu menyampaikan bahwa arahan lainnya tidak pernah Anda terima.",
+        "score": 1,
+        "rationale": "Berbohong untuk menutupi pilihan sendiri."
+      },
+      {
+        "key": "B",
+        "text": "Memberi tahu kepala seksi tentang permintaan kepala bidang agar format disepakati, sambil menyiapkan data yang berlaku untuk kedua format.",
+        "score": 5,
+        "rationale": "Menghormati jalur hierarki, menyelesaikan kebingungan, dan tetap produktif."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti format kepala bidang tanpa memberi tahu kepala seksi karena jabatannya lebih tinggi.",
+        "score": 2,
+        "rationale": "Melangkahi atasan langsung."
+      },
+      {
+        "key": "D",
+        "text": "Memberi tahu kepala seksi tentang perbedaan arahan itu dan menunggu keputusannya.",
+        "score": 4,
+        "rationale": "Sesuai hierarki, tetapi pekerjaan berhenti selama menunggu."
+      },
+      {
+        "key": "E",
+        "text": "Menyusun laporan dalam dua format sekaligus, sehingga kepala seksi dan kepala bidang sama-sama mendapatkan versi yang diminta dan tidak ada pihak yang merasa diabaikan.",
+        "score": 3,
+        "rationale": "Menghindari konflik, tetapi boros waktu dan tidak menyelesaikan masalah."
+      }
+    ],
+    "explanation": "Ketika arahan atasan berbeda, staf profesional mengomunikasikannya melalui jalur hierarki sambil tetap menjaga kelancaran pekerjaan (Loyal, Kompeten).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0039",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda apoteker di rumah sakit daerah. Direktur meminta laporan stok obat diserahkan siang ini sebagai dasar pengadaan darurat. Hasil stok opname menunjukkan selisih antara catatan sistem dan stok fisik pada beberapa obat, dan penelusurannya butuh dua hari. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta perpanjangan waktu dua hari agar laporan lengkap dan rapi.",
+        "score": 3,
+        "rationale": "Mengutamakan kelengkapan, tetapi kebutuhan pengadaan darurat terhambat."
+      },
+      {
+        "key": "B",
+        "text": "Menyesuaikan angka di sistem agar sama dengan stok fisik sebelum laporan dikirim, tanpa penelusuran.",
+        "score": 1,
+        "rationale": "Menghapus jejak selisih yang bisa menandakan kehilangan atau penyimpangan."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan laporan memakai angka sistem karena lebih rapi dan tidak memerlukan penjelasan tambahan.",
+        "score": 2,
+        "rationale": "Tidak cermat sehingga dasar pengadaan menjadi keliru."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan laporan tepat waktu berdasarkan stok fisik, lalu menyampaikan secara lisan kepada direktur bahwa ada selisih pada beberapa obat yang penelusurannya butuh dua hari lagi.",
+        "score": 4,
+        "rationale": "Tepat waktu dan jujur, tetapi tidak terdokumentasi dan tanpa tindak lanjut tertulis."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan laporan tepat waktu berdasarkan stok fisik, menandai obat yang selisih sebagai masih ditelusuri, lalu melaporkan hasil penelusurannya.",
+        "score": 5,
+        "rationale": "Tepat waktu, jujur tentang keterbatasan data secara tertulis, dan menuntaskan penelusuran."
+      }
+    ],
+    "explanation": "Tenggat dan mutu dapat dipenuhi bersamaan dengan menyerahkan data terbaik yang ada beserta keterbatasannya secara tertulis (Akuntabel, Kompeten).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0040",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota tim yang akan mempresentasikan hasil kajian besok. Atasan menanyakan apakah semua bagian sudah siap. Bagian Anda sudah selesai, tetapi bagian seorang rekan belum, dan rekan itu sebelumnya meminta Anda tidak menyampaikannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjawab bahwa Anda hanya dapat memastikan bagian Anda sendiri.",
+        "score": 3,
+        "rationale": "Tidak berbohong, tetapi mengelak dari pertanyaan atasan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan apa adanya bahwa bagian rekan Anda belum selesai.",
+        "score": 4,
+        "rationale": "Jujur, tetapi tanpa solusi."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab bahwa semuanya hampir selesai, lalu malam ini diam-diam membantu rekan menyelesaikan bagiannya agar presentasi besok tetap berjalan lancar tanpa ada yang ditegur.",
+        "score": 2,
+        "rationale": "Niatnya menolong, tetapi memberi keterangan yang tidak akurat kepada atasan."
+      },
+      {
+        "key": "D",
+        "text": "Menjawab bahwa semua bagian sudah siap sesuai permintaan rekan agar suasana tim tetap baik.",
+        "score": 1,
+        "rationale": "Berbohong kepada atasan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kondisi apa adanya tanpa menyudutkan rekan, lalu menawarkan rencana penyelesaian bersama rekan itu sebelum presentasi.",
+        "score": 5,
+        "rationale": "Jujur kepada atasan, menjaga hubungan, dan memberi solusi."
+      }
+    ],
+    "explanation": "Laporan kemajuan kepada atasan harus jujur. Kejujuran dapat disampaikan tanpa menyudutkan rekan dan disertai solusi (Akuntabel, Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0041",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda ditugaskan mengikuti pelatihan daring wajib selama tiga hari. Seorang rekan menyarankan Anda cukup masuk ke ruang pelatihan, mematikan kamera, lalu mengerjakan pekerjaan kantor lain karena \"yang penting presensi terisi\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan yang ikut pelatihan yang sama mengerjakan tugas pelatihan atas nama Anda.",
+        "score": 1,
+        "rationale": "Curang dan tidak jujur."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti pelatihan dengan sungguh-sungguh, menitipkan pekerjaan mendesak atas sepengetahuan atasan, dan membagikan materinya kepada tim.",
+        "score": 5,
+        "rationale": "Serius mengembangkan kompetensi, tugas tetap tertangani, dan ilmu ditularkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti sesi yang menurut Anda paling relevan dengan tugas sehari-hari, lalu memakai sesi lainnya untuk menyelesaikan pekerjaan kantor yang mendesak sambil tetap terhubung.",
+        "score": 3,
+        "rationale": "Belajar setengah-setengah dan kehadiran pada sebagian sesi hanya formalitas."
+      },
+      {
+        "key": "D",
+        "text": "Mengikuti pelatihan dengan sungguh-sungguh dan menyelesaikan seluruh tugasnya.",
+        "score": 4,
+        "rationale": "Serius belajar, tetapi tanpa pengaturan pekerjaan dan berbagi ilmu."
+      },
+      {
+        "key": "E",
+        "text": "Mengikuti saran rekan karena pekerjaan kantor juga penting dan materi bisa dibaca belakangan.",
+        "score": 2,
+        "rationale": "Hadir semu dan menyia-nyiakan kesempatan belajar."
+      }
+    ],
+    "explanation": "Pelatihan adalah investasi negara untuk kompetensi pegawai. Mengikutinya dengan sungguh-sungguh lalu berbagi ilmu mencerminkan Kompeten, yaitu meningkatkan kompetensi diri dan membantu orang lain belajar.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0042",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengawas ketenagakerjaan. Seusai inspeksi, manajer perusahaan mengajak Anda makan siang di restoran mahal atas biaya perusahaan sambil berkata bahwa hasil inspeksi \"bisa didiskusikan\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak ajakan dengan sopan dan menyampaikan bahwa hasil inspeksi tidak dapat didiskusikan di luar prosedur.",
+        "score": 4,
+        "rationale": "Tegas dan benar, tetapi upaya memengaruhi tidak dilaporkan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan alasan sudah ada janji lain agar manajer tidak tersinggung.",
+        "score": 2,
+        "rationale": "Tidak terus terang dan tidak menutup peluang pendekatan berikutnya."
+      },
+      {
+        "key": "C",
+        "text": "Menerima ajakan karena makan siang dianggap jamuan biasa antarmitra kerja.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dari pihak yang diawasi."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan, menegaskan bahwa hasil inspeksi mengikuti temuan dan prosedur, lalu mencatat upaya pendekatan itu dalam laporan kepada atasan.",
+        "score": 5,
+        "rationale": "Menolak gratifikasi, menjaga independensi, dan mendokumentasikan upaya memengaruhi."
+      },
+      {
+        "key": "E",
+        "text": "Ikut makan siang untuk menjaga hubungan baik, tetapi membayar makanan Anda sendiri dan menegaskan sejak awal bahwa hasil inspeksi tidak akan dibahas selama makan.",
+        "score": 3,
+        "rationale": "Tidak menerima pemberian, tetapi menimbulkan kesan kedekatan dengan pihak yang diawasi."
+      }
+    ],
+    "explanation": "Pengawas harus menjaga independensi dari pihak yang diawasi. Upaya memengaruhi hasil pemeriksaan perlu ditolak dan didokumentasikan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0043",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota tim penilai angka kredit jabatan fungsional. Berkas milik mantan atasan yang dulu banyak membimbing Anda ternyata memuat beberapa bukti kegiatan yang tidak sah. Beliau menelepon dan meminta Anda \"membantu\" agar angka kreditnya cukup untuk naik jenjang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta penilai lain mengambil alih berkas itu tanpa menjelaskan alasannya.",
+        "score": 3,
+        "rationale": "Menghindari konflik, tetapi tidak transparan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan hormat bahwa Anda harus menilai sesuai bukti, menjelaskan bukti yang perlu dilengkapi secara sah, dan memberi tahu ketua tim tentang hubungan Anda agar berkas itu dinilai penilai lain.",
+        "score": 5,
+        "rationale": "Menjaga integritas penilaian, menghormati senior, dan mengungkap benturan kepentingan."
+      },
+      {
+        "key": "C",
+        "text": "Menilai seluruh bukti sebagai sah karena Anda yakin beliau memang aktif bekerja selama ini.",
+        "score": 1,
+        "rationale": "Memanipulasi penilaian demi balas budi."
+      },
+      {
+        "key": "D",
+        "text": "Menunda penilaian berkas itu sampai beliau sendiri memperbaikinya, tanpa mencatat temuan.",
+        "score": 2,
+        "rationale": "Menghindar dan memberi perlakuan khusus berupa penundaan."
+      },
+      {
+        "key": "E",
+        "text": "Menilai sesuai ketentuan dan tidak menghitung bukti yang tidak sah.",
+        "score": 4,
+        "rationale": "Penilaian benar, tetapi benturan kepentingan tidak diungkapkan."
+      }
+    ],
+    "explanation": "Rasa hormat dan utang budi kepada senior tidak boleh mengalahkan objektivitas penilaian, dan benturan kepentingan diungkapkan secara terbuka (Akuntabel, Loyal).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0044",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf yang sedang kuliah magister dengan biaya sendiri. Dua kali seminggu kuliah dimulai pukul 15.00, sedangkan jam kerja kantor berakhir pukul 16.00. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pulang pukul 14.30 pada hari kuliah tanpa izin, lalu menggantinya dengan datang satu jam lebih pagi keesokan harinya sehingga total jam kerja Anda dalam seminggu tetap terpenuhi.",
+        "score": 2,
+        "rationale": "Berniat mengganti waktu, tetapi tetap melanggar jam kerja tanpa izin."
+      },
+      {
+        "key": "B",
+        "text": "Pulang lebih awal dan meminta rekan melakukan presensi pulang untuk Anda.",
+        "score": 1,
+        "rationale": "Memalsukan kehadiran."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti kuliah secara daring dari kantor pada jam kerja sambil tetap mengerjakan tugas.",
+        "score": 3,
+        "rationale": "Tetap di kantor, tetapi jam kerja terbagi untuk urusan pribadi."
+      },
+      {
+        "key": "D",
+        "text": "Meminta izin secara lisan kepada atasan untuk pulang lebih awal pada hari kuliah.",
+        "score": 4,
+        "rationale": "Terbuka, tetapi tanpa izin belajar resmi."
+      },
+      {
+        "key": "E",
+        "text": "Mengurus izin belajar sesuai ketentuan, membicarakan pengaturan jam kerja dengan atasan, dan menyelesaikan pekerjaan lebih awal pada hari kuliah.",
+        "score": 5,
+        "rationale": "Tertib administrasi, terbuka kepada atasan, dan tugas tetap terjaga."
+      }
+    ],
+    "explanation": "Pengembangan diri didukung, tetapi harus ditempuh melalui izin belajar resmi agar tidak mengorbankan disiplin jam kerja (Kompeten, Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0045",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota panitia pelatihan aparatur desa. Anda mengetahui seorang rekan panitia menambahkan nama peserta fiktif ke daftar hadir agar biaya konsumsi dan uang transpor dapat dicairkan penuh. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan karena praktik itu dianggap lumrah di banyak kegiatan, dan rekan menjanjikan kelebihan dananya dibagi rata untuk seluruh panitia, termasuk Anda, sebagai tambahan honor.",
+        "score": 1,
+        "rationale": "Ikut menikmati hasil pemalsuan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak ikut menandatangani dokumen pertanggungjawaban kegiatan itu.",
+        "score": 3,
+        "rationale": "Menyelamatkan diri, tetapi pemalsuan tetap berjalan."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan temuan kepada ketua panitia beserta daftar hadir asli.",
+        "score": 4,
+        "rationale": "Tepat karena menyangkut keuangan negara, tetapi tanpa menegur rekan lebih dulu."
+      },
+      {
+        "key": "D",
+        "text": "Pura-pura tidak tahu karena takut hubungan kerja menjadi buruk.",
+        "score": 2,
+        "rationale": "Membiarkan pemalsuan."
+      },
+      {
+        "key": "E",
+        "text": "Menegur rekan bahwa itu pemalsuan dan meminta daftar hadir dikembalikan sesuai fakta, lalu melaporkannya kepada ketua panitia.",
+        "score": 5,
+        "rationale": "Menegur langsung dan memastikan pertanggungjawaban keuangan benar melalui jalur resmi."
+      }
+    ],
+    "explanation": "Pemalsuan pertanggungjawaban keuangan adalah pelanggaran integritas, sehingga melapor melalui jalur resmi bernilai tinggi (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0046",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengembang aplikasi di dinas komunikasi dan informatika. Aplikasi pendaftaran bantuan dijadwalkan diluncurkan besok sesuai pengumuman kepala daerah. Saat uji akhir, Anda menemukan celah keamanan yang memungkinkan data pribadi pendaftar dibaca pihak lain. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meluncurkan sesuai jadwal dan memperbaiki celah diam-diam setelah peluncuran.",
+        "score": 2,
+        "rationale": "Mengorbankan keamanan data warga dan tidak transparan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan celah kepada atasan dan merekomendasikan penundaan peluncuran sampai celah tertutup.",
+        "score": 4,
+        "rationale": "Jujur dan aman, tetapi tanpa alternatif bagi jadwal yang sudah diumumkan."
+      },
+      {
+        "key": "C",
+        "text": "Meminta rekan pengembang lain memeriksa ulang temuan itu sebelum Anda memutuskan apa pun, meskipun waktunya mepet.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi menunda penyampaian risiko kepada atasan."
+      },
+      {
+        "key": "D",
+        "text": "Segera melaporkan celah itu kepada atasan beserta tingkat risikonya, mengusulkan opsi peluncuran yang aman seperti menunda fitur bermasalah atau membuka pendaftaran secara terbatas, lalu bekerja menutup celah secepatnya.",
+        "score": 5,
+        "rationale": "Jujur tentang risiko, menawarkan solusi, dan tetap mendukung jadwal pimpinan sejauh aman."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus temuan celah dari laporan uji agar peluncuran tidak terganggu dan kepala daerah tidak kecewa.",
+        "score": 1,
+        "rationale": "Menyembunyikan risiko dengan memanipulasi laporan uji."
+      }
+    ],
+    "explanation": "Saat tenggat bertabrakan dengan keamanan data warga, risiko harus dilaporkan secara jujur disertai opsi yang tetap dapat dipertanggungjawabkan, sejalan dengan UU 27/2022 tentang Pelindungan Data Pribadi (Akuntabel, Kompeten).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0047",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Kantor Anda akan menerima kunjungan tamu dari kementerian. Pagi ini atasan meminta semua staf, termasuk Anda, membantu menata ruang pertemuan, padahal Anda juga punya laporan yang harus selesai hari ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pura-pura sedang menerima telepon penting agar tidak diminta membantu.",
+        "score": 1,
+        "rationale": "Menghindar dengan berbohong."
+      },
+      {
+        "key": "B",
+        "text": "Ikut menata ruang sampai selesai, lalu mengerjakan laporan sebisanya dengan sisa waktu yang ada.",
+        "score": 4,
+        "rationale": "Mendukung kegiatan, tetapi tenggat laporan berisiko terlewat."
+      },
+      {
+        "key": "C",
+        "text": "Ikut menata ruang sesuai arahan dan mengatur waktu agar laporan tetap selesai hari ini.",
+        "score": 5,
+        "rationale": "Mendukung kegiatan organisasi tanpa mengorbankan tugas bertenggat."
+      },
+      {
+        "key": "D",
+        "text": "Membantu sebentar, lalu kembali ke meja tanpa memberi tahu siapa pun.",
+        "score": 3,
+        "rationale": "Bantuan setengah hati dan tanpa koordinasi."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa menata ruang adalah tugas petugas rumah tangga kantor.",
+        "score": 2,
+        "rationale": "Menolak perintah yang wajar dengan alasan pembagian tugas."
+      }
+    ],
+    "explanation": "Profesionalisme mencakup kesediaan mendukung kegiatan organisasi sambil tetap mengelola tugas pokok yang bertenggat (Akuntabel, Kolaboratif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0048",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda analis sumber daya manusia aparatur. Atasan menugaskan Anda menyusun analisis beban kerja unit dengan metode yang belum pernah Anda pelajari, dengan tenggat dua minggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima, mempelajari pedoman resmi metode itu, meminta contoh dari unit yang sudah menyusunnya, dan menyepakati titik pemeriksaan dengan atasan.",
+        "score": 5,
+        "rationale": "Mau belajar, memanfaatkan sumber resmi, dan memastikan arah pekerjaan sejak awal."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa Anda tidak sanggup karena belum pernah mempelajari metode itu.",
+        "score": 2,
+        "rationale": "Menolak kesempatan mengembangkan kompetensi yang dituntut jabatan."
+      },
+      {
+        "key": "C",
+        "text": "Menerima dan mempelajari pedomannya secara mandiri sebelum mulai mengerjakan.",
+        "score": 4,
+        "rationale": "Bertanggung jawab dan mau belajar, tetapi tanpa umpan balik dari atasan."
+      },
+      {
+        "key": "D",
+        "text": "Menerima, tetapi meminta atasan menugaskan rekan yang sudah berpengalaman menyusun analisis beban kerja untuk mendampingi Anda sejak awal sampai dokumen selesai.",
+        "score": 3,
+        "rationale": "Bersedia, tetapi bergantung pada orang lain."
+      },
+      {
+        "key": "E",
+        "text": "Menerima, lalu meminta staf magang mengerjakannya dan Anda tinggal menandatangani hasilnya.",
+        "score": 1,
+        "rationale": "Melempar tanggung jawab jabatan kepada pihak yang tidak berwenang."
+      }
+    ],
+    "explanation": "Tuntutan jabatan yang baru dihadapi dengan belajar secara terarah dan berkomunikasi dengan atasan (Kompeten, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0049",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengemudi kendaraan dinas berstatus PNS. Atasan Anda meminta Anda mengantar anaknya ke sekolah setiap pagi dengan mobil dinas sebelum menjemput beliau ke kantor. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan atasan menanyakannya dulu kepada kepala bagian umum.",
+        "score": 3,
+        "rationale": "Menyerahkan kepada pihak lain, padahal aturannya sudah jelas."
+      },
+      {
+        "key": "B",
+        "text": "Mengantar setiap pagi dan mencatatnya di buku perjalanan sebagai kegiatan dinas.",
+        "score": 1,
+        "rationale": "Menyalahgunakan aset negara dan memalsukan catatan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan dengan sopan bahwa kendaraan dinas hanya untuk keperluan dinas, lalu menawarkan membantu mencarikan layanan antar-jemput sekolah.",
+        "score": 5,
+        "rationale": "Menolak penyalahgunaan dengan santun dan tetap membantu secara sah."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan dengan sopan bahwa kendaraan dinas tidak boleh dipakai untuk keperluan pribadi.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa tawaran bantuan."
+      },
+      {
+        "key": "E",
+        "text": "Mengantar hanya sesekali ketika tidak ada jadwal dinas pagi, karena jaraknya searah dengan rumah atasan dan tambahan bahan bakarnya hampir tidak terasa.",
+        "score": 2,
+        "rationale": "Tetap menyalahgunakan kendaraan dinas meskipun terbatas."
+      }
+    ],
+    "explanation": "Loyal kepada atasan tidak mencakup penyalahgunaan barang milik negara. Penolakan yang santun dengan tawaran bantuan yang sah menjaga integritas dan hubungan kerja (Akuntabel, Loyal).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0050",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf sekretariat yang bertugas mengirim undangan rapat. Anda baru sadar bahwa tanggal rapat pada undangan yang sudah terkirim kepada 20 peserta salah tulis. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melapor kepada atasan dan menunggu arahan sebelum mengirim ralat.",
+        "score": 3,
+        "rationale": "Jujur, tetapi menunda perbaikan yang sebenarnya menjadi wewenang Anda."
+      },
+      {
+        "key": "B",
+        "text": "Segera mengirim ralat undangan kepada semua peserta.",
+        "score": 4,
+        "rationale": "Memperbaiki dengan cepat, tetapi tanpa memastikan ralat diterima dan tanpa memberi tahu atasan."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu konfirmasi peserta dan hanya meluruskan tanggal kepada yang bertanya.",
+        "score": 2,
+        "rationale": "Perbaikan setengah hati sehingga sebagian peserta tetap salah informasi."
+      },
+      {
+        "key": "D",
+        "text": "Segera mengirim ralat kepada semua peserta, menelepon peserta kunci untuk memastikan informasinya diterima, dan memberi tahu atasan.",
+        "score": 5,
+        "rationale": "Cepat, tuntas, dan terbuka atas kesalahan sendiri."
+      },
+      {
+        "key": "E",
+        "text": "Mengusulkan kepada atasan agar rapat dipindah ke tanggal yang tertulis di undangan dengan alasan jadwal itu lebih longgar, tanpa menyebut kekeliruan Anda.",
+        "score": 1,
+        "rationale": "Menutupi kesalahan dan menyesatkan atasan."
+      }
+    ],
+    "explanation": "Kesalahan dalam wewenang sendiri diperbaiki segera tanpa menunggu disuruh, lalu dilaporkan secara terbuka (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0051",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai dinas pariwisata yang memproses rekomendasi izin acara. Setelah rekomendasi terbit, promotor konser mengirimkan dua tiket VIP ke meja Anda \"untuk keluarga\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyimpan tiket di laci kantor tanpa memakainya, sambil menunggu informasi apakah pemberian setelah layanan selesai juga wajib dilaporkan sebagai gratifikasi.",
+        "score": 2,
+        "rationale": "Pasif dan menunda sikap atas gratifikasi."
+      },
+      {
+        "key": "B",
+        "text": "Mengembalikan tiket kepada promotor dengan sopan.",
+        "score": 4,
+        "rationale": "Menolak dengan benar, tetapi tanpa pencatatan resmi."
+      },
+      {
+        "key": "C",
+        "text": "Menyerahkan tiket kepada atasan dan menyerahkan keputusannya kepada beliau.",
+        "score": 3,
+        "rationale": "Tidak disembunyikan, tetapi bukan jalur yang tepat."
+      },
+      {
+        "key": "D",
+        "text": "Mengembalikan tiket dengan surat penolakan yang sopan dan melaporkan penolakan itu ke Unit Pengendalian Gratifikasi.",
+        "score": 5,
+        "rationale": "Menolak dengan santun dan terdokumentasi secara resmi."
+      },
+      {
+        "key": "E",
+        "text": "Memakai tiket bersama keluarga karena rekomendasi sudah terbit dan tidak ada lagi kepentingan yang tersisa.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dengan dalih layanan sudah selesai."
+      }
+    ],
+    "explanation": "Pemberian setelah layanan selesai tetap terkait jabatan dan termasuk gratifikasi (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0052",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda juru ukur di kantor pertanahan. Atasan meminta pengukuran 30 bidang tanah selesai minggu ini untuk mengejar target program sertifikasi. Pengukuran yang benar mewajibkan kehadiran pemilik dan tetangga yang berbatasan, sedangkan sebagian dari mereka baru bisa hadir minggu depan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyelesaikan bidang yang syaratnya lengkap, menjadwalkan sisanya bersama perangkat desa, dan melaporkan capaian riil serta kendalanya kepada atasan.",
+        "score": 5,
+        "rationale": "Bekerja maksimal sesuai prosedur dan transparan tentang target."
+      },
+      {
+        "key": "B",
+        "text": "Mengukur semua bidang minggu ini meskipun sebagian tanpa kehadiran tetangga berbatasan, dengan membuat surat pernyataan bahwa batas akan dikonfirmasi belakangan oleh para pihak.",
+        "score": 2,
+        "rationale": "Mengorbankan prosedur demi target sehingga berisiko memicu sengketa."
+      },
+      {
+        "key": "C",
+        "text": "Mengukur sesuai prosedur sebanyak yang bisa diselesaikan minggu ini, lalu melaporkan hasilnya.",
+        "score": 4,
+        "rationale": "Menjaga mutu, tetapi tanpa rencana penyelesaian sisa bidang."
+      },
+      {
+        "key": "D",
+        "text": "Meminta atasan menurunkan target sebelum memulai pengukuran.",
+        "score": 3,
+        "rationale": "Mengeluh lebih dulu sebelum berupaya."
+      },
+      {
+        "key": "E",
+        "text": "Menyalin batas bidang dari peta lama untuk bidang yang pemiliknya tidak hadir agar target tercapai.",
+        "score": 1,
+        "rationale": "Membuat data ukur yang tidak benar."
+      }
+    ],
+    "explanation": "Target tidak boleh dicapai dengan mengorbankan prosedur yang melindungi hak warga. Transparansi capaian dan rencana penyelesaian adalah sikap profesional (Akuntabel, Kompeten).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0053",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas pengelola ruang pertemuan di kantor. Seorang rekan meminta izin memakai aula dan proyektor kantor untuk acara arisan keluarganya pada hari Minggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan keputusan kepada kepala bagian umum.",
+        "score": 3,
+        "rationale": "Melempar keputusan yang aturannya sudah jelas."
+      },
+      {
+        "key": "B",
+        "text": "Mengizinkan karena aula kosong pada hari Minggu, dengan meminta uang kebersihan yang Anda kelola sendiri untuk membayar petugas yang membersihkan ruangan setelah acara.",
+        "score": 1,
+        "rationale": "Pungutan liar dan penyalahgunaan aset."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan karena aula kantor hanya untuk kegiatan dinas.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa informasi jalur resmi."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan dengan sopan bahwa aula hanya untuk kegiatan dinas, lalu menginformasikan prosedur pemanfaatan resmi bila instansi menyediakannya.",
+        "score": 5,
+        "rationale": "Menolak penyalahgunaan dengan santun dan menunjukkan jalur yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Mengizinkan memakai aula saja, tanpa proyektor.",
+        "score": 2,
+        "rationale": "Tetap menyalahgunakan barang milik negara meskipun sebagian."
+      }
+    ],
+    "explanation": "Barang milik negara digunakan untuk kepentingan dinas atau melalui mekanisme pemanfaatan resmi, bukan karena kedekatan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0054",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Hasil penilaian kinerja tahunan Anda dari atasan adalah \"di bawah ekspektasi\". Anda merasa penilaian itu kurang adil karena beberapa pekerjaan penting yang Anda selesaikan tidak diperhitungkan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta waktu berdiskusi dengan atasan, menyampaikan bukti kinerja secara objektif, dan memakai mekanisme keberatan resmi bila masih belum sepakat.",
+        "score": 5,
+        "rationale": "Objektif, terbuka pada masukan, dan menempuh jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Mengeluhkan penilaian atasan di grup pegawai dan media sosial agar rekan-rekan mengetahui ketidakadilan yang Anda alami dan atasan lebih berhati-hati menilai.",
+        "score": 1,
+        "rationale": "Emosional dan mencemarkan nama baik atasan."
+      },
+      {
+        "key": "C",
+        "text": "Menerima penilaian tanpa bertanya dan bekerja seperti biasa.",
+        "score": 3,
+        "rationale": "Tidak menimbulkan masalah, tetapi tidak ada perbaikan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta penjelasan atasan tentang dasar penilaian dan menerima masukannya untuk perbaikan.",
+        "score": 4,
+        "rationale": "Terbuka dan konstruktif, tetapi bukti kinerja tidak disampaikan."
+      },
+      {
+        "key": "E",
+        "text": "Mengurangi semangat kerja karena merasa usaha Anda tidak dihargai.",
+        "score": 2,
+        "rationale": "Kinerja menurun akibat kekecewaan pribadi."
+      }
+    ],
+    "explanation": "Menyikapi penilaian kinerja secara objektif dan memakai jalur resmi bila keberatan adalah sikap profesional (Kompeten, Loyal).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0055",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf bagian kepegawaian yang ikut menyusun rencana mutasi. Seorang teman dekat dari unit lain bertanya apakah namanya masuk daftar mutasi ke daerah terpencil karena ia ingin bersiap lebih awal. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan halus karena informasi mutasi belum boleh dibuka.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa saran yang membantu."
+      },
+      {
+        "key": "B",
+        "text": "Menjawab tidak tahu agar tidak perlu menolak secara langsung.",
+        "score": 2,
+        "rationale": "Rahasia terjaga, tetapi dengan cara berbohong."
+      },
+      {
+        "key": "C",
+        "text": "Memberi isyarat halus bahwa ia sebaiknya mulai bersiap, tanpa menyebutkan namanya ada di daftar, karena Anda hanya ingin membantu teman dekat menyiapkan keluarganya.",
+        "score": 1,
+        "rationale": "Membocorkan rahasia jabatan secara terselubung."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan dengan halus bahwa informasi mutasi belum boleh dibuka, dan menyarankan kondisi keluarganya disampaikan melalui jalur resmi kepegawaian.",
+        "score": 5,
+        "rationale": "Menjaga rahasia jabatan sambil memberi jalan yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankannya bertanya langsung kepada kepala bagian kepegawaian.",
+        "score": 3,
+        "rationale": "Melempar pertanyaan, padahal Anda bisa menjelaskan aturannya sendiri."
+      }
+    ],
+    "explanation": "Menjaga rahasia jabatan termasuk nilai Loyal. Kedekatan pribadi tidak menjadi alasan membuka informasi yang belum resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0056",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Menjelang pemilihan kepala daerah, kepala dinas meminta seluruh staf, termasuk Anda, menghadiri acara kampanye calon petahana di luar jam kerja dan mengenakan atribut pasangan calon \"sebagai bentuk loyalitas kepada pimpinan\". Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadir tanpa memakai atribut dan berdiri di barisan belakang agar tidak terlihat.",
+        "score": 2,
+        "rationale": "Tetap ikut serta dalam kampanye meskipun setengah hati."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan dengan sopan kepada kepala dinas bahwa ASN wajib netral, termasuk di luar jam kerja, sambil tetap menjalankan tugas kedinasan seperti biasa, dan menggunakan kanal pengaduan resmi bila tekanan terus berlanjut.",
+        "score": 5,
+        "rationale": "Menjaga netralitas, menghormati pimpinan, dan siap menempuh jalur resmi."
+      },
+      {
+        "key": "C",
+        "text": "Tidak hadir tanpa memberi penjelasan apa pun kepada kepala dinas.",
+        "score": 3,
+        "rationale": "Tidak melanggar, tetapi sikapnya tidak jelas."
+      },
+      {
+        "key": "D",
+        "text": "Hadir dan mengenakan atribut sesuai permintaan karena loyal kepada pimpinan adalah kewajiban ASN.",
+        "score": 1,
+        "rationale": "Melanggar netralitas karena salah memaknai loyalitas."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan sopan bahwa Anda tidak dapat hadir karena ASN wajib netral.",
+        "score": 4,
+        "rationale": "Sikapnya benar, tetapi tanpa langkah bila tekanan berlanjut."
+      }
+    ],
+    "explanation": "Loyal dalam BerAKHLAK berarti setia kepada negara dan pemerintahan yang sah, bukan kepada kepentingan politik pimpinan. Netralitas ASN berlaku juga di luar jam kerja (Loyal, Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0057",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Seorang rekan senior di ruangan Anda sering pulang sebelum jam kerja berakhir. Ia meminta Anda menjawab \"sedang ke lapangan\" bila atasan mencarinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghindari ruangan ketika atasan datang agar tidak perlu menjawab.",
+        "score": 2,
+        "rationale": "Menghindar dari kewajiban memberi keterangan yang benar."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan secara pribadi bahwa Anda tidak bisa memberi keterangan yang tidak benar dan menyarankannya mengurus izin bila ada keperluan.",
+        "score": 5,
+        "rationale": "Jujur, santun kepada senior, dan menunjukkan jalan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab tidak tahu bila atasan bertanya, karena Anda memang tidak mengetahui pasti ke mana rekan itu pergi dan tidak ingin terlibat urusan pribadi orang lain.",
+        "score": 3,
+        "rationale": "Mengelak dan tidak sepenuhnya jujur kepada atasan."
+      },
+      {
+        "key": "D",
+        "text": "Menolak permintaannya dan menjawab apa adanya bila atasan bertanya.",
+        "score": 4,
+        "rationale": "Jujur, tetapi tanpa saran yang membantu rekan."
+      },
+      {
+        "key": "E",
+        "text": "Menjawab sesuai permintaannya karena ia senior dan sering membantu Anda.",
+        "score": 1,
+        "rationale": "Berbohong kepada atasan demi menutupi pelanggaran rekan."
+      }
+    ],
+    "explanation": "Kejujuran kepada atasan tidak boleh dikorbankan demi solidaritas yang keliru (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0058",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf protokol. Pukul 21.00 atasan menelepon bahwa kunjungan pejabat kementerian dimajukan menjadi besok pukul 07.00 dan meminta Anda menyiapkan susunan acara yang baru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyanggupi, lalu datang ke kantor pukul 05.30 untuk menyusun ulang susunan acara dan mengabari pihak terkait sebelum tamu tiba pukul 07.00.",
+        "score": 4,
+        "rationale": "Bertanggung jawab, tetapi waktu koreksi sangat sempit."
+      },
+      {
+        "key": "B",
+        "text": "Menyanggupi, tetapi menyampaikan bahwa susunan acara hanya bisa disiapkan seadanya.",
+        "score": 3,
+        "rationale": "Bersedia, tetapi tidak berupaya memberikan hasil terbaik."
+      },
+      {
+        "key": "C",
+        "text": "Tidak mengangkat telepon dan berpura-pura baru membaca pesan atasan keesokan paginya.",
+        "score": 1,
+        "rationale": "Menghindar dan tidak jujur."
+      },
+      {
+        "key": "D",
+        "text": "Menyanggupi, lalu menyerahkan seluruh tugas kepada staf honorer tanpa memeriksa hasilnya.",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab."
+      },
+      {
+        "key": "E",
+        "text": "Menyanggupi, menyusun ulang susunan acara malam itu, mengabari pihak terkait, dan mengirim draf kepada atasan sebelum pagi.",
+        "score": 5,
+        "rationale": "Sigap, tuntas, dan memberi ruang koreksi."
+      }
+    ],
+    "explanation": "Tugas mendadak yang sah ditangani dengan sigap dan disertai pengecekan mutu (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0059",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas pengelola vaksin di puskesmas. Pagi ini Anda menyadari bahwa suhu lemari pendingin vaksin sempat berada di luar batas standar semalam karena Anda lupa menutup pintunya dengan rapat. Vaksin itu dijadwalkan dipakai di posyandu pagi ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menahan vaksin itu dan memakai stok dari lemari lain tanpa menjelaskan penyebabnya.",
+        "score": 3,
+        "rationale": "Keselamatan terjaga, tetapi kesalahan tidak diakui."
+      },
+      {
+        "key": "B",
+        "text": "Segera melapor kepada penanggung jawab imunisasi, menahan pemakaian vaksin itu sesuai pedoman, dan mengusulkan daftar periksa lemari pendingin.",
+        "score": 5,
+        "rationale": "Jujur, mengutamakan keselamatan warga, dan mencegah terulang."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa sendiri indikator paparan suhu pada kemasan vaksin, lalu memakai vaksin itu tanpa melapor bila indikatornya belum berubah warna karena paparan hanya beberapa jam.",
+        "score": 2,
+        "rationale": "Mengambil keputusan di luar prosedur dan berisiko bagi warga."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan vaksin untuk dipakai dan mengisi catatan suhu seolah-olah normal.",
+        "score": 1,
+        "rationale": "Memalsukan catatan dan membahayakan keselamatan warga."
+      },
+      {
+        "key": "E",
+        "text": "Melapor kepada penanggung jawab program imunisasi dan menahan vaksin tersebut.",
+        "score": 4,
+        "rationale": "Jujur dan aman, tetapi tanpa langkah pencegahan."
+      }
+    ],
+    "explanation": "Kesalahan sendiri yang menyangkut keselamatan publik wajib segera diakui dan ditangani sesuai pedoman (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0060",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda kepala subbagian keuangan. Menjelang tutup buku, pekerjaan menumpuk dan staf harus lembur, sedangkan anggaran uang lembur tidak tersedia. Beberapa staf mulai mengeluh. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjanjikan kompensasi bagi staf dengan mencairkan uang perjalanan dinas atas kegiatan yang tidak dilaksanakan, agar semangat kerja tetap terjaga dan hak lembur mereka tetap terbayar.",
+        "score": 1,
+        "rationale": "Merencanakan pertanggungjawaban fiktif."
+      },
+      {
+        "key": "B",
+        "text": "Meminta staf tetap lembur karena menyelesaikan tutup buku adalah kewajiban.",
+        "score": 3,
+        "rationale": "Benar secara aturan, tetapi tanpa empati dan pengaturan beban."
+      },
+      {
+        "key": "C",
+        "text": "Ikut lembur bersama staf dan menjelaskan kondisi anggaran secara terbuka.",
+        "score": 4,
+        "rationale": "Memberi contoh dan transparan, tetapi tanpa pengaturan kerja dan perbaikan ke depan."
+      },
+      {
+        "key": "D",
+        "text": "Mengerjakan sendiri sebagian besar pekerjaan agar staf tidak perlu lembur.",
+        "score": 2,
+        "rationale": "Menanggung semua sendiri sehingga tidak efektif dan berisiko pada mutu."
+      },
+      {
+        "key": "E",
+        "text": "Membagi pekerjaan sesuai prioritas, ikut turun tangan, menjelaskan kondisi anggaran secara terbuka, dan mengusulkan perencanaan lembur yang lebih baik.",
+        "score": 5,
+        "rationale": "Memimpin dengan contoh, transparan, dan memperbaiki perencanaan."
+      }
+    ],
+    "explanation": "Pimpinan unit yang profesional mengelola beban kerja secara adil, memberi teladan, dan tidak mengakali anggaran (Akuntabel, Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0061",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf pengadaan. Sebelumnya Anda sudah menolak permintaan atasan untuk menyusun spesifikasi barang yang mengarah pada satu penyedia tertentu. Belakangan Anda mengetahui atasan meminta staf lain menyusun spesifikasi tersebut, dan proses pemilihan penyedia sedang berjalan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan dugaan pengaturan spesifikasi beserta dokumen pendukung melalui sistem pengaduan pelanggaran atau inspektorat, tanpa menyebarkannya kepada pihak lain.",
+        "score": 5,
+        "rationale": "Menempuh jalur resmi yang tepat setelah penolakan langsung tidak menghentikan pelanggaran."
+      },
+      {
+        "key": "B",
+        "text": "Menemui atasan sekali lagi secara pribadi, menjelaskan bahwa pengaturan spesifikasi melanggar prinsip pengadaan dan berisiko pidana, lalu memintanya menghentikan proses yang sedang berjalan.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi kurang efektif karena atasan sudah menempuh jalan lain setelah penolakan pertama."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkan karena Anda sudah menolak dan tidak lagi terlibat.",
+        "score": 2,
+        "rationale": "Pasif terhadap pelanggaran yang Anda ketahui."
+      },
+      {
+        "key": "D",
+        "text": "Mencatat semua kejadian untuk berjaga-jaga bila suatu saat Anda diperiksa.",
+        "score": 3,
+        "rationale": "Melindungi diri, tetapi membiarkan pelanggaran berjalan."
+      },
+      {
+        "key": "E",
+        "text": "Membantu staf tersebut merapikan dokumen spesifikasi karena keputusan sudah diambil atasan.",
+        "score": 1,
+        "rationale": "Ikut terlibat dalam pengaturan pengadaan."
+      }
+    ],
+    "explanation": "Bila penolakan langsung tidak menghentikan pelanggaran, ASN melapor melalui sistem pengaduan pelanggaran atau APIP dengan bukti dan tanpa menyebarkan tuduhan (Akuntabel, Loyal kepada instansi).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0062",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda penghulu di kantor urusan agama. Setelah akad nikah di rumah mempelai, keluarga memberikan amplop berisi uang \"transpor\" kepada Anda, padahal biaya nikah di luar kantor sudah disetor melalui bank sesuai tarif resmi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan keluarga memberikan uang itu kepada staf yang mengantar Anda saja.",
+        "score": 2,
+        "rationale": "Mengalihkan gratifikasi kepada rekan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak amplop dengan halus sambil berterima kasih.",
+        "score": 4,
+        "rationale": "Benar dan santun, tetapi tanpa penjelasan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak amplop dengan halus dan menjelaskan bahwa biaya transpor sudah tercakup dalam tarif resmi yang disetor ke bank.",
+        "score": 5,
+        "rationale": "Menolak gratifikasi dengan santun sambil mengedukasi keluarga."
+      },
+      {
+        "key": "D",
+        "text": "Menerima amplop agar keluarga tidak tersinggung di depan para tamu, lalu memasukkan seluruh isinya ke kotak amal masjid setempat sehingga tidak Anda nikmati sendiri.",
+        "score": 3,
+        "rationale": "Tidak dinikmati pribadi, tetapi gratifikasi tetap diterima tanpa pelaporan."
+      },
+      {
+        "key": "E",
+        "text": "Menerima karena pemberian itu sudah menjadi kebiasaan masyarakat dan diberikan dengan ikhlas.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dengan dalih kebiasaan."
+      }
+    ],
+    "explanation": "Pemberian di luar tarif resmi yang terkait layanan merupakan gratifikasi meskipun diberikan dengan ikhlas (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0063",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda anggota Satuan Polisi Pamong Praja yang dijadwalkan patroli malam. Seorang rekan satu regu mengusulkan agar patroli cukup separuh rute karena cuaca dingin, sedangkan laporan tetap ditulis lengkap. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menjalankan separuh rute bersama regu, tetapi menulis laporan sesuai rute yang benar-benar dilalui dan mencantumkan alasan cuaca sebagai kendala patroli malam itu.",
+        "score": 2,
+        "rationale": "Laporannya jujur, tetapi tugas tidak dijalankan penuh."
+      },
+      {
+        "key": "B",
+        "text": "Mengikuti usulan rekan dan menulis laporan seolah-olah seluruh rute sudah dipatroli.",
+        "score": 1,
+        "rationale": "Melalaikan tugas dan memalsukan laporan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan dan tetap menjalankan rute lengkap.",
+        "score": 4,
+        "rationale": "Disiplin dan jujur, tetapi tanpa tindak lanjut atas keluhan regu."
+      },
+      {
+        "key": "D",
+        "text": "Menolak dengan sopan, mengajak regu menjalankan rute sesuai jadwal, dan mengusulkan peninjauan rute kepada komandan bila dirasa terlalu panjang.",
+        "score": 5,
+        "rationale": "Disiplin, jujur, dan menyalurkan kendala melalui jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Menjalankan rute lengkap sendirian, sementara rekan berjaga di pos.",
+        "score": 3,
+        "rationale": "Bertanggung jawab secara pribadi, tetapi tidak aman dan pelanggaran rekan dibiarkan."
+      }
+    ],
+    "explanation": "Tugas dijalankan sesuai jadwal dan dilaporkan sesuai fakta. Keberatan atas beban tugas disampaikan melalui jalur resmi, bukan dengan memangkas tugas diam-diam (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0064",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Atasan mengembalikan draf laporan Anda dengan banyak coretan dan meminta revisi besar, padahal Anda merasa sudah bekerja keras menyusunnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Merevisi draf sesuai seluruh catatan atasan.",
+        "score": 4,
+        "rationale": "Patuh dan bertanggung jawab, tetapi tanpa upaya memahami dan mencegah kesalahan serupa."
+      },
+      {
+        "key": "B",
+        "text": "Merevisi bagian yang menurut Anda paling penting terlebih dahulu, lalu mempertahankan bagian lain yang Anda yakini sudah benar sambil menyiapkan argumen bila ditanya.",
+        "score": 3,
+        "rationale": "Revisi tidak tuntas dan masukan atasan tidak sepenuhnya dijalankan."
+      },
+      {
+        "key": "C",
+        "text": "Mempelajari setiap catatan, menanyakan bagian yang belum jelas, merevisi tepat waktu, dan mencatat pola kesalahan agar tidak terulang.",
+        "score": 5,
+        "rationale": "Terbuka pada masukan dan menjadikannya bahan belajar."
+      },
+      {
+        "key": "D",
+        "text": "Menunda revisi karena merasa kecewa.",
+        "score": 2,
+        "rationale": "Emosi pribadi menghambat pekerjaan."
+      },
+      {
+        "key": "E",
+        "text": "Mengeluhkan sikap atasan kepada rekan-rekan dan menyebutnya terlalu perfeksionis.",
+        "score": 1,
+        "rationale": "Emosional dan merusak nama baik atasan."
+      }
+    ],
+    "explanation": "Menerima umpan balik secara terbuka dan menjadikannya bahan perbaikan merupakan wujud Kompeten.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0065",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda operator data pokok pendidikan di sebuah SD negeri. Kepala sekolah meminta Anda menambah jumlah siswa di sistem agar sekolah memenuhi syarat menerima bantuan tambahan ruang kelas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan kepala sekolah berkonsultasi dulu dengan dinas pendidikan.",
+        "score": 3,
+        "rationale": "Menunda dan menyerahkan kepada pihak lain, padahal aturannya jelas."
+      },
+      {
+        "key": "B",
+        "text": "Mengulur waktu sampai batas pengisian data lewat agar tidak perlu menolak secara langsung.",
+        "score": 2,
+        "rationale": "Menghindar dan bisa merugikan sekolah dalam pendataan lain."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan dengan sopan bahwa data harus sesuai kondisi riil karena menjadi dasar penyaluran dana dan dapat diaudit, lalu menawarkan membantu mencari program bantuan lain yang syaratnya sesuai kondisi sekolah.",
+        "score": 5,
+        "rationale": "Menolak manipulasi data dengan santun dan memberi alternatif yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Menambah jumlah siswa sesuai permintaan karena dana bantuan itu juga untuk kepentingan siswa.",
+        "score": 1,
+        "rationale": "Memalsukan data dengan dalih kepentingan baik."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan sopan karena data harus sesuai kondisi riil.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa alternatif."
+      }
+    ],
+    "explanation": "Data yang menjadi dasar penyaluran dana negara harus akurat. Penolakan yang santun disertai alternatif yang sah mencerminkan Akuntabel.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0066",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda auditor di inspektorat daerah. Setelah laporan hasil audit terbit, Anda menyadari salah satu temuan yang Anda susun terlalu berat karena Anda salah membaca dokumen auditee. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempertahankan temuan karena laporan sudah terbit, mengubahnya akan merusak kredibilitas tim, dan auditee masih punya kesempatan menyanggah pada tahap tindak lanjut.",
+        "score": 1,
+        "rationale": "Mengorbankan kebenaran demi citra."
+      },
+      {
+        "key": "B",
+        "text": "Menunggu auditee mengajukan tanggapan sebelum mengakui kekeliruan.",
+        "score": 3,
+        "rationale": "Menunda pengakuan sampai dipersoalkan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kekeliruan itu kepada ketua tim dan menyerahkan bukti dokumennya.",
+        "score": 4,
+        "rationale": "Jujur dan bertanggung jawab, tetapi tanpa langkah pencegahan."
+      },
+      {
+        "key": "D",
+        "text": "Menghubungi auditee secara informal dan menyarankan agar temuan itu tidak perlu ditindaklanjuti.",
+        "score": 2,
+        "rationale": "Menyelesaikan di luar mekanisme dan berpotensi menimbulkan benturan kepentingan."
+      },
+      {
+        "key": "E",
+        "text": "Segera melapor kepada ketua tim dan pengendali teknis, menyiapkan koreksi sesuai mekanisme perbaikan laporan, dan menambah reviu silang dokumen ke depannya.",
+        "score": 5,
+        "rationale": "Jujur, memperbaiki lewat mekanisme resmi, dan mencegah terulang."
+      }
+    ],
+    "explanation": "Auditor dituntut objektif. Kekeliruan sendiri dikoreksi melalui mekanisme resmi meskipun laporan sudah terbit (Akuntabel, Kompeten).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0067",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pegawai di badan pengembangan sumber daya manusia daerah. Rekan-rekan satu bidang sepakat mencatat jam mengajar pelatihan lebih panjang dari yang sebenarnya agar honor narasumber internal lebih besar. Anda satu-satunya yang belum setuju, dan rekan menyebut Anda tidak setia kawan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diam saja dalam forum agar tidak berselisih, tetapi tidak menandatangani daftar jam mengajar yang dilebihkan.",
+        "score": 3,
+        "rationale": "Tidak ikut melanggar, tetapi pasif terhadap pelanggaran."
+      },
+      {
+        "key": "B",
+        "text": "Ikut menandatangani agar hubungan dengan rekan tetap baik, lalu diam-diam menyetorkan kelebihan honor bagian Anda ke kas negara sehingga Anda sendiri tidak menikmati uang yang bukan hak Anda.",
+        "score": 2,
+        "rationale": "Ikut menandatangani dokumen yang tidak benar meskipun berusaha menebusnya."
+      },
+      {
+        "key": "C",
+        "text": "Ikut menyetujui karena sudah menjadi keputusan bersama dan nilainya tidak besar.",
+        "score": 1,
+        "rationale": "Ikut memalsukan pertanggungjawaban demi solidaritas."
+      },
+      {
+        "key": "D",
+        "text": "Menolak ikut dan hanya mencatat jam mengajar Anda sendiri sesuai fakta.",
+        "score": 4,
+        "rationale": "Menjaga integritas diri, tetapi membiarkan pelanggaran rekan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan dengan tenang di forum bidang bahwa jam mengajar harus dicatat sesuai fakta, dan melapor kepada atasan bila rencana itu tetap dijalankan.",
+        "score": 5,
+        "rationale": "Berintegritas, mengingatkan secara terbuka, dan menempuh jalur resmi bila perlu."
+      }
+    ],
+    "explanation": "Solidaritas kelompok tidak boleh mengalahkan integritas. Menolak secara terbuka dan santun, lalu melapor bila pelanggaran tetap terjadi, adalah wujud Akuntabel.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0068",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda tidak sengaja menjatuhkan laptop kantor yang dipinjamkan kepada Anda sehingga layarnya retak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memperbaiki laptop ke tempat servis resmi dengan biaya pribadi tanpa melapor, karena kerusakan itu akibat kelalaian Anda dan Anda tidak ingin membebani anggaran kantor.",
+        "score": 3,
+        "rationale": "Bertanggung jawab secara biaya, tetapi melewati prosedur pengelolaan barang milik negara."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan kerusakan kepada pengelola barang dan meminta laptop diperbaiki.",
+        "score": 4,
+        "rationale": "Jujur, tetapi kronologi dan tanggung jawab pribadi tidak disampaikan."
+      },
+      {
+        "key": "C",
+        "text": "Segera melapor kepada pengelola barang dan atasan, menjelaskan kronologinya apa adanya, dan mengikuti prosedur perbaikan serta ganti rugi bila berlaku.",
+        "score": 5,
+        "rationale": "Jujur, tertib prosedur, dan siap bertanggung jawab."
+      },
+      {
+        "key": "D",
+        "text": "Mengembalikan laptop ke gudang dan menyatakan bahwa layarnya sudah retak saat Anda menerimanya.",
+        "score": 1,
+        "rationale": "Berbohong untuk menghindari tanggung jawab."
+      },
+      {
+        "key": "E",
+        "text": "Tetap memakai laptop dan baru melapor bila nanti rusak total.",
+        "score": 2,
+        "rationale": "Menunda dan berisiko memperparah kerusakan."
+      }
+    ],
+    "explanation": "Barang milik negara digunakan dan dipertanggungjawabkan dengan jujur, termasuk saat rusak karena kelalaian sendiri (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0069",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda pengawas lingkungan hidup. Hasil uji laboratorium menunjukkan limbah sebuah pabrik melampaui baku mutu. Atasan meminta laporan cukup menyebut \"perlu pembinaan\" tanpa mencantumkan angka hasil uji, karena pabrik itu penyerap tenaga kerja terbesar di daerah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti arahan atasan karena dampak ekonomi bagi ribuan pekerja dinilai lebih penting.",
+        "score": 1,
+        "rationale": "Menyembunyikan temuan pelanggaran."
+      },
+      {
+        "key": "B",
+        "text": "Tetap mencantumkan angka hasil uji dalam laporan dan menjelaskan alasannya kepada atasan.",
+        "score": 4,
+        "rationale": "Jujur dan terbuka kepada atasan, tetapi tanpa usulan yang menjawab kekhawatiran beliau."
+      },
+      {
+        "key": "C",
+        "text": "Mencantumkan angka hasil uji di lampiran saja, sementara isi laporan mengikuti arahan atasan.",
+        "score": 3,
+        "rationale": "Kompromi yang mengaburkan temuan penting."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan kepada atasan bahwa hasil uji wajib dicantumkan, sambil mengusulkan rekomendasi proporsional seperti tenggat perbaikan pengolahan limbah dan pendampingan bagi pabrik.",
+        "score": 5,
+        "rationale": "Menjaga kebenaran laporan dan membantu atasan dengan solusi yang seimbang."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan penyusunan laporan kepada atasan agar Anda tidak menanggung risikonya.",
+        "score": 2,
+        "rationale": "Menghindar dari tanggung jawab jabatan."
+      }
+    ],
+    "explanation": "Loyalitas kepada atasan dan pertimbangan ekonomi tidak membenarkan penyembunyian temuan. Kebenaran data dijaga sambil menawarkan rekomendasi yang proporsional (Akuntabel, Kompeten).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0070",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda bendahara sebuah kegiatan. Setelah kegiatan selesai, ada sisa uang konsumsi karena peserta yang hadir lebih sedikit dari rencana. Seorang rekan panitia mengusulkan sisa uang itu dibagi rata kepada panitia. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membagi rata sisa uang kepada panitia sesuai usulan rekan karena semua sudah bekerja keras.",
+        "score": 1,
+        "rationale": "Menyalahgunakan uang negara."
+      },
+      {
+        "key": "B",
+        "text": "Menyimpan sisa uang dalam amplop bertanda di brankas bendahara untuk menutup kekurangan konsumsi pada kegiatan berikutnya, sehingga tidak ada yang memakainya untuk kepentingan pribadi.",
+        "score": 3,
+        "rationale": "Tidak untuk pribadi, tetapi tidak sesuai mekanisme keuangan negara."
+      },
+      {
+        "key": "C",
+        "text": "Memakai sisa uang untuk makan bersama panitia sebagai apresiasi atas kerja keras.",
+        "score": 2,
+        "rationale": "Tetap menyalahgunakan dana negara meskipun dinikmati bersama."
+      },
+      {
+        "key": "D",
+        "text": "Menyetorkan sisa uang ke kas negara, membuat pertanggungjawaban sesuai peserta riil, dan menjelaskan aturannya kepada panitia.",
+        "score": 5,
+        "rationale": "Tertib keuangan, jujur, dan mengedukasi rekan."
+      },
+      {
+        "key": "E",
+        "text": "Menyetorkan sisa uang ke kas negara sesuai ketentuan.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa penjelasan kepada panitia."
+      }
+    ],
+    "explanation": "Sisa dana kegiatan dikembalikan ke kas negara dan dipertanggungjawabkan sesuai fakta (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0071",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Atasan menunjuk Anda sebagai koordinator penyusunan dokumen Zona Integritas di unit Anda. Tugas tambahan itu menyita banyak waktu, padahal pekerjaan pokok Anda juga sedang padat. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menerima, tetapi menunggu arahan rinci dari atasan sebelum mulai bekerja.",
+        "score": 3,
+        "rationale": "Pasif menunggu."
+      },
+      {
+        "key": "B",
+        "text": "Menerima, memetakan kebutuhan dokumen dan membaginya kepada tim, menyepakati jadwal dengan atasan, lalu melaporkan kemajuan secara berkala.",
+        "score": 5,
+        "rationale": "Menerima tanggung jawab dan mengelolanya secara terencana dan kolaboratif."
+      },
+      {
+        "key": "C",
+        "text": "Meminta atasan menunjuk orang lain karena tugas pokok Anda sudah banyak.",
+        "score": 2,
+        "rationale": "Menghindari tugas tambahan yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Menerima dan mengerjakan seluruh dokumen itu sendiri di sela tugas pokok, termasuk lembur pada akhir pekan, agar rekan-rekan lain tidak ikut terbebani tugas tambahan.",
+        "score": 4,
+        "rationale": "Bertanggung jawab, tetapi tanpa perencanaan dan pembagian kerja sehingga berisiko tidak tuntas."
+      },
+      {
+        "key": "E",
+        "text": "Menerima, lalu menyusun dokumen bukti dengan menyalin dokumen unit lain agar cepat selesai.",
+        "score": 1,
+        "rationale": "Membuat bukti yang tidak benar."
+      }
+    ],
+    "explanation": "Tugas tambahan yang sah diterima dan dikelola dengan perencanaan, kolaborasi, dan pelaporan berkala (Akuntabel, Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0072",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda guru dan wali kelas di SMA negeri. Orang tua seorang siswa, yang juga pejabat di daerah, meminta Anda menaikkan nilai anaknya agar memenuhi syarat jalur prestasi masuk perguruan tinggi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan, menjelaskan bahwa nilai berasal dari penilaian yang terdokumentasi, dan menawarkan pendampingan belajar yang berlaku untuk semua siswa.",
+        "score": 5,
+        "rationale": "Adil, santun, dan memberi bantuan yang sah."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan dan menjelaskan dasar penilaian.",
+        "score": 4,
+        "rationale": "Benar, tetapi tanpa bantuan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Menaikkan nilai sedikit karena perubahannya kecil dan orang tua siswa adalah pejabat yang berpengaruh.",
+        "score": 1,
+        "rationale": "Memanipulasi nilai karena tekanan jabatan."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan orang tua membicarakannya dengan kepala sekolah.",
+        "score": 3,
+        "rationale": "Melempar keputusan yang sudah jelas aturannya."
+      },
+      {
+        "key": "E",
+        "text": "Memberikan tugas tambahan khusus kepada anak itu saja, sehingga ada dasar tertulis untuk menaikkan nilainya tanpa mengubah hasil ulangan yang sudah tercatat di daftar nilai.",
+        "score": 2,
+        "rationale": "Perlakuan istimewa yang tidak adil bagi siswa lain."
+      }
+    ],
+    "explanation": "Penilaian harus objektif dan sama bagi semua siswa, tanpa memandang jabatan orang tua (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0073",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas verifikasi data penerima bantuan sosial. Atasan meminta daftar penerima diserahkan besok agar penyaluran dapat dimulai sesuai jadwal kementerian. Verifikasi lapangan baru selesai 70 persen, dan Anda menemukan beberapa penerima yang sudah meninggal atau pindah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyerahkan seluruh daftar dengan menyatakan semua data sudah diverifikasi.",
+        "score": 1,
+        "rationale": "Memberikan keterangan palsu."
+      },
+      {
+        "key": "B",
+        "text": "Menyerahkan tepat waktu daftar yang sudah terverifikasi, menandai data yang belum diverifikasi beserta temuan ketidaksesuaian, melaporkannya kepada atasan, dan menyusun jadwal penyelesaian verifikasi sisanya.",
+        "score": 5,
+        "rationale": "Memenuhi tenggat tanpa mengorbankan ketepatan sasaran dan transparan tentang keterbatasan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada atasan kondisi verifikasi dan temuan ketidaksesuaian, lalu meminta keputusan.",
+        "score": 4,
+        "rationale": "Jujur, tetapi belum menawarkan bentuk penyerahan yang memenuhi tenggat."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan seluruh daftar lama tanpa catatan agar penyaluran tidak terlambat.",
+        "score": 2,
+        "rationale": "Mengorbankan ketepatan sasaran dan tidak transparan."
+      },
+      {
+        "key": "E",
+        "text": "Meminta perpanjangan waktu sampai verifikasi selesai 100 persen.",
+        "score": 3,
+        "rationale": "Mengutamakan kelengkapan, tetapi tidak berupaya memenuhi jadwal."
+      }
+    ],
+    "explanation": "Tenggat dan ketepatan sasaran dipenuhi bersamaan dengan transparansi tentang data yang belum siap (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0074",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda petugas pendaftaran pasien di rumah sakit daerah. Anda mendengar rekan satu loket menawarkan \"jalur cepat\" mendapatkan kamar rawat inap kepada keluarga pasien dengan imbalan uang di luar tarif resmi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan, dan sesekali mengarahkan keluarga pasien yang sangat mendesak kepada rekan tersebut, karena mereka sendiri yang ingin cepat dan rekan itu memang bisa membantu.",
+        "score": 1,
+        "rationale": "Ikut terlibat dalam pungutan liar."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan kejadian itu kepada atasan dengan keterangan yang objektif.",
+        "score": 4,
+        "rationale": "Tepat karena menyangkut integritas, tetapi warga yang dirugikan tidak dibantu."
+      },
+      {
+        "key": "C",
+        "text": "Menegur rekan langsung bahwa itu pungutan liar, memberi keluarga pasien informasi prosedur resmi, dan melaporkannya kepada atasan.",
+        "score": 5,
+        "rationale": "Melindungi warga, menegur, dan menempuh jalur resmi atas pelanggaran integritas."
+      },
+      {
+        "key": "D",
+        "text": "Pura-pura tidak mendengar karena takut dikucilkan rekan.",
+        "score": 2,
+        "rationale": "Membiarkan pungutan liar."
+      },
+      {
+        "key": "E",
+        "text": "Memberi tahu keluarga pasien bahwa tidak ada jalur cepat, tanpa membahasnya dengan rekan atau atasan.",
+        "score": 3,
+        "rationale": "Melindungi warga, tetapi pelanggaran tidak ditangani."
+      }
+    ],
+    "explanation": "Pungutan liar adalah pelanggaran integritas yang patut dilaporkan melalui jalur resmi, disertai perlindungan bagi warga yang dirugikan (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-profesionalisme-profesionalisme-0075",
+    "subtest": "TKP",
+    "group": "profesionalisme",
+    "tag": "profesionalisme",
+    "stem": "Anda staf pengelola dana hibah. Karena Anda salah memasukkan nomor rekening, dana hibah untuk satu lembaga terkirim ke rekening orang lain. Atasan, yang khawatir nama unit tercoreng, meminta Anda menyelesaikannya diam-diam tanpa melibatkan bagian keuangan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menghubungi pemilik rekening secara pribadi untuk meminta pengembalian dana tanpa pencatatan resmi.",
+        "score": 2,
+        "rationale": "Menyelesaikan di luar prosedur dan berisiko dana tidak kembali."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan kesalahan itu kepada bagian keuangan agar diproses sesuai prosedur.",
+        "score": 4,
+        "rationale": "Jujur dan prosedural, tetapi melangkahi atasan tanpa penjelasan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan kepada atasan bahwa penarikan dana salah transfer harus melalui prosedur resmi bersama bagian keuangan dan bank, mengakui kesalahan dalam kronologi tertulis, lalu mengusulkan verifikasi rekening berlapis.",
+        "score": 5,
+        "rationale": "Jujur, menghormati atasan dengan menjelaskan risikonya, dan memperbaiki sistem."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu atasan menentukan langkah selanjutnya karena beliau yang menandatangani perintah pembayaran.",
+        "score": 3,
+        "rationale": "Menunda dan menggantungkan penyelesaian pada orang lain."
+      },
+      {
+        "key": "E",
+        "text": "Membayar lembaga yang berhak memakai dana kegiatan lain, lalu menyesuaikan catatannya.",
+        "score": 1,
+        "rationale": "Menutupi kesalahan dengan menyalahgunakan anggaran."
+      }
+    ],
+    "explanation": "Kesalahan yang menyangkut keuangan negara diakui dan diselesaikan melalui prosedur resmi, meskipun atasan menginginkan penyelesaian diam-diam (Akuntabel, Loyal dalam arti menjaga instansi dari risiko yang lebih besar).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

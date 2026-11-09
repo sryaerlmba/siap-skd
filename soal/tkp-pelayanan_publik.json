@@ -1,0 +1,3302 @@
+[
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0001",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket layanan kependudukan. Seorang warga sudah membaca papan persyaratan pindah domisili, tetapi tetap bingung dokumen mana yang harus dibawa karena istilahnya asing baginya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa semua syarat sudah tertulis jelas sehingga warga cukup membacanya dengan lebih teliti.",
+        "score": 1,
+        "rationale": "Menyalahkan warga dan tidak memberi bantuan apa pun."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan arti setiap istilah di papan persyaratan dengan bahasa yang lebih sederhana.",
+        "score": 4,
+        "rationale": "Membantu warga memahami syarat, tetapi belum memastikan kelengkapan dokumen yang ia bawa."
+      },
+      {
+        "key": "C",
+        "text": "Memeriksa dokumen yang ia bawa, menjelaskan syarat yang belum terpenuhi dengan bahasa sederhana, dan menuliskan daftar kekurangannya.",
+        "score": 5,
+        "rationale": "Menjelaskan sesuai kebutuhan warga dan mencegah warga bolak-balik karena kekurangan berkas."
+      },
+      {
+        "key": "D",
+        "text": "Memberikan brosur persyaratan yang lebih rinci, lalu mempersilakan warga membacanya dengan tenang di ruang tunggu dan kembali ke loket bila masih ada yang belum dipahami.",
+        "score": 3,
+        "rationale": "Informasi diberikan, tetapi kebingungan warga belum terjawab saat itu."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga bertanya kepada satpam atau warga lain yang pernah mengurus pindah domisili.",
+        "score": 2,
+        "rationale": "Melempar tugas memberi informasi kepada pihak yang tidak berwenang."
+      }
+    ],
+    "explanation": "Aspek pelayanan publik menilai kemampuan memberi informasi yang lengkap, benar, dan mudah dipahami. Sesuai nilai Berorientasi Pelayanan dan asas kemudahan dalam UU 25/2009, petugas memastikan warga paham, bukan sekadar menunjuk papan informasi.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0002",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf front office kantor kecamatan. Seorang warga pengguna kursi roda datang untuk mengurus surat keterangan, padahal ruang layanan seksi terkait berada di lantai dua dan gedung tidak memiliki lift. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempersilakan warga menunggu di lantai satu, meminta petugas seksi terkait turun melayaninya, dan mengusulkan perbaikan aksesibilitas kepada atasan.",
+        "score": 5,
+        "rationale": "Memberi perlakuan khusus bagi kelompok rentan sekaligus mendorong perbaikan fasilitas."
+      },
+      {
+        "key": "B",
+        "text": "Menghubungi petugas seksi terkait dan memintanya turun untuk melayani warga di lantai satu.",
+        "score": 4,
+        "rationale": "Kebutuhan warga terpenuhi, tetapi kendala aksesibilitas tidak ditindaklanjuti."
+      },
+      {
+        "key": "C",
+        "text": "Menawarkan diri membawakan berkas ke lantai dua, menyerahkannya langsung kepada petugas seksi, lalu meminta warga menunggu kabar di ruang tunggu lantai satu.",
+        "score": 3,
+        "rationale": "Membantu, tetapi warga tidak dapat berkonsultasi langsung dengan petugas yang menangani berkasnya."
+      },
+      {
+        "key": "D",
+        "text": "Meminta warga datang kembali bersama keluarga yang dapat membantunya naik ke lantai dua.",
+        "score": 2,
+        "rationale": "Membebani warga dan menunda layanan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa layanan seksi itu hanya dapat diberikan di lantai dua sehingga warga perlu mencari cara untuk naik.",
+        "score": 1,
+        "rationale": "Mengabaikan hak kelompok rentan atas perlakuan khusus."
+      }
+    ],
+    "explanation": "UU 25/2009 menempatkan fasilitas dan perlakuan khusus bagi kelompok rentan sebagai asas pelayanan. Skor tertinggi memenuhi kebutuhan warga saat itu sekaligus mendorong perbaikan fasilitas agar kejadian serupa tidak terulang (Berorientasi Pelayanan, Adaptif).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0003",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket di UPT pajak kendaraan bermotor. Seorang warga datang untuk ketiga kalinya dan marah karena setiap kali datang ia diberi tahu syarat yang berbeda oleh petugas yang berbeda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta maaf, menuntaskan pemeriksaan seluruh berkasnya hari itu, lalu meminta koordinator menyeragamkan informasi syarat antarpetugas.",
+        "score": 5,
+        "rationale": "Menuntaskan masalah warga sekaligus memperbaiki akar masalah informasi yang tidak seragam."
+      },
+      {
+        "key": "B",
+        "text": "Mencatat keluhan warga di buku pengaduan, menjelaskan bahwa keluhan itu akan dievaluasi pimpinan, lalu memproses berkasnya seperti biasa sesuai nomor antrean.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi tidak menjawab penyebab warga bolak-balik."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan bahwa petugas sebelumnya mungkin keliru dan Anda tidak bertanggung jawab atas informasi mereka.",
+        "score": 2,
+        "rationale": "Melempar kesalahan kepada rekan dan tidak menyelesaikan masalah."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan bahwa warga seharusnya mencatat syarat dengan benar sejak kedatangan pertama.",
+        "score": 1,
+        "rationale": "Menyalahkan warga atas kesalahan informasi dari instansi."
+      },
+      {
+        "key": "E",
+        "text": "Meminta maaf, memeriksa seluruh berkasnya dengan teliti, dan memberikan daftar syarat tertulis yang lengkap.",
+        "score": 4,
+        "rationale": "Menyelesaikan masalah warga, tetapi penyebab informasi yang berbeda belum ditangani."
+      }
+    ],
+    "explanation": "Pelayanan publik menilai ketenangan saat dikomplain dan kemampuan menuntaskan masalah. Petugas tidak membela diri atau menyalahkan pihak lain, tetapi menyelesaikan kebutuhan warga dan menutup celah penyebabnya (asas kepastian hukum dan ketepatan waktu, nilai Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0004",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu. Tetangga Anda meminta izin usahanya 'dibantu lewat dalam' agar cepat terbit dan menjanjikan imbalan sebagai tanda terima kasih. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa semua permohonan diproses sesuai urutan dan standar waktu.",
+        "score": 4,
+        "rationale": "Berintegritas, tetapi belum memberi jalan keluar yang membantu."
+      },
+      {
+        "key": "B",
+        "text": "Membantu mempercepat berkasnya karena syaratnya sudah lengkap dan imbalannya hanya ucapan terima kasih.",
+        "score": 1,
+        "rationale": "Menerima gratifikasi dan memberi perlakuan istimewa yang melanggar asas persamaan perlakuan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak imbalannya, tetapi bersedia menanyakan perkembangan berkas itu kepada rekan di bagian pemrosesan dan mengingatkan agar berkas tetangga Anda tidak terselip di antara berkas lain.",
+        "score": 2,
+        "rationale": "Tampak tidak menerima apa pun, tetapi tetap memakai kedekatan untuk perlakuan khusus."
+      },
+      {
+        "key": "D",
+        "text": "Menolak imbalan dengan sopan, menjelaskan bahwa semua permohonan diproses sesuai standar, lalu menunjukkan cara memantau status permohonannya secara daring.",
+        "score": 5,
+        "rationale": "Menjaga integritas dan kesamaan perlakuan sambil tetap memberi bantuan yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan tetangga langsung bertanya kepada petugas loket tanpa menanggapi tawarannya.",
+        "score": 3,
+        "rationale": "Menghindari pelanggaran, tetapi tidak tegas dan kurang membantu."
+      }
+    ],
+    "explanation": "Soal menguji sikap adil tanpa 'orang dalam' dan penghindaran benturan kepentingan (UU 25/2009 Pasal 34). Nilai Akuntabel menuntut petugas tidak menyalahgunakan kewenangan, sedangkan Berorientasi Pelayanan diwujudkan dengan memberi bantuan lewat jalur resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0005",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket pencatatan sipil. Pukul 15.10, sepuluh menit setelah layanan ditutup, seorang warga datang dengan berkas lengkap untuk akta kematian ayahnya. Ia memerlukan akta itu untuk klaim asuransi yang tenggatnya besok siang, sementara rekan-rekan sudah mulai menutup sistem. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa kelengkapan berkas dan meminta persetujuan atasan untuk layanan mendesak sesuai ketentuan; bila tidak dimungkinkan, memberi tanda terima dan jadwal layanan pertama besok pagi.",
+        "score": 5,
+        "rationale": "Tetap berpegang pada prosedur sambil mengupayakan jalan yang sah agar kebutuhan mendesak warga terpenuhi."
+      },
+      {
+        "key": "B",
+        "text": "Menyalakan kembali sistem dan memproses akta itu tanpa sepengetahuan atasan karena kasihan.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur demi rasa iba dan tidak dapat dipertanggungjawabkan."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan bahwa layanan sudah tutup dan warga dapat kembali besok sesuai jam layanan.",
+        "score": 2,
+        "rationale": "Sesuai jam layanan, tetapi mengabaikan kebutuhan mendesak warga."
+      },
+      {
+        "key": "D",
+        "text": "Memeriksa kelengkapan berkas hari ini juga, memberi nomor antrean pertama untuk besok pagi, dan mencatat nomor telepon warga agar dapat dihubungi bila ada kekurangan sebelum loket dibuka.",
+        "score": 4,
+        "rationale": "Sesuai jam layanan dan cukup solutif, tetapi belum mengupayakan mekanisme layanan mendesak."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan warga meminta perpanjangan tenggat kepada perusahaan asuransi dengan menunjukkan bukti bahwa akta sedang diurus.",
+        "score": 3,
+        "rationale": "Memberi saran, tetapi menyerahkan penyelesaian kepada pihak lain."
+      }
+    ],
+    "explanation": "Dilema antara ketertiban jam layanan dan kebutuhan mendesak warga. Skor tertinggi tidak melanggar prosedur, tetapi juga tidak berhenti pada 'sudah tutup': petugas mencari jalan yang sah melalui atasan atau penjadwalan agar asas ketepatan waktu dan nilai Berorientasi Pelayanan tetap terpenuhi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0006",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pengelola layanan informasi daring kantor kelurahan. Seorang warga mengunggah foto KTP dan kartu keluarganya di kolom komentar akun Instagram resmi kelurahan sambil menanyakan mengapa permohonannya belum diproses. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas di kolom komentar dengan menyebutkan nomor berkas, status, dan kekurangan dokumen warga tersebut.",
+        "score": 1,
+        "rationale": "Tampak responsif, tetapi ikut membuka data pribadi warga di ruang publik."
+      },
+      {
+        "key": "B",
+        "text": "Menyembunyikan komentar itu sesuai pedoman akun, lalu menghubungi warga lewat pesan langsung untuk menjelaskan risikonya dan menjawab status permohonannya.",
+        "score": 5,
+        "rationale": "Melindungi data pribadi warga sekaligus menjawab pertanyaannya."
+      },
+      {
+        "key": "C",
+        "text": "Membalas di kolom komentar agar warga datang langsung ke kantor kelurahan untuk menanyakan statusnya.",
+        "score": 2,
+        "rationale": "Membalas, tetapi data pribadi tetap terbuka dan warga dibebani."
+      },
+      {
+        "key": "D",
+        "text": "Menghubungi warga lewat pesan langsung, menjawab pertanyaannya tentang status permohonan, dan menyarankan agar ia segera menghapus sendiri komentar yang memuat foto dokumennya.",
+        "score": 4,
+        "rationale": "Responsif, tetapi data pribadi tetap terbuka sampai warga menghapusnya sendiri."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus komentar itu karena memuat data pribadi, lalu menunggu warga menghubungi lewat kanal resmi.",
+        "score": 3,
+        "rationale": "Data terlindungi, tetapi pertanyaan warga dibiarkan tanpa jawaban."
+      }
+    ],
+    "explanation": "Pelayanan daring tetap terikat kewajiban tidak membocorkan informasi yang wajib dirahasiakan (UU 25/2009 Pasal 34) dan UU 27/2022 tentang Pelindungan Data Pribadi. Skor tertinggi melindungi data sekaligus menjawab kebutuhan warga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0007",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perekaman KTP-el. Jaringan ke server pusat terputus sejak pukul 09.00, sementara 40 warga sudah mengambil nomor antrean. Tim TI memperkirakan perbaikan memakan waktu sekitar dua jam. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menutup loket sementara tanpa pengumuman sampai jaringan pulih.",
+        "score": 2,
+        "rationale": "Warga dibiarkan menunggu dalam ketidakpastian."
+      },
+      {
+        "key": "B",
+        "text": "Mengumumkan gangguan beserta perkiraan waktu perbaikan dari tim TI, lalu meminta warga menunggu dengan sabar di ruang tunggu sampai jaringan pulih.",
+        "score": 4,
+        "rationale": "Transparan, tetapi belum ada upaya agar layanan tetap berjalan."
+      },
+      {
+        "key": "C",
+        "text": "Mengumumkan gangguan dan perkiraan waktunya, tetap memeriksa berkas warga, dan menawarkan jadwal ulang bagi yang tidak dapat menunggu.",
+        "score": 5,
+        "rationale": "Transparan, layanan tetap berjalan sebisa mungkin, dan warga diberi pilihan."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu arahan atasan sebelum menyampaikan apa pun kepada warga agar informasi yang keluar tidak simpang siur.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi warga dibiarkan tanpa informasi."
+      },
+      {
+        "key": "E",
+        "text": "Menjanjikan kepada warga bahwa semua KTP-el pasti selesai hari ini agar mereka tidak protes.",
+        "score": 1,
+        "rationale": "Memberi informasi yang belum pasti demi meredam keluhan."
+      }
+    ],
+    "explanation": "Asas keterbukaan dan ketepatan waktu menuntut petugas jujur tentang gangguan dan tetap mencari cara agar layanan berjalan. Nilai Adaptif dan Berorientasi Pelayanan tampak pada kesiapan menjalankan langkah alternatif, bukan sekadar menunggu sistem pulih.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0008",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pendaftaran di puskesmas. Seorang pasien peserta jaminan kesehatan nasional lupa membawa kartunya, padahal kepesertaan dapat dicek melalui NIK pada sistem. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta pasien pulang mengambil kartunya terlebih dahulu.",
+        "score": 2,
+        "rationale": "Mempersulit warga padahal sistem menyediakan cara lain."
+      },
+      {
+        "key": "B",
+        "text": "Mengecek kepesertaan melalui NIK dan melayaninya seperti biasa bila statusnya aktif.",
+        "score": 4,
+        "rationale": "Solutif dan sesuai prosedur, tanpa pencegahan untuk kunjungan berikutnya."
+      },
+      {
+        "key": "C",
+        "text": "Mendaftarkannya sebagai pasien umum berbayar tanpa menawarkan pengecekan melalui NIK.",
+        "score": 1,
+        "rationale": "Merugikan hak warga dan tidak memberi informasi yang benar."
+      },
+      {
+        "key": "D",
+        "text": "Meminta pasien menghubungi keluarganya agar mengirim foto kartu, lalu mendaftarkannya begitu foto itu diterima supaya data yang dicatat sesuai dengan kartu.",
+        "score": 3,
+        "rationale": "Masih membantu, tetapi menunda layanan padahal ada cara pengecekan yang lebih cepat."
+      },
+      {
+        "key": "E",
+        "text": "Mengecek kepesertaan melalui NIK, melayaninya bila statusnya aktif, dan memberi tahu cara memakai kartu digital untuk kunjungan berikutnya.",
+        "score": 5,
+        "rationale": "Memanfaatkan prosedur yang ada, melayani, dan mencegah kendala berulang."
+      }
+    ],
+    "explanation": "Prinsip tidak mempersulit dan memberi informasi yang benar (UU 25/2009 Pasal 34). Petugas yang Berorientasi Pelayanan memakai prosedur yang tersedia untuk memudahkan warga dan membantu agar kendala serupa tidak terulang.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0009",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan kantor kelurahan. Seorang warga lanjut usia yang tidak dapat membaca dan menulis datang sendirian untuk mengurus surat keterangan ahli waris dan harus mengisi formulir permohonan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengisi formulir berdasarkan perkiraan Anda agar cepat, lalu meminta warga langsung membubuhkan cap jempol.",
+        "score": 1,
+        "rationale": "Mengabaikan kecermatan dan berisiko merugikan hak warga."
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga lain di ruang tunggu membantu mengisikan formulirnya.",
+        "score": 2,
+        "rationale": "Melempar tugas dan berisiko membuka data pribadi warga kepada orang lain."
+      },
+      {
+        "key": "C",
+        "text": "Mengisikan formulir sesuai keterangannya, membacakan ulang untuk dikonfirmasi, lalu meminta cap jempol sesuai ketentuan dengan disaksikan rekan petugas.",
+        "score": 5,
+        "rationale": "Membantu sesuai kebutuhan sambil menjaga keabsahan dan akuntabilitas dokumen."
+      },
+      {
+        "key": "D",
+        "text": "Membacakan isi formulir dan mengisikannya sesuai keterangan warga.",
+        "score": 4,
+        "rationale": "Membantu, tetapi belum memastikan kebenaran isi dan keabsahan dokumen."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga datang kembali bersama anggota keluarga yang dapat membaca, agar isian formulir dapat diperiksa bersama dan tidak ada data yang keliru.",
+        "score": 3,
+        "rationale": "Masuk akal, tetapi menunda layanan dan membebani warga lansia."
+      }
+    ],
+    "explanation": "Kesamaan hak dan perlakuan khusus bagi kelompok rentan (UU 25/2009) berarti warga yang tidak dapat membaca dan menulis tetap berhak dilayani penuh. Skor tertinggi menggabungkan empati dengan kecermatan sehingga dokumen tetap sah (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0010",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator pelayanan di kantor kecamatan. Sebuah unggahan yang mulai viral di media sosial menyebut seorang petugas loket Anda bersikap judes dan membentak warga lansia, lengkap dengan foto petugas tersebut. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa fakta dari petugas dan saksi, menanggapi lewat akun resmi instansi, menghubungi warga tersebut, dan membina petugas bila keluhan terbukti.",
+        "score": 5,
+        "rationale": "Objektif, melalui kanal resmi, dan menuntaskan masalah sampai pembinaan."
+      },
+      {
+        "key": "B",
+        "text": "Memanggil petugas tersebut, meminta penjelasannya, dan menegurnya bila keluhan terbukti.",
+        "score": 4,
+        "rationale": "Menindaklanjuti di internal, tetapi warga dan publik belum mendapat tanggapan."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan unggahan itu kepada camat beserta tangkapan layar dan daftar petugas yang bertugas hari itu, lalu menunggu arahan sebelum mengambil langkah apa pun.",
+        "score": 3,
+        "rationale": "Melibatkan pimpinan, tetapi hal yang masih dalam wewenang Anda belum disentuh."
+      },
+      {
+        "key": "D",
+        "text": "Mendiamkan unggahan itu karena isu viral biasanya cepat reda.",
+        "score": 2,
+        "rationale": "Pasif dan membiarkan keluhan tanpa tindak lanjut."
+      },
+      {
+        "key": "E",
+        "text": "Membalas unggahan itu dari akun pribadi dan menyatakan bahwa warga tersebut juga bersikap tidak sopan.",
+        "score": 1,
+        "rationale": "Emosional, defensif, dan memperburuk citra instansi."
+      }
+    ],
+    "explanation": "Keluhan publik ditangani secara objektif, lewat kanal resmi, dan sampai tuntas (asas akuntabilitas dan keterbukaan). Nilai Berorientasi Pelayanan mencakup perbaikan tiada henti, sehingga koordinator tidak berhenti pada meredam isu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0011",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perizinan. Atasan meminta berkas milik kerabat seorang pejabat daerah diproses lebih dulu dan diserahkan hari ini, padahal ada belasan berkas lain yang masuk lebih awal dengan standar waktu yang sama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta atasan menuangkan perintah itu secara tertulis sebelum Anda melaksanakannya.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi tidak menolak perlakuan istimewa."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa semua berkas diproses sesuai urutan masuk.",
+        "score": 4,
+        "rationale": "Adil, tetapi tidak menawarkan jalan keluar."
+      },
+      {
+        "key": "C",
+        "text": "Memproses berkas itu lebih dulu sambil lembur mempercepat berkas-berkas lain yang masuk lebih awal, sehingga semua pemohon tetap menerima izinnya sebelum batas standar waktu.",
+        "score": 2,
+        "rationale": "Berniat baik, tetapi tetap memberi keistimewaan dan menyimpang dari urutan."
+      },
+      {
+        "key": "D",
+        "text": "Mendahulukan berkas itu karena perintah atasan wajib dipatuhi.",
+        "score": 1,
+        "rationale": "Mematuhi perintah yang tidak sah dan bersifat diskriminatif."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan kepada atasan secara empat mata bahwa permintaan itu melanggar asas persamaan perlakuan, lalu menawarkan memastikan berkasnya lengkap agar selesai sesuai standar waktu.",
+        "score": 5,
+        "rationale": "Santun kepada atasan, adil kepada semua pemohon, dan memberi jalan keluar yang sah."
+      }
+    ],
+    "explanation": "Dilema antara patuh kepada atasan dan adil kepada semua warga. UU 25/2009 Pasal 34 mewajibkan patuh pada perintah atasan yang sah dan wajar, sedangkan perlakuan istimewa melanggar asas persamaan perlakuan. Skor tertinggi menolak dengan santun dan menawarkan jalan yang sah (Akuntabel, Loyal dalam menjaga nama baik pimpinan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0012",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas informasi di rumah sakit umum daerah. Keluarga pasien dari desa tampak kebingungan karena dokter meminta pasien dirawat inap, tetapi mereka tidak tahu harus mengurus apa dan ke mana. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan alur pendaftaran rawat inap secara lisan dan menunjukkan letak loket admisi.",
+        "score": 4,
+        "rationale": "Informatif, tetapi belum memastikan keluarga pasien benar-benar paham."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan alur rawat inap langkah demi langkah, menuliskan urutannya, lalu mengantar mereka ke loket admisi.",
+        "score": 5,
+        "rationale": "Informasi lengkap dan mudah dipahami, dan warga dipastikan sampai ke tempat yang tepat."
+      },
+      {
+        "key": "C",
+        "text": "Memberikan brosur alur pelayanan rumah sakit yang memuat denah, daftar dokumen, dan nomor telepon setiap loket agar keluarga pasien dapat mengurusnya sendiri.",
+        "score": 3,
+        "rationale": "Informasi tersedia, tetapi kurang sesuai bagi warga yang sedang kebingungan."
+      },
+      {
+        "key": "D",
+        "text": "Meminta mereka bertanya kepada perawat di ruang dokter tadi.",
+        "score": 2,
+        "rationale": "Melempar pertanyaan ke pihak lain padahal itu tugas Anda."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa Anda sedang sibuk dan mereka dapat mengikuti petunjuk arah di dinding.",
+        "score": 1,
+        "rationale": "Mengabaikan warga yang membutuhkan informasi."
+      }
+    ],
+    "explanation": "Petugas informasi dinilai dari ketepatan dan kelengkapan informasi serta kepedulian memastikan warga paham langkah berikutnya (Berorientasi Pelayanan, asas kemudahan dan keterjangkauan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0013",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pelayanan persetujuan bangunan gedung. Seorang warga yang sedang bersengketa dengan tetangganya meminta salinan lengkap berkas permohonan milik tetangga itu, termasuk fotokopi KTP dan sertifikat tanahnya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengizinkan warga melihat berkas itu di meja Anda tanpa membawa salinannya.",
+        "score": 2,
+        "rationale": "Tampak seperti kompromi, tetapi tetap membuka data pribadi orang lain."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan karena berkas itu memuat data pribadi, lalu mengarahkan warga ke PPID atau jalur hukum yang berlaku.",
+        "score": 5,
+        "rationale": "Melindungi data pribadi sekaligus memberi jalan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa berkas itu memuat data pribadi pemohon.",
+        "score": 4,
+        "rationale": "Benar, tetapi warga tidak diberi jalan keluar."
+      },
+      {
+        "key": "D",
+        "text": "Memberikan salinan berkas karena warga menyatakan akan memakainya untuk proses hukum.",
+        "score": 1,
+        "rationale": "Membocorkan data pribadi tanpa dasar yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa permintaan semacam ini perlu dikonsultasikan dahulu dengan atasan dan bagian hukum, lalu meminta warga datang lagi minggu depan untuk mendengar keputusannya.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi menunda padahal ketentuannya sudah jelas."
+      }
+    ],
+    "explanation": "Keterbukaan informasi tetap dibatasi oleh kewajiban melindungi data pribadi (UU 25/2009 Pasal 34, UU 27/2022). Skor tertinggi menolak dengan santun sambil menunjukkan jalur resmi, sesuai nilai Akuntabel dan Berorientasi Pelayanan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0014",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas layanan keliling Disdukcapil di sebuah desa terpencil. Sinyal internet di lokasi tidak ada sehingga data perekaman tidak bisa langsung dikirim ke server, sementara warga sudah berkumpul sejak pagi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melakukan perekaman secara luring dan mengirimkan datanya setelah kembali ke kantor.",
+        "score": 4,
+        "rationale": "Layanan berjalan, tetapi warga tidak mendapat tanda terima dan kepastian waktu."
+      },
+      {
+        "key": "B",
+        "text": "Menunda layanan dan meminta warga datang ke kantor kecamatan yang memiliki sinyal.",
+        "score": 2,
+        "rationale": "Membebani warga yang justru dilayani karena sulit menjangkau kantor."
+      },
+      {
+        "key": "C",
+        "text": "Merekam data memakai mode luring perangkat dinas, mengirimnya begitu ada sinyal, dan memberi warga tanda terima beserta perkiraan waktu dokumen jadi.",
+        "score": 5,
+        "rationale": "Adaptif, layanan tetap berjalan, dan warga mendapat kepastian."
+      },
+      {
+        "key": "D",
+        "text": "Mengumpulkan fotokopi berkas seluruh warga yang hadir, mencatat nomor telepon mereka, dan menjanjikan petugas akan datang lagi untuk perekaman setelah ada perangkat yang lebih memadai.",
+        "score": 3,
+        "rationale": "Masih ada tindak lanjut, tetapi kehadiran warga hari itu tidak dimanfaatkan."
+      },
+      {
+        "key": "E",
+        "text": "Menyalin data warga ke perangkat pribadi lalu mengirimkannya lewat aplikasi pesan pribadi dari warnet terdekat.",
+        "score": 1,
+        "rationale": "Cepat, tetapi melanggar keamanan data pribadi warga."
+      }
+    ],
+    "explanation": "Layanan di daerah terpencil menguji nilai Adaptif dan asas keterjangkauan. Kendala teknis diatasi dengan cara yang tetap sesuai prosedur dan aman bagi data warga, bukan dengan memindahkan beban kepada warga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0015",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Menjelang penilaian unit, atasan meminta semua petugas mengarahkan warga agar mengisi survei kepuasan dengan nilai 'sangat puas' sebelum meninggalkan loket. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkan warga mengisi survei secara bebas, lalu menyampaikan keberatan kepada atasan dengan santun sambil mengusulkan pembenahan atas keluhan yang paling sering muncul.",
+        "score": 5,
+        "rationale": "Jujur, santun kepada atasan, dan menawarkan jalan sah untuk mencapai target."
+      },
+      {
+        "key": "B",
+        "text": "Mempersilakan warga mengisi survei secara bebas tanpa mengarahkan jawabannya.",
+        "score": 4,
+        "rationale": "Jujur, tetapi tidak menyampaikan sikap dan solusi kepada atasan."
+      },
+      {
+        "key": "C",
+        "text": "Hanya menawarkan survei kepada warga yang urusannya selesai dengan lancar, karena merekalah yang paling memahami kualitas layanan dari awal sampai akhir.",
+        "score": 3,
+        "rationale": "Tidak memaksa, tetapi memilih responden sehingga hasilnya bias."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan arahan atasan kepada warga sambil menambahkan bahwa mereka tetap bebas memilih.",
+        "score": 2,
+        "rationale": "Tetap memberi tekanan halus yang memengaruhi jawaban warga."
+      },
+      {
+        "key": "E",
+        "text": "Mengisi sendiri survei atas nama warga yang terburu-buru pulang dengan nilai 'sangat puas'.",
+        "score": 1,
+        "rationale": "Memalsukan data dan melanggar integritas."
+      }
+    ],
+    "explanation": "Dilema antara loyalitas pada target unit dan kejujuran data. Survei kepuasan adalah alat perbaikan layanan, sehingga nilai Akuntabel dan Berorientasi Pelayanan (perbaikan tiada henti) menuntut hasil yang jujur, disampaikan kepada atasan dengan santun dan disertai usulan perbaikan nyata.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0016",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket paspor di kantor imigrasi. Seorang pemohon datang sesuai jadwal daring, tetapi lupa membawa akta kelahiran asli yang wajib diperlihatkan saat verifikasi. Ia hanya membawa fotokopinya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan bahwa akta asli wajib diperlihatkan dan memeriksa kelengkapan dokumen lainnya sekaligus.",
+        "score": 4,
+        "rationale": "Benar dan mencegah kekurangan berulang, tetapi jadwal ulangnya belum dibantu."
+      },
+      {
+        "key": "B",
+        "text": "Meminta pemohon membatalkan jadwal dan mendaftar ulang sendiri melalui aplikasi.",
+        "score": 2,
+        "rationale": "Sesuai prosedur, tetapi tanpa penjelasan dan bantuan."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan pemohon pulang mengambil akta aslinya lalu kembali hari itu juga, karena kuota antrean biasanya masih tersisa sampai siang dan berkasnya mungkin bisa langsung diproses.",
+        "score": 3,
+        "rationale": "Memberi jalan keluar, tetapi berdasarkan kuota yang belum pasti dan tanpa memeriksa dokumen lain."
+      },
+      {
+        "key": "D",
+        "text": "Menerima fotokopi itu dan melanjutkan verifikasi karena pemohon sudah datang jauh-jauh sesuai jadwal.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur verifikasi demi rasa iba."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan bahwa dokumen asli wajib untuk verifikasi, memeriksa dokumen lainnya, lalu membantu menjadwalkan ulang kedatangannya.",
+        "score": 5,
+        "rationale": "Tegas pada syarat, mencegah kekurangan berulang, dan membantu warga melanjutkan permohonannya."
+      }
+    ],
+    "explanation": "Petugas menegakkan syarat yang berlaku (asas kepastian hukum) sambil memudahkan warga menyelesaikan kekurangannya. Berorientasi Pelayanan berarti tidak berhenti pada penolakan, tetapi juga tidak melanggar prosedur demi rasa iba.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0017",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas layanan di kantor Disdukcapil yang baru memakai mesin antrean layar sentuh. Seorang lansia berdiri lama di depan mesin dan tampak tidak tahu cara memakainya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membiarkannya karena warga lain yang mengantre di belakangnya bisa membantu.",
+        "score": 1,
+        "rationale": "Pasif dan mengabaikan warga rentan."
+      },
+      {
+        "key": "B",
+        "text": "Menghampiri dan membantu mengambilkan nomor antrean sesuai layanan yang ia butuhkan.",
+        "score": 4,
+        "rationale": "Membantu, tetapi belum memanfaatkan perlakuan khusus bagi lansia."
+      },
+      {
+        "key": "C",
+        "text": "Meminta satpam membantu lansia itu karena Anda sedang menata berkas.",
+        "score": 2,
+        "rationale": "Melempar tugas pelayanan kepada pihak lain."
+      },
+      {
+        "key": "D",
+        "text": "Menghampiri, membantu mengambilkan nomor antrean sesuai layanannya, dan menunjukkan kursi prioritas lansia.",
+        "score": 5,
+        "rationale": "Proaktif membantu dan memanfaatkan perlakuan khusus bagi kelompok rentan."
+      },
+      {
+        "key": "E",
+        "text": "Menempelkan panduan bergambar di samping mesin, lalu menunggu sejenak apakah lansia itu dapat memakainya sendiri agar ia terbiasa pada kunjungan berikutnya.",
+        "score": 3,
+        "rationale": "Ada niat mengedukasi, tetapi lansia dibiarkan kesulitan terlalu lama."
+      }
+    ],
+    "explanation": "Pelaksana pelayanan wajib proaktif (UU 25/2009 Pasal 34) dan memberi perlakuan khusus bagi kelompok rentan. Skor tertinggi membantu saat itu juga dan memanfaatkan fasilitas prioritas yang tersedia (Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0018",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perizinan usaha mikro. Seorang pemohon memaksa berkasnya diproses hari ini padahal surat keterangan domisili usaha belum ada. Ia mengancam akan memviralkan pelayanan Anda bila ditolak. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memanggil koordinator agar ia yang menghadapi pemohon tersebut.",
+        "score": 3,
+        "rationale": "Melempar situasi yang masih dalam wewenang Anda."
+      },
+      {
+        "key": "B",
+        "text": "Memproses berkas itu dan meminta pemohon menyusulkan surat domisili minggu depan agar tidak terjadi keributan.",
+        "score": 1,
+        "rationale": "Melanggar prosedur karena tekanan."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan dengan tenang bahwa surat keterangan domisili usaha merupakan syarat wajib dalam standar pelayanan, sehingga berkas belum dapat diproses sampai dokumen itu dilengkapi, apa pun tanggapan pemohon di media sosial.",
+        "score": 4,
+        "rationale": "Tenang dan tegas pada aturan, tetapi belum membantu pemohon melengkapi kekurangannya."
+      },
+      {
+        "key": "D",
+        "text": "Mempersilakan pemohon memviralkan bila memang merasa dirugikan.",
+        "score": 2,
+        "rationale": "Menantang warga dan memperkeruh situasi."
+      },
+      {
+        "key": "E",
+        "text": "Menanggapi dengan tenang, menunjukkan dasar syarat yang berlaku, dan menjelaskan cara tercepat mengurus surat domisili, termasuk secara daring.",
+        "score": 5,
+        "rationale": "Tenang, tegas pada aturan, dan membantu pemohon menyelesaikan kekurangannya."
+      }
+    ],
+    "explanation": "Tenang saat ditekan dan tidak menyimpang dari prosedur (UU 25/2009 Pasal 34, asas kepastian hukum), tetapi tetap solutif. Nilai Berorientasi Pelayanan tampak dari bantuan agar pemohon cepat melengkapi kekurangannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0019",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas front office Dinas Sosial. Seorang warga bertanya dengan kesal mengapa ia tidak menerima bantuan sosial, padahal tetangganya yang menurutnya mampu justru menerima. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa status datanya di sistem, menjelaskan kriteria penerima bantuan, dan memberitahukan cara mengusulkan diri melalui musyawarah desa atau kelurahan beserta dokumen yang perlu disiapkan.",
+        "score": 4,
+        "rationale": "Informatif dan solutif bagi warga, tetapi laporan tentang penerima yang diduga tidak layak diabaikan."
+      },
+      {
+        "key": "B",
+        "text": "Memeriksa status datanya, menjelaskan kriteria dan cara mengusulkan diri, serta mencatat laporannya tentang penerima yang diduga tidak layak untuk diverifikasi.",
+        "score": 5,
+        "rationale": "Menjawab kebutuhan warga sekaligus menindaklanjuti laporan melalui verifikasi resmi."
+      },
+      {
+        "key": "C",
+        "text": "Memperlihatkan data tetangganya di sistem, termasuk kondisi ekonominya, agar warga melihat sendiri alasannya.",
+        "score": 1,
+        "rationale": "Membuka data pribadi orang lain tanpa dasar yang sah."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa data penerima ditetapkan melalui sistem nasional sehingga dinas tidak dapat mengubahnya.",
+        "score": 3,
+        "rationale": "Ada benarnya, tetapi warga tidak diberi jalan untuk mengusulkan diri atau melapor."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan warga menanyakannya langsung kepada ketua RT yang mengusulkan data.",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab tanpa memeriksa data."
+      }
+    ],
+    "explanation": "Asas keterbukaan, partisipatif, dan akuntabilitas: warga berhak tahu kriteria dan cara mengusulkan diri, sekaligus berhak melapor bila ada penerima yang tidak tepat. Data pribadi orang lain tetap dilindungi (Pasal 34, UU 27/2022).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0020",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pengelola kanal pengaduan SP4N-LAPOR! di Disdukcapil. Masuk sebuah aduan tentang jalan rusak di sebuah desa yang menjadi kewenangan Dinas Pekerjaan Umum. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meneruskan aduan itu kepada instansi berwenang melalui fitur disposisi di sistem dan memberi tahu pelapor ke mana aduannya diteruskan.",
+        "score": 5,
+        "rationale": "Memakai mekanisme resmi, tetap dalam wewenang, dan pelapor mendapat kepastian."
+      },
+      {
+        "key": "B",
+        "text": "Menutup aduan dengan keterangan 'bukan kewenangan instansi kami'.",
+        "score": 2,
+        "rationale": "Benar secara formal, tetapi tidak membantu pelapor."
+      },
+      {
+        "key": "C",
+        "text": "Menghapus aduan itu agar tidak tercatat sebagai tunggakan aduan unit Anda.",
+        "score": 1,
+        "rationale": "Menyembunyikan aduan demi citra unit."
+      },
+      {
+        "key": "D",
+        "text": "Membalas pelapor dengan sopan bahwa jalan rusak merupakan kewenangan Dinas Pekerjaan Umum, lalu melampirkan alamat kantor, nomor layanan, dan tautan kanal pengaduan dinas itu agar pelapor dapat mengadu langsung.",
+        "score": 4,
+        "rationale": "Informatif dan mengarahkan dengan tepat, tetapi membebani pelapor padahal sistem menyediakan jalur penerusan."
+      },
+      {
+        "key": "E",
+        "text": "Menyimpan aduan itu dan menanyakan kepada atasan apakah perlu ditanggapi.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi menunda aduan yang mekanismenya sudah jelas."
+      }
+    ],
+    "explanation": "SP4N-LAPOR! menyediakan mekanisme penerusan aduan antarinstansi. Petugas yang tahu batas wewenangnya tetap memastikan aduan sampai ke pihak yang tepat dan pelapor tahu tindak lanjutnya (Kolaboratif, Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0021",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket di kantor pertanahan. Anda melihat seorang calo di area antrean menawari warga jasa 'pengurusan cepat' dengan tarif jauh di atas biaya resmi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendatangi warga yang sedang ditawari, menjelaskan secara pribadi bahwa layanan resmi lebih murah dan prosesnya dapat dipantau, tanpa menegur calo agar tidak menimbulkan keributan di ruang tunggu.",
+        "score": 3,
+        "rationale": "Melindungi satu warga, tetapi praktik percaloan dibiarkan berlanjut."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkannya karena keamanan area antrean bukan tugas petugas loket.",
+        "score": 2,
+        "rationale": "Pasif terhadap praktik yang merugikan warga."
+      },
+      {
+        "key": "C",
+        "text": "Menegur calo itu dengan keras di depan warga, lalu memotret wajahnya untuk diunggah ke media sosial sebagai peringatan.",
+        "score": 1,
+        "rationale": "Emosional, main hakim sendiri, dan berisiko melanggar privasi."
+      },
+      {
+        "key": "D",
+        "text": "Melaporkan kejadian itu kepada petugas keamanan dan atasan agar calo tersebut ditertibkan.",
+        "score": 4,
+        "rationale": "Tepat, tetapi warga belum dilindungi dengan informasi yang benar."
+      },
+      {
+        "key": "E",
+        "text": "Mengumumkan di ruang tunggu bahwa layanan hanya melalui loket resmi dengan biaya sesuai ketentuan, lalu melaporkan calo itu kepada petugas keamanan dan atasan.",
+        "score": 5,
+        "rationale": "Melindungi warga dengan informasi yang benar dan menindaklanjuti lewat pihak berwenang."
+      }
+    ],
+    "explanation": "Melindungi warga dari pungutan di luar ketentuan sesuai asas keterbukaan dan keterjangkauan. Skor tertinggi bertindak dalam wewenang: memberi informasi resmi kepada warga dan melapor kepada pihak yang berwenang menertibkan, bukan main hakim sendiri.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0022",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda ASN baru di loket perizinan. Beberapa kali Anda melihat rekan senior yang banyak membimbing Anda menerima amplop 'uang terima kasih' dari pemohon setelah izin diserahkan. Menurutnya itu hal biasa dan tidak memengaruhi layanan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ikut menerima bagian yang ditawarkan rekan karena pemberian itu diberikan secara sukarela oleh pemohon.",
+        "score": 1,
+        "rationale": "Turut menerima gratifikasi."
+      },
+      {
+        "key": "B",
+        "text": "Menolak setiap pemberian yang ditujukan kepada Anda sendiri tanpa mengomentari perilaku rekan.",
+        "score": 3,
+        "rationale": "Menjaga diri sendiri, tetapi membiarkan pungli terselubung berlanjut."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan apa yang Anda lihat kepada atasan atau Unit Pengendalian Gratifikasi secara tertulis, lengkap dengan waktu kejadian dan perkiraan jumlahnya, tanpa terlebih dahulu membicarakannya dengan rekan senior tersebut.",
+        "score": 4,
+        "rationale": "Melapor lewat jalur resmi, tetapi melewatkan kesempatan mengingatkan rekan secara langsung."
+      },
+      {
+        "key": "D",
+        "text": "Mendiamkannya karena Anda masih baru dan tidak ingin merusak hubungan dengan senior yang membimbing Anda.",
+        "score": 2,
+        "rationale": "Mendahulukan kenyamanan hubungan di atas integritas layanan."
+      },
+      {
+        "key": "E",
+        "text": "Mengingatkannya secara pribadi bahwa pemberian itu termasuk gratifikasi, dan bila berlanjut, melaporkannya kepada atasan atau Unit Pengendalian Gratifikasi.",
+        "score": 5,
+        "rationale": "Menjaga hubungan sekaligus integritas, dengan eskalasi lewat jalur resmi bila perlu."
+      }
+    ],
+    "explanation": "Dilema antara menjaga hubungan baik dengan senior dan integritas layanan. Pemberian terkait layanan adalah gratifikasi yang merusak asas persamaan perlakuan. Skor tertinggi menjaga hubungan dengan mengingatkan lebih dulu tanpa mengorbankan integritas, lalu melapor lewat jalur resmi bila berlanjut (Akuntabel, Harmonis).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0023",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan di kantor kelurahan. Seorang warga bertanya berapa biaya pembuatan surat keterangan domisili. Sesuai standar pelayanan, layanan itu tidak dipungut biaya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga membaca sendiri papan informasi biaya di dinding.",
+        "score": 2,
+        "rationale": "Informasi tersedia, tetapi warga yang bertanya tidak dilayani dengan baik."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan bahwa layanan itu gratis sesuai standar pelayanan yang berlaku.",
+        "score": 4,
+        "rationale": "Benar, tetapi warga belum dibekali cara menghadapi pungutan liar."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab bahwa sepengetahuan Anda layanan itu gratis, tetapi menyarankan warga memastikannya lagi kepada petugas yang nanti memproses berkasnya agar tidak terjadi salah paham.",
+        "score": 3,
+        "rationale": "Ragu-ragu padahal informasinya jelas, sehingga warga bisa bingung."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa layanan itu gratis sambil menunjukkan maklumat standar pelayanan dan kanal pengaduan bila ada yang meminta bayaran.",
+        "score": 5,
+        "rationale": "Informasi benar dan warga dibekali cara melindungi diri dari pungutan liar."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa layanan gratis, tetapi warga boleh memberi uang administrasi seikhlasnya untuk petugas.",
+        "score": 1,
+        "rationale": "Membuka peluang pungutan liar dan gratifikasi."
+      }
+    ],
+    "explanation": "Kejelasan biaya adalah bagian dari standar pelayanan (UU 25/2009) dan asas keterbukaan. Petugas memberi informasi yang benar dan membekali warga agar dapat menolak pungutan liar (Akuntabel).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0024",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator loket di Mal Pelayanan Publik. Setiap Senin pagi antrean menumpuk hingga warga menunggu lebih dari tiga jam, sedangkan hari lain relatif sepi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membatasi nomor antrean Senin hanya 50 orang dan meminta warga lain kembali di hari lain tanpa pemberitahuan sebelumnya.",
+        "score": 1,
+        "rationale": "Mempersulit warga dan mengabaikan kebutuhan mereka."
+      },
+      {
+        "key": "B",
+        "text": "Menambah jumlah loket yang dibuka setiap Senin pagi dengan memindahkan sebagian petugas dari bagian arsip, sambil memastikan pekerjaan arsip dikerjakan pada hari lain yang lebih sepi.",
+        "score": 4,
+        "rationale": "Solutif dan dalam wewenang, tetapi belum mengatur pola kedatangan warga."
+      },
+      {
+        "key": "C",
+        "text": "Meminta petugas mempercepat pelayanan dengan memeriksa berkas secara lebih singkat.",
+        "score": 2,
+        "rationale": "Mengorbankan kecermatan demi kecepatan."
+      },
+      {
+        "key": "D",
+        "text": "Menganalisis data antrean, menambah petugas loket pada Senin pagi, dan mengumumkan jam sepi serta pendaftaran daring kepada warga.",
+        "score": 5,
+        "rationale": "Solusi berbasis data yang menangani kapasitas sekaligus pola kedatangan warga."
+      },
+      {
+        "key": "E",
+        "text": "Mengusulkan kepada pimpinan agar menambah pegawai baru untuk loket.",
+        "score": 3,
+        "rationale": "Usulan wajar, tetapi menunggu pihak lain padahal ada langkah dalam wewenang Anda."
+      }
+    ],
+    "explanation": "Koordinator dinilai dari kemampuan memperbaiki sistem layanan berbasis data, sesuai nilai Berorientasi Pelayanan (perbaikan tiada henti) dan Adaptif, serta asas kecepatan dan ketepatan waktu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0025",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf yang baru ditugaskan menggantikan admin layanan konsultasi daring di dinas perizinan. Anda mendapati puluhan pertanyaan warga belum dijawab selama tiga hari karena admin sebelumnya cuti. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjawab pertanyaan yang masuk hari ini lebih dulu karena pertanyaan lama kemungkinan sudah ditanyakan warga ke loket.",
+        "score": 3,
+        "rationale": "Bekerja, tetapi mengabaikan warga yang sudah lama menunggu."
+      },
+      {
+        "key": "B",
+        "text": "Menjawab semua pertanyaan sesuai urutan masuk dengan menyertakan permintaan maaf atas keterlambatan, lalu menandai pertanyaan yang memerlukan jawaban unit teknis agar segera diteruskan.",
+        "score": 4,
+        "rationale": "Menuntaskan tunggakan dengan baik, tetapi penyebab tunggakan belum dicegah."
+      },
+      {
+        "key": "C",
+        "text": "Menjawab pertanyaan berdasarkan urutan dan urgensi, meminta maaf atas keterlambatan, dan mengusulkan admin cadangan saat petugas cuti.",
+        "score": 5,
+        "rationale": "Menuntaskan tunggakan dan mencegah masalah yang sama terulang."
+      },
+      {
+        "key": "D",
+        "text": "Menunggu admin sebelumnya kembali karena ia yang memahami riwayat percakapannya.",
+        "score": 2,
+        "rationale": "Menunda layanan yang sudah menjadi tugas Anda."
+      },
+      {
+        "key": "E",
+        "text": "Menghapus pertanyaan yang sudah lebih dari dua hari agar dasbor layanan terlihat bersih.",
+        "score": 1,
+        "rationale": "Menyembunyikan tunggakan dan mengabaikan warga."
+      }
+    ],
+    "explanation": "Pelayanan tidak boleh berlarut-larut (UU 25/2009 Pasal 34). Skor tertinggi menuntaskan tunggakan dengan prioritas yang jelas dan mencegah kejadian serupa (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0026",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket layanan izin. Seorang pemohon bertanya mengapa izinnya terlambat satu minggu dari standar waktu. Anda tahu penyebabnya: pejabat penandatangan sering dinas luar sehingga berkas menumpuk. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan pemohon menanyakannya langsung kepada pejabat penandatangan.",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab dan membebani warga."
+      },
+      {
+        "key": "B",
+        "text": "Meminta maaf, menyampaikan bahwa berkas sedang menunggu tanda tangan beserta perkiraan waktunya, dan melaporkan penumpukan itu kepada atasan dengan usulan solusi.",
+        "score": 5,
+        "rationale": "Jujur, memberi kepastian, dan membawa akar masalah ke jalur yang tepat."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan bahwa pejabatnya memang sering bepergian dan kurang memperhatikan berkas warga.",
+        "score": 1,
+        "rationale": "Membuka keburukan pimpinan secara tidak pantas dan memperburuk citra instansi."
+      },
+      {
+        "key": "D",
+        "text": "Meminta maaf, menjelaskan bahwa berkasnya sedang menunggu penandatanganan, dan memberi perkiraan waktu terbit.",
+        "score": 4,
+        "rationale": "Jujur dan informatif, tetapi akar masalah penumpukan tidak disampaikan kepada pihak yang dapat memperbaikinya."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa berkasnya masih dalam proses internal sesuai prosedur, tanpa menyebut penyebab keterlambatan, karena urusan penandatanganan merupakan ranah pimpinan dan tidak perlu diketahui pemohon.",
+        "score": 3,
+        "rationale": "Menjaga citra pimpinan, tetapi kurang terbuka dan tidak memberi kepastian."
+      }
+    ],
+    "explanation": "Dilema antara keterbukaan kepada warga dan menjaga nama baik pimpinan (Loyal). Skor tertinggi jujur secara faktual tanpa menyudutkan individu, memberi kepastian waktu, dan membawa akar masalah ke jalur internal (Akuntabel, asas keterbukaan dan ketepatan waktu).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0027",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan di kantor kelurahan. Seorang ibu memerlukan surat keterangan tidak mampu hari ini agar anaknya dapat dioperasi besok dengan keringanan biaya. Surat pengantar RT belum ada karena ketua RT sedang ke luar kota. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta ibu itu menunggu sampai ketua RT kembali karena pengantar wajib dilampirkan.",
+        "score": 2,
+        "rationale": "Sesuai syarat, tetapi mengabaikan kebutuhan mendesak warga."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan ibu itu meminta surat keterangan dari rumah sakit sebagai pengganti surat pengantar RT.",
+        "score": 3,
+        "rationale": "Memberi saran yang belum tentu sesuai ketentuan dan menyerahkan masalah ke pihak lain."
+      },
+      {
+        "key": "C",
+        "text": "Membantu menghubungi ketua RT lewat telepon agar ia meminta pengurus lain menerbitkan pengantar, lalu meminta ibu itu kembali ke kelurahan begitu pengantar didapat supaya berkasnya langsung diproses.",
+        "score": 4,
+        "rationale": "Solutif, tetapi berkas lain belum disiapkan sehingga waktu yang sempit belum dimanfaatkan."
+      },
+      {
+        "key": "D",
+        "text": "Menerbitkan surat tanpa pengantar karena keadaannya darurat dan Anda yakin keluarga itu memang tidak mampu.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur atas dasar keyakinan pribadi."
+      },
+      {
+        "key": "E",
+        "text": "Memeriksa apakah ketentuan membolehkan pengantar dari wakil RT atau ketua RW, membantu menghubungi mereka, dan menyiapkan berkas lain agar surat terbit hari itu.",
+        "score": 5,
+        "rationale": "Mencari jalan sah dalam ketentuan dan memanfaatkan waktu yang sempit."
+      }
+    ],
+    "explanation": "Dilema antara empati dan kepatuhan prosedur. Skor tertinggi mencari jalan yang sah di dalam ketentuan (pejabat pengganti) dan bergerak cepat, sehingga asas kepastian hukum dan ketepatan waktu sama-sama terpenuhi (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0028",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf Disdukcapil. Keluarga seorang warga penyandang disabilitas intelektual yang sulit dibawa ke luar rumah meminta agar perekaman KTP-el dilakukan di rumah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mencatat permohonan keluarga dan meneruskannya kepada tim layanan jemput bola.",
+        "score": 4,
+        "rationale": "Tepat, tetapi keluarga belum mendapat kepastian jadwal dan persyaratan."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan keluarga tetap membawa warga tersebut ke kantor pada jam sepi, sambil menjanjikan bahwa ia akan langsung dilayani di loket prioritas tanpa perlu mengantre bersama warga lain.",
+        "score": 3,
+        "rationale": "Ada kemudahan, tetapi kebutuhan warga yang sulit dibawa keluar belum dipenuhi."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan keluarga tidak perlu membuat KTP-el karena warga tersebut jarang memerlukan layanan publik.",
+        "score": 1,
+        "rationale": "Diskriminatif dan menghilangkan hak warga atas dokumen kependudukan."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan layanan jemput bola bagi penyandang disabilitas, mencatat permohonannya, dan memberi tahu jadwal kunjungan serta dokumen yang perlu disiapkan.",
+        "score": 5,
+        "rationale": "Memenuhi kebutuhan khusus warga dengan kepastian jadwal dan syarat."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa perekaman hanya dapat dilakukan di kantor sesuai prosedur.",
+        "score": 2,
+        "rationale": "Kaku dan mengabaikan layanan bagi kelompok rentan."
+      }
+    ],
+    "explanation": "Asas kesamaan hak dan perlakuan khusus bagi kelompok rentan (UU 25/2009). Skor tertinggi memakai layanan jemput bola yang tersedia dan memberi kepastian kepada keluarga (Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0029",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pengelola pengaduan di dinas perizinan. Seorang pemohon mengirim pesan berisi kata-kata kasar karena izinnya sudah lewat sepuluh hari dari standar waktu. Setelah dicek, keterlambatan itu memang terjadi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membalas dengan sopan, meminta maaf atas keterlambatan, menelusuri posisi berkasnya, lalu memberi kepastian waktu dan memantaunya sampai izin terbit.",
+        "score": 5,
+        "rationale": "Tenang, mengakui kesalahan, dan memegang penyelesaian sampai tuntas."
+      },
+      {
+        "key": "B",
+        "text": "Membalas dengan sopan, meminta maaf atas keterlambatan, dan menjelaskan bahwa aduannya sudah diteruskan ke bidang teknis sehingga pemohon dapat menunggu kabar dari bidang tersebut dalam beberapa hari ke depan.",
+        "score": 4,
+        "rationale": "Sopan dan mengakui kesalahan, tetapi kepastian waktu dan pemantauan tidak dipegang."
+      },
+      {
+        "key": "C",
+        "text": "Meneruskan aduan itu kepada bidang teknis tanpa membalas pemohon terlebih dahulu.",
+        "score": 3,
+        "rationale": "Ada tindak lanjut, tetapi pemohon dibiarkan tanpa tanggapan."
+      },
+      {
+        "key": "D",
+        "text": "Membalas bahwa keterlambatan terjadi karena banyaknya berkas sehingga pemohon seharusnya bersabar.",
+        "score": 1,
+        "rationale": "Defensif dan menyalahkan warga atas kelalaian instansi."
+      },
+      {
+        "key": "E",
+        "text": "Meminta pemohon mengirim ulang pengaduannya dengan bahasa yang sopan agar dapat diproses.",
+        "score": 2,
+        "rationale": "Mempersulit penanganan keluhan yang sebenarnya sah."
+      }
+    ],
+    "explanation": "Petugas tetap tenang saat dikomplain, mengakui kesalahan instansi, dan memastikan penyelesaian tidak berlarut-larut (Akuntabel, Berorientasi Pelayanan, asas ketepatan waktu).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0030",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket Disdukcapil. Seorang warga kembali ke loket karena namanya di kartu keluarga yang baru dicetak salah satu huruf. Setelah diperiksa, kesalahan itu terjadi saat Anda menginput data. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta maaf, mengakui kesalahan input, dan memperbaikinya hari itu tanpa biaya sambil memeriksa ulang data lain di dokumen tersebut.",
+        "score": 5,
+        "rationale": "Jujur, bertanggung jawab, dan mencegah kesalahan lain terlewat."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa kesalahan itu berasal dari formulir yang diisi warga.",
+        "score": 1,
+        "rationale": "Menyalahkan warga dan tidak jujur."
+      },
+      {
+        "key": "C",
+        "text": "Memperbaiki data itu, tetapi meminta warga mengisi formulir permohonan perbaikan baru beserta fotokopi dokumen pendukung agar tercatat rapi dalam sistem administrasi.",
+        "score": 3,
+        "rationale": "Kesalahan diperbaiki, tetapi warga dibebani prosedur akibat kesalahan petugas."
+      },
+      {
+        "key": "D",
+        "text": "Meminta maaf, lalu segera memperbaiki data dan mencetak ulang kartu keluarganya.",
+        "score": 4,
+        "rationale": "Bertanggung jawab, tetapi belum memastikan tidak ada kesalahan lain."
+      },
+      {
+        "key": "E",
+        "text": "Memperbaiki data itu tanpa mengakui bahwa kesalahan berasal dari Anda.",
+        "score": 2,
+        "rationale": "Masalah selesai, tetapi tidak jujur."
+      }
+    ],
+    "explanation": "Nilai Akuntabel menuntut kejujuran dan tanggung jawab atas kesalahan sendiri. Perbaikan dilakukan cepat, cermat, dan tanpa membebani warga (UU 25/2009 Pasal 34).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0031",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket informasi di kantor kecamatan. Saat Anda sedang menjelaskan syarat layanan kepada seorang warga, telepon kantor di meja Anda terus berdering. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta rekan di meja sebelah mengangkat telepon itu.",
+        "score": 3,
+        "rationale": "Wajar, tetapi membebani rekan yang mungkin juga sedang melayani."
+      },
+      {
+        "key": "B",
+        "text": "Menyelesaikan penjelasan kepada warga di depan Anda terlebih dahulu, lalu menelepon balik nomor yang tadi menghubungi.",
+        "score": 4,
+        "rationale": "Mendahulukan warga yang hadir, tetapi penelepon dibiarkan tanpa kepastian."
+      },
+      {
+        "key": "C",
+        "text": "Mengangkat telepon dan melayani penelepon sampai selesai, sementara warga di depan Anda menunggu.",
+        "score": 1,
+        "rationale": "Menelantarkan warga yang sedang dilayani."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan telepon berdering sampai berhenti sendiri.",
+        "score": 2,
+        "rationale": "Mengabaikan warga yang menghubungi melalui telepon."
+      },
+      {
+        "key": "E",
+        "text": "Meminta izin sebentar kepada warga di depan Anda, mengangkat telepon untuk mencatat nama dan nomor penelepon, berjanji menelepon balik setelah selesai, lalu melanjutkan penjelasan.",
+        "score": 5,
+        "rationale": "Warga yang hadir tetap didahulukan dan penelepon mendapat kepastian."
+      }
+    ],
+    "explanation": "Petugas harus adil dan santun kepada warga di semua kanal. Warga yang sedang dilayani didahulukan, tetapi penelepon tidak diabaikan (Berorientasi Pelayanan, asas persamaan perlakuan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0032",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket pengambilan dokumen kependudukan. Seorang warga datang mengambil KTP-el milik kakaknya yang sedang bekerja di luar kota. Ia membawa fotokopi KTP kakaknya, tetapi tidak membawa surat kuasa. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan agar kakaknya mengambil sendiri setelah pulang dari luar kota.",
+        "score": 3,
+        "rationale": "Aman, tetapi mengabaikan pilihan sah berupa surat kuasa."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan bahwa pengambilan oleh orang lain memerlukan surat kuasa, lalu memberi contoh format surat kuasa dan syarat yang harus dibawa.",
+        "score": 5,
+        "rationale": "Tegas pada syarat dan memudahkan warga memenuhinya pada kedatangan berikutnya."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan dengan sopan bahwa pengambilan oleh orang lain memerlukan surat kuasa sesuai ketentuan.",
+        "score": 4,
+        "rationale": "Benar dan sopan, tetapi tanpa panduan agar kedatangan berikutnya berhasil."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan KTP-el setelah berbicara dengan kakaknya melalui panggilan video untuk memastikan persetujuannya.",
+        "score": 2,
+        "rationale": "Tampak berhati-hati, tetapi panggilan video bukan pengganti surat kuasa yang sah."
+      },
+      {
+        "key": "E",
+        "text": "Menyerahkan KTP-el itu karena warga membawa fotokopi KTP kakaknya, mengetahui seluruh data di dalamnya, dan menunjukkan kartu keluarga yang membuktikan bahwa mereka bersaudara kandung.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur dan berisiko menyerahkan dokumen kepada pihak yang tidak berhak."
+      }
+    ],
+    "explanation": "Asas kepastian hukum dan perlindungan dokumen kependudukan. Petugas tegas pada syarat yang melindungi pemilik dokumen sekaligus memudahkan warga memenuhinya (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0033",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket DPMPTSP. Seorang warga negara asing yang berencana berinvestasi bertanya tentang syarat perizinan berusaha dalam bahasa Inggris, sementara kemampuan bahasa Inggris Anda terbatas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan brosur berbahasa Indonesia dan menyarankan ia memakai aplikasi penerjemah.",
+        "score": 3,
+        "rationale": "Ada informasi, tetapi beban memahami dialihkan kepada pemohon."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan ia kembali bersama penerjemah atau konsultan.",
+        "score": 2,
+        "rationale": "Menunda layanan dan membebani pemohon."
+      },
+      {
+        "key": "C",
+        "text": "Meminta bantuan rekan yang fasih berbahasa Inggris untuk melayaninya.",
+        "score": 4,
+        "rationale": "Kebutuhan warga terpenuhi, tetapi Anda tidak berupaya melayani sendiri."
+      },
+      {
+        "key": "D",
+        "text": "Melayaninya dengan bahasa Inggris sederhana dibantu panduan tertulis atau laman resmi berbahasa Inggris, dan meminta bantuan rekan yang lebih fasih untuk bagian yang belum dapat Anda jelaskan dengan tepat.",
+        "score": 5,
+        "rationale": "Berupaya melayani sendiri, memakai sumber resmi, dan memastikan informasinya tepat."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan sebisanya dengan menebak istilah yang tidak Anda ketahui agar pemohon tidak menunggu lama.",
+        "score": 1,
+        "rationale": "Berisiko memberi informasi yang salah."
+      }
+    ],
+    "explanation": "Pelaksana tidak boleh memberi informasi yang salah (UU 25/2009 Pasal 34). Nilai Kompeten dan Berorientasi Pelayanan tampak dari upaya melayani sendiri sebisanya dengan sumber resmi dan meminta bantuan bila perlu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0034",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator layanan di kantor kecamatan. Pimpinan ingin menutup loket fisik dan mengalihkan semua layanan ke aplikasi agar target digitalisasi tercapai bulan ini. Padahal, data Anda menunjukkan sepertiga pemohon adalah lansia yang tidak memiliki ponsel pintar. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mendukung peralihan ke aplikasi, sekaligus menyampaikan data pemohon lansia kepada pimpinan dan mengusulkan pojok bantuan dengan petugas pendamping agar warga tanpa ponsel tetap terlayani.",
+        "score": 5,
+        "rationale": "Mendukung inovasi sambil memastikan kelompok rentan tetap terlayani melalui usulan berbasis data."
+      },
+      {
+        "key": "B",
+        "text": "Meminta pimpinan menunda digitalisasi sampai semua warga memiliki ponsel pintar.",
+        "score": 2,
+        "rationale": "Melindungi warga rentan, tetapi menolak inovasi tanpa solusi yang realistis."
+      },
+      {
+        "key": "C",
+        "text": "Diam-diam tetap menerima berkas fisik di loket dan menginputnya sendiri tanpa memberi tahu pimpinan.",
+        "score": 1,
+        "rationale": "Berniat membantu, tetapi menyimpang dari kebijakan secara tidak terbuka."
+      },
+      {
+        "key": "D",
+        "text": "Mendukung peralihan ke aplikasi dan menyiapkan petugas yang membantu warga mendaftar daring di kantor.",
+        "score": 4,
+        "rationale": "Adaptif dan membantu, tetapi pimpinan tidak mendapat data untuk menimbang kebijakannya."
+      },
+      {
+        "key": "E",
+        "text": "Menjalankan kebijakan itu sambil menunggu apakah ada keluhan warga sebelum mengusulkan perubahan.",
+        "score": 3,
+        "rationale": "Patuh, tetapi menunggu masalah muncul padahal datanya sudah ada."
+      }
+    ],
+    "explanation": "Dilema antara inovasi (Adaptif) dan inklusi kelompok rentan (asas kesamaan hak dan keterjangkauan). Skor tertinggi tidak menolak perubahan, tetapi memberi masukan berbasis data dan solusi agar tidak ada warga yang tertinggal.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0035",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Seorang warga tiba-tiba menyerobot ke depan loket dengan alasan sedang terburu-buru, sementara warga lain yang mengantre mulai protes. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga yang mengantre memutuskan sendiri apakah mereka bersedia memberi giliran kepada warga yang terburu-buru itu, agar keputusan Anda tidak dianggap berpihak.",
+        "score": 2,
+        "rationale": "Melempar keputusan kepada warga dan berpotensi memicu keributan."
+      },
+      {
+        "key": "B",
+        "text": "Langsung melayaninya agar ia cepat pergi dan protes warga segera reda.",
+        "score": 1,
+        "rationale": "Perlakuan istimewa yang melanggar asas persamaan perlakuan."
+      },
+      {
+        "key": "C",
+        "text": "Menyapanya dengan sopan, menjelaskan bahwa semua dilayani sesuai nomor antrean, dan membantunya mengambil nomor.",
+        "score": 5,
+        "rationale": "Adil, santun, dan tetap membantu warga tersebut."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan dengan sopan bahwa semua warga dilayani sesuai nomor antrean.",
+        "score": 4,
+        "rationale": "Adil dan sopan, tetapi tidak membantu warga itu masuk antrean."
+      },
+      {
+        "key": "E",
+        "text": "Memanggil satpam untuk mengatur warga itu agar kembali ke barisan.",
+        "score": 3,
+        "rationale": "Tertib, tetapi Anda menghindari komunikasi langsung yang sebenarnya mudah."
+      }
+    ],
+    "explanation": "Asas persamaan perlakuan menuntut semua warga dilayani sesuai urutan. Skor tertinggi tegas tetapi santun dan tetap membantu warga yang terburu-buru masuk ke jalur yang benar (Berorientasi Pelayanan, Harmonis).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0036",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda ASN baru di bagian pelayanan dinas perizinan. Seorang warga menanyakan prosedur izin yang belum pernah Anda tangani, dan Anda tidak yakin jawabannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan nomor layanan informasi dinas agar warga menanyakannya di sana.",
+        "score": 3,
+        "rationale": "Mengarahkan, tetapi warga yang sudah datang dibebani langkah tambahan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa Anda pegawai baru sehingga belum dapat membantu.",
+        "score": 2,
+        "rationale": "Jujur, tetapi tidak berusaha mencari jawaban."
+      },
+      {
+        "key": "C",
+        "text": "Mengantar warga kepada rekan senior yang biasa menangani izin tersebut.",
+        "score": 4,
+        "rationale": "Warga dilayani orang yang tepat, tetapi Anda tidak memanfaatkan kesempatan memahami prosedurnya."
+      },
+      {
+        "key": "D",
+        "text": "Menjawab berdasarkan prosedur izin lain yang mirip dan pernah Anda tangani, karena kemungkinan besar syaratnya sama dan warga tidak perlu menunggu lebih lama.",
+        "score": 1,
+        "rationale": "Berisiko memberi informasi yang salah kepada warga."
+      },
+      {
+        "key": "E",
+        "text": "Jujur bahwa Anda perlu memastikan dulu, segera menanyakannya kepada rekan atau memeriksa SOP, lalu menjelaskannya kepada warga.",
+        "score": 5,
+        "rationale": "Jujur, cepat mencari jawaban yang benar, dan tetap melayani sendiri."
+      }
+    ],
+    "explanation": "UU 25/2009 Pasal 34 melarang pelaksana memberi informasi yang salah. Nilai Kompeten mendorong ASN baru belajar cepat dari SOP dan rekan, sementara warga tetap dilayani dengan jujur.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0037",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pelayanan di kantor kelurahan. Seorang warga meminta nomor WhatsApp pribadi Anda agar dapat mengirim foto berkas dan menanyakan perkembangan permohonannya tanpa harus datang. Kelurahan sebenarnya sudah memiliki layanan daring resmi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan nomor telepon kantor dan meminta warga menanyakan perkembangan permohonan melalui nomor itu.",
+        "score": 3,
+        "rationale": "Resmi, tetapi kebutuhan mengirim berkas tidak terjawab."
+      },
+      {
+        "key": "B",
+        "text": "Menolak memberikan nomor pribadi tanpa memberi alternatif.",
+        "score": 2,
+        "rationale": "Benar soal batas, tetapi tidak membantu."
+      },
+      {
+        "key": "C",
+        "text": "Mengarahkan warga ke layanan daring resmi dan memberikan panduan cara memakainya.",
+        "score": 4,
+        "rationale": "Sesuai kanal resmi, tetapi warga belum dipastikan bisa menggunakannya."
+      },
+      {
+        "key": "D",
+        "text": "Memberikan nomor pribadi dan menerima foto berkas karena lebih praktis bagi warga.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur dan membahayakan keamanan data warga."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan sopan bahwa berkas hanya diterima melalui kanal resmi agar data aman dan tercatat, lalu membantunya mendaftar dan mencoba mengunggah berkas lewat layanan daring kelurahan saat itu juga.",
+        "score": 5,
+        "rationale": "Menjaga prosedur dan keamanan data sambil memastikan warga mampu memakai kanal resmi."
+      }
+    ],
+    "explanation": "Kanal resmi menjamin keamanan data dan akuntabilitas proses. Skor tertinggi menjaga prosedur sekaligus memastikan warga benar-benar bisa memakai kanal resmi itu (Akuntabel, Berorientasi Pelayanan, asas kemudahan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0038",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan di kantor kecamatan di daerah terpencil. Listrik padam sejak pagi dan genset kantor rusak sehingga komputer tidak dapat digunakan, padahal belasan warga sudah datang dari desa yang jauh. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membawa pulang berkas warga untuk dikerjakan di rumah memakai laptop pribadi tanpa tanda terima.",
+        "score": 1,
+        "rationale": "Melanggar keamanan dokumen dan tidak akuntabel."
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga menunggu sampai listrik menyala kembali.",
+        "score": 3,
+        "rationale": "Tidak menolak layanan, tetapi warga dibiarkan menunggu tanpa kepastian."
+      },
+      {
+        "key": "C",
+        "text": "Mengumumkan bahwa layanan cetak tidak dapat berjalan karena listrik padam, lalu tetap memeriksa kelengkapan berkas setiap warga satu per satu agar mereka tahu kekurangannya dan tidak sia-sia datang dari desa yang jauh.",
+        "score": 4,
+        "rationale": "Bermanfaat bagi warga, tetapi berkas yang lengkap tidak diterima sehingga warga tetap harus kembali."
+      },
+      {
+        "key": "D",
+        "text": "Menerima dan memeriksa berkas secara manual dengan tanda terima, memproses yang bisa dikerjakan tanpa listrik, dan memberi tahu kapan dokumen dapat diambil.",
+        "score": 5,
+        "rationale": "Layanan tetap berjalan, tertib, dan warga mendapat kepastian."
+      },
+      {
+        "key": "E",
+        "text": "Menutup layanan dan meminta warga datang lagi besok.",
+        "score": 2,
+        "rationale": "Pasif dan membebani warga yang datang dari jauh."
+      }
+    ],
+    "explanation": "Nilai Adaptif dan asas keterjangkauan menuntut layanan tetap berjalan semaksimal mungkin dalam keterbatasan, dengan tetap tertib administrasi dan aman bagi dokumen warga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0039",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perizinan. Seorang pemohon yang berkasnya Anda kembalikan karena gambar teknisnya belum sesuai mengancam akan melapor ke Ombudsman karena merasa dipersulit. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan dengan tenang bagian yang belum sesuai beserta dasar aturannya, memberi contoh perbaikan, dan menghormati haknya untuk mengadu.",
+        "score": 5,
+        "rationale": "Tenang, berdasar aturan, solutif, dan menghormati hak warga."
+      },
+      {
+        "key": "B",
+        "text": "Mempersilakan pemohon melapor ke mana saja karena Anda yakin tidak bersalah.",
+        "score": 1,
+        "rationale": "Defensif dan menantang warga."
+      },
+      {
+        "key": "C",
+        "text": "Menerima berkas itu untuk sementara dan berjanji menyampaikannya kepada bidang teknis, agar pemohon tidak merasa dipersulit dan tidak perlu membawa masalah ini ke Ombudsman.",
+        "score": 2,
+        "rationale": "Meredam ancaman dengan janji yang tidak sesuai prosedur."
+      },
+      {
+        "key": "D",
+        "text": "Meminta pemohon berkonsultasi dengan bidang teknis tentang gambar tersebut.",
+        "score": 3,
+        "rationale": "Mengarahkan, tetapi kebingungan pemohon di loket belum diselesaikan."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan kembali bagian yang belum sesuai beserta dasar aturannya.",
+        "score": 4,
+        "rationale": "Jelas dan berdasar, tetapi belum membantu pemohon memperbaikinya."
+      }
+    ],
+    "explanation": "Petugas tetap tenang saat dikomplain. Pengaduan, termasuk ke Ombudsman, adalah hak warga yang dijamin UU 25/2009, sehingga skor tertinggi menjelaskan dasar aturan, membantu perbaikan, dan menghormati hak tersebut.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0040",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Seorang warga yang kecewa merekam Anda dengan ponselnya sambil memaki-maki, sehingga warga lain yang mengantre ikut terganggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap tenang, tidak melarang perekaman, dan menanyakan apa yang membuatnya kecewa.",
+        "score": 4,
+        "rationale": "Profesional, tetapi gangguan terhadap warga lain belum ditangani."
+      },
+      {
+        "key": "B",
+        "text": "Balik merekam warga itu dengan ponsel Anda sebagai bukti bahwa ia yang bersikap kasar.",
+        "score": 1,
+        "rationale": "Membalas secara emosional dan memperkeruh suasana."
+      },
+      {
+        "key": "C",
+        "text": "Tetap tenang tanpa melarang perekaman, menanyakan masalahnya dan menyelesaikannya sesuai prosedur; bila makiannya terus mengganggu warga lain, meminta bantuan satpam agar pembicaraan dilanjutkan di ruang pengaduan.",
+        "score": 5,
+        "rationale": "Menyelesaikan masalah warga dengan tenang sekaligus menjaga ketertiban bagi warga lain."
+      },
+      {
+        "key": "D",
+        "text": "Meminta warga itu berhenti merekam sebelum Anda mau menanggapi keluhannya.",
+        "score": 3,
+        "rationale": "Wajar dari sisi petugas, tetapi menunda penyelesaian masalah warga."
+      },
+      {
+        "key": "E",
+        "text": "Meninggalkan loket sejenak sampai warga itu berhenti memaki.",
+        "score": 2,
+        "rationale": "Menghindar dan layanan bagi warga lain ikut terhenti."
+      }
+    ],
+    "explanation": "Dilema antara menjaga ketertiban ruang layanan bagi warga lain dan tetap melayani warga yang marah secara terbuka. Skor tertinggi menyelesaikan masalah dengan tenang, menghormati keterbukaan, dan memakai prosedur ketertiban hanya bila perlu (Berorientasi Pelayanan, Harmonis).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0041",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Anda menyadari papan informasi persyaratan di ruang tunggu masih memuat syarat lama, sehingga beberapa warga membawa dokumen yang sudah tidak diperlukan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan syarat terbaru kepada setiap warga yang datang ke loket Anda.",
+        "score": 4,
+        "rationale": "Warga terbantu, tetapi sumber kebingungan dibiarkan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan papan yang usang kepada pengelola informasi agar segera diganti, dan sementara itu menjelaskan syarat terbaru kepada setiap warga.",
+        "score": 5,
+        "rationale": "Menangani dampak bagi warga sekaligus memperbaiki sumber masalah."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya karena papan informasi bukan tanggung jawab petugas loket.",
+        "score": 1,
+        "rationale": "Pasif terhadap masalah yang merugikan warga."
+      },
+      {
+        "key": "D",
+        "text": "Mencatat masalah ini untuk disampaikan pada rapat evaluasi bulan depan.",
+        "score": 3,
+        "rationale": "Ada tindak lanjut, tetapi terlalu lama untuk masalah yang mudah diperbaiki."
+      },
+      {
+        "key": "E",
+        "text": "Mencabut sendiri papan itu dari dinding agar warga tidak lagi salah membaca, lalu meminta warga menanyakan syarat langsung kepada petugas loket sampai papan baru dipasang.",
+        "score": 2,
+        "rationale": "Bertindak di luar wewenang dan membuat warga kehilangan sumber informasi."
+      }
+    ],
+    "explanation": "Pelaksana wajib proaktif dan tidak memberi informasi yang salah (UU 25/2009 Pasal 34). Skor tertinggi menangani dampaknya bagi warga saat itu dan sumber masalahnya melalui pihak yang berwenang (Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0042",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Seorang rekan dari bagian keuangan menitipkan berkas tetangganya kepada Anda agar diproses tanpa antre, 'mumpung ada orang dalam'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan rekan itu meminta tetangganya datang sendiri ke loket.",
+        "score": 3,
+        "rationale": "Benar, tetapi kurang membantu dan tanpa penjelasan aturan."
+      },
+      {
+        "key": "B",
+        "text": "Menerima titipan itu, tetapi memprosesnya sesuai urutan kedatangan hari itu.",
+        "score": 2,
+        "rationale": "Tampak adil, tetapi tetap menerima berkas di luar jalur resmi."
+      },
+      {
+        "key": "C",
+        "text": "Menolak dengan ramah dan menjelaskan bahwa semua berkas diproses sesuai antrean.",
+        "score": 4,
+        "rationale": "Adil dan sopan, tetapi tanpa solusi."
+      },
+      {
+        "key": "D",
+        "text": "Memprosesnya lebih dulu karena berkasnya sudah lengkap, sementara rekan itu sudah banyak membantu unit Anda sehingga wajar bila sesekali Anda membalas kebaikannya.",
+        "score": 1,
+        "rationale": "Memberi perlakuan istimewa atas dasar hubungan pribadi."
+      },
+      {
+        "key": "E",
+        "text": "Menolak dengan ramah, menjelaskan bahwa semua berkas masuk melalui antrean atau layanan daring, dan menawarkan panduan layanan daring untuk tetangganya.",
+        "score": 5,
+        "rationale": "Adil, menjaga hubungan, dan memberi jalan yang sah."
+      }
+    ],
+    "explanation": "Asas persamaan perlakuan dan kewajiban menghindari benturan kepentingan (UU 25/2009 Pasal 34). Hubungan baik dengan rekan tetap dijaga melalui penolakan yang ramah dan jalan keluar yang sah (Akuntabel, Harmonis).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0043",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas di gerai Disdukcapil di Mal Pelayanan Publik. Seorang warga sudah mengantre di gerai Anda, tetapi ternyata ia ingin mengurus izin usaha yang dilayani di gerai DPMPTSP di lantai yang sama. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menanyakan kebutuhannya, mengantarnya ke gerai DPMPTSP, dan memperkenalkannya kepada petugas di sana agar ia langsung mendapat penjelasan yang tepat.",
+        "score": 5,
+        "rationale": "Tetap dalam wewenang dan memastikan warga terlayani oleh pihak yang tepat."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa ia salah antre dan memanggil nomor berikutnya.",
+        "score": 2,
+        "rationale": "Benar, tetapi tidak membantu."
+      },
+      {
+        "key": "C",
+        "text": "Menunjukkan letak gerai DPMPTSP dan menjelaskan bahwa izin usaha dilayani di sana.",
+        "score": 4,
+        "rationale": "Mengarahkan dengan benar, tetapi warga belum dipastikan terlayani."
+      },
+      {
+        "key": "D",
+        "text": "Menegur warga karena tidak membaca papan nama gerai sebelum mengantre.",
+        "score": 1,
+        "rationale": "Menyalahkan warga dan tidak santun."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga bertanya ke meja informasi MPP.",
+        "score": 3,
+        "rationale": "Mengarahkan, tetapi menambah satu langkah yang tidak perlu."
+      }
+    ],
+    "explanation": "Mal Pelayanan Publik dirancang agar layanan antarinstansi terintegrasi. Petugas yang tahu batas wewenang tetap memastikan warga sampai ke layanan yang tepat (Kolaboratif, asas kemudahan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0044",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf bagian legalisir di dinas pendidikan. Seorang warga meminta legalisir fotokopi ijazah, tetapi Anda melihat beberapa ketidaksesuaian antara fotokopi itu dan format ijazah resmi pada tahun kelulusannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melegalisir fotokopi itu karena warga menyatakan ijazah aslinya tertinggal di kampung halaman, sedangkan ia sangat membutuhkannya untuk melamar pekerjaan yang pendaftarannya ditutup besok.",
+        "score": 1,
+        "rationale": "Mengabaikan kecermatan dan berisiko mengesahkan dokumen palsu."
+      },
+      {
+        "key": "B",
+        "text": "Meminta ijazah asli untuk dicocokkan, memeriksa arsip bila perlu, lalu menolak legalisir bila tidak sesuai dan melaporkannya kepada atasan sesuai prosedur.",
+        "score": 5,
+        "rationale": "Cermat, sesuai prosedur, dan siap menindaklanjuti indikasi pemalsuan."
+      },
+      {
+        "key": "C",
+        "text": "Menolak melegalisir tanpa penjelasan dan meminta warga datang lagi lain kali.",
+        "score": 3,
+        "rationale": "Aman, tetapi tidak jelas dan tidak santun."
+      },
+      {
+        "key": "D",
+        "text": "Menyerahkan permintaan itu kepada rekan lain agar Anda tidak terlibat.",
+        "score": 2,
+        "rationale": "Menghindar dari tanggung jawab."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga menunjukkan ijazah asli dan mencocokkannya sebelum melegalisir.",
+        "score": 4,
+        "rationale": "Cermat, tetapi belum siap menindaklanjuti bila dokumen terbukti tidak sesuai."
+      }
+    ],
+    "explanation": "Pelaksana wajib cermat (UU 25/2009 Pasal 34) dan Akuntabel. Legalisir menjamin kesesuaian dengan aslinya, sehingga skor tertinggi memverifikasi dengan cermat dan menindaklanjuti sesuai prosedur bila ada indikasi pemalsuan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0045",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket Disdukcapil kabupaten. Seorang warga dari pulau terpencil yang menempuh enam jam perjalanan laut datang mengurus akta kelahiran anaknya, tetapi belum membawa surat keterangan kelahiran dari desa. Kapal ke pulaunya hanya berangkat dua kali seminggu. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memeriksa seluruh berkas, memberi daftar kekurangan secara tertulis, dan menginformasikan jadwal layanan keliling ke pulau tersebut.",
+        "score": 4,
+        "rationale": "Solutif dan menghemat perjalanan berikutnya, tetapi belum mencoba jalur resmi yang lebih cepat."
+      },
+      {
+        "key": "B",
+        "text": "Menerima berkas yang ada dan meminta warga menitipkan surat keterangan dari desa kepada kerabat atau tetangga yang akan berangkat ke kota minggu depan, sehingga warga tidak perlu menempuh perjalanan laut enam jam lagi hanya untuk mengantarkan selembar surat.",
+        "score": 3,
+        "rationale": "Mengurangi beban warga, tetapi mengandalkan titipan tidak resmi yang rawan hilang."
+      },
+      {
+        "key": "C",
+        "text": "Meminta warga kembali ke pulau untuk mengurus surat keterangan, lalu datang lagi.",
+        "score": 2,
+        "rationale": "Sesuai syarat, tetapi mengabaikan beban berat warga."
+      },
+      {
+        "key": "D",
+        "text": "Memeriksa apakah desa dapat mengirim surat keterangan melalui kanal resmi seperti aplikasi atau surel dinas, menerima berkas lainnya dengan tanda terima, dan memprosesnya begitu surat itu diterima.",
+        "score": 5,
+        "rationale": "Syarat tetap dipenuhi melalui jalur resmi dan warga tidak perlu bolak-balik."
+      },
+      {
+        "key": "E",
+        "text": "Memproses akta kelahiran tanpa surat keterangan desa karena warga sudah datang dari jauh.",
+        "score": 1,
+        "rationale": "Menyimpang dari prosedur demi rasa iba."
+      }
+    ],
+    "explanation": "Dilema antara kepastian prosedur dan keterjangkauan bagi warga di daerah terpencil. Skor tertinggi mencari jalur resmi yang mengurangi beban perjalanan warga tanpa mengurangi syarat (Adaptif, Berorientasi Pelayanan, asas keterjangkauan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0046",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket di kantor pelayanan pajak daerah. Seorang warga datang dan langsung marah-marah karena sulit mendapat tempat parkir, padahal pengelolaan parkir di luar kendali Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta warga tenang dulu sebelum Anda mau melayaninya.",
+        "score": 2,
+        "rationale": "Wajar, tetapi terkesan mensyaratkan layanan."
+      },
+      {
+        "key": "B",
+        "text": "Membalas bahwa parkir bukan urusan petugas loket sehingga warga tidak perlu marah kepada Anda.",
+        "score": 1,
+        "rationale": "Defensif dan memperkeruh suasana."
+      },
+      {
+        "key": "C",
+        "text": "Mendengarkan keluhannya dengan tenang, meminta maaf atas ketidaknyamanan, melayani keperluannya hingga selesai, lalu menyampaikan masalah parkir itu kepada bagian umum sebagai masukan perbaikan fasilitas.",
+        "score": 5,
+        "rationale": "Empatik, menuntaskan layanan, dan meneruskan keluhan kepada pihak yang berwenang."
+      },
+      {
+        "key": "D",
+        "text": "Meminta maaf atas ketidaknyamanannya dan segera melayani keperluannya.",
+        "score": 4,
+        "rationale": "Sopan dan cepat, tetapi keluhan parkir tidak diteruskan."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan bahwa urusan parkir dikelola bagian umum dan mempersilakan warga mengadu ke sana.",
+        "score": 3,
+        "rationale": "Benar, tetapi kurang empati dan membebani warga."
+      }
+    ],
+    "explanation": "Petugas tetap tenang dan empatik saat dikomplain, menyelesaikan keperluan warga, dan meneruskan keluhan sebagai bahan perbaikan (Berorientasi Pelayanan: perbaikan tiada henti; Harmonis).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0047",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan di kantor kecamatan. Seorang ibu yang sedang menunggu antrean bertanya apakah ada tempat untuk menyusui bayinya. Kantor memiliki ruang laktasi, tetapi pintunya terkunci. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mempersilakan ibu itu menyusui di sudut ruang tunggu yang lebih sepi.",
+        "score": 3,
+        "rationale": "Ada alternatif, tetapi fasilitas yang tersedia tidak dimanfaatkan."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa ruang laktasi sedang terkunci.",
+        "score": 2,
+        "rationale": "Informasinya benar, tetapi tidak ada upaya membantu."
+      },
+      {
+        "key": "C",
+        "text": "Meminta petugas pemegang kunci membuka ruang laktasi, mengantar ibu itu ke sana, dan memastikan nomor antreannya tetap berlaku.",
+        "score": 5,
+        "rationale": "Memenuhi kebutuhan kelompok rentan tanpa merugikan haknya atas antrean."
+      },
+      {
+        "key": "D",
+        "text": "Meminta petugas yang memegang kunci membuka ruang laktasi untuk ibu tersebut.",
+        "score": 4,
+        "rationale": "Kebutuhan terpenuhi, tetapi giliran antreannya belum dipastikan aman."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan ibu itu menyusui di mobil atau di luar gedung dulu, karena ruang laktasi jarang dipakai dan petugas yang memegang kuncinya sedang sibuk melayani warga lain.",
+        "score": 1,
+        "rationale": "Mengabaikan hak kelompok rentan atas fasilitas yang sebenarnya tersedia."
+      }
+    ],
+    "explanation": "UU 25/2009 menjamin fasilitas dan perlakuan khusus bagi kelompok rentan, termasuk ibu menyusui. Skor tertinggi memastikan fasilitas yang ada dapat dipakai tanpa merugikan hak antrean warga (Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0048",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Jam istirahat Anda sudah tiba, tetapi rekan yang seharusnya menggantikan Anda di loket belum datang, sementara masih ada belasan warga mengantre. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap melayani sampai rekan pengganti datang, lalu beristirahat.",
+        "score": 4,
+        "rationale": "Layanan tidak terputus, tetapi tanpa upaya memastikan pengganti segera hadir."
+      },
+      {
+        "key": "B",
+        "text": "Meninggalkan loket begitu jam istirahat tiba tanpa memberi tahu warga.",
+        "score": 1,
+        "rationale": "Menelantarkan warga dan tidak bertanggung jawab."
+      },
+      {
+        "key": "C",
+        "text": "Tetap melayani, menghubungi rekan pengganti untuk memastikan kapan ia tiba, lalu melakukan serah terima antrean sebelum beristirahat.",
+        "score": 5,
+        "rationale": "Layanan tidak terputus dan pengaturan giliran dipastikan berjalan."
+      },
+      {
+        "key": "D",
+        "text": "Menutup loket sebentar sambil mencari rekan pengganti di ruangan lain.",
+        "score": 3,
+        "rationale": "Berusaha mencari solusi, tetapi warga dibiarkan menunggu."
+      },
+      {
+        "key": "E",
+        "text": "Memasang papan 'istirahat' dan meminta warga menunggu sampai pukul 13.00, karena jam istirahat sudah diatur dalam ketentuan dan petugas juga perlu beristirahat agar tetap fokus saat melayani.",
+        "score": 2,
+        "rationale": "Berpegang pada hak pribadi, tetapi membiarkan layanan terhenti."
+      }
+    ],
+    "explanation": "Kepentingan publik didahulukan di atas kenyamanan pribadi, dan layanan tidak boleh terputus tanpa kepastian. Skor tertinggi tetap melayani sambil memastikan pengaturan giliran berjalan (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0049",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator pelayanan di Disdukcapil. Hasil survei kepuasan menunjukkan banyak warga tidak memahami alur layanan sehingga sering salah loket dan harus mengantre ulang. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta petugas loket menjelaskan alur kepada setiap warga yang salah loket.",
+        "score": 3,
+        "rationale": "Membantu warga, tetapi akar masalah informasi tidak diperbaiki."
+      },
+      {
+        "key": "B",
+        "text": "Menyederhanakan alur layanan dalam bentuk infografis dan petunjuk arah, menugaskan petugas pemandu di pintu masuk, lalu mengevaluasi hasilnya pada survei berikutnya.",
+        "score": 5,
+        "rationale": "Solusi menyeluruh berbasis masukan warga dan disertai evaluasi."
+      },
+      {
+        "key": "C",
+        "text": "Melaporkan hasil survei kepada pimpinan tanpa usulan perbaikan.",
+        "score": 2,
+        "rationale": "Pasif terhadap masalah yang ada dalam wewenang Anda."
+      },
+      {
+        "key": "D",
+        "text": "Memasang infografis alur layanan dan petunjuk arah yang lebih jelas di ruang tunggu.",
+        "score": 4,
+        "rationale": "Solutif, tetapi tanpa evaluasi apakah perbaikannya berhasil."
+      },
+      {
+        "key": "E",
+        "text": "Menganggap hasil survei tidak mewakili karena yang mengisi biasanya warga yang kecewa.",
+        "score": 1,
+        "rationale": "Mengabaikan masukan warga."
+      }
+    ],
+    "explanation": "Survei kepuasan adalah dasar perbaikan layanan. Nilai Berorientasi Pelayanan (perbaikan tiada henti) dan Adaptif menuntut koordinator merancang solusi, menjalankannya, dan mengevaluasi hasilnya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0050",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf PPID di Dinas Sosial. Seorang wartawan yang sedang meliput dugaan bantuan sosial salah sasaran meminta daftar lengkap penerima, termasuk NIK dan alamat rumah mereka. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan data jumlah penerima per wilayah dan kriteria penerima, tanpa NIK dan alamat.",
+        "score": 4,
+        "rationale": "Terbuka dan melindungi data, tetapi tanpa penjelasan dasar pengecualian dan jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Memberikan daftar lengkap agar instansi terlihat transparan dan tidak menutupi apa pun.",
+        "score": 1,
+        "rationale": "Membocorkan data pribadi warga."
+      },
+      {
+        "key": "C",
+        "text": "Meminta wartawan mengajukan surat permohonan resmi lalu menunggu keputusan atasan.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi tidak memberi kejelasan informasi apa yang dapat dibuka."
+      },
+      {
+        "key": "D",
+        "text": "Menolak memberi data apa pun karena isu bantuan sosial sedang sensitif.",
+        "score": 2,
+        "rationale": "Melindungi citra instansi dengan mengorbankan keterbukaan informasi."
+      },
+      {
+        "key": "E",
+        "text": "Melayani permintaan itu melalui mekanisme PPID: memberikan informasi terbuka seperti jumlah penerima, kriteria, dan mekanisme verifikasi, serta menjelaskan bahwa NIK dan alamat lengkap termasuk data pribadi yang dikecualikan.",
+        "score": 5,
+        "rationale": "Keterbukaan dan pelindungan data sama-sama terpenuhi melalui jalur resmi."
+      }
+    ],
+    "explanation": "Dilema antara keterbukaan informasi publik dan pelindungan data pribadi (asas keterbukaan UU 25/2009, UU 27/2022). Skor tertinggi membuka informasi yang memang terbuka melalui mekanisme PPID dan melindungi data pribadi yang dikecualikan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0051",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket di kantor kelurahan. Seorang warga menyampaikan kepada Anda bahwa ruang tunggu terlalu panas dan kursinya kurang, sehingga banyak lansia terpaksa berdiri. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan bahwa pengadaan kursi dan pendingin ruangan memerlukan anggaran yang harus diusulkan setahun sebelumnya, sehingga warga diharapkan memaklumi kondisi ruang tunggu untuk sementara.",
+        "score": 2,
+        "rationale": "Penjelasannya masuk akal, tetapi tidak ada tindakan apa pun."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan warga menunggu di luar gedung bila merasa kepanasan.",
+        "score": 1,
+        "rationale": "Mengabaikan masukan dan kenyamanan warga."
+      },
+      {
+        "key": "C",
+        "text": "Berterima kasih dan menyampaikan masukan itu kepada bagian umum.",
+        "score": 4,
+        "rationale": "Menindaklanjuti, tetapi kebutuhan lansia saat itu belum ditangani."
+      },
+      {
+        "key": "D",
+        "text": "Berterima kasih atas masukannya, menyampaikannya kepada bagian umum, dan mempersilakan lansia memakai kursi prioritas atau kursi cadangan.",
+        "score": 5,
+        "rationale": "Menangani kebutuhan lansia saat itu dan meneruskan masukan untuk perbaikan."
+      },
+      {
+        "key": "E",
+        "text": "Mempersilakan warga menulis masukannya di kotak saran.",
+        "score": 3,
+        "rationale": "Prosedural, tetapi tindak lanjut diserahkan kepada warga."
+      }
+    ],
+    "explanation": "Masukan warga adalah bahan perbaikan layanan (asas partisipatif). Skor tertinggi menangani kebutuhan kelompok rentan saat itu dan meneruskan masukan kepada pihak yang berwenang (Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0052",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket Disdukcapil. Seorang warga meminta tahun lahir anaknya di kartu keluarga diubah agar anak itu memenuhi batas usia pendaftaran sekolah. Ia tidak membawa dokumen dasar apa pun yang menunjukkan data lama keliru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak dengan sopan dan menjelaskan bahwa data kependudukan hanya dapat diubah berdasarkan dokumen dasar.",
+        "score": 4,
+        "rationale": "Tegas dan benar, tetapi tanpa informasi prosedur pembetulan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak dengan sopan karena perubahan data harus berdasarkan dokumen dasar, dan menjelaskan prosedur pembetulan bila memang ada kesalahan.",
+        "score": 5,
+        "rationale": "Tegas pada aturan dan tetap memberi jalan yang sah."
+      },
+      {
+        "key": "C",
+        "text": "Mengubah data itu karena selisihnya hanya satu tahun, warga bersedia membuat surat pernyataan bermeterai, dan anaknya terancam tertinggal satu tahun ajaran bila tidak bisa mendaftar.",
+        "score": 1,
+        "rationale": "Memalsukan data kependudukan demi rasa iba."
+      },
+      {
+        "key": "D",
+        "text": "Menyarankan warga berkonsultasi dengan pihak sekolah tentang aturan batas usia.",
+        "score": 3,
+        "rationale": "Mengarahkan, tetapi tidak menjelaskan aturan data kependudukan."
+      },
+      {
+        "key": "E",
+        "text": "Menyampaikan bahwa permintaan itu harus diputuskan kepala dinas.",
+        "score": 2,
+        "rationale": "Melempar keputusan yang aturannya sudah jelas."
+      }
+    ],
+    "explanation": "Data kependudukan hanya dapat diubah berdasarkan dokumen dasar yang sah (asas kepastian hukum, nilai Akuntabel). Skor tertinggi menolak dengan sopan dan tetap memberi informasi jalur pembetulan yang sah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0053",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf admin layanan pendaftaran beasiswa daerah secara daring. Pada hari terakhir pendaftaran, aplikasi sering gagal saat pendaftar mengunggah berkas, dan keluhan terus berdatangan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Melaporkan rincian gangguan ke tim TI, mengumumkan kanal alternatif resmi bila tersedia, dan mengusulkan kepada atasan perpanjangan waktu pendaftaran bagi yang terdampak.",
+        "score": 5,
+        "rationale": "Menangani masalah teknis sekaligus melindungi hak pendaftar lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan gangguan ke tim TI dan membalas setiap keluhan bahwa masalah sedang ditangani.",
+        "score": 4,
+        "rationale": "Responsif, tetapi pendaftar terancam kehilangan kesempatan."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan pendaftar terus mencoba mengunggah sampai berhasil.",
+        "score": 2,
+        "rationale": "Membebani pendaftar tanpa menyelesaikan masalah."
+      },
+      {
+        "key": "D",
+        "text": "Menerima kiriman berkas lewat surel pribadi Anda agar pendaftar tidak terlambat.",
+        "score": 1,
+        "rationale": "Menyimpang dari kanal resmi dan membahayakan data pendaftar."
+      },
+      {
+        "key": "E",
+        "text": "Menunggu tim TI memperbaiki aplikasi sebelum menanggapi keluhan.",
+        "score": 3,
+        "rationale": "Berhati-hati, tetapi pendaftar dibiarkan tanpa informasi."
+      }
+    ],
+    "explanation": "Nilai Adaptif dan asas ketepatan waktu: gangguan sistem tidak boleh membuat warga kehilangan haknya. Skor tertinggi menangani masalah teknis, memberi jalur alternatif resmi, dan mengusulkan kebijakan kepada pihak yang berwenang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0054",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket pengujian kendaraan bermotor di dinas perhubungan. Seorang warga marah karena layanan yang dulu gratis kini dikenai retribusi. Retribusi itu resmi berdasarkan peraturan daerah yang baru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memberikan selebaran tentang peraturan daerah itu dan mempersilakan warga membacanya.",
+        "score": 3,
+        "rationale": "Informasi tersedia, tetapi kekesalan warga belum dijawab langsung."
+      },
+      {
+        "key": "B",
+        "text": "Menyarankan warga menyampaikan keberatannya kepada DPRD yang membuat peraturan.",
+        "score": 2,
+        "rationale": "Melempar tanggung jawab menjelaskan."
+      },
+      {
+        "key": "C",
+        "text": "Membebaskan warga itu dari retribusi agar ia tidak semakin marah.",
+        "score": 1,
+        "rationale": "Melanggar ketentuan dan tidak adil bagi warga lain."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan dengan tenang dasar peraturan daerahnya, menunjukkan tarif resmi, dan memastikan pembayaran melalui kanal resmi dengan bukti bayar.",
+        "score": 5,
+        "rationale": "Tenang, transparan, dan menjamin pembayaran yang akuntabel."
+      },
+      {
+        "key": "E",
+        "text": "Meminta maaf atas ketidaknyamanannya dan menjelaskan bahwa retribusi itu ditetapkan melalui peraturan daerah yang baru, sehingga seluruh pemohon kini dikenai tarif yang sama tanpa terkecuali.",
+        "score": 4,
+        "rationale": "Informatif dan adil, tetapi belum menunjukkan tarif resmi dan jaminan pembayaran yang transparan."
+      }
+    ],
+    "explanation": "Asas keterbukaan dan kepastian hukum: warga berhak tahu dasar dan besaran biaya, serta jaminan bahwa pembayaran tercatat resmi (Akuntabel, Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0055",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda anggota tim layanan keliling yang melakukan perekaman data penduduk di sebuah pulau kecil. Kapal terakhir kembali pukul 15.00 dan tim wajib ikut demi keselamatan. Pukul 14.00 masih ada 20 warga mengantre, beberapa di antaranya lansia. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memutuskan sendiri agar tim tetap tinggal dan pulang dengan perahu nelayan pada malam hari supaya semua warga terlayani.",
+        "score": 1,
+        "rationale": "Tampak heroik, tetapi melanggar ketentuan keselamatan dan di luar wewenang."
+      },
+      {
+        "key": "B",
+        "text": "Melayani sesuai urutan sampai pukul 14.45, lalu menutup layanan.",
+        "score": 3,
+        "rationale": "Menghormati jadwal keselamatan, tetapi warga yang belum terlayani tidak mendapat kepastian."
+      },
+      {
+        "key": "C",
+        "text": "Meminta warga yang belum terlayani datang sendiri ke kantor kabupaten.",
+        "score": 2,
+        "rationale": "Membebani warga di daerah terpencil."
+      },
+      {
+        "key": "D",
+        "text": "Mendahulukan lansia sesuai ketentuan prioritas, mempercepat layanan dengan membagi tugas di dalam tim, lalu mencatat warga yang belum terlayani untuk jadwal kunjungan berikutnya yang diumumkan melalui kantor desa.",
+        "score": 5,
+        "rationale": "Memaksimalkan layanan, memprioritaskan kelompok rentan, dan memberi kepastian lanjutan."
+      },
+      {
+        "key": "E",
+        "text": "Melayani sebanyak mungkin sesuai urutan antrean dan mencatat warga yang belum terlayani untuk kunjungan berikutnya.",
+        "score": 4,
+        "rationale": "Tertib dan ada tindak lanjut, tetapi belum memprioritaskan kelompok rentan."
+      }
+    ],
+    "explanation": "Dilema antara ketentuan keselamatan tugas dan keinginan melayani semua warga. Skor tertinggi memaksimalkan layanan dalam batas waktu yang aman, memprioritaskan kelompok rentan, dan memberi kepastian tindak lanjut (Berorientasi Pelayanan, Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0056",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Seorang lansia di depan Anda tampak kurang pendengaran sehingga berkali-kali meminta Anda mengulang penjelasan. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menanyakan apakah ada keluarga yang dapat dihubungi untuk mendengarkan penjelasan Anda.",
+        "score": 3,
+        "rationale": "Bisa membantu, tetapi Anda belum mencoba cara komunikasi yang lebih sesuai."
+      },
+      {
+        "key": "B",
+        "text": "Berbicara pelan dan jelas sambil menghadap wajahnya, menuliskan poin pentingnya, lalu memastikan ia memahaminya.",
+        "score": 5,
+        "rationale": "Menyesuaikan cara komunikasi dan memastikan pemahaman."
+      },
+      {
+        "key": "C",
+        "text": "Memberikan brosur persyaratan kepada lansia itu dan menyarankan anak atau cucunya membacakannya di rumah, karena antrean di belakangnya masih panjang dan penjelasan lisan sulit ia tangkap.",
+        "score": 2,
+        "rationale": "Mempertimbangkan antrean, tetapi melepas tanggung jawab melayani warga rentan."
+      },
+      {
+        "key": "D",
+        "text": "Mengulang penjelasan dengan suara lebih keras dan perlahan.",
+        "score": 4,
+        "rationale": "Sabar, tetapi belum memastikan lansia itu benar-benar paham."
+      },
+      {
+        "key": "E",
+        "text": "Menunjukkan wajah kesal dan meminta lansia itu lebih memperhatikan.",
+        "score": 1,
+        "rationale": "Tidak santun dan merendahkan warga rentan."
+      }
+    ],
+    "explanation": "Perlakuan khusus bagi kelompok rentan dan sikap santun (UU 25/2009). Skor tertinggi menyesuaikan cara berkomunikasi dan memastikan lansia benar-benar paham (Berorientasi Pelayanan, Harmonis).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0057",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda ASN baru di kantor kelurahan. Anda mengetahui seorang tenaga honorer meminta 'uang map' Rp5.000 kepada setiap warga di depan loket, padahal layanan itu gratis. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menegur honorer itu di depan warga agar ia malu.",
+        "score": 2,
+        "rationale": "Mempermalukan di depan umum dan berpotensi memicu keributan."
+      },
+      {
+        "key": "B",
+        "text": "Melaporkan praktik itu kepada atasan dengan fakta yang Anda lihat.",
+        "score": 4,
+        "rationale": "Melalui jalur yang tepat, tetapi warga belum dilindungi saat itu."
+      },
+      {
+        "key": "C",
+        "text": "Membiarkannya karena jumlahnya kecil, warga tampak tidak keberatan, dan menurut honorer itu uangnya dipakai membeli map dan alat tulis yang memang sering habis.",
+        "score": 1,
+        "rationale": "Membiarkan pungutan liar yang merusak kepercayaan publik."
+      },
+      {
+        "key": "D",
+        "text": "Mengingatkan warga yang Anda layani agar tidak memberi uang kepada siapa pun.",
+        "score": 3,
+        "rationale": "Melindungi sebagian warga, tetapi praktiknya tidak dihentikan."
+      },
+      {
+        "key": "E",
+        "text": "Memastikan informasi layanan gratis tersampaikan kepada warga, lalu melaporkan praktik itu kepada atasan dengan fakta yang Anda lihat.",
+        "score": 5,
+        "rationale": "Melindungi warga saat itu dan menindaklanjuti lewat jalur resmi."
+      }
+    ],
+    "explanation": "Pungutan di luar ketentuan merusak asas keterbukaan biaya dan kepercayaan publik. Untuk masalah integritas, melapor lewat jalur resmi bernilai tinggi, apalagi disertai upaya melindungi warga saat itu (Akuntabel).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0058",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perizinan reklame. Seorang pemohon menuntut agar izinnya selesai hari ini, padahal standar waktu layanan tersebut tiga hari kerja dan berkasnya baru saja masuk. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Berjanji meminta bidang teknis memprioritaskan berkasnya karena pemohon menyatakan reklame itu dibutuhkan untuk pembukaan usaha besok pagi, lalu memintanya menunggu kabar di ruang tunggu.",
+        "score": 2,
+        "rationale": "Memberi harapan dan perlakuan berbeda di luar standar."
+      },
+      {
+        "key": "B",
+        "text": "Menyanggupi izin selesai hari ini agar pemohon puas, walaupun Anda tahu prosesnya tidak mungkin selesai.",
+        "score": 1,
+        "rationale": "Memberi janji palsu kepada warga."
+      },
+      {
+        "key": "C",
+        "text": "Menjelaskan standar waktunya, memberi tanda terima berisi tanggal selesai, dan menunjukkan cara memantau status agar ia tidak perlu bolak-balik.",
+        "score": 5,
+        "rationale": "Jujur, memberi kepastian, dan memudahkan pemohon."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan bahwa Anda akan berusaha, tanpa memberi kepastian kapan izin selesai.",
+        "score": 3,
+        "rationale": "Terdengar menenangkan, tetapi tidak memberi kepastian."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan dengan sopan standar waktu tiga hari kerja dan memberi tanda terima.",
+        "score": 4,
+        "rationale": "Jelas dan sopan, tetapi belum memudahkan pemohon memantau proses."
+      }
+    ],
+    "explanation": "Standar pelayanan memberi kepastian waktu yang sama bagi semua pemohon (asas kepastian hukum dan persamaan perlakuan). Skor tertinggi jujur soal standar waktu dan memudahkan pemohon memantau prosesnya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0059",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator loket di kantor kecamatan. Dalam sebulan masuk beberapa aduan bahwa seorang petugas loket sering berbicara ketus kepada warga. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menegur petugas itu di depan rekan-rekan dan warga agar menjadi pelajaran bagi yang lain.",
+        "score": 1,
+        "rationale": "Mempermalukan pegawai dan merusak suasana kerja."
+      },
+      {
+        "key": "B",
+        "text": "Mengusulkan agar petugas itu dipindahkan ke bagian arsip tanpa membicarakannya lebih dulu.",
+        "score": 2,
+        "rationale": "Menghindari pembinaan dan tidak menyelesaikan akar masalah."
+      },
+      {
+        "key": "C",
+        "text": "Berbicara empat mata dengan petugas itu untuk mengetahui penyebabnya, menyepakati perbaikan sikap beserta dukungan yang ia butuhkan, memantau perkembangannya, dan memberi tanggapan kepada warga yang mengadu.",
+        "score": 5,
+        "rationale": "Membina sampai ke penyebab, memantau, dan menuntaskan aduan."
+      },
+      {
+        "key": "D",
+        "text": "Menegur petugas itu secara empat mata dan memintanya memperbaiki sikap.",
+        "score": 4,
+        "rationale": "Tegas dan menjaga martabat, tetapi penyebab dan pemantauannya belum diperhatikan."
+      },
+      {
+        "key": "E",
+        "text": "Melaporkan aduan itu kepada camat agar ditangani.",
+        "score": 3,
+        "rationale": "Melibatkan pimpinan, tetapi melempar masalah yang masih dalam wewenang Anda."
+      }
+    ],
+    "explanation": "Koordinator bertanggung jawab membina bawahan dan menindaklanjuti aduan sampai tuntas (Berorientasi Pelayanan: perbaikan tiada henti; Harmonis dalam menjaga martabat pegawai).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0060",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket Disdukcapil. NIK seorang warga nonaktif karena terdeteksi data ganda, sehingga ia tidak dapat memakai jaminan kesehatan untuk jadwal cuci darah besok pagi. Pemulihan NIK biasanya memerlukan verifikasi satu sampai dua hari kerja. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyarankan warga meminta rumah sakit menunda jadwal cuci darahnya sampai NIK aktif.",
+        "score": 3,
+        "rationale": "Memindahkan beban kepada warga dan pihak lain."
+      },
+      {
+        "key": "B",
+        "text": "Memproses verifikasi sesuai urutan dan memberi tahu warga perkiraan waktu pemulihan NIK.",
+        "score": 4,
+        "rationale": "Tertib dan informatif, tetapi kebutuhan medis yang mendesak tidak diperjuangkan."
+      },
+      {
+        "key": "C",
+        "text": "Mengajukan prioritas verifikasi hari ini kepada atasan tanpa melewatkan tahapannya, dan memberi warga bukti bahwa pemulihan NIK sedang diproses.",
+        "score": 5,
+        "rationale": "Mempercepat secara sah tanpa mengorbankan kecermatan data."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan bahwa pemulihan NIK memang butuh waktu dan warga perlu bersabar.",
+        "score": 2,
+        "rationale": "Sesuai prosedur, tetapi abai pada keadaan darurat warga."
+      },
+      {
+        "key": "E",
+        "text": "Meminta operator mengaktifkan kembali NIK itu saat itu juga tanpa verifikasi data ganda, karena keselamatan warga lebih penting dan verifikasinya bisa dilengkapi setelah jadwal cuci darah selesai.",
+        "score": 1,
+        "rationale": "Melewati verifikasi demi iba dan berisiko merusak keakuratan data kependudukan."
+      }
+    ],
+    "explanation": "Dilema antara kecepatan memenuhi kebutuhan mendesak dan kecermatan data. Skor tertinggi mempercepat secara sah melalui prioritas tanpa melewati verifikasi (Berorientasi Pelayanan, Akuntabel, asas ketepatan waktu).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0061",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pelayanan di kantor Disdukcapil. Pukul 07.30, setengah jam sebelum layanan dibuka, belasan warga sudah menunggu di luar pagar di bawah terik matahari, padahal ruang tunggu sudah siap dipakai. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan kepada warga bahwa layanan baru dibuka pukul 08.00.",
+        "score": 3,
+        "rationale": "Informatif, tetapi kenyamanan warga diabaikan."
+      },
+      {
+        "key": "B",
+        "text": "Membiarkan warga tetap di luar sampai pukul 08.00 tepat, karena membuka ruang tunggu lebih awal akan membuat warga datang semakin pagi setiap hari, sementara petugas belum siap melayani.",
+        "score": 1,
+        "rationale": "Kaku dan mengabaikan kenyamanan warga demi kenyamanan petugas."
+      },
+      {
+        "key": "C",
+        "text": "Menunggu petugas keamanan membuka pagar sesuai jadwal biasa.",
+        "score": 2,
+        "rationale": "Pasif dan menyerahkan urusan kepada pihak lain."
+      },
+      {
+        "key": "D",
+        "text": "Mempersilakan warga menunggu di ruang tunggu yang sudah siap.",
+        "score": 4,
+        "rationale": "Peduli, tetapi urutan kedatangan belum diatur sehingga rawan berebut."
+      },
+      {
+        "key": "E",
+        "text": "Membuka ruang tunggu dengan izin pengelola kantor, mempersilakan warga duduk, dan membagikan nomor antrean sesuai urutan kedatangan.",
+        "score": 5,
+        "rationale": "Peduli pada kenyamanan warga dan tetap tertib."
+      }
+    ],
+    "explanation": "Nilai Berorientasi Pelayanan menuntut petugas ramah dan proaktif, termasuk memperhatikan kenyamanan sarana layanan. Skor tertinggi menjaga kenyamanan warga sekaligus ketertiban urutan kedatangan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0062",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pengelola media sosial dinas perizinan. Sebuah video pendek yang mulai ramai menuduh petugas loket dinas Anda meminta uang pelicin, tetapi tidak menyebut waktu kejadian maupun nama petugas. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengunggah pernyataan bahwa layanan dinas gratis tanpa menanggapi isi tuduhan.",
+        "score": 3,
+        "rationale": "Informatif, tetapi tuduhan tidak ditelusuri."
+      },
+      {
+        "key": "B",
+        "text": "Menyembunyikan komentar-komentar negatif di akun resmi agar isu tidak meluas.",
+        "score": 2,
+        "rationale": "Menutupi masalah demi citra."
+      },
+      {
+        "key": "C",
+        "text": "Meneruskan video itu kepada pimpinan dan pengawas internal untuk ditelusuri.",
+        "score": 4,
+        "rationale": "Tepat, tetapi publik dan pengunggah belum mendapat tanggapan resmi."
+      },
+      {
+        "key": "D",
+        "text": "Menanggapi lewat akun resmi dengan sopan, mengundang pengunggah menyampaikan rincian melalui kanal pengaduan, meneruskannya kepada pengawas internal, dan mengumumkan tindak lanjutnya setelah ada hasil.",
+        "score": 5,
+        "rationale": "Terbuka, objektif, dan menuntaskan penelusuran lewat jalur resmi."
+      },
+      {
+        "key": "E",
+        "text": "Membalas bahwa tuduhan itu fitnah dan mengancam melaporkan pengunggah ke polisi.",
+        "score": 1,
+        "rationale": "Defensif dan memperburuk kepercayaan publik."
+      }
+    ],
+    "explanation": "Keluhan publik ditangani secara terbuka, objektif, dan lewat kanal resmi (asas keterbukaan dan akuntabilitas). Skor tertinggi menanggapi, menelusuri lewat pengawas internal, dan menyampaikan hasilnya kepada publik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0063",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket di kantor kelurahan. Seorang warga meminta Anda membantunya mengisi formulir layanan daring di ponselnya, padahal antrean di belakangnya cukup panjang. Kantor menyediakan pojok layanan digital dengan petugas pendamping. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengantar warga ke pojok layanan digital dan menitipkannya kepada petugas pendamping, lalu kembali melayani antrean.",
+        "score": 5,
+        "rationale": "Kebutuhan warga terpenuhi oleh pihak yang tepat dan antrean tetap berjalan."
+      },
+      {
+        "key": "B",
+        "text": "Menolak karena tugas Anda hanya melayani berkas fisik.",
+        "score": 1,
+        "rationale": "Kaku dan mengabaikan kebutuhan warga."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga mengisi formulir di rumah dengan bantuan anggota keluarga yang lebih paham teknologi, lalu kembali ke loket esok hari agar antrean tidak tertahan.",
+        "score": 2,
+        "rationale": "Menjaga antrean, tetapi membebani warga padahal fasilitas bantuan tersedia."
+      },
+      {
+        "key": "D",
+        "text": "Menunjukkan letak pojok layanan digital dan menjelaskan bahwa petugas di sana dapat membantunya.",
+        "score": 4,
+        "rationale": "Mengarahkan dengan tepat, tetapi warga belum dipastikan terlayani."
+      },
+      {
+        "key": "E",
+        "text": "Membantu mengisi formulirnya di loket sampai selesai.",
+        "score": 3,
+        "rationale": "Menolong, tetapi antrean tertahan padahal ada fasilitas yang tepat."
+      }
+    ],
+    "explanation": "Petugas memanfaatkan fasilitas yang tersedia agar kebutuhan satu warga terpenuhi tanpa merugikan warga lain dalam antrean (asas kemudahan dan persamaan perlakuan, nilai Kolaboratif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0064",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pelayanan di kantor kecamatan. Seorang warga penyandang disabilitas psikososial datang sendirian, berbicara tidak runtut, dan tampak gelisah saat ditanya keperluannya. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta satpam menemaninya sampai ia tenang.",
+        "score": 2,
+        "rationale": "Menyerahkan pelayanan kepada pihak yang tidak tepat."
+      },
+      {
+        "key": "B",
+        "text": "Memintanya kembali bersama keluarga agar keperluannya lebih jelas.",
+        "score": 3,
+        "rationale": "Masuk akal, tetapi warga tidak dilayani hari itu."
+      },
+      {
+        "key": "C",
+        "text": "Memanggil nomor antrean berikutnya karena keperluan warga itu tidak jelas.",
+        "score": 1,
+        "rationale": "Diskriminatif dan mengabaikan hak warga."
+      },
+      {
+        "key": "D",
+        "text": "Mengajaknya duduk di tempat yang lebih tenang, bertanya pelan satu per satu, dan menghubungi keluarga atau pendampingnya bila ia setuju.",
+        "score": 5,
+        "rationale": "Menyesuaikan layanan dengan kebutuhan warga dan menghormati haknya."
+      },
+      {
+        "key": "E",
+        "text": "Bertanya dengan sabar dan perlahan tentang keperluannya, menuliskan jawaban yang ia berikan untuk memastikan Anda tidak salah tangkap, lalu memprosesnya sesuai prosedur bila keperluannya sudah jelas.",
+        "score": 4,
+        "rationale": "Sabar dan cermat, tetapi kenyamanan dan pendampingan warga belum dipertimbangkan."
+      }
+    ],
+    "explanation": "Asas kesamaan hak dan perlakuan khusus bagi kelompok rentan, serta nilai Harmonis (menghargai setiap orang). Skor tertinggi menciptakan suasana yang membuat warga nyaman dan melibatkan pendamping dengan persetujuannya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0065",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda koordinator layanan perekaman KTP-el. Kuota 100 nomor antrean harian sudah habis pukul 11.00, tetapi masih ada sekitar 30 warga yang datang dari desa jauh. Kuota itu dibuat agar petugas tidak kelelahan dan kualitas perekaman terjaga. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Meminta semua petugas melayani seluruh warga sampai selesai tanpa batas kuota.",
+        "score": 2,
+        "rationale": "Berniat baik, tetapi mengabaikan alasan kuota dan berisiko menurunkan kualitas perekaman."
+      },
+      {
+        "key": "B",
+        "text": "Mengecek kapasitas petugas dan meminta persetujuan pimpinan untuk tambahan kuota terbatas; warga yang tetap belum terlayani diberi jadwal pasti esok hari, dan pola ini dijadikan dasar usulan pendaftaran daring.",
+        "score": 5,
+        "rationale": "Mencari ruang tambahan secara sah, memberi kepastian, dan memperbaiki sistem."
+      },
+      {
+        "key": "C",
+        "text": "Membagikan nomor tambahan hanya kepada warga yang Anda kenal atau yang tampak paling kesal.",
+        "score": 1,
+        "rationale": "Diskriminatif dan tidak adil."
+      },
+      {
+        "key": "D",
+        "text": "Menyampaikan bahwa kuota sudah habis dan menyarankan warga datang lebih pagi esok hari.",
+        "score": 3,
+        "rationale": "Sesuai aturan, tetapi tanpa kepastian layanan."
+      },
+      {
+        "key": "E",
+        "text": "Memberi warga yang tidak kebagian nomor jadwal pasti untuk esok hari dengan prioritas.",
+        "score": 4,
+        "rationale": "Tertib dan memberi kepastian, tetapi belum mencari peluang melayani hari itu."
+      }
+    ],
+    "explanation": "Dilema antara menjaga kualitas layanan dan kapasitas petugas dengan memenuhi kebutuhan warga yang datang dari jauh. Skor tertinggi mencari ruang tambahan secara sah, memberi kepastian, dan memperbaiki sistem (Berorientasi Pelayanan, Adaptif).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0066",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Setelah jam layanan selesai, Anda menemukan map berisi fotokopi dokumen dan akta asli milik seorang warga tertinggal di meja loket. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengamankan map itu, menghubungi pemiliknya melalui kontak di berkas, dan mencatat serah terimanya saat ia mengambilnya.",
+        "score": 5,
+        "rationale": "Aman, proaktif, dan akuntabel."
+      },
+      {
+        "key": "B",
+        "text": "Mengamankan map itu di lemari loket dan menunggu pemiliknya datang mengambil.",
+        "score": 4,
+        "rationale": "Dokumen aman, tetapi pemilik tidak diberi tahu."
+      },
+      {
+        "key": "C",
+        "text": "Membawa pulang map itu agar aman dan mengembalikannya bila pemiliknya menghubungi.",
+        "score": 1,
+        "rationale": "Membawa dokumen warga ke luar kantor tanpa prosedur."
+      },
+      {
+        "key": "D",
+        "text": "Membiarkan map itu di meja karena pemiliknya pasti kembali.",
+        "score": 2,
+        "rationale": "Lalai menjaga dokumen warga."
+      },
+      {
+        "key": "E",
+        "text": "Menitipkan map itu kepada petugas keamanan yang berjaga malam, dengan pesan agar diserahkan kepada pemiliknya bila ia kembali mencarinya sebelum kantor dibuka esok hari.",
+        "score": 3,
+        "rationale": "Ada upaya, tetapi dokumen penting berpindah tangan tanpa pencatatan."
+      }
+    ],
+    "explanation": "Nilai Akuntabel menuntut petugas cermat menjaga dokumen warga. Skor tertinggi mengamankan dokumen, proaktif menghubungi pemilik, dan mencatat serah terimanya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0067",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Beberapa orang yang mengaku anggota sebuah organisasi kemasyarakatan datang dan meminta berkas mereka dilayani lebih dulu dengan nada mengintimidasi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memanggil atasan agar ia yang menghadapi mereka.",
+        "score": 3,
+        "rationale": "Melibatkan pihak yang tepat, tetapi terlalu cepat melempar situasi."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan dengan sopan bahwa semua warga dilayani sesuai nomor antrean.",
+        "score": 4,
+        "rationale": "Adil, tetapi belum siap menghadapi intimidasi yang berlanjut."
+      },
+      {
+        "key": "C",
+        "text": "Tetap tenang dan sopan, menjelaskan bahwa semua dilayani sesuai antrean, dan meminta bantuan satpam atau atasan bila intimidasi berlanjut.",
+        "score": 5,
+        "rationale": "Adil, tenang, dan siap memakai jalur pengamanan yang tepat."
+      },
+      {
+        "key": "D",
+        "text": "Mendahulukan berkas mereka agar suasana kembali kondusif, karena keselamatan petugas dan warga lain di ruang tunggu lebih penting daripada urutan antrean, lalu mencatat kejadian ini untuk dilaporkan kemudian.",
+        "score": 1,
+        "rationale": "Tunduk pada intimidasi dan melanggar asas persamaan perlakuan."
+      },
+      {
+        "key": "E",
+        "text": "Diam dan tidak menanggapi sampai mereka pergi sendiri.",
+        "score": 2,
+        "rationale": "Menghindar dan berpotensi memperkeruh suasana."
+      }
+    ],
+    "explanation": "Asas persamaan perlakuan tidak boleh kalah oleh tekanan. Skor tertinggi tetap tenang dan sopan, menegakkan aturan antrean, dan memakai jalur pengamanan yang tersedia bila intimidasi berlanjut (Akuntabel, Harmonis).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0068",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas pendaftaran di puskesmas. Seorang warga meminta surat keterangan sehat untuk melamar kerja, tetapi ingin langsung dibuatkan tanpa diperiksa dokter karena terburu-buru. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membuatkan surat itu karena warga tampak sehat dan sangat membutuhkannya.",
+        "score": 1,
+        "rationale": "Menerbitkan keterangan tanpa dasar yang sah."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan dengan sopan bahwa surat keterangan sehat hanya diterbitkan setelah pemeriksaan.",
+        "score": 4,
+        "rationale": "Benar, tetapi warga belum dibantu masuk ke alur pemeriksaan."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga mencari klinik lain yang lebih cepat.",
+        "score": 3,
+        "rationale": "Melepas tanggung jawab secara halus."
+      },
+      {
+        "key": "D",
+        "text": "Meminta warga mengisi formulir riwayat kesehatan dan menyampaikan bahwa dokter mungkin bisa membuat surat berdasarkan formulir itu bila antrean pemeriksaan sedang penuh.",
+        "score": 2,
+        "rationale": "Memberi harapan keliru yang menyimpang dari prosedur."
+      },
+      {
+        "key": "E",
+        "text": "Menjelaskan bahwa surat itu harus melalui pemeriksaan, mendaftarkannya ke pemeriksaan, dan memberi tahu perkiraan waktunya.",
+        "score": 5,
+        "rationale": "Tegas pada prosedur dan membantu warga menempuhnya dengan cepat."
+      }
+    ],
+    "explanation": "Asas kepastian hukum dan larangan memberi informasi menyesatkan (UU 25/2009 Pasal 34). Skor tertinggi menegakkan prosedur sambil membantu warga menempuh jalur yang benar secepat mungkin.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0069",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf pelayanan di kantor kecamatan. Seorang warga meminta surat keterangan domisili usaha, tetapi setelah diperiksa, lokasi usahanya berada di wilayah kecamatan sebelah. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa lokasi usahanya bukan wilayah kecamatan ini.",
+        "score": 3,
+        "rationale": "Benar, tetapi tidak membantu."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan bahwa surat itu diterbitkan oleh kecamatan tempat usaha berada, memberi alamat dan syaratnya, lalu memeriksa apakah layanan itu dapat diajukan daring agar warga tidak perlu datang lagi.",
+        "score": 5,
+        "rationale": "Tetap dalam wewenang dan memberi informasi yang tuntas."
+      },
+      {
+        "key": "C",
+        "text": "Menyarankan warga menanyakannya ke kantor kelurahan dekat rumahnya.",
+        "score": 2,
+        "rationale": "Mengarahkan ke pihak yang belum tentu tepat."
+      },
+      {
+        "key": "D",
+        "text": "Menjelaskan bahwa surat itu diterbitkan kecamatan tempat usaha berada dan memberikan alamat kantornya.",
+        "score": 4,
+        "rationale": "Benar dan mengarahkan, tetapi kurang lengkap."
+      },
+      {
+        "key": "E",
+        "text": "Menerbitkan surat itu dengan alamat usaha yang disesuaikan ke wilayah kecamatan Anda.",
+        "score": 1,
+        "rationale": "Memalsukan data dan bertindak di luar wewenang."
+      }
+    ],
+    "explanation": "Petugas tahu batas wewenang wilayahnya, tetapi tetap memastikan warga mendapat informasi lengkap untuk mengurus di tempat yang benar (asas kepastian hukum dan kemudahan, nilai Berorientasi Pelayanan).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0070",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Sahabat Anda sedang mengantre, tetapi nomornya terlewat saat ia ke toilet. SOP kantor menyatakan nomor yang terlewat dilayani setelah nomor yang sedang berjalan, dan aturan itu berlaku bagi semua warga. Ia kemudian datang ke loket Anda. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung melayaninya begitu ia kembali ke loket, karena ia hanya terlewat sebentar, keperluannya singkat, dan warga lain juga akan diperlakukan sama bila hal serupa terjadi.",
+        "score": 1,
+        "rationale": "Memberi keistimewaan kepada sahabat dengan dalih yang tidak sesuai SOP."
+      },
+      {
+        "key": "B",
+        "text": "Menyampaikan bahwa nomornya sudah hangus dan ia harus datang lagi besok.",
+        "score": 2,
+        "rationale": "Lebih keras daripada aturan dan merugikan hak warga."
+      },
+      {
+        "key": "C",
+        "text": "Meminta sahabat mengambil nomor antrean baru agar tidak ada kesan Anda memberi kelonggaran.",
+        "score": 3,
+        "rationale": "Menghindari kesan berpihak, tetapi mengurangi hak yang dimiliki semua warga."
+      },
+      {
+        "key": "D",
+        "text": "Menerapkan SOP yang sama seperti pada warga lain: melayaninya setelah nomor yang sedang berjalan, tanpa menambah atau mengurangi haknya.",
+        "score": 5,
+        "rationale": "Adil sesuai aturan yang berlaku umum, tanpa keistimewaan maupun hukuman."
+      },
+      {
+        "key": "E",
+        "text": "Meminta rekan di loket sebelah melayaninya sesuai SOP nomor terlewat agar tidak timbul benturan kepentingan.",
+        "score": 4,
+        "rationale": "Adil dan berhati-hati, tetapi menambah beban rekan untuk aturan yang sudah jelas."
+      }
+    ],
+    "explanation": "Dilema antara menghindari kesan berpihak dan memberikan hak yang sama. Adil berarti memberi hak sesuai aturan, tidak lebih dan tidak kurang, termasuk kepada orang dekat (asas persamaan perlakuan, nilai Akuntabel).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0071",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket perizinan. Seorang warga bertanya apakah izinnya bisa diurus tanpa datang ke kantor. Dinas Anda memang memiliki layanan daring resmi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menjelaskan bahwa izin tersebut dapat diajukan melalui laman resmi dinas, menyebutkan alamat lamannya dengan jelas, dan menyampaikan bahwa dokumen yang diunggah sama dengan dokumen yang biasa dibawa ke loket.",
+        "score": 4,
+        "rationale": "Informatif, tetapi warga belum dipastikan mampu memakai layanan itu."
+      },
+      {
+        "key": "B",
+        "text": "Menjelaskan layanan daring resmi, memperagakan langkahnya secara singkat, dan memberikan panduan tertulis atau kode QR menuju lamannya.",
+        "score": 5,
+        "rationale": "Informasi lengkap dan warga dipastikan mampu memakainya."
+      },
+      {
+        "key": "C",
+        "text": "Menyampaikan bahwa layanan daring ada, tetapi sering bermasalah sehingga lebih baik datang langsung.",
+        "score": 2,
+        "rationale": "Mengecilkan layanan resmi tanpa dasar dan tidak membantu."
+      },
+      {
+        "key": "D",
+        "text": "Menjawab bahwa layanan daring belum tersedia agar warga tetap datang ke loket.",
+        "score": 1,
+        "rationale": "Memberi informasi yang salah."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan warga mencari informasinya di media sosial dinas.",
+        "score": 3,
+        "rationale": "Mengarahkan secara umum tanpa kepastian."
+      }
+    ],
+    "explanation": "Memberi informasi yang lengkap dan benar serta memastikan warga mampu memakai kanal yang tersedia (asas kemudahan, nilai Adaptif dan Berorientasi Pelayanan).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0072",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda staf seksi pelayanan di kantor kecamatan. Seorang warga menyampaikan secara lisan keluhan tentang tumpukan sampah liar di dekat sekolah yang menimbulkan bau. Urusan itu ditangani seksi ketenteraman dan ketertiban serta dinas lingkungan hidup. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menyampaikan bahwa sampah bukan urusan seksi pelayanan.",
+        "score": 1,
+        "rationale": "Pasif dan tidak peduli."
+      },
+      {
+        "key": "B",
+        "text": "Mengantar warga ke ruang seksi ketenteraman dan ketertiban agar ia menyampaikan keluhannya sendiri, karena petugas di sana paling memahami prosedur penanganan sampah liar di wilayah kecamatan.",
+        "score": 3,
+        "rationale": "Membantu, tetapi menambah langkah bagi warga padahal keluhan bisa diteruskan."
+      },
+      {
+        "key": "C",
+        "text": "Mencatat keluhan itu, meneruskannya kepada seksi yang berwenang lewat jalur resmi, dan memberi tahu warga cara memantau tindak lanjutnya.",
+        "score": 5,
+        "rationale": "Aduan sampai ke pihak berwenang dan warga mendapat kepastian."
+      },
+      {
+        "key": "D",
+        "text": "Mencatat keluhan itu dan meneruskannya kepada seksi yang berwenang.",
+        "score": 4,
+        "rationale": "Tepat, tetapi warga tidak tahu kelanjutannya."
+      },
+      {
+        "key": "E",
+        "text": "Menyarankan warga melapor langsung ke dinas lingkungan hidup.",
+        "score": 2,
+        "rationale": "Melempar tanpa membantu."
+      }
+    ],
+    "explanation": "Petugas tahu batas wewenangnya, tetapi memastikan aduan sampai kepada pihak yang berwenang dan warga mengetahui tindak lanjutnya (Kolaboratif, asas partisipatif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0073",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda ASN baru di unit pelayanan perizinan. Anda melihat SOP mewajibkan warga menyerahkan fotokopi KTP di dua meja berbeda, sehingga banyak warga bolak-balik ke tempat fotokopi. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tetap menjalankan SOP yang berlaku, sambil mencatat dampaknya bagi warga dan mengusulkan penyederhanaan kepada atasan, misalnya berbagi salinan antarmeja atau memakai hasil pindai, melalui forum evaluasi resmi.",
+        "score": 5,
+        "rationale": "Patuh pada SOP sambil mengusulkan perbaikan berbasis data lewat jalur resmi."
+      },
+      {
+        "key": "B",
+        "text": "Mengeluhkan SOP itu kepada warga agar mereka memaklumi kerepotan yang terjadi.",
+        "score": 2,
+        "rationale": "Merusak citra instansi tanpa memperbaiki apa pun."
+      },
+      {
+        "key": "C",
+        "text": "Mengikuti SOP dan menunggu sampai Anda lebih lama bekerja sebelum mengusulkan perubahan.",
+        "score": 3,
+        "rationale": "Aman, tetapi tidak proaktif."
+      },
+      {
+        "key": "D",
+        "text": "Mengusulkan kepada atasan agar langkah ganda itu dihapus.",
+        "score": 4,
+        "rationale": "Proaktif, tetapi usulan belum didukung data dampak."
+      },
+      {
+        "key": "E",
+        "text": "Langsung berhenti meminta fotokopi kedua tanpa persetujuan atasan.",
+        "score": 1,
+        "rationale": "Menyimpang dari SOP secara sepihak."
+      }
+    ],
+    "explanation": "Nilai Adaptif dan Berorientasi Pelayanan (perbaikan tiada henti) mendorong usulan perbaikan, sedangkan Akuntabel dan Loyal menuntut SOP yang berlaku tetap dijalankan sampai diubah secara resmi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0074",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket pencatatan sipil. Seorang warga ingin mencatatkan kelahiran anaknya yang lahir di luar negeri dengan membawa akta kelahiran dari negara tersebut. Anda belum pernah menangani kasus seperti ini. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Menolak karena kasus itu belum pernah ditangani di kantor ini.",
+        "score": 1,
+        "rationale": "Menolak layanan yang menjadi hak warga."
+      },
+      {
+        "key": "B",
+        "text": "Meminta warga meninggalkan nomor teleponnya agar dihubungi setelah Anda mendapat informasi.",
+        "score": 3,
+        "rationale": "Ada tindak lanjut, tetapi warga menunggu tanpa kepastian waktu."
+      },
+      {
+        "key": "C",
+        "text": "Meminta rekan yang berpengalaman menangani permohonan tersebut.",
+        "score": 4,
+        "rationale": "Warga dilayani dengan tepat, tetapi Anda melewatkan kesempatan belajar."
+      },
+      {
+        "key": "D",
+        "text": "Mempelajari ketentuan pelaporan kelahiran di luar negeri dari SOP atau rekan, lalu memberi warga daftar syarat yang lengkap dan benar.",
+        "score": 5,
+        "rationale": "Kompeten, informasi lengkap, dan warga tidak perlu bolak-balik."
+      },
+      {
+        "key": "E",
+        "text": "Meminta warga menerjemahkan akta itu ke bahasa Indonesia lalu kembali lagi, karena dokumen asing biasanya memerlukan terjemahan, meskipun Anda belum memastikan syarat lainnya.",
+        "score": 2,
+        "rationale": "Memberi informasi sebagian yang bisa membuat warga bolak-balik."
+      }
+    ],
+    "explanation": "Nilai Kompeten mendorong petugas cepat mempelajari ketentuan, dan UU 25/2009 Pasal 34 melarang memberi informasi yang tidak lengkap atau salah. Skor tertinggi memberi syarat yang benar sekali jalan agar warga tidak bolak-balik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tkp-pelayanan_publik-pelayanan_publik-0075",
+    "subtest": "TKP",
+    "group": "pelayanan_publik",
+    "tag": "pelayanan_publik",
+    "stem": "Anda petugas loket. Seorang warga yang beberapa kali membuat keributan di kantor datang lagi untuk mengurus berkasnya. Rekan Anda menyarankan agar ia 'dilayani paling akhir saja supaya kapok'. Apa yang Anda lakukan?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengikuti saran rekan dan melayaninya paling akhir, karena keributan yang ia buat sebelumnya merugikan banyak warga lain sehingga wajar bila ia merasakan akibat perbuatannya sendiri.",
+        "score": 1,
+        "rationale": "Diskriminatif dan menjadikan layanan alat menghukum warga."
+      },
+      {
+        "key": "B",
+        "text": "Melayaninya sesuai nomor antrean seperti warga lain, tetap tegas pada tata tertib, dan meminta satpam bersiaga bila keributan terulang.",
+        "score": 5,
+        "rationale": "Adil, tegas, dan mengantisipasi gangguan lewat prosedur yang tepat."
+      },
+      {
+        "key": "C",
+        "text": "Melayaninya sesuai nomor antrean dan menolak saran rekan dengan sopan.",
+        "score": 4,
+        "rationale": "Adil, tetapi tanpa antisipasi bila keributan terulang."
+      },
+      {
+        "key": "D",
+        "text": "Meminta koordinator yang melayani warga itu agar Anda tidak terlibat.",
+        "score": 3,
+        "rationale": "Menghindar, meskipun tidak ikut memperlakukannya tidak adil."
+      },
+      {
+        "key": "E",
+        "text": "Melayaninya sesuai antrean, tetapi dengan sikap dingin dan seperlunya.",
+        "score": 2,
+        "rationale": "Adil secara urutan, tetapi tidak santun."
+      }
+    ],
+    "explanation": "Dilema antara menjaga ketertiban dan kenyamanan petugas dengan asas persamaan perlakuan. Layanan tidak boleh menjadi alat menghukum warga; ketertiban dijaga melalui prosedur keamanan (Harmonis, Berorientasi Pelayanan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

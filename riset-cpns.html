@@ -1,0 +1,258 @@
+<!doctype html>
+<html lang="id">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Riset Materi CPNS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{color-scheme:light;--bg:#F2F3F7;--surface:#FFFFFF;--ink:#191B29;--soft:#33364A;--muted:#585C72;--line:#D9DCE7;--hover:#F6F7FA;
+--red:#B3303A;--red-tint:#FBECED;--blue:#1F58A8;--blue-tint:#E9F0FB;--purple:#6440B5;--purple-tint:#F0EBFB;--green:#1E7A4C;--green-tint:#E6F4EC;
+--mono:"IBM Plex Mono",ui-monospace,Consolas,monospace;--sans:"IBM Plex Sans",system-ui,"Segoe UI",sans-serif;--cond:"IBM Plex Sans Condensed","Arial Narrow",system-ui,sans-serif}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){color-scheme:dark;--bg:#0F111A;--surface:#171A27;--ink:#E4E6EF;--soft:#C9CCDA;--muted:#9A9FB6;--line:#2A2E42;--hover:#1D2031;--red:#F2737B;--red-tint:#2B181B;--blue:#6FA6F3;--blue-tint:#15213A;--purple:#B09AF6;--purple-tint:#211B38;--green:#6CCB95;--green-tint:#14291E}}
+:root[data-theme="dark"]{color-scheme:dark;--bg:#0F111A;--surface:#171A27;--ink:#E4E6EF;--soft:#C9CCDA;--muted:#9A9FB6;--line:#2A2E42;--hover:#1D2031;--red:#F2737B;--red-tint:#2B181B;--blue:#6FA6F3;--blue-tint:#15213A;--purple:#B09AF6;--purple-tint:#211B38;--green:#6CCB95;--green-tint:#14291E}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.65}
+.wrap{max-width:900px;margin:0 auto;padding-inline:20px;padding-block:44px 80px}
+a{color:var(--purple);text-decoration-thickness:1px;text-underline-offset:3px}
+:focus-visible{outline:2px solid var(--purple);outline-offset:2px;border-radius:4px}
+.eyebrow{font-family:var(--mono);font-size:.78rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+h1{font-family:var(--cond);font-weight:700;font-size:clamp(2.1rem,6vw,3.2rem);line-height:1.05;margin:0 0 14px;text-wrap:balance}
+.lede{max-width:62ch;color:var(--muted);font-size:1.05rem;margin:0}
+.asof{display:flex;flex-wrap:wrap;gap:8px 18px;margin:22px 0 0;font-family:var(--mono);font-size:.8rem;color:var(--muted)}
+.asof b{color:var(--ink);font-weight:500}
+h2{font-family:var(--cond);font-weight:600;font-size:1.7rem;line-height:1.15;margin:56px 0 6px;text-wrap:balance}
+h2 .tag{display:inline-block;vertical-align:middle;margin-right:10px;font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--purple);font-weight:500}
+h3{font-family:var(--mono);font-size:.78rem;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin:28px 0 8px}
+p{margin:0 0 14px;max-width:70ch;color:var(--soft)}
+p strong,li strong{color:var(--ink)}
+ul,ol{margin:0 0 14px;padding-left:22px;color:var(--soft);max-width:70ch}
+li{margin:4px 0}
+code{font-family:var(--mono);font-size:.88em;color:var(--purple)}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden;margin:16px 0 20px}
+.callout{border-radius:10px;padding:14px 18px;margin:16px 0 20px;display:grid;grid-template-columns:max-content minmax(0,1fr);gap:4px 14px;align-items:baseline}
+.callout .k{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;white-space:nowrap}
+.callout p{margin:0;color:var(--ink);max-width:none}
+.callout.red{background:var(--red-tint)}.callout.red .k{color:var(--red)}
+.callout.blue{background:var(--blue-tint)}.callout.blue .k{color:var(--blue)}
+.callout.purple{background:var(--purple-tint)}.callout.purple .k{color:var(--purple)}
+.callout.green{background:var(--green-tint)}.callout.green .k{color:var(--green)}
+.tw{overflow-x:auto}
+table{border-collapse:collapse;width:100%;min-width:520px;font-size:.95rem}
+th,td{text-align:left;padding:10px 16px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-family:var(--mono);font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);font-weight:500;background:var(--hover)}
+td{color:var(--soft)}
+td:first-child{color:var(--ink);font-weight:600}
+tr:last-child td{border-bottom:0}
+td.num,th.num{text-align:right;font-variant-numeric:tabular-nums;font-family:var(--mono);font-size:.9rem}
+.total td{background:var(--hover);font-weight:600;color:var(--ink)}
+.chips{display:flex;flex-wrap:wrap;gap:8px;list-style:none;margin:0;padding:0}
+.chips li{font-size:.9rem;padding:5px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--soft)}
+.kisi{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:16px;margin:16px 0 20px}
+.kisi .panel{margin:0;padding:16px 18px}
+.kisi h4{font-family:var(--cond);font-size:1.15rem;margin:0 0 2px}
+.kisi .sub{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+.kisi ul{padding-left:18px;font-size:.93rem;margin:0}
+.kisi li b{color:var(--ink);font-weight:600}
+.kisi .grp{font-family:var(--mono);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--purple);margin:10px 0 4px}
+.flow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;list-style:none;margin:16px 0 20px;padding:0;counter-reset:s}
+.flow li{counter-increment:s;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 12px;font-size:.92rem;color:var(--ink)}
+.flow li::before{content:counter(s,decimal-leading-zero);font-family:var(--mono);font-size:.72rem;color:var(--purple);margin-right:8px}
+.flow li small{display:block;color:var(--muted);font-size:.8rem;margin-top:2px}
+.flow .arr{border:0;background:none;color:var(--muted);padding:0;font-family:var(--mono)}
+.flow .arr::before{content:none}
+pre{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px 18px;overflow-x:auto;font-family:var(--mono);font-size:.84rem;line-height:1.55;color:var(--soft);margin:16px 0 20px}
+pre .c{color:var(--muted)}
+.src{font-size:.9rem;columns:2;column-gap:28px;padding-left:20px}
+.src li{break-inside:avoid;margin:3px 0}
+.foot{font-family:var(--mono);font-size:.8rem;color:var(--muted);margin:48px 0 0;border-top:1px solid var(--line);padding-top:16px}
+@media (max-width:640px){.src{columns:1}.callout{grid-template-columns:minmax(0,1fr)}}
+</style>
+
+<div class="wrap" lang="id">
+<header>
+  <p class="eyebrow">Riset &middot; bahan aplikasi self-learning</p>
+  <h1>Riset Materi CPNS</h1>
+  <p class="lede">Apa yang diuji, bagaimana dinilai, dan sumber apa yang bisa dipakai untuk membangun aplikasi latihan CPNS. Dirangkum dari aturan KemenPANRB/BKN dan pemberitaan sampai 9 November 2026.</p>
+  <div class="asof"><span>Per <b>9 Nov 2026</b></span><span>Acuan utama <b>PermenPANRB 6/2024 &middot; KepmenPANRB 321/2024</b></span><span>Aturan 2026 <b>belum terbit</b></span></div>
+</header>
+
+<h2 id="status"><span class="tag">01</span>Status CPNS 2026</h2>
+<p>Pada <strong>Jumat, 6 November 2026</strong>, Mensesneg Prasetyo Hadi mengumumkan setelah rapat dengan pimpinan DPR bahwa pemerintah akan membuka rekrutmen CPNS tahun ini dan pendaftaran direncanakan <strong>berlangsung pada November 2026</strong>. Tanggal pastinya, jumlah formasi, dan daftar instansi masih menunggu pengumuman resmi KemenPANRB dan BKN.</p>
+<p>Formasi prioritas yang sudah disebut KemenPANRB: <strong>Polisi Hutan, Manggala Agni, Guru Sekolah Terintegrasi, Guru Sekolah Unggul Garuda</strong>, plus formasi lain pendukung program prioritas nasional. Angka <strong>160 ribu formasi</strong> beredar di media, tapi hanya muncul di judul dan caption gambar, bukan pernyataan resmi. Anggap belum terverifikasi.</p>
+<div class="callout red"><span class="k">Hati-hati</span><p>BKN berkali-kali menyatakan poster dan tautan "pendaftaran CPNS 2026 dibuka" yang beredar sejak Agustus 2026 adalah hoaks. Pendaftaran hanya lewat <code>sscasn.bkn.go.id</code>, gratis. Informasi resmi hanya dari domain <code>go.id</code>.</p></div>
+<h3>Syarat dasar (PermenPANRB 6/2024, cek ulang saat aturan 2026 terbit)</h3>
+<ul>
+  <li>Usia <strong>18 sampai 35 tahun</strong> saat mendaftar. Batas 40 tahun hanya untuk jabatan tertentu dengan kualifikasi khusus (misalnya dokter spesialis, dosen/peneliti dengan S3). Sumber media berbeda-beda soal daftar pastinya, jadi rujuk pengumuman formasi.</li>
+  <li>Bukan anggota atau pengurus partai politik, tidak pernah dipidana penjara 2 tahun atau lebih, tidak pernah diberhentikan tidak hormat.</li>
+  <li>PPPK boleh melamar CPNS tanpa mengundurkan diri (aturan 2024).</li>
+</ul>
+
+<h2 id="alur"><span class="tag">02</span>Alur seleksi</h2>
+<ol class="flow">
+  <li>Pengumuman formasi<small>sscasn.bkn.go.id</small></li><li class="arr">&rarr;</li>
+  <li>Seleksi administrasi<small>masa sanggah 3 hari</small></li><li class="arr">&rarr;</li>
+  <li>SKD (CAT BKN)<small>110 soal, 100 menit</small></li><li class="arr">&rarr;</li>
+  <li>SKB<small>CAT + tes tambahan instansi</small></li><li class="arr">&rarr;</li>
+  <li>Integrasi nilai<small>SKD 40% + SKB 60%</small></li><li class="arr">&rarr;</li>
+  <li>Pengumuman kelulusan</li>
+</ol>
+<p>Yang masuk SKB adalah peserta yang <strong>lolos semua passing grade</strong> SKD, diambil <strong>paling banyak 3 kali jumlah formasi</strong> berdasarkan peringkat. Jadi lolos ambang batas saja belum cukup; harus masuk 3 besar per kursi.</p>
+
+<h2 id="skd"><span class="tag">03</span>SKD: struktur dan penilaian</h2>
+<p>Ini bagian yang paling pasti dan paling penting untuk aplikasi, karena formatnya stabil sejak 2021 dan dipakai semua formasi.</p>
+<div class="panel"><div class="tw"><table>
+  <thead><tr><th>Subtes</th><th class="num">Soal</th><th>Skor per soal</th><th class="num">Maks</th><th class="num">Passing grade umum</th></tr></thead>
+  <tbody>
+    <tr><td>TWK <span style="font-weight:400;color:var(--muted)">Tes Wawasan Kebangsaan</span></td><td class="num">30</td><td>Benar 5, salah/kosong 0</td><td class="num">150</td><td class="num">65</td></tr>
+    <tr><td>TIU <span style="font-weight:400;color:var(--muted)">Tes Intelegensia Umum</span></td><td class="num">35</td><td>Benar 5, salah/kosong 0</td><td class="num">175</td><td class="num">80</td></tr>
+    <tr><td>TKP <span style="font-weight:400;color:var(--muted)">Tes Karakteristik Pribadi</span></td><td class="num">45</td><td>Tiap opsi bernilai 1 sampai 5, kosong 0</td><td class="num">225</td><td class="num">166</td></tr>
+    <tr class="total"><td>Total</td><td class="num">110</td><td>100 menit (130 menit untuk disabilitas sensorik netra)</td><td class="num">550</td><td class="num">311</td></tr>
+  </tbody>
+</table></div></div>
+<ul>
+  <li><strong>Setiap subtes harus lolos sendiri-sendiri.</strong> TWK 60 + TIU 100 + TKP 190 = 350 tetap gugur karena TWK kurang 5 poin.</li>
+  <li><strong>TKP tidak punya jawaban salah.</strong> Semua opsi bernilai, yang membedakan hanya 1 sampai 5. Kosong = 0, jadi selalu isi semua soal TKP.</li>
+  <li>Passing grade TKP 166 dari 225 berarti rata-rata <strong>3,7 per soal</strong>. Ini subtes yang paling sering menggugurkan peserta.</li>
+  <li>Rata-rata waktu <strong>54 detik per soal</strong>. Strategi umum: TKP atau TWK dulu, TIU terakhir karena butuh hitungan.</li>
+  <li>Nilai sama di SKD diurutkan: <strong>TKP, lalu TIU, lalu TWK</strong> tertinggi.</li>
+</ul>
+<h3>Passing grade kategori khusus (KepmenPANRB 321/2024)</h3>
+<div class="panel"><div class="tw"><table>
+  <thead><tr><th>Kategori</th><th>Ketentuan</th></tr></thead>
+  <tbody>
+    <tr><td>Umum, putra/putri Kalimantan</td><td>TWK 65, TIU 80, TKP 166</td></tr>
+    <tr><td>Lulusan cumlaude, diaspora</td><td>Kumulatif minimal 311 dan TIU minimal 85</td></tr>
+    <tr><td>Penyandang disabilitas, putra/putri Papua</td><td>Kumulatif minimal 286 dan TIU minimal 60</td></tr>
+  </tbody>
+</table></div></div>
+<div class="callout blue"><span class="k">Catatan</span><p>Angka di atas dari aturan 2024 dan dipakai lagi oleh media untuk 2026, tapi KepmenPANRB untuk 2026 belum terbit. Simpan angka-angka ini sebagai <em>konfigurasi</em> di aplikasi, bukan hardcode. Sekolah kedinasan 2026 misalnya memakai TKP 156, bukan 166.</p></div>
+
+<h2 id="kisi"><span class="tag">04</span>Kisi-kisi resmi SKD</h2>
+<p>Daftar berikut diambil dari dokumen BKD Sulawesi Tengah yang mengutip PermenPANRB 27/2021. Kisi-kisi 2024 identik. Setiap poin cocok dijadikan <strong>tag soal</strong> di aplikasi supaya statistik per materi bisa dihitung.</p>
+<div class="kisi">
+  <div class="panel">
+    <h4>TWK</h4><p class="sub">30 soal &middot; wawasan kebangsaan</p>
+    <ul>
+      <li><b>Nasionalisme.</b> Mewujudkan kepentingan nasional dengan tetap mempertahankan identitas nasional.</li>
+      <li><b>Integritas.</b> Kejujuran, ketangguhan, komitmen, konsistensi.</li>
+      <li><b>Bela negara.</b> Berperan aktif mempertahankan eksistensi bangsa dan negara.</li>
+      <li><b>Pilar negara.</b> Pancasila, UUD 1945, NKRI, Bhinneka Tunggal Ika.</li>
+      <li><b>Bahasa negara.</b> Bahasa Indonesia sebagai bahasa persatuan (muncul di kisi-kisi 2024).</li>
+    </ul>
+  </div>
+  <div class="panel">
+    <h4>TIU</h4><p class="sub">35 soal &middot; penalaran</p>
+    <p class="grp">Verbal</p>
+    <ul><li><b>Analogi</b> hubungan dua kata</li><li><b>Silogisme</b> menarik kesimpulan dari dua pernyataan</li><li><b>Analitis</b> menganalisis informasi lalu menyimpulkan</li></ul>
+    <p class="grp">Numerik</p>
+    <ul><li><b>Berhitung</b> hitung sederhana</li><li><b>Deret angka</b> pola hubungan angka</li><li><b>Perbandingan kuantitatif</b> dua data kuantitatif</li><li><b>Soal cerita</b> analisis kuantitatif</li></ul>
+    <p class="grp">Figural</p>
+    <ul><li><b>Analogi</b> hubungan dua gambar</li><li><b>Ketidaksamaan</b> perbedaan gambar</li><li><b>Serial</b> pola gambar</li></ul>
+  </div>
+  <div class="panel">
+    <h4>TKP</h4><p class="sub">45 soal &middot; situasi kerja, 5 opsi berskala</p>
+    <ul>
+      <li><b>Pelayanan publik.</b> Keramahtamahan dan efektivitas memenuhi kebutuhan orang lain sesuai wewenang.</li>
+      <li><b>Jejaring kerja.</b> Membangun hubungan, kerja sama, berbagi informasi, kolaborasi.</li>
+      <li><b>Sosial budaya.</b> Beradaptasi dalam masyarakat majemuk.</li>
+      <li><b>Teknologi informasi dan komunikasi.</b> Memanfaatkan TI untuk meningkatkan kinerja.</li>
+      <li><b>Profesionalisme.</b> Melaksanakan tugas sesuai tuntutan jabatan.</li>
+      <li><b>Anti radikalisme.</b> Pengetahuan, kecenderungan sikap, dan tindakan terhadap radikalisme.</li>
+    </ul>
+  </div>
+</div>
+<p>Topik TWK yang paling sering keluar menurut pembahasan bimbel: makna tiap sila dan sejarah perumusan Pancasila, amandemen UUD 1945 (tahun dan pasal yang berubah), bentuk negara dan otonomi daerah, makna Bhinneka Tunggal Ika, sejarah pergerakan nasional, serta ejaan dan kalimat efektif bahasa Indonesia.</p>
+
+<h2 id="skb"><span class="tag">05</span>SKB: bervariasi per jabatan dan instansi</h2>
+<p>SKB mengukur kompetensi bidang sesuai jabatan yang dilamar. Komponen utamanya <strong>SKB CAT BKN</strong>, dan instansi boleh menambah tes lain: psikotes, tes potensi akademik, bahasa asing, kesehatan jiwa, kesamaptaan, praktik kerja, sertifikat kompetensi, wawancara.</p>
+<ul>
+  <li>Bobot SKB CAT minimal <strong>50% dari total SKB untuk instansi pusat</strong> dan <strong>60% untuk instansi daerah</strong>. Wawancara non-CAT di instansi pusat maksimal 10%. Contoh 2024: Kemendikbudristek CAT 80% + wawancara 20%; BKN CAT 75% + praktik 25%.</li>
+  <li>Soal SKB CAT untuk <strong>jabatan fungsional</strong> disusun instansi pembina JF; untuk <strong>jabatan pelaksana</strong> disusun instansi teknis atau memakai soal JF serumpun. Jumlah soal dan nilai ambang ditetapkan Panselnas. Sesi di beberapa instansi 2024 berdurasi 90 menit.</li>
+  <li>Kisi-kisi SKB 2024 dirilis KemenPANRB per jabatan (contoh Analis Kebijakan Ahli Pertama: konsep kebijakan publik, metodologi riset kebijakan, analisis kebijakan, komunikasi dan konsultasi kebijakan, pemetaan stakeholder). Dokumen lengkapnya beredar sebagai PDF hasil scan di situs BKPSDM daerah.</li>
+  <li>Nilai akhir = <strong>40% SKD + 60% SKB</strong>, dikonversi ke skala 100. Nilai sama diurutkan: SKD kumulatif, lalu TKP, TIU, TWK, lalu IPK/nilai ijazah, lalu usia tertua.</li>
+</ul>
+<div class="callout purple"><span class="k">Implikasi</span><p>Untuk versi pertama aplikasi, fokus ke SKD. SKB terlalu bergantung pada jabatan dan instansi, dan kisi-kisinya baru keluar setelah hasil SKD. Modul SKB bisa menyusul untuk 3 sampai 5 jabatan dengan pelamar terbanyak (guru, perawat, pranata komputer, analis kebijakan, penata layanan operasional).</p></div>
+
+<h2 id="sumber"><span class="tag">06</span>Sumber soal dan materi</h2>
+<p><strong>Tidak ditemukan dataset soal SKD yang open source</strong> (GitHub, JSON, CSV) dari pencarian ini. Yang ada:</p>
+<div class="panel"><div class="tw"><table>
+  <thead><tr><th>Sumber</th><th>Isi</th><th>Catatan pemakaian</th></tr></thead>
+  <tbody>
+    <tr><td>cat.bkn.go.id/simulasi</td><td>Simulasi CAT resmi, gratis, kuota 1.500/hari</td><td>Hanya pengenalan sistem, bukan kisi-kisi. Bagus untuk meniru alur UI: timer, navigasi soal, tanda ragu-ragu, skor langsung.</td></tr>
+    <tr><td>Media (Tirto, Detik, Dealls, Bisnis)</td><td>Kumpulan 25 sampai 182 contoh soal + pembahasan, sebagian PDF 2021</td><td>Berhak cipta. Pakai sebagai referensi gaya dan tingkat kesulitan, jangan disalin mentah.</td></tr>
+    <tr><td>Teks peraturan</td><td>UUD 1945 + amandemen, UU ASN, Tap MPR, UU 24/2009 (bendera, bahasa, lambang)</td><td>Dokumen negara, bebas dipakai. Sumber utama untuk menulis soal TWK yang bisa diverifikasi. Ambil dari peraturan.bpk.go.id atau JDIH.</td></tr>
+    <tr><td>Kisi-kisi resmi</td><td>PermenPANRB 27/2021, 6/2024; KepmenPANRB 321/2024</td><td>Dasar taksonomi tag soal dan aturan skor.</td></tr>
+    <tr><td>Aplikasi pesaing</td><td>MisiPNS, Viracun, EKSAM, Analitica, Impia, literasihukum.com</td><td>Fitur umum: tryout CAT berbayar per paket, pembahasan, ranking, bank soal per subtes. Belum ada yang menonjol secara unduhan.</td></tr>
+  </tbody>
+</table></div></div>
+<p>Konsekuensinya, <strong>bank soal harus dibuat sendiri</strong>: tulis manual atau generate dengan LLM dari teks peraturan dan kisi-kisi, lalu ditinjau. Untuk TKP, kunci skornya adalah urutan 5 opsi dari paling efektif ke paling tidak efektif, bukan satu jawaban benar.</p>
+
+<h2 id="app"><span class="tag">07</span>Catatan desain aplikasi</h2>
+<h3>Fitur yang mengikuti aturan ujian</h3>
+<ul>
+  <li><strong>Mode tryout CAT:</strong> 110 soal campur sesuai urutan asli, 100 menit, bebas lompat antar soal, tandai ragu-ragu, skor per subtes langsung tampil.</li>
+  <li><strong>Lolos/gugur per subtes</strong>, bukan total. Tampilkan jarak ke passing grade masing-masing.</li>
+  <li><strong>Skoring TKP 1 sampai 5</strong> per opsi. Pembahasan TKP menampilkan nilai semua opsi dan alasannya.</li>
+  <li><strong>Analitik per tag kisi-kisi</strong> (misalnya "TIU &rsaquo; numerik &rsaquo; deret angka"): akurasi dan rata-rata detik per soal, dibandingkan target 54 detik.</li>
+  <li><strong>Latihan terarah:</strong> drill per tag yang lemah, dengan spaced repetition untuk TWK (hafalan) dan latihan berwaktu untuk TIU (kecepatan).</li>
+  <li><strong>Passing grade sebagai konfigurasi</strong> per tahun dan per kategori pelamar, supaya mudah diperbarui saat Kepmen 2026 terbit.</li>
+</ul>
+<h3>Usulan skema soal</h3>
+<pre>{
+  "id": "tiu-num-deret-0042",
+  "subtes": "TIU",                 <span class="c">// TWK | TIU | TKP</span>
+  "tag": ["numerik", "deret_angka"],
+  "soal": "2, 3, 5, 8, 12, 17, ...",
+  "gambar": null,                  <span class="c">// untuk figural</span>
+  "opsi": [
+    { "key": "A", "teks": "21", "skor": 0 },
+    { "key": "B", "teks": "23", "skor": 5 },  <span class="c">// TWK/TIU: satu opsi 5, sisanya 0</span>
+    { "key": "C", "teks": "24", "skor": 0 },  <span class="c">// TKP: lima opsi bernilai 1..5</span>
+    { "key": "D", "teks": "25", "skor": 0 },
+    { "key": "E", "teks": "27", "skor": 0 }
+  ],
+  "pembahasan": "Selisihnya +1, +2, +3, +4, +5, jadi 17 + 6 = 23.",
+  "sumber": "ditulis sendiri",     <span class="c">// atau rujukan pasal untuk TWK</span>
+  "tingkat": 2,                    <span class="c">// 1 mudah .. 3 sulit</span>
+  "status": "reviewed"
+}</pre>
+<p>Satu skema untuk ketiga subtes: TWK/TIU cukup satu opsi berskor 5, TKP memakai skor 1 sampai 5 di semua opsi. Skor subtes = jumlah skor opsi yang dipilih, persis seperti CAT.</p>
+
+<h2 id="verifikasi"><span class="tag">08</span>Yang masih perlu diverifikasi</h2>
+<ul>
+  <li>KepmenPANRB nilai ambang batas <strong>2026</strong>: belum terbit. Pantau jdih.menpan.go.id dan sscasn.bkn.go.id setelah formasi diumumkan.</li>
+  <li>Apakah struktur SKD 2026 tetap 30/35/45 dan 100 menit. Semua sumber mengasumsikan sama, tapi belum ada konfirmasi.</li>
+  <li>Daftar pasti pengecualian usia 40 tahun untuk 2026. Sumber 2024 saling berbeda.</li>
+  <li>Jumlah soal dan durasi SKB CAT (ditetapkan Panselnas per tahun; dokumen 2024 yang saya temukan hanya PDF hasil scan).</li>
+  <li>Dokumen SE/surat resmi KemenPANRB soal kisi-kisi SKB 2024 tidak bisa diambil langsung (server <code>sippn.menpan.go.id</code> tidak terjangkau).</li>
+</ul>
+
+<h2 id="referensi"><span class="tag">09</span>Sumber</h2>
+<ol class="src">
+  <li><a href="https://www.cnnindonesia.com/ekonomi/20261108122320-532-1424631/pendaftaran-cpns-2026-dibuka-november-ini-bocoran-formasinya">CNN Indonesia, 8 Nov 2026: pendaftaran November, formasi prioritas</a></li>
+  <li><a href="https://www.detik.com/kalimantan/berita/d-8742677/cpns-2026-dibuka-november-ini-tahapan-seleksi-dan-durasi-tes">detikKalimantan, 7 Nov 2026: tahapan seleksi dan durasi tes</a></li>
+  <li><a href="https://www.tvonenews.com/berita/477306-dibuka-november-ini-kemenpanrb-kasih-bocoran-formasi-untuk-cpns-2026">tvOne, 9 Nov 2026: pernyataan Mensesneg dan KemenPANRB</a></li>
+  <li><a href="https://www.cnbcindonesia.com/news/20261106114431-4-782922/pengumuman-pendaftaran-casn-dibuka-november-2026">CNBC Indonesia, 6 Nov 2026: pendaftaran CASN November</a></li>
+  <li><a href="https://www.antaranews.com/berita/5680245/cpns-2026-sudah-dibuka-ini-penjelasan-resmi-bkn-dan-jadwal-terbarunya">Antara, 5 Agu 2026: BKN soal hoaks pendaftaran</a></li>
+  <li><a href="https://www.bkd.sultengprov.go.id/Panel-Page-Dahsboard/Asset/Dokumen_BKD/Informasi_Artitul_Pdf/Pdf_Brt21717741827_Seleksi%20Kompetensi%20Dasar%20(SKD).pdf">BKD Sulteng: kisi-kisi SKD/SKB lengkap (PDF)</a></li>
+  <li><a href="https://peraturan.bpk.go.id/Details/294203/permen-panrb-no-6-tahun-2024">PermenPANRB 6/2024 tentang Pengadaan ASN (BPK)</a></li>
+  <li><a href="https://news.detik.com/berita/d-7549250/daftar-kisi-kisi-skd-cpns-2024-resmi-kemenpanrb-cek-di-sini">detik: kisi-kisi SKD 2024 resmi KemenPANRB</a></li>
+  <li><a href="https://belajarcpns.id/panduan/passing-grade-skd-2026">belajarcpns.id: passing grade dan KepmenPANRB 321/2024</a></li>
+  <li><a href="https://money.kompas.com/read/2026/09/29/121349726/cek-passing-grade-skd-sekolah-kedinasan-2026-ini-nilai-minimal-twk-tiu-dan-tkp?page=all">Kompas: passing grade sekolah kedinasan 2026 (TKP 156)</a></li>
+  <li><a href="https://bkn.go.id/unggahan/2025/01/02.-Lampiran-II-Rincian-Hasil-Integrasi-SKD-SKB-CPNS-BKN-T.A.-2024.pdf">BKN: lampiran integrasi SKD 40% / SKB 60% (PDF)</a></li>
+  <li><a href="https://www.detik.com/edu/detikpedia/d-7664607/perhatikan-bobot-nilai-skb-cpns-2024-agar-lolos-seleksi-satu-tahap-terakhir">detik: bobot SKB CAT pusat/daerah</a></li>
+  <li><a href="https://tirto.id/rangkaian-tes-skb-cpns-kemdikbudristek-2024-bobot-penilaiannya-g5oK">Tirto: contoh bobot SKB Kemendikbudristek 2024</a></li>
+  <li><a href="https://www.detik.com/edu/detikpedia/d-7634180/kisi-kisi-skb-cpns-2024-tes-mulai-minggu-depan">detik: cara penyusunan soal SKB JF dan pelaksana</a></li>
+  <li><a href="https://www.kompas.com/tren/read/2024/09/10/103000865/cara-ikut-simulasi-cat-bkn-gratis-untuk-latihan-skd-cpns-2024?page=all">Kompas: simulasi CAT BKN gratis</a></li>
+  <li><a href="https://www.detik.com/sulsel/berita/d-8605767/batas-usia-cpns-2026-pahami-sebelum-mendaftar">detikSulsel: batas usia CPNS 2026</a></li>
+  <li><a href="https://katadata.co.id/lifestyle/varia/6a793de19d5ea/rangkuman-12-link-latihan-soal-cpns-dari-tkd-twk-tiu">Katadata: 12 link latihan soal</a></li>
+  <li><a href="https://dealls.com/pengembangan-karir/contoh-soal-cpns">Dealls: 120 contoh soal + pembahasan</a></li>
+  <li><a href="https://appgoblin.info/apps/com.misipns.app">AppGoblin: data aplikasi MisiPNS</a></li>
+  <li><a href="https://www.rctiplus.com/news/detail/ekonomi/5411964/jelang-seleksi-cpns-2026--pahami-mekanisme-cat">RCTI+: mekanisme CAT dan simulasi swasta</a></li>
+</ol>
+<p class="foot">Dokumen BKD Sulteng menulis nilai maksimal TWK 175 dan TIU 150; itu tertukar. 30 soal &times; 5 = 150 untuk TWK, 35 &times; 5 = 175 untuk TIU. Angka di laporan ini sudah dibetulkan.</p>
+</div>
+
+</html>

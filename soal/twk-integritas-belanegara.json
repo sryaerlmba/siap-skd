@@ -1,0 +1,1762 @@
+[
+  {
+    "id": "twk-integritas-antikorupsi-0001",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "KPK merumuskan sembilan nilai antikorupsi yang dibagi ke dalam tiga kelompok. Nilai yang seluruhnya termasuk kelompok inti adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "jujur, adil, dan berani",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "jujur, disiplin, dan tanggung jawab",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kerja keras, sederhana, dan mandiri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "disiplin, peduli, dan kerja keras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "tanggung jawab, adil, dan sederhana",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kelompok inti terdiri atas jujur, disiplin, dan tanggung jawab. Kerja keras, sederhana, dan mandiri termasuk etos kerja, sedangkan adil, berani, dan peduli termasuk sikap.",
+    "difficulty": 1,
+    "source": "Sembilan nilai antikorupsi KPK",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0002",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Setelah dipromosikan, penghasilan Hendra meningkat. Namun, ia tetap hidup sesuai kemampuan, tidak membeli barang mewah dengan cicilan, dan menolak ajakan rekan untuk ikut arisan tas bermerek. Nilai antikorupsi yang paling menonjol pada sikap Hendra beserta kelompoknya adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kerja keras, termasuk kelompok etos kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "sederhana, termasuk kelompok sikap",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "jujur, termasuk kelompok inti",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "sederhana, termasuk kelompok etos kerja",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "tanggung jawab, termasuk kelompok inti",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hidup sesuai kemampuan dan tidak bermewah-mewahan adalah nilai sederhana, yang bersama kerja keras dan mandiri termasuk kelompok etos kerja.",
+    "difficulty": 2,
+    "source": "Sembilan nilai antikorupsi KPK",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0003",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "UU 31/1999 jo. UU 20/2001 mengelompokkan tindak pidana korupsi ke dalam tujuh kelompok. Yang tidak termasuk salah satu dari tujuh kelompok tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "perbuatan curang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "penggelapan dalam jabatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "benturan kepentingan dalam pengadaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "gratifikasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pencucian uang hasil tindak pidana",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Tujuh kelompoknya adalah kerugian keuangan negara, suap-menyuap, penggelapan dalam jabatan, pemerasan, perbuatan curang, benturan kepentingan dalam pengadaan, dan gratifikasi. Pencucian uang diatur dalam undang-undang tersendiri.",
+    "difficulty": 2,
+    "source": "UU 31/1999 jo. UU 20/2001",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0004",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Seorang petugas kantor pertanahan mengatakan kepada pemohon bahwa berkasnya baru akan diproses jika pemohon menyerahkan \"uang percepatan\" sebesar Rp2 juta. Pemohon terpaksa membayar karena khawatir berkasnya ditahan. Perbuatan petugas tersebut termasuk kelompok korupsi...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "suap-menyuap",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pemerasan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "gratifikasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "perbuatan curang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "penggelapan dalam jabatan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pemerasan terjadi ketika pejabat meminta atau memaksa pemberian dengan menyalahgunakan kekuasaannya. Pada suap ada kesepakatan kedua pihak, sedangkan gratifikasi diberikan tanpa permintaan.",
+    "difficulty": 1,
+    "source": "UU 31/1999 jo. UU 20/2001 Pasal 12 huruf e",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0005",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Direktur sebuah perusahaan konstruksi dan seorang pejabat pembuat komitmen bersepakat: jika perusahaan itu ditetapkan sebagai pemenang tender, pejabat tersebut akan menerima 10 persen dari nilai kontrak. Perbuatan keduanya termasuk kelompok korupsi...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "suap-menyuap",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pemerasan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "gratifikasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "benturan kepentingan dalam pengadaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "penggelapan dalam jabatan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ada kesepakatan antara pemberi dan penerima sebelum pemberian, sehingga perbuatan ini adalah suap-menyuap. Pemerasan berasal dari permintaan sepihak pejabat, sedangkan gratifikasi tidak didahului kesepakatan.",
+    "difficulty": 1,
+    "source": "UU 31/1999 jo. UU 20/2001 Pasal 5 dan Pasal 12 huruf a",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0006",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Seorang kepala seksi perizinan menerima uang Rp25 juta dari pengusaha yang izinnya sedang ia proses dan tidak pernah melaporkannya ke KPK. Di persidangan, ia berdalih uang itu hanya hadiah. Menurut Pasal 12B UU 31/1999 jo. UU 20/2001, pihak yang wajib membuktikan bahwa pemberian itu bukan suap adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "penuntut umum, karena beban pembuktian dalam perkara pidana selalu ada padanya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pengusaha pemberi uang, karena ia yang berinisiatif memberi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kepala seksi itu, karena nilainya Rp10 juta atau lebih",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hakim, berdasarkan keterangan saksi dan barang bukti",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "penyidik KPK, karena perkara gratifikasi menjadi kewenangannya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Untuk gratifikasi bernilai Rp10 juta atau lebih, pembuktian bahwa pemberian itu bukan suap dibebankan kepada penerima; di bawah Rp10 juta, penuntut umum yang membuktikan.",
+    "difficulty": 2,
+    "source": "UU 31/1999 jo. UU 20/2001 Pasal 12B ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0007",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Dimas, analis anggaran di sebuah dinas, menerima jam tangan dari vendor yang sedang mengajukan penawaran ke dinasnya. Ia melaporkan penerimaan itu langsung ke KPK 18 hari kerja setelah menerimanya. Akibat hukum yang tepat berdasarkan Pasal 12C UU 31/1999 jo. UU 20/2001 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "jam tangan otomatis menjadi milik Dimas karena penerimaannya sudah dilaporkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "laporan tidak dapat diproses karena seharusnya disampaikan pada hari yang sama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dimas cukup mengembalikan jam tangan kepada vendor tanpa perlu ada penetapan KPK",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dimas tetap dianggap menerima suap karena melapor setelah lewat 7 hari kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "ketentuan Pasal 12B tidak berlaku baginya karena ia melapor dalam 30 hari kerja",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 12C menyatakan ketentuan gratifikasi dalam Pasal 12B tidak berlaku bila penerima melapor ke KPK paling lambat 30 hari kerja sejak diterima. Status barangnya kemudian ditetapkan oleh KPK.",
+    "difficulty": 2,
+    "source": "UU 31/1999 jo. UU 20/2001 Pasal 12C",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0008",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Berdasarkan Peraturan KPK Nomor 1 Tahun 2026, hadiah pernikahan yang diterima pegawai negeri tidak wajib dilaporkan sebagai gratifikasi selama nilainya per pemberi tidak lebih dari...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rp300 ribu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rp500 ribu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rp1 juta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rp1,5 juta",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rp2 juta",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Peraturan KPK 1/2026 menaikkan batas hadiah pernikahan atau upacara adat dan agama yang tidak wajib dilapor menjadi Rp1,5 juta per pemberi; aturan lama memakai Rp1 juta.",
+    "difficulty": 2,
+    "source": "Peraturan KPK Nomor 1 Tahun 2026",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0009",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Pernyataan berikut yang sesuai dengan ketentuan gratifikasi dalam Peraturan KPK Nomor 1 Tahun 2026 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pemberian bukan uang antarrekan kerja tidak wajib dilapor sampai Rp500 ribu per pemberian, dengan total Rp1,5 juta per tahun",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "hadiah pernikahan atau upacara adat tidak wajib dilapor sampai Rp1 juta per pemberi, sama seperti ketentuan sebelumnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pemberian bukan uang antarrekan kerja tidak wajib dilapor sampai Rp200 ribu per pemberian, tanpa batas total dalam setahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "hadiah dalam acara pisah sambut, pensiun, dan ulang tahun masih dikecualikan dari kewajiban lapor sampai Rp300 ribu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "laporan gratifikasi yang belum lengkap harus dilengkapi paling lambat 30 hari kerja sejak diminta oleh KPK",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Peraturan KPK 1/2026 menetapkan batas pemberian bukan uang antarrekan kerja Rp500 ribu per pemberian dan Rp1,5 juta per tahun, menaikkan batas hadiah pernikahan menjadi Rp1,5 juta, menghapus kategori pisah sambut, pensiun, dan ulang tahun, serta memberi waktu 20 hari kerja untuk melengkapi laporan.",
+    "difficulty": 3,
+    "source": "Peraturan KPK Nomor 1 Tahun 2026",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-antikorupsi-0010",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "antikorupsi",
+    "stem": "Rudi, ASN bagian pengawasan proyek, menggelar resepsi pernikahan pada Maret 2026. Ia menerima amplop dari tiga tamu: teman kuliah Rp1.250.000, tetangga Rp300.000, dan direktur perusahaan rekanan yang proyeknya sedang ia awasi Rp3.000.000. Berdasarkan Peraturan KPK Nomor 1 Tahun 2026, pemberian yang wajib dilaporkan Rudi adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "semua amplop, karena setiap pemberian kepada ASN wajib dilaporkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tidak ada, karena hadiah pernikahan selalu dikecualikan dari kewajiban lapor",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "hanya amplop dari direktur perusahaan rekanan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "amplop dari teman kuliah dan dari direktur perusahaan rekanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "amplop dari tetangga dan direktur perusahaan rekanan karena keduanya bukan keluarga",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Batas baru hadiah pernikahan yang tidak wajib dilapor adalah Rp1,5 juta per pemberi, sehingga hanya amplop Rp3 juta dari direktur rekanan yang wajib dilaporkan. Opsi yang ikut menyertakan teman kuliah masih memakai batas lama Rp1 juta.",
+    "difficulty": 3,
+    "source": "Peraturan KPK Nomor 1 Tahun 2026",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0001",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Pasal 4 UU 20/2023 tentang Aparatur Sipil Negara menetapkan nilai dasar ASN yang disingkat BerAKHLAK. Yang bukan bagian dari nilai dasar tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Akuntabel",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Harmonis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Profesional",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kolaboratif",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Adaptif",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "BerAKHLAK adalah Berorientasi pelayanan, Akuntabel, Kompeten, Harmonis, Loyal, Adaptif, dan Kolaboratif. Profesional bukan salah satunya.",
+    "difficulty": 1,
+    "source": "UU 20/2023 Pasal 4",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0002",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Menurut Pasal 24 UU 20/2023, pegawai ASN wajib setia dan taat kepada Pancasila, UUD 1945, Negara Kesatuan Republik Indonesia, dan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pimpinan instansi tempatnya bekerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pemerintah yang sah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "partai politik pemenang pemilihan umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kepala daerah yang mengangkatnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pemerintah yang dipilih mayoritas rakyat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24 mewajibkan ASN setia dan taat kepada Pancasila, UUD 1945, NKRI, dan pemerintah yang sah, bukan kepada pejabat, kepala daerah, atau partai tertentu.",
+    "difficulty": 2,
+    "source": "UU 20/2023 Pasal 24",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0003",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Sepulang perjalanan dinas, Lina menyusun laporan pertanggungjawaban sesuai bukti pengeluaran yang sebenarnya dan menyetorkan kembali sisa uang muka ke kas negara, meskipun rekannya berkata sisa sekecil itu tidak akan diperiksa. Perilaku Lina paling mencerminkan nilai dasar ASN...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Loyal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kompeten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Harmonis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Berorientasi pelayanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Akuntabel",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Akuntabel berarti bertanggung jawab atas kepercayaan yang diberikan: jujur, cermat, dan memakai uang negara secara bertanggung jawab walaupun tidak diawasi.",
+    "difficulty": 1,
+    "source": "UU 20/2023 Pasal 4",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0004",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Seorang kenalan yang bekerja di perusahaan konsultan meminta Tono, staf bagian perencanaan, mengirimkan draf rencana pengadaan tahun depan yang belum diumumkan. Tono menolak karena dokumen itu termasuk rahasia jabatan yang wajib ia jaga. Sikap Tono sesuai dengan nilai BerAKHLAK...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Loyal",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kompeten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kolaboratif",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Harmonis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Adaptif",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menjaga rahasia jabatan dan rahasia negara termasuk perilaku nilai Loyal, di samping setia kepada Pancasila, UUD 1945, dan NKRI.",
+    "difficulty": 2,
+    "source": "UU 20/2023 Pasal 4",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0005",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Menjelang pemilihan kepala daerah, seorang ASN membagikan ulang unggahan kampanye salah satu pasangan calon di akun media sosial pribadinya dan menulis komentar dukungan. Ia melakukannya pada hari libur dan tanpa memakai atribut ASN. Penilaian yang tepat atas perbuatan itu adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tidak melanggar, karena dilakukan di luar jam kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tidak melanggar, karena tidak memakai seragam atau atribut ASN",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "melanggar hanya jika ASN tersebut terdaftar sebagai anggota tim kampanye resmi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "melanggar kewajiban netralitas, yang berlaku juga di media sosial pribadi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "melanggar hanya jika unggahan dibuat dengan perangkat milik kantor",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "ASN wajib menjaga netralitas dan bebas dari pengaruh golongan serta partai politik; mendukung calon, termasuk lewat media sosial pribadi dan di luar jam kerja, tetap melanggar.",
+    "difficulty": 2,
+    "source": "UU 20/2023 Pasal 9 ayat (2) dan Pasal 24",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-kode_etik_asn-0006",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "kode_etik_asn",
+    "stem": "Berikut beberapa tindakan PNS. Tindakan yang termasuk larangan menurut PP 94/2021 tentang Disiplin PNS adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "menggunakan hak pilih pada pemilihan kepala daerah di TPS sesuai domisilinya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "melaporkan dugaan pungutan liar oleh rekan kerja melalui kanal WBS instansi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "menjadi perantara agar kenalannya lolos seleksi dengan memakai kewenangan pejabat panitia, walau tanpa imbalan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "menghadiri sosialisasi tahapan pemilihan umum yang diselenggarakan KPU daerah atas undangan resmi kepada instansinya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "menjadi anggota koperasi pegawai dan membantu menyusun laporan keuangannya di luar jam kerja",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PP 94/2021 Pasal 5 melarang PNS menjadi perantara untuk keuntungan pribadi atau orang lain dengan menggunakan kewenangan orang lain, meskipun tanpa imbalan. Keempat tindakan lain tidak dilarang.",
+    "difficulty": 3,
+    "source": "PP 94/2021 Pasal 5",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-konflik_kepentingan-0001",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "konflik_kepentingan",
+    "stem": "Menurut UU 30/2014 tentang Administrasi Pemerintahan, pejabat pemerintahan yang berpotensi memiliki konflik kepentingan dalam suatu urusan...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "dilarang menetapkan atau melakukan keputusan dan tindakan dalam urusan tersebut",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "boleh menetapkan keputusan asalkan disaksikan oleh pejabat lain yang setingkat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "cukup mencatat konflik kepentingan itu dalam berita acara, lalu melanjutkan keputusan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "wajib meminta persetujuan tertulis dari pihak yang berkepentingan sebelum memutus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "boleh melanjutkan proses selama keputusannya tidak menimbulkan kerugian negara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 42 UU 30/2014 melarang pejabat yang berpotensi berkonflik kepentingan menetapkan atau melakukan keputusan dan tindakan; ia harus menyampaikannya kepada atasan dan menarik diri dari proses.",
+    "difficulty": 2,
+    "source": "UU 30/2014 Pasal 42-43",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-konflik_kepentingan-0002",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "konflik_kepentingan",
+    "stem": "Anda verifikator berkas beasiswa daerah. Saat membagi berkas, Anda mendapati salah satu pemohon adalah anak kandung Anda sendiri. Tindakan yang sesuai dengan ketentuan konflik kepentingan adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "memverifikasi berkas anak Anda dengan standar yang lebih ketat agar tetap adil",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "memverifikasi seperti biasa karena kriteria beasiswa sudah baku dan objektif",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "meminta anak Anda menarik permohonannya agar tidak menimbulkan prasangka",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "menukar berkas itu diam-diam dengan berkas milik rekan sebelah agar tidak perlu melapor kepada atasan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "memberi tahu atasan tentang hubungan itu dan meminta berkasnya diverifikasi petugas lain",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hubungan keluarga adalah sumber konflik kepentingan; langkah yang benar adalah menyatakannya kepada atasan dan menarik diri dari proses, bukan menangani sendiri atau mengalihkannya diam-diam.",
+    "difficulty": 1,
+    "source": "UU 30/2014 Pasal 42-43",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-konflik_kepentingan-0003",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "konflik_kepentingan",
+    "stem": "Kepala seksi sarana di sebuah dinas memiliki saham di toko alat tulis yang ikut menawar dalam pengadaan langsung di seksinya. Ia berniat menandatangani penetapan toko itu sebagai penyedia karena harganya memang paling murah. Penilaian yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "boleh, karena harga penawaran yang paling murah sudah membuktikan bahwa negara tidak dirugikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tidak boleh; ia harus menyatakan kepentingan bisnisnya dan menyerahkan penetapan kepada pejabat lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "boleh, asalkan kepemilikan sahamnya dialihkan sementara atas nama istrinya sebelum penetapan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "boleh, karena pengadaan langsung bernilai kecil memang tidak mewajibkan tender terbuka dan pembandingan harga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "boleh, selama penetapan itu juga diparaf oleh bendahara pengeluaran",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kepentingan bisnis pribadi adalah sumber konflik kepentingan, sehingga pejabat dilarang menetapkan keputusan itu meskipun harganya wajar. Mengalihkan saham kepada istri tidak menghapus konfliknya.",
+    "difficulty": 2,
+    "source": "UU 30/2014 Pasal 42-43; UU 31/1999 jo. UU 20/2001 Pasal 12 huruf i",
+    "status": "draft"
+  },
+  {
+    "id": "twk-integritas-konflik_kepentingan-0004",
+    "subtest": "TWK",
+    "group": "integritas",
+    "tag": "konflik_kepentingan",
+    "stem": "Rani, auditor inspektorat, ditugasi mengaudit laporan keuangan sebuah dinas. Suaminya adalah konsultan yang dikontrak dan dibayar dinas tersebut untuk menyusun laporan keuangan yang akan diaudit. Rani yakin dapat tetap objektif. Langkah yang paling sesuai dengan ketentuan adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "tetap mengaudit, tetapi mengungkapkan hubungan itu dalam catatan laporan hasil audit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "tetap mengaudit karena yang dibayar dinas adalah suaminya, bukan dirinya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "mengaudit bersama seorang rekan sebagai pendamping agar hasilnya lebih objektif",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "menyampaikan hubungan itu kepada atasan dan meminta dibebaskan dari penugasan tersebut",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "meminta suaminya memutus kontrak konsultan lebih dulu agar audit tetap dapat ia laksanakan sendiri",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hubungan keluarga dengan pihak yang dibayar oleh objek audit menimbulkan konflik kepentingan; keyakinan pribadi akan objektivitas tidak cukup, sehingga Rani harus menyatakannya dan menarik diri.",
+    "difficulty": 3,
+    "source": "UU 30/2014 Pasal 42-43",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0001",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Ketentuan bahwa setiap warga negara berhak dan wajib ikut serta dalam upaya pembelaan negara terdapat dalam UUD 1945...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 27 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 27 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 27 ayat (3)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 28",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 31 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 27 ayat (3) mengatur hak dan kewajiban ikut serta dalam upaya pembelaan negara. Ayat (1) tentang persamaan kedudukan dalam hukum dan pemerintahan, ayat (2) tentang pekerjaan dan penghidupan yang layak.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 27 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0002",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Menurut Pasal 30 ayat (2) UUD 1945, dalam sistem pertahanan dan keamanan rakyat semesta, kedudukan rakyat adalah sebagai...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kekuatan utama bersama TNI dan Polri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "komponen cadangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "komponen utama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kekuatan cadangan yang dapat dimobilisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "kekuatan pendukung",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 30 ayat (2) menempatkan TNI dan Polri sebagai kekuatan utama dan rakyat sebagai kekuatan pendukung. Istilah komponen utama, cadangan, dan pendukung berasal dari UU 3/2002 dan UU 23/2019.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 30 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0003",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Undang-undang yang mengatur pengelolaan sumber daya nasional untuk pertahanan negara, termasuk pembentukan Komponen Cadangan dan nilai dasar bela negara, adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "UU Nomor 3 Tahun 2002",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "UU Nomor 34 Tahun 2004",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "UU Nomor 2 Tahun 2002",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "UU Nomor 23 Tahun 2019",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UU Nomor 20 Tahun 2023",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 23/2019 tentang Pengelolaan Sumber Daya Nasional untuk Pertahanan Negara (PSDN) mengatur nilai dasar bela negara serta komponen cadangan dan pendukung. UU 3/2002 mengatur pertahanan negara secara umum.",
+    "difficulty": 2,
+    "source": "UU 23/2019",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0004",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Pasangan pasal UUD 1945 dan isinya yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 30 ayat (1): hak dan kewajiban ikut serta dalam usaha pertahanan dan keamanan negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 27 ayat (3): hak dan kewajiban ikut serta dalam usaha pertahanan dan keamanan negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 30 ayat (1): hak dan kewajiban ikut serta dalam upaya pembelaan negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 30 ayat (2): TNI sebagai kekuatan utama, sedangkan Polri dan rakyat sebagai kekuatan pendukung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 27 ayat (2): hak dan kewajiban ikut serta dalam upaya pembelaan negara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 30 ayat (1) mengatur usaha pertahanan dan keamanan negara, sedangkan upaya pembelaan negara ada di Pasal 27 ayat (3). Pasal 30 ayat (2) menempatkan TNI dan Polri bersama-sama sebagai kekuatan utama.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 27 ayat (3) dan Pasal 30",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0005",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Ayu, seorang dokter, memilih bertugas di puskesmas daerah perbatasan dan melayani warga di sana dengan sungguh-sungguh. Menurut Pasal 9 ayat (2) UU 3/2002, keikutsertaan Ayu dalam bela negara termasuk bentuk...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "pendidikan kewarganegaraan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "pengabdian sesuai dengan profesi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pelatihan dasar kemiliteran secara wajib",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "pengabdian sebagai prajurit TNI secara sukarela",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "wajib militer bagi tenaga kesehatan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 9 ayat (2) UU 3/2002 menyebut empat cara: pendidikan kewarganegaraan, pelatihan dasar kemiliteran secara wajib, pengabdian sebagai prajurit TNI, dan pengabdian sesuai profesi. Dokter yang mengabdi lewat keahliannya termasuk yang terakhir.",
+    "difficulty": 2,
+    "source": "UU 3/2002 Pasal 9 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0006",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Dalam rapat RT, seorang warga menolak ikut jadwal siskamling dengan alasan menjaga keamanan adalah tugas aparat, bukan warga. Pendapat itu bertentangan dengan UUD 1945...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 27 ayat (1) tentang persamaan kedudukan di dalam hukum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 28E ayat (3) tentang kebebasan berserikat dan berkumpul",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 31 ayat (1) tentang hak mendapat pendidikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 33 ayat (3) tentang penguasaan bumi, air, dan kekayaan alam oleh negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 30 ayat (1) tentang usaha pertahanan dan keamanan negara",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 30 ayat (1) menyatakan setiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara, termasuk menjaga keamanan lingkungan melalui siskamling.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 30 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-dasar_hukum-0007",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "dasar_hukum",
+    "stem": "Dalam diskusi kelas, Andi berpendapat: \"Bela negara itu kewajiban, jadi negara boleh mewajibkan semua warga menjadi tentara.\" Koreksi yang paling tepat berdasarkan UUD 1945 dan UU 3/2002 adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "bela negara adalah hak, bukan kewajiban, sehingga warga bebas untuk tidak ikut serta dalam bentuk apa pun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "bela negara memang hanya kewajiban, tetapi kewajiban itu terbatas bagi warga negara berusia 18 sampai 35 tahun yang sehat jasmani",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "bela negara adalah hak dan kewajiban, tetapi wujudnya hanya wajib militer bagi warga laki-laki yang memenuhi syarat usia dan kesehatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "bela negara adalah hak sekaligus kewajiban, dan wujudnya juga mencakup pendidikan kewarganegaraan serta pengabdian sesuai profesi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "bela negara hanya kewajiban TNI dan Polri, sedangkan warga sipil cukup membayar pajak",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 27 ayat (3) UUD 1945 menyebut bela negara sebagai hak dan kewajiban, dan Pasal 9 ayat (2) UU 3/2002 memberi empat cara keikutsertaan, tidak hanya menjadi prajurit.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 27 ayat (3); UU 3/2002 Pasal 9",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0001",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Hari Bela Negara yang ditetapkan melalui Keputusan Presiden Nomor 28 Tahun 2006 diperingati setiap tanggal...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "10 November",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "19 Desember",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "20 Mei",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "22 Desember",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "28 Oktober",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Keppres 28/2006 menetapkan 19 Desember sebagai Hari Bela Negara untuk memperingati PDRI yang dibentuk saat Agresi Militer Belanda II tahun 1948; hari itu bukan hari libur.",
+    "difficulty": 1,
+    "source": "Keppres 28/2006",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0002",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Penetapan Hari Bela Negara dilatarbelakangi oleh peristiwa...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pertempuran Surabaya melawan pasukan Sekutu pada November 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Serangan Umum 1 Maret 1949 yang berhasil menguasai kota Yogyakarta selama enam jam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "pembentukan PDRI oleh Sjafruddin Prawiranegara saat Agresi Militer Belanda II",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "penandatanganan Perjanjian Renville di atas kapal milik Amerika Serikat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "pembentukan Badan Keamanan Rakyat oleh PPKI pada Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ketika Agresi Militer Belanda II dimulai 19 Desember 1948, Yogyakarta diduduki dan Soekarno-Hatta ditawan, lalu Sjafruddin Prawiranegara memimpin PDRI di Sumatra sehingga pemerintahan RI tetap ada.",
+    "difficulty": 2,
+    "source": "Keppres 28/2006",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0003",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "UU 23/2019 Pasal 7 ayat (3) menyebut lima nilai dasar bela negara: cinta tanah air; sadar berbangsa dan bernegara; setia pada Pancasila sebagai ideologi negara; rela berkorban untuk bangsa dan negara; serta...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kemampuan awal bela negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kemampuan dasar kemiliteran",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kesiapan menjadi Komponen Cadangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "disiplin dan taat pada hukum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "setia kepada pemerintah yang sah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nilai kelima adalah kemampuan awal bela negara, misalnya sehat jasmani dan rohani, disiplin, dan ulet. Pelatihan dasar kemiliteran adalah cara keikutsertaan, bukan nilai dasar.",
+    "difficulty": 2,
+    "source": "UU 23/2019 Pasal 7 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0004",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Ketika banjir melanda kabupatennya, Sari, seorang mahasiswa, menunda kegiatan pribadinya dan menjadi relawan dapur umum selama dua minggu. Nilai dasar bela negara yang paling menonjol pada tindakan Sari adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cinta tanah air",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "sadar berbangsa dan bernegara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "setia pada Pancasila sebagai ideologi negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "rela berkorban untuk bangsa dan negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "kemampuan awal bela negara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Mendahulukan kepentingan umum di atas kepentingan pribadi, seperti menjadi relawan bencana, mencerminkan nilai rela berkorban untuk bangsa dan negara.",
+    "difficulty": 1,
+    "source": "UU 23/2019 Pasal 7 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0005",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Seorang ketua karang taruna menolak ajakan bergabung dengan kelompok yang ingin mengganti dasar negara, lalu mengajak anggotanya membiasakan musyawarah dan saling menghormati antarumat beragama. Nilai dasar bela negara yang paling sesuai adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "cinta tanah air",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "rela berkorban untuk bangsa dan negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "sadar berbangsa dan bernegara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kemampuan awal bela negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "setia pada Pancasila sebagai ideologi negara",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menolak ideologi yang ingin mengganti Pancasila dan mengamalkan nilai-nilainya dalam kehidupan sehari-hari adalah wujud setia pada Pancasila sebagai ideologi negara.",
+    "difficulty": 2,
+    "source": "UU 23/2019 Pasal 7 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0006",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Perhatikan kegiatan berikut.\n(1) mengikuti pelatihan dasar kemiliteran sebagai calon Komponen Cadangan\n(2) melaporkan akun penyebar hoaks yang memecah belah warga\n(3) mengabdi sebagai prajurit TNI\n(4) mengajar anak-anak di daerah terpencil\n(5) membayar pajak tepat waktu\nKegiatan yang termasuk bela negara nonfisik adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "(1), (2), dan (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "(2), (4), dan (5)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "(1) dan (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "(2) dan (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "(1), (4), dan (5)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bela negara fisik dilakukan dengan kekuatan bersenjata seperti menjadi prajurit TNI atau Komponen Cadangan, sedangkan melawan hoaks, mendidik, dan membayar pajak adalah bela negara nonfisik.",
+    "difficulty": 2,
+    "source": "UU 3/2002 Pasal 9; UU 23/2019",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-nilai_bela_negara-0007",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "nilai_bela_negara",
+    "stem": "Empat warga melakukan hal berikut. P selalu memilih produk dalam negeri; Q menolak paham yang ingin mengganti dasar negara; R menaati hukum dan ikut memilih dalam pemilu; S menjaga kesehatan jasmani dan rohani serta melatih kedisiplinan. Pasangan warga dan nilai dasar bela negara yang tepat adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "P: cinta tanah air; Q: setia pada Pancasila; R: sadar berbangsa dan bernegara; S: kemampuan awal bela negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "P: sadar berbangsa dan bernegara; Q: setia pada Pancasila; R: cinta tanah air; S: kemampuan awal bela negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "P: cinta tanah air; Q: sadar berbangsa dan bernegara; R: rela berkorban; S: kemampuan awal bela negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "P: cinta tanah air; Q: setia pada Pancasila; R: rela berkorban; S: sadar berbangsa dan bernegara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "P: rela berkorban; Q: setia pada Pancasila; R: sadar berbangsa dan bernegara; S: cinta tanah air",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Produk lokal mencerminkan cinta tanah air, menolak ideologi pengganti Pancasila mencerminkan setia pada Pancasila, taat hukum dan ikut pemilu mencerminkan sadar berbangsa dan bernegara, sedangkan sehat dan disiplin adalah kemampuan awal bela negara.",
+    "difficulty": 3,
+    "source": "UU 23/2019 Pasal 7 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0001",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Dalam sistem pertahanan negara menurut UU 3/2002, yang berkedudukan sebagai komponen utama dalam menghadapi ancaman militer adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "TNI dan Polri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Komponen Cadangan yang telah dimobilisasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "seluruh warga negara Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kepolisian Negara Republik Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tentara Nasional Indonesia",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UU 3/2002 menempatkan TNI sebagai komponen utama yang didukung komponen cadangan dan komponen pendukung. Frasa TNI dan Polri sebagai kekuatan utama berasal dari Pasal 30 ayat (2) UUD 1945 untuk pertahanan dan keamanan.",
+    "difficulty": 2,
+    "source": "UU 3/2002 Pasal 7 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0002",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Sistem pertahanan negara Indonesia bersifat semesta. Ciri-ciri sistem tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "kerakyatan, kemiliteran, dan kewilayahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "kesemestaan, keprajuritan, dan kedaulatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "kerakyatan, kedaulatan, dan kemandirian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kerakyatan, kesemestaan, dan kewilayahan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "keamanan, ketertiban, dan kewilayahan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sishankamrata bercirikan kerakyatan (melibatkan seluruh warga), kesemestaan (seluruh sumber daya nasional), dan kewilayahan (seluruh wilayah menjadi tumpuan pertahanan).",
+    "difficulty": 1,
+    "source": "UU 3/2002 Pasal 1 angka 2",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0003",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Dalam setahun terakhir, sebuah provinsi menghadapi peredaran narkoba dalam jumlah besar dan wabah penyakit menular. Dari sudut pertahanan negara, kedua masalah itu tergolong...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ancaman militer berupa sabotase",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "ancaman militer berupa spionase",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "ancaman nonmiliter",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "ancaman hibrida karena terjadi bersamaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "urusan kesehatan semata yang tidak terkait pertahanan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Narkoba dan wabah penyakit tidak menggunakan kekuatan bersenjata, sehingga termasuk ancaman nonmiliter; ancaman hibrida adalah gabungan ancaman militer dan nonmiliter.",
+    "difficulty": 1,
+    "source": "UU 3/2002 Pasal 7; UU 23/2019",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0004",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Bimo, 27 tahun, karyawan swasta, mendaftar sebagai Komponen Cadangan. Pernyataan yang tepat tentang keikutsertaannya adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "ia memang wajib mendaftar karena semua warga negara berusia 18 sampai 35 tahun harus menjadi Komponen Cadangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "ia mendaftar secara sukarela dan, jika lulus seleksi, mengikuti pelatihan dasar kemiliteran tiga bulan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "setelah pelatihan ia otomatis diangkat menjadi prajurit TNI aktif dan berhenti dari pekerjaannya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "ia tidak dapat mendaftar karena batas usia pendaftar Komponen Cadangan adalah 25 tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "ia tidak perlu mengikuti pelatihan apa pun karena Komponen Cadangan hanya berisi sarana dan prasarana",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Komponen Cadangan bukan wajib militer: warga berusia 18-35 tahun mendaftar secara sukarela, lalu menjalani pelatihan dasar kemiliteran selama tiga bulan sebelum ditetapkan.",
+    "difficulty": 2,
+    "source": "UU 23/2019",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0005",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Wabah penyakit menular menyebar cepat di beberapa provinsi dan mengganggu kehidupan masyarakat. Menurut UU 3/2002, pihak yang menjadi unsur utama dalam menghadapi ancaman tersebut adalah...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "lembaga pemerintah di luar bidang pertahanan sesuai jenis ancamannya",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "TNI sebagai komponen utama, didukung komponen cadangan dan komponen pendukung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Komponen Cadangan yang dimobilisasi oleh Presiden dengan persetujuan DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Polri sebagai alat negara yang memelihara keamanan dan ketertiban masyarakat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "masyarakat sebagai komponen pendukung",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7 ayat (3) UU 3/2002 menempatkan lembaga pemerintah di luar bidang pertahanan sebagai unsur utama dalam menghadapi ancaman nonmiliter, sesuai bentuk dan sifat ancaman, dengan dukungan unsur lain.",
+    "difficulty": 3,
+    "source": "UU 3/2002 Pasal 7 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-bela_negara-sishankamrata-0006",
+    "subtest": "TWK",
+    "group": "bela_negara",
+    "tag": "sishankamrata",
+    "stem": "Arif, insinyur telekomunikasi di perusahaan swasta, tidak mendaftar Komponen Cadangan. Namun, keahliannya dapat dimanfaatkan untuk memperkuat TNI dan Komponen Cadangan bila diperlukan. Dalam UU 23/2019, Arif termasuk...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "komponen utama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "komponen cadangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "komponen pendukung",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "kekuatan utama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "unsur utama menghadapi ancaman nonmiliter",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Komponen pendukung adalah warga negara dan sumber daya nasional yang dapat meningkatkan kekuatan dan kemampuan komponen utama dan cadangan; Komponen Cadangan mensyaratkan pendaftaran dan pelatihan.",
+    "difficulty": 2,
+    "source": "UU 23/2019",
+    "status": "draft"
+  }
+]

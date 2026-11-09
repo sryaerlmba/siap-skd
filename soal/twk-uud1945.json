@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "twk-pilar_negara-uud_1945-0001",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Undang-Undang Dasar 1945 disahkan sebagai konstitusi negara oleh PPKI pada tanggal ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "17 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "18 Agustus 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "22 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "29 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1 Juni 1945",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "PPKI mengesahkan UUD 1945 dalam sidang pertamanya pada 18 Agustus 1945, sehari setelah Proklamasi. Tanggal 22 Juni 1945 adalah lahirnya Piagam Jakarta, sedangkan 1 Juni 1945 adalah pidato Soekarno tentang dasar negara di sidang BPUPKI.",
+    "difficulty": 1,
+    "source": "Risalah sidang PPKI 18 Agustus 1945",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0002",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pada suatu periode, Indonesia berbentuk negara kesatuan, kabinet bertanggung jawab kepada parlemen, dan sebuah Konstituante hasil pemilu bertugas menyusun undang-undang dasar yang baru. Konstitusi yang berlaku pada periode tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "UUD 1945 naskah asli periode 1945-1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Konstitusi RIS 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "UUD 1945 yang diberlakukan kembali lewat Dekrit 1959",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "UUDS 1950",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "UUD NRI 1945 hasil perubahan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "UUDS 1950 (17 Agustus 1950 sampai 5 Juli 1959) menganut negara kesatuan dengan sistem parlementer, dan Konstituante hasil Pemilu 1955 ditugasi menyusun UUD pengganti. Periode 1945-1949 juga sempat dipimpin perdana menteri, tetapi belum ada Konstituante.",
+    "difficulty": 1,
+    "source": "UUDS 1950 Pasal 1 ayat (1) dan Pasal 134",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0003",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Konstitusi Republik Indonesia Serikat berlaku dalam rentang waktu ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "18 Agustus 1945 sampai 27 Desember 1949",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "14 November 1945 sampai 17 Agustus 1950",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "17 Agustus 1950 sampai 5 Juli 1959",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "27 Desember 1949 sampai 5 Juli 1959",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "27 Desember 1949 sampai 17 Agustus 1950",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konstitusi RIS berlaku sejak pengakuan kedaulatan pada 27 Desember 1949 dan berakhir ketika Indonesia kembali menjadi negara kesatuan dengan UUDS 1950 pada 17 Agustus 1950.",
+    "difficulty": 2,
+    "source": "Konstitusi RIS 1949; UUDS 1950",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0004",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Berikut ini isi Dekrit Presiden 5 Juli 1959, kecuali ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Membubarkan Konstituante",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Memberlakukan kembali UUD 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak memberlakukan lagi UUDS 1950",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Membubarkan DPR hasil Pemilu 1955",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Membentuk MPRS dan DPAS",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dekrit memuat pembubaran Konstituante, berlakunya kembali UUD 1945 dan tidak berlakunya UUDS 1950, serta pembentukan MPRS dan DPAS. DPR hasil Pemilu 1955 baru dibubarkan pada 1960 melalui penetapan presiden tersendiri.",
+    "difficulty": 2,
+    "source": "Dekrit Presiden 5 Juli 1959",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0005",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Latar belakang utama dikeluarkannya Dekrit Presiden 5 Juli 1959 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Konstituante hasil Pemilu 1955 gagal menetapkan UUD baru pengganti UUDS 1950",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hasil Konferensi Meja Bundar mewajibkan Indonesia kembali menjadi negara kesatuan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "MPRS menolak laporan pertanggungjawaban Presiden dalam sidang umumnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "DPR hasil Pemilu 1955 menolak rancangan anggaran yang diajukan pemerintah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Negara-negara bagian RIS menuntut pembubaran federasi dan kembali ke kesatuan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Konstituante tidak berhasil menetapkan UUD baru, dan pemungutan suara tentang usul kembali ke UUD 1945 pun tidak mencapai dua pertiga suara. Kebuntuan ini mendorong Presiden Soekarno mengeluarkan dekrit.",
+    "difficulty": 2,
+    "source": "Dekrit Presiden 5 Juli 1959, bagian pertimbangan",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0006",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pada akhir 1945, UUD 1945 menganut sistem presidensial, tetapi dalam praktik para menteri mulai bertanggung jawab kepada KNIP dan kabinet dipimpin perdana menteri. Pergeseran ke praktik parlementer ini bermula dari ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Maklumat Wakil Presiden Nomor X tanggal 16 Oktober 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Maklumat Pemerintah tanggal 3 November 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Maklumat Pemerintah tanggal 14 November 1945",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pembentukan KNIP pada 29 Agustus 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Berlakunya Konstitusi RIS pada 27 Desember 1949",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Maklumat Pemerintah 14 November 1945 mengganti kabinet presidensial dengan kabinet parlementer di bawah Perdana Menteri Sutan Sjahrir. Maklumat X memberi KNIP fungsi legislatif, sedangkan Maklumat 3 November 1945 mendorong berdirinya partai politik.",
+    "difficulty": 3,
+    "source": "Maklumat Pemerintah 14 November 1945",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0007",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Menurut hitungan MPR, UUD NRI 1945 setelah empat kali perubahan terdiri atas ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "16 bab dan 37 pasal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "20 bab dan 73 pasal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "21 bab dan 37 pasal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "16 bab dan 73 pasal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "21 bab dan 73 pasal",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Penomoran tetap Bab I-XVI dan Pasal 1-37 karena tambahan disisipkan dengan huruf (misalnya Bab VIIA dan Pasal 22C), tetapi jumlah riilnya 21 bab, termasuk Bab IV yang dihapus, dan 73 pasal. Angka 16 bab dan 37 pasal adalah susunan sebelum perubahan.",
+    "difficulty": 1,
+    "source": "UUD NRI 1945 hasil Perubahan I-IV (sistematika menurut MPR)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0008",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Jumlah ayat dalam UUD NRI 1945 setelah perubahan, menurut hitungan MPR, adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "37 ayat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "49 ayat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "73 ayat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "170 ayat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "199 ayat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hitungan MPR setelah perubahan adalah 21 bab, 73 pasal, dan 170 ayat. Angka 49 ayat adalah jumlah sebelum perubahan, sedangkan 37 dan 73 adalah jumlah pasal sebelum dan sesudah perubahan.",
+    "difficulty": 2,
+    "source": "UUD NRI 1945 hasil Perubahan I-IV (sistematika menurut MPR)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0009",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Setelah perubahan, Aturan Peralihan dan Aturan Tambahan UUD NRI 1945 masing-masing terdiri atas ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "3 pasal dan 2 pasal",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "4 pasal dan 2 ayat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "3 pasal dan 2 ayat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "4 pasal dan 2 pasal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "2 pasal dan 3 pasal",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Aturan Peralihan kini berisi Pasal I-III (Pasal III tentang pembentukan MK) dan Aturan Tambahan berisi Pasal I-II. Sebelum perubahan, Aturan Peralihan berisi 4 pasal dan Aturan Tambahan 2 ayat.",
+    "difficulty": 3,
+    "source": "UUD 1945 Aturan Peralihan Pasal I-III dan Aturan Tambahan Pasal I-II",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0010",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Bab IV UUD 1945 kini berstatus \"dihapus\" karena lembaga yang diaturnya ditiadakan. Lembaga tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Badan Pemeriksa Keuangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dewan Pertimbangan Agung",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dewan Perwakilan Daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Majelis Permusyawaratan Rakyat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Komisi Yudisial",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bab IV tentang Dewan Pertimbangan Agung dihapus pada Perubahan Keempat (2002). Fungsi memberi nasihat kepada Presiden kini dijalankan dewan pertimbangan yang dibentuk Presiden menurut Pasal 16.",
+    "difficulty": 1,
+    "source": "UUD 1945 Bab IV dan Pasal 16",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0011",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Berikut ini kesepakatan dasar MPR dalam melakukan perubahan UUD 1945, kecuali ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak mengubah Pembukaan UUD 1945",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tetap mempertahankan Negara Kesatuan Republik Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mempertegas sistem pemerintahan presidensial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mengganti naskah lama dengan naskah UUD yang sama sekali baru",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memasukkan hal normatif dalam Penjelasan ke dalam pasal-pasal",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perubahan dilakukan dengan cara adendum: naskah asli tetap dipertahankan dan perubahan dilampirkan, bukan diganti dengan naskah baru. Empat pilihan lainnya termasuk kesepakatan dasar MPR.",
+    "difficulty": 2,
+    "source": "Kesepakatan dasar MPR tentang perubahan UUD 1945 (1999)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0012",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Perubahan Pertama UUD 1945 disahkan MPR dalam Sidang Umum pada tanggal ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "18 Agustus 2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "9 November 2001",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "19 Oktober 1999",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "10 Agustus 2002",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1 Oktober 1999",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perubahan Pertama disahkan dalam Sidang Umum MPR pada 19 Oktober 1999. Perubahan Kedua, Ketiga, dan Keempat disahkan dalam Sidang Tahunan MPR pada 18 Agustus 2000, 9 November 2001, dan 10 Agustus 2002.",
+    "difficulty": 1,
+    "source": "Perubahan Pertama UUD 1945 (19 Oktober 1999)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0013",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Kelompok ketentuan berikut yang seluruhnya merupakan hasil Perubahan Kedua (2000) adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 6A, Pasal 7A, dan Pasal 24C",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 18B, Pasal 28I, dan Pasal 36B",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 16, Pasal 23D, dan Pasal 31 ayat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 22C, Pasal 23E, dan Pasal 24B",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 7, Pasal 13, dan Pasal 20 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 18B (daerah khusus dan masyarakat adat), Pasal 28I (HAM), dan Pasal 36B (lagu kebangsaan) lahir dari Perubahan Kedua. Pilihan lain memuat pasal dari perubahan lain, misalnya Pasal 7 (Pertama), Pasal 24C (Ketiga), dan Pasal 23D (Keempat).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 18B, Pasal 28I, dan Pasal 36B (Perubahan Kedua)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0014",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Ketentuan tentang Dewan Perwakilan Daerah dalam Bab VIIA (Pasal 22C dan 22D) disahkan MPR dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sidang Umum MPR 1999",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sidang Tahunan MPR 2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sidang Tahunan MPR 2001",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sidang Tahunan MPR 2002",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sidang Tahunan MPR 2003",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 22C dan 22D lahir dari Perubahan Ketiga yang disahkan dalam Sidang Tahunan MPR 9 November 2001, bersamaan dengan ketentuan pemilu, BPK, KY, dan MK. Susunan MPR yang terdiri atas DPR dan DPD baru ditegaskan dalam Perubahan Keempat (2002).",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 22C dan Pasal 22D (Perubahan Ketiga)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0015",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Rumusan Pasal 2 ayat (1) bahwa MPR terdiri atas anggota DPR dan anggota DPD yang dipilih melalui pemilu mengakhiri keberadaan utusan daerah dan utusan golongan. Rumusan ini merupakan hasil ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Perubahan Keempat tahun 2002",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Perubahan Ketiga tahun 2001",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perubahan Kedua tahun 2000",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Perubahan Pertama tahun 1999",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dekrit Presiden 5 Juli 1959",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 2 ayat (1) diubah pada Perubahan Keempat (10 Agustus 2002). DPD sudah dibentuk pada Perubahan Ketiga, tetapi susunan MPR baru disesuaikan setahun kemudian.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 2 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0016",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Perhatikan ketentuan berikut.\n(1) DPR memegang kekuasaan membentuk undang-undang.\n(2) RUU yang telah disetujui bersama tetapi tidak disahkan Presiden dalam 30 hari sah menjadi undang-undang.\n(3) Kekuasaan kehakiman dilakukan oleh Mahkamah Agung dan sebuah Mahkamah Konstitusi.\nKetiga ketentuan itu berturut-turut lahir dari perubahan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pertama, Pertama, dan Ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pertama, Kedua, dan Keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kedua, Kedua, dan Ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pertama, Kedua, dan Ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pertama, Ketiga, dan Ketiga",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 20 ayat (1) berasal dari Perubahan Pertama (1999), Pasal 20 ayat (5) dari Perubahan Kedua (2000), dan Pasal 24 ayat (2) yang memasukkan MK dari Perubahan Ketiga (2001).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 20 ayat (1) dan (5), Pasal 24 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0017",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Materi berikut yang disahkan pada Perubahan Keempat UUD 1945 (10 Agustus 2002) adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pembentukan DPD dan Komisi Yudisial",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pembatasan masa jabatan Presiden menjadi dua periode",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Penambahan Bab XA tentang hak asasi manusia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pengaturan wilayah negara dalam Pasal 25A",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Penghapusan DPA dan pengaturan bank sentral",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Perubahan Keempat menghapus DPA (Bab IV), menambah Pasal 23D tentang bank sentral, dan menetapkan anggaran pendidikan minimal 20 persen. DPD dan KY lahir dari Perubahan Ketiga, pembatasan masa jabatan dari Perubahan Pertama, sedangkan Bab XA dan Pasal 25A dari Perubahan Kedua.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 16 dan Pasal 23D (Perubahan Keempat)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0018",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang guru menjelaskan bahwa upaya negara memperluas akses pendidikan merupakan pelaksanaan tujuan negara dalam Pembukaan UUD 1945. Tujuan yang dimaksud beserta letaknya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memajukan kesejahteraan umum, alinea ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mencerdaskan kehidupan bangsa, alinea keempat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mencerdaskan kehidupan bangsa, alinea kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Melindungi segenap bangsa, alinea keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ikut melaksanakan ketertiban dunia, alinea pertama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Alinea keempat memuat empat tujuan negara, salah satunya mencerdaskan kehidupan bangsa, yang dijabarkan dalam Pasal 31. Alinea kedua memuat cita-cita nasional, bukan tujuan negara.",
+    "difficulty": 1,
+    "source": "Pembukaan UUD 1945 alinea keempat",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0019",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pemerintah Indonesia konsisten mendukung kemerdekaan Palestina dengan alasan bahwa penjajahan tidak sesuai dengan perikemanusiaan dan perikeadilan. Sikap ini paling tepat bersumber dari Pembukaan UUD 1945 ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Alinea pertama, tentang kemerdekaan sebagai hak segala bangsa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Alinea kedua, tentang cita-cita negara yang merdeka dan berdaulat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Alinea ketiga, tentang pernyataan kemerdekaan atas berkat rahmat Allah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Alinea keempat, tentang dasar negara Pancasila",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Alinea keempat, tentang pembentukan pemerintah negara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Alinea pertama menyatakan kemerdekaan adalah hak segala bangsa dan penjajahan harus dihapuskan karena tidak sesuai dengan perikemanusiaan dan perikeadilan. Alasan dalam soal dikutip hampir persis dari alinea ini.",
+    "difficulty": 1,
+    "source": "Pembukaan UUD 1945 alinea pertama",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0020",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Kalimat \"Atas berkat rahmat Allah Yang Maha Kuasa\" dalam alinea ketiga Pembukaan UUD 1945 menunjukkan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dalil objektif bahwa penjajahan bertentangan dengan perikemanusiaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Cita-cita nasional untuk mewujudkan negara yang adil dan makmur",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Motivasi spiritual bahwa kemerdekaan diyakini sebagai karunia Tuhan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rumusan dasar negara yang menjadi sumber tertib hukum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tujuan negara untuk ikut melaksanakan ketertiban dunia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Alinea ketiga memuat motivasi spiritual: bangsa Indonesia meyakini kemerdekaan tercapai atas berkat rahmat Allah, di samping dorongan keinginan luhur. Alinea ini juga berisi pernyataan ulang kemerdekaan.",
+    "difficulty": 2,
+    "source": "Pembukaan UUD 1945 alinea ketiga",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0021",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Rumusan \"Negara Indonesia yang merdeka, bersatu, berdaulat, adil dan makmur\" merupakan cita-cita nasional yang tercantum dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 1 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pembukaan alinea pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pembukaan alinea kedua",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pembukaan alinea ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pembukaan alinea keempat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Alinea kedua menyatakan perjuangan pergerakan kemerdekaan telah mengantarkan rakyat ke depan pintu gerbang negara yang merdeka, bersatu, berdaulat, adil dan makmur. Kelima sifat itu disebut cita-cita nasional.",
+    "difficulty": 1,
+    "source": "Pembukaan UUD 1945 alinea kedua",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0022",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pembukaan UUD 1945 mengandung empat pokok pikiran yang mencerminkan sila-sila Pancasila. Pasangan pokok pikiran dan sila yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Keadilan sosial, sesuai sila keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kedaulatan rakyat, sesuai sila kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Negara persatuan, sesuai sila pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Negara persatuan, sesuai sila ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ketuhanan Yang Maha Esa, sesuai sila kelima",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pokok pikiran negara persatuan yang melindungi segenap bangsa mencerminkan sila ketiga. Keadilan sosial sesuai sila kelima, kedaulatan rakyat sesuai sila keempat, dan Ketuhanan menurut dasar kemanusiaan yang adil dan beradab sesuai sila pertama dan kedua.",
+    "difficulty": 2,
+    "source": "Pembukaan UUD 1945; Penjelasan UUD 1945 naskah asli (pokok-pokok pikiran)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0023",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Dalam perubahan 1999-2002, MPR sepakat tidak mengubah Pembukaan UUD 1945. Alasan yang paling tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 37 ayat (5) secara tegas melarang perubahan Pembukaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pembukaan memuat dasar dan tujuan negara; mengubahnya sama dengan membubarkan negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pembukaan tidak memiliki kekuatan hukum yang mengikat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pembukaan disusun oleh BPUPKI sehingga MPR hasil pemilu tidak berwenang mengubahnya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Penjelasan UUD 1945 menyatakan Pembukaan hanya dapat diubah melalui referendum nasional",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pembukaan memuat dasar negara Pancasila dan tujuan negara, sehingga mengubahnya sama dengan membubarkan negara yang diproklamasikan 17 Agustus 1945. Pasal 37 ayat (5) hanya mengunci bentuk NKRI, bukan Pembukaan.",
+    "difficulty": 2,
+    "source": "Pembukaan UUD 1945 alinea keempat; UUD 1945 Pasal 37 ayat (5)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0024",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang bupati menolak melaksanakan putusan pengadilan yang telah berkekuatan hukum tetap dengan alasan dirinya dipilih langsung oleh rakyat. Sikap tersebut paling bertentangan dengan ketentuan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 1 ayat (1), Indonesia negara kesatuan berbentuk republik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 4 ayat (1), Presiden memegang kekuasaan pemerintahan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 18 ayat (4), kepala daerah dipilih secara demokratis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 22E ayat (1), pemilu yang luber dan jurdil",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 1 ayat (3), Indonesia adalah negara hukum",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 1 ayat (3) menegaskan Indonesia negara hukum, sehingga setiap pejabat, termasuk yang dipilih langsung, wajib tunduk pada putusan pengadilan. Legitimasi pemilihan tidak menempatkan pejabat di atas hukum.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 1 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0025",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sebelum perubahan, Pasal 1 ayat (2) menyatakan kedaulatan dilakukan sepenuhnya oleh MPR. Setelah Perubahan Ketiga, kedaulatan berada di tangan rakyat dan dilaksanakan menurut UUD. Konsekuensi utama perubahan ini adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "MPR tidak lagi menjadi lembaga tertinggi negara dan sederajat dengan lembaga negara lain",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "DPR menggantikan kedudukan MPR sebagai satu-satunya lembaga pelaksana kedaulatan rakyat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Presiden kembali bertanggung jawab kepada MPR atas pelaksanaan Garis-Garis Besar Haluan Negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "MPR berwenang memilih Presiden apabila pemilu tidak menghasilkan pasangan pemenang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kedaulatan rakyat hanya dapat dijalankan melalui referendum nasional",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Karena kedaulatan kini dilaksanakan menurut UUD oleh berbagai lembaga sesuai kewenangannya, MPR tidak lagi berstatus lembaga tertinggi negara. Lembaga negara utama sederajat dan saling mengawasi (checks and balances).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 1 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0026",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Berikut ini wewenang MPR menurut UUD NRI 1945 setelah perubahan, kecuali ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mengubah dan menetapkan UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Melantik Presiden dan/atau Wakil Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Menetapkan Garis-Garis Besar Haluan Negara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memberhentikan Presiden menurut UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memilih Wapres jika terjadi kekosongan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Setelah perubahan, MPR tidak lagi berwenang menetapkan GBHN; wewenangnya diatur Pasal 3 (mengubah dan menetapkan UUD, melantik, serta memberhentikan Presiden dan/atau Wakil Presiden menurut UUD). Memilih Wakil Presiden saat terjadi kekosongan diatur Pasal 8 ayat (2).",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 3 dan Pasal 8 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0027",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang tokoh populer ingin maju sebagai calon presiden lewat jalur perseorangan dengan mengumpulkan dukungan KTP warga. Menurut UUD NRI 1945, hal itu tidak dimungkinkan karena pasangan calon Presiden dan Wakil Presiden diusulkan oleh ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fraksi-fraksi DPR melalui rapat paripurna",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Komisi Pemilihan Umum setelah verifikasi faktual",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "MPR dalam sidang paripurna yang dihadiri seluruh anggotanya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Partai politik atau gabungan partai politik peserta pemilu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPD sebagai wakil seluruh provinsi di Indonesia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 6A ayat (2) menyatakan pasangan calon diusulkan oleh partai politik atau gabungan partai politik peserta pemilu, sehingga tidak ada jalur perseorangan. Calon perseorangan hanya dikenal dalam pemilu anggota DPD (Pasal 22E ayat (4)).",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 6A ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0028",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pada pemilu presiden yang diikuti tiga pasangan calon, pasangan X meraih 52 persen suara nasional, tetapi hanya memperoleh sedikitnya 20 persen suara di 15 dari 38 provinsi. Menurut UUD NRI 1945, akibatnya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasangan X langsung dilantik karena suaranya melebihi 50 persen",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "MPR memilih presiden dari dua pasangan calon yang meraih suara terbanyak pertama dan kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dua pasangan dengan suara terbanyak pertama dan kedua dipilih ulang langsung oleh rakyat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pemilu diulang di seluruh provinsi dengan tetap diikuti ketiga pasangan calon",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "KPU menetapkan pasangan X sebagai pemenang setelah mendapat persetujuan DPR",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 6A ayat (3) mensyaratkan lebih dari 50 persen suara dan sedikitnya 20 persen suara di lebih dari separuh provinsi, yaitu minimal 20 dari 38 provinsi. Karena syarat sebaran tidak terpenuhi, berlaku Pasal 6A ayat (4): dua pasangan teratas dipilih langsung oleh rakyat pada putaran kedua.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 6A ayat (3) dan (4)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0029",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pendukung seorang Presiden yang sudah menjabat dua periode berturut-turut mendorongnya maju lagi untuk jabatan yang sama pada pemilu berikutnya. Ketentuan UUD yang menutup kemungkinan tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 6 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 6A ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 7",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 7A",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 9 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7 menetapkan masa jabatan Presiden dan Wakil Presiden lima tahun, dan sesudahnya hanya dapat dipilih kembali dalam jabatan yang sama untuk satu kali masa jabatan. Ketentuan ini lahir dari Perubahan Pertama (1999).",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 7",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0030",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Berikut ini alasan Presiden dapat diberhentikan dalam masa jabatannya menurut Pasal 7A UUD NRI 1945, kecuali ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Terbukti melakukan pengkhianatan terhadap negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Terbukti melakukan penyuapan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Terbukti melakukan perbuatan tercela",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Terbukti tidak lagi memenuhi syarat sebagai Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kebijakannya ditolak mayoritas fraksi di DPR",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7A membatasi alasan pemberhentian pada pelanggaran hukum (pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, perbuatan tercela) atau tidak lagi memenuhi syarat. Perbedaan kebijakan dengan DPR bukan alasan pemberhentian dalam sistem presidensial.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 7A",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0031",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "DPR hendak meminta MK memeriksa dugaan pelanggaran hukum oleh Presiden. Menurut Pasal 7B ayat (3), permintaan itu harus didukung sekurang-kurangnya (1) anggota DPR yang hadir dalam sidang paripurna yang dihadiri sekurang-kurangnya (2) jumlah anggota DPR. Isian (1) dan (2) yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/2 dan 2/3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "2/3 dan 3/4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "3/4 dan 2/3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "2/3 dan 1/2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "2/3 dan 2/3",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengajuan ke MK memerlukan dukungan sedikitnya 2/3 anggota DPR yang hadir dalam sidang paripurna yang dihadiri sedikitnya 2/3 jumlah anggota DPR. Pasangan 3/4 kehadiran dan 2/3 persetujuan adalah syarat rapat paripurna MPR menurut Pasal 7B ayat (7).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 7B ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0032",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Setelah MK memutus Presiden terbukti melanggar hukum, DPR meneruskan usul pemberhentian ke MPR. Keputusan MPR atas usul tersebut sah apabila diambil dalam rapat paripurna yang ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dihadiri sekurang-kurangnya 3/4 anggota dan disetujui sekurang-kurangnya 2/3 anggota yang hadir",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dihadiri sekurang-kurangnya 2/3 anggota dan disetujui 50 persen ditambah satu dari seluruh anggota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dihadiri sekurang-kurangnya 2/3 anggota dan disetujui sekurang-kurangnya 2/3 anggota yang hadir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dihadiri sekurang-kurangnya 3/4 anggota dan disetujui sekurang-kurangnya 3/4 anggota yang hadir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dihadiri lebih dari separuh anggota dan disetujui sekurang-kurangnya 2/3 seluruh anggota",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7B ayat (7) mensyaratkan kehadiran sedikitnya 3/4 anggota MPR dan persetujuan sedikitnya 2/3 anggota yang hadir, setelah Presiden diberi kesempatan menyampaikan penjelasan. Syarat 2/3 kehadiran dan 50 persen ditambah satu berlaku untuk perubahan pasal UUD (Pasal 37).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 7B ayat (7)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0033",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Di tengah konflik politik dengan parlemen, Presiden mengeluarkan keputusan yang membekukan DPR. Ketentuan UUD NRI 1945 yang dilanggar oleh tindakan itu adalah ketentuan bahwa ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Presiden dan/atau Wakil Presiden dapat diberhentikan oleh MPR atas usul DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Presiden tidak dapat membekukan dan/atau membubarkan DPR",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Presiden memegang kekuasaan pemerintahan menurut UUD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Presiden berhak mengajukan rancangan undang-undang kepada DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Presiden menyatakan keadaan bahaya dengan syarat yang ditetapkan undang-undang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 7C melarang Presiden membekukan dan/atau membubarkan DPR. Larangan ini menegaskan sistem presidensial: Presiden dan DPR sama-sama dipilih rakyat dan tidak dapat saling menjatuhkan di luar mekanisme UUD.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 7C",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0034",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pemerintah akan menandatangani perjanjian internasional yang menimbulkan beban besar bagi keuangan negara dan mengharuskan perubahan sebuah undang-undang. Menurut UUD NRI 1945, perjanjian tersebut harus ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memperhatikan pertimbangan Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mendapat persetujuan DPD karena menyangkut keuangan daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Cukup ditetapkan dengan Keputusan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mendapat persetujuan Majelis Permusyawaratan Rakyat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mendapat persetujuan Dewan Perwakilan Rakyat",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 11 ayat (2) mewajibkan persetujuan DPR untuk perjanjian internasional yang berakibat luas dan mendasar, terkait beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undang-undang.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 11 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0035",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Presiden terpilih ingin membentuk beberapa kementerian baru dan menggabungkan sebagian kementerian lama. Menurut UUD NRI 1945, pembentukan, pengubahan, dan pembubaran kementerian negara ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Diatur dalam undang-undang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Harus mendapat persetujuan MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ditetapkan sepenuhnya oleh Presiden tanpa batasan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Harus mendapat pertimbangan Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Diusulkan oleh DPR melalui hak inisiatif",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 17 ayat (4) menyatakan pembentukan, pengubahan, dan pembubaran kementerian negara diatur dalam undang-undang, yaitu UU Kementerian Negara. Presiden tetap berwenang mengangkat dan memberhentikan menteri (Pasal 17 ayat (2)).",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 17 ayat (4)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0036",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "UUD NRI 1945 mengatur cara pengisian jabatan gubernur, bupati, dan wali kota dengan rumusan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dipilih langsung oleh rakyat dalam pilkada",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dipilih oleh DPRD setempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Diangkat oleh Presiden atas usul Menteri Dalam Negeri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dipilih secara demokratis",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dipilih secara langsung, umum, bebas, dan rahasia",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 18 ayat (4) hanya menyebut kepala daerah \"dipilih secara demokratis\". Pilkada langsung merupakan pilihan pembentuk undang-undang, bukan rumusan tekstual UUD.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 18 ayat (4)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0037",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sebuah komunitas adat menuntut pengakuan atas hutan yang telah mereka kelola turun-temurun menurut hukum adat. Dasar konstitusional pengakuan negara terhadap kesatuan masyarakat hukum adat beserta hak tradisionalnya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 18B ayat (2)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 18B ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 18A ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 18 ayat (5)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 33 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 18B ayat (2) menyatakan negara mengakui dan menghormati kesatuan masyarakat hukum adat beserta hak tradisionalnya sepanjang masih hidup dan sesuai dengan prinsip NKRI. Ayat (1) mengatur pemerintahan daerah yang bersifat khusus atau istimewa.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 18B ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0038",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pembahasan sebuah RUU antara DPR dan Presiden berakhir tanpa persetujuan bersama karena DPR menolak substansinya. Menurut UUD NRI 1945, akibatnya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "RUU otomatis sah menjadi undang-undang setelah lewat tiga puluh hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Presiden dapat menetapkannya sebagai Perppu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "RUU tidak boleh diajukan lagi dalam persidangan DPR masa itu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "RUU diserahkan kepada MPR untuk diputuskan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "RUU dapat langsung diuji di Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 20 ayat (3): RUU yang tidak mendapat persetujuan bersama tidak boleh diajukan lagi dalam persidangan DPR masa itu. Ketentuan 30 hari (Pasal 20 ayat (5)) hanya berlaku bagi RUU yang sudah disetujui bersama tetapi tidak disahkan Presiden.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 20 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0039",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "DPR dan Presiden sedang menyiapkan RUU tentang pembentukan provinsi baru hasil pemekaran. Menurut UUD NRI 1945, kedudukan DPD terhadap RUU tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hanya memberikan pertimbangan tertulis tanpa ikut membahas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ikut memberikan persetujuan bersama DPR dan Presiden sebagai syarat sahnya undang-undang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak berwenang karena pembentukan undang-undang menjadi kekuasaan DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dapat mengajukan dan ikut membahas RUU, tetapi tidak ikut memberi persetujuan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mengesahkan RUU apabila Presiden tidak mengesahkannya dalam 30 hari",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 22D ayat (1) dan (2) memberi DPD hak mengajukan dan ikut membahas RUU yang berkaitan dengan pembentukan, pemekaran, dan penggabungan daerah. Persetujuan bersama tetap berada pada DPR dan Presiden (Pasal 20 ayat (2)).",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 22D ayat (1) dan (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0040",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Menurut Pasal 22C ayat (2), anggota DPD dari setiap provinsi jumlahnya sama, dan jumlah seluruh anggota DPD ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak lebih dari setengah jumlah anggota DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak lebih dari sepertiga jumlah anggota DPR",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sekurang-kurangnya seperempat jumlah anggota DPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak lebih dari seperempat jumlah anggota MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak lebih dari dua pertiga jumlah anggota MPR",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 22C ayat (2) membatasi jumlah seluruh anggota DPD tidak lebih dari sepertiga jumlah anggota DPR. Pada periode 2024-2029, 152 anggota DPD (4 orang per provinsi) masih di bawah sepertiga dari 580 anggota DPR.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 22C ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0041",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Saat pemungutan suara, seorang petugas KPPS ikut masuk ke bilik suara untuk melihat pasangan calon yang dicoblos seorang pemilih, padahal pemilih itu tidak meminta bantuan. Asas pemilu yang paling jelas dilanggar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Langsung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bebas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rahasia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Adil",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Asas rahasia menjamin pilihan pemilih tidak diketahui pihak mana pun. Petugas yang melihat pilihan pemilih tanpa diminta membantu melanggar asas pemilu dalam Pasal 22E ayat (1).",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 22E ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0042",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "DPR tidak menyetujui rancangan APBN tahun depan yang diajukan Presiden. Menurut UUD NRI 1945, yang terjadi selanjutnya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Presiden menetapkan APBN dengan Perppu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pemerintah menjalankan APBN tahun yang lalu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "MPR mengambil alih pembahasan RAPBN",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Seluruh belanja negara dihentikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "DPD menetapkan APBN sementara",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 23 ayat (3) menyatakan apabila DPR tidak menyetujui rancangan APBN yang diusulkan Presiden, Pemerintah menjalankan APBN tahun yang lalu. Mekanisme ini mencegah kekosongan anggaran tanpa melangkahi wewenang DPR.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 23 ayat (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0043",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang menteri menerbitkan peraturan menteri yang mewajibkan pungutan baru bersifat memaksa kepada pelaku usaha untuk keperluan negara, padahal pungutan itu tidak memiliki dasar undang-undang. Ketentuan UUD yang dilanggar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 23 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 23A",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 23B",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 23C",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 23D",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 23A menyatakan pajak dan pungutan lain yang bersifat memaksa untuk keperluan negara diatur dengan undang-undang. Peraturan menteri tanpa dasar undang-undang tidak dapat menjadi landasan pungutan semacam itu.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 23A",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0044",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pemerintah menilai sebuah partai politik menjalankan kegiatan yang bertentangan dengan UUD dan ingin membubarkannya. Lembaga yang berwenang memutus pembubaran partai politik adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mahkamah Agung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kementerian Hukum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Komisi Pemilihan Umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dewan Perwakilan Rakyat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mahkamah Konstitusi",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24C ayat (1) memberi MK wewenang memutus pembubaran partai politik, dengan pemerintah sebagai pemohon. Kementerian hanya mengesahkan badan hukum partai dan tidak berwenang membubarkannya.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 24C ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0045",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Masyarakat melaporkan seorang hakim pengadilan negeri yang diduga bertemu pihak berperkara di luar sidang. Menurut UUD NRI 1945, lembaga mandiri yang berwenang menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Komisi Yudisial",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ombudsman Republik Indonesia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Komisi Pemberantasan Korupsi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dewan Perwakilan Rakyat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24B ayat (1) memberi Komisi Yudisial wewenang mengusulkan pengangkatan hakim agung dan wewenang lain untuk menjaga dan menegakkan kehormatan, keluhuran martabat, serta perilaku hakim. Dugaan pelanggaran etik hakim karena itu menjadi ranah KY.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 24B ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0046",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sebuah keluarga muslim bersengketa tentang pembagian harta warisan orang tua mereka. Menurut Pasal 24 ayat (2), perkara ini diperiksa oleh badan peradilan di bawah Mahkamah Agung dalam lingkungan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Peradilan umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Peradilan agama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Peradilan militer",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Peradilan tata usaha negara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Peradilan adat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 24 ayat (2) menyebut empat lingkungan peradilan di bawah MA: umum, agama, militer, dan tata usaha negara. Sengketa waris antara orang-orang beragama Islam menjadi wewenang peradilan agama menurut UU Peradilan Agama.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 24 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0047",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang warga negara asing telah lima tahun bekerja dan bertempat tinggal di Surabaya. Menurut UUD NRI 1945, kedudukannya adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Warga negara Indonesia karena sudah lama menetap",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Penduduk Indonesia, tetapi bukan warga negara Indonesia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bukan penduduk karena bukan WNI",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Warga negara kehormatan tanpa hak politik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Orang asing tanpa status penduduk",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 26 ayat (2): penduduk ialah warga negara Indonesia dan orang asing yang bertempat tinggal di Indonesia. Status WNI hanya diperoleh menurut ketentuan undang-undang, bukan karena lamanya menetap.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 26 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0048",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Anak seorang pejabat yang melanggar lalu lintas dilepaskan petugas tanpa sanksi karena jabatan orang tuanya, sedangkan pengendara lain dengan pelanggaran yang sama ditilang. Perlakuan ini bertentangan dengan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 27 ayat (1)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 27 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 27 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 28E ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 26 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 27 ayat (1) menyatakan segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum tanpa kecuali. Membebaskan seseorang karena status orang tuanya melanggar prinsip persamaan di depan hukum.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 27 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0049",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Hak dan kewajiban warga negara untuk ikut serta dalam upaya pembelaan negara diatur dalam Pasal 27 ayat (3). Adapun hak dan kewajiban tiap warga negara untuk ikut serta dalam usaha pertahanan dan keamanan negara diatur dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 30 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 28J ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 30 ayat (1)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 27 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 29 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 30 ayat (1) menyatakan tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara. Ayat (2) mengatur sistem pertahanan dan keamanan rakyat semesta beserta kekuatan utama dan pendukungnya.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 30 ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0050",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang warga yang rutin membagikan informasi layanan publik di media sosial dilarang kepala desanya mencari dan menyebarkan informasi tersebut tanpa dasar hukum apa pun. Hak konstitusional yang paling relevan dilanggar diatur dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28C ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 28D ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 28E ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 28F",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 28H ayat (2)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 28F menjamin hak setiap orang berkomunikasi serta mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyampaikan informasi melalui segala jenis saluran yang tersedia. Pembatasan hak ini hanya sah bila ditetapkan dengan undang-undang (Pasal 28J ayat (2)).",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 28F",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0051",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Warga desa di hilir sungai mengeluhkan limbah pabrik yang mencemari sumber air minum mereka dan membuat banyak anak terkena penyakit kulit. Hak konstitusional warga yang paling relevan adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28A, hak untuk hidup dan mempertahankan kehidupan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 28H ayat (1), hak atas lingkungan hidup yang sehat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 28H ayat (4), hak milik pribadi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 28G ayat (2), hak bebas dari penyiksaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 33 ayat (3), bumi dan air dikuasai negara untuk kemakmuran rakyat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 28H ayat (1) menjamin hak setiap orang mendapatkan lingkungan hidup yang baik dan sehat serta memperoleh pelayanan kesehatan. Pasal 33 ayat (3) mengatur penguasaan negara atas sumber daya alam, bukan hak warga atas lingkungan yang sehat.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 28H ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0052",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sebuah undang-undang yang disahkan pada 2026 dipakai untuk memidana seseorang atas perbuatan yang dilakukannya pada 2024, ketika perbuatan itu belum dilarang. Menurut UUD NRI 1945, praktik ini ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sah karena undang-undang berlaku bagi perbuatan sebelum maupun sesudah diundangkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sah selama undang-undang itu telah disetujui bersama oleh DPR dan Presiden",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Melanggar hak atas pekerjaan dan penghidupan yang layak bagi kemanusiaan menurut Pasal 27 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sah apabila Mahkamah Konstitusi belum membatalkan undang-undang tersebut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Melanggar hak yang tidak dapat dikurangi dalam keadaan apa pun menurut Pasal 28I ayat (1)",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 28I ayat (1) menggolongkan hak untuk tidak dituntut atas dasar hukum yang berlaku surut sebagai hak yang tidak dapat dikurangi dalam keadaan apa pun. Memidana perbuatan yang dilakukan sebelum aturannya berlaku melanggar hak tersebut.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 28I ayat (1)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0053",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Saat wabah penyakit menular, pemerintah membatasi kegiatan berkumpul warga berdasarkan undang-undang tentang kekarantinaan kesehatan. Dasar konstitusional yang membenarkan pembatasan hak tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28E ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 28I ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 28I ayat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 28J ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 28J ayat (2)",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 28J ayat (2) membolehkan pembatasan hak dan kebebasan yang ditetapkan dengan undang-undang untuk menjamin hak orang lain serta memenuhi tuntutan moral, nilai agama, keamanan, dan ketertiban umum. Pasal 28E ayat (3) justru memuat hak berkumpul yang dibatasi itu.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 28J ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0054",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sekelompok warga melarang tetangganya yang menganut agama minoritas beribadah bersama keluarga di rumahnya sendiri. Ketentuan UUD yang menjamin hak warga tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28E ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 29 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 29 ayat (2)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 31 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 32 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 29 ayat (2) menyatakan negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya dan beribadat menurut agama dan kepercayaannya. Ayat (1) hanya menyatakan negara berdasar atas Ketuhanan Yang Maha Esa.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 29 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0055",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Menurut Pasal 30 ayat (2) UUD NRI 1945, dalam sistem pertahanan dan keamanan rakyat semesta, kedudukan rakyat adalah sebagai ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kekuatan pendukung",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kekuatan utama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Alat negara penegak hukum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pelaksana tunggal pertahanan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Komando kewilayahan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 30 ayat (2): usaha pertahanan dan keamanan negara dilaksanakan melalui sistem pertahanan dan keamanan rakyat semesta oleh TNI dan Polri sebagai kekuatan utama, dan rakyat sebagai kekuatan pendukung.",
+    "difficulty": 1,
+    "source": "UUD 1945 Pasal 30 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0056",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Seorang anak berusia 10 tahun berhenti sekolah dasar karena orang tuanya tidak mampu membayar pungutan yang ditarik sekolah negeri. Ketentuan UUD yang paling tegas mewajibkan pemerintah menanggung biaya pendidikan anak tersebut adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28C ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 31 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 31 ayat (2)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 31 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 34 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 31 ayat (2) menyatakan setiap warga negara wajib mengikuti pendidikan dasar dan pemerintah wajib membiayainya. Pasal 28C ayat (1) dan Pasal 31 ayat (1) memuat hak atas pendidikan, tetapi tidak secara tegas membebankan biayanya kepada pemerintah.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 31 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0057",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Perhatikan dua hal berikut.\n(1) Penyediaan tenaga listrik yang menguasai hajat hidup orang banyak.\n(2) Cadangan nikel yang terkandung di dalam bumi Indonesia.\nPenguasaan negara atas kedua hal itu secara berturut-turut didasarkan pada ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 33 ayat (3) dan Pasal 33 ayat (2)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 33 ayat (1) dan Pasal 33 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 33 ayat (2) dan Pasal 33 ayat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 33 ayat (2) dan Pasal 33 ayat (3)",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 34 ayat (3) dan Pasal 33 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Ayat (2) mengatur cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak, seperti ketenagalistrikan. Ayat (3) mengatur bumi, air, dan kekayaan alam yang terkandung di dalamnya, termasuk bahan tambang seperti nikel.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 33 ayat (2) dan (3)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0058",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Pemerintah mewajibkan seluruh penduduk menjadi peserta program jaminan kesehatan nasional yang dikelola BPJS Kesehatan. Kewajiban negara mengembangkan sistem jaminan sosial bagi seluruh rakyat ditegaskan dalam ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pasal 28H ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pasal 33 ayat (4)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pasal 34 ayat (1)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pasal 34 ayat (3)",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pasal 34 ayat (2)",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 34 ayat (2) menyatakan negara mengembangkan sistem jaminan sosial bagi seluruh rakyat dan memberdayakan masyarakat yang lemah dan tidak mampu. Ayat (1) mengatur fakir miskin dan anak terlantar, sedangkan ayat (3) mengatur fasilitas pelayanan kesehatan dan pelayanan umum.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 34 ayat (2)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0059",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Sejumlah anggota MPR mengusulkan agar bentuk negara diubah menjadi negara federal dengan alasan pemerataan pembangunan. Menurut UUD NRI 1945, usul tersebut ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dapat diagendakan bila diusulkan 1/3 anggota MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Harus terlebih dahulu disetujui rakyat melalui referendum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sah bila disetujui separuh lebih anggota MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Harus diuji terlebih dahulu oleh Mahkamah Konstitusi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat dilakukan karena bentuk NKRI tidak dapat diubah",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 37 ayat (5) menegaskan bahwa khusus mengenai bentuk Negara Kesatuan Republik Indonesia tidak dapat dilakukan perubahan. Prosedur 1/3 pengusul dan persetujuan 50 persen ditambah satu hanya berlaku untuk perubahan pasal lain.",
+    "difficulty": 2,
+    "source": "UUD 1945 Pasal 37 ayat (5)",
+    "status": "draft"
+  },
+  {
+    "id": "twk-pilar_negara-uud_1945-0060",
+    "subtest": "TWK",
+    "group": "pilar_negara",
+    "tag": "uud_1945",
+    "stem": "Untuk mengubah pasal-pasal UUD, usul diajukan oleh sekurang-kurangnya (1) jumlah anggota MPR, sidang dihadiri sekurang-kurangnya (2) jumlah anggota MPR, dan putusan disetujui sekurang-kurangnya (3). Isian (1), (2), dan (3) yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "1/3; 2/3; 50 persen ditambah satu dari seluruh anggota",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "1/3; 3/4; 2/3 dari anggota yang hadir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "2/3; 2/3; 50 persen ditambah satu dari anggota yang hadir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "1/4; 2/3; 2/3 dari seluruh anggota MPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "1/3; 2/3; 50 persen ditambah satu dari anggota yang hadir",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasal 37 ayat (1), (3), dan (4): usul diajukan sedikitnya 1/3 anggota MPR, sidang dihadiri sedikitnya 2/3 anggota, dan putusan disetujui sedikitnya 50 persen ditambah satu dari seluruh anggota MPR, bukan dari anggota yang hadir.",
+    "difficulty": 3,
+    "source": "UUD 1945 Pasal 37 ayat (1), (3), dan (4)",
+    "status": "draft"
+  }
+]

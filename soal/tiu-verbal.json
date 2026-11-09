@@ -1,0 +1,4622 @@
+[
+  {
+    "id": "tiu-verbal-analogi-0001",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "WICAKSANA : BIJAKSANA = LAZIM : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Langka",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Biasa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mudah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Wajib",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Resmi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sinonim: wicaksana sama arti dengan bijaksana, lazim sama arti dengan biasa. Langka justru lawan katanya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0002",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "BOROS : HEMAT = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tekun : rajin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Lambat : pelan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sederhana : bersahaja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ceroboh : cermat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Murah : diskon",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi antonim: boros lawan kata hemat, ceroboh lawan kata cermat. Pasangan lain bersinonim atau hanya berkaitan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0003",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "LENSA : KAMERA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pedal : sepeda",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Foto : album",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sopir : bus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kabel : listrik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jendela : pemandangan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi bagian - keseluruhan: lensa adalah komponen kamera, pedal komponen sepeda. Foto : album adalah isi - wadah, sopir : bus adalah pelaku - kendaraan.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0004",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "PRAJURIT : PELETON = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kapten : kapal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Siswa : seragam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Guru : sekolah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Senapan : tentara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Musisi : orkestra",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi anggota - kelompok: prajurit adalah anggota peleton, musisi anggota orkestra. Guru : sekolah adalah profesi - tempat kerja.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0005",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "ANGKLUNG : ALAT MUSIK = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Keris : Jawa Tengah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Gamelan : gong",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rendang : masakan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tari : penari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Wayang : dalang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi jenis - kategori: angklung adalah salah satu jenis alat musik, rendang salah satu jenis masakan. Gamelan : gong adalah keseluruhan - bagian, wayang : dalang adalah benda - pelaku.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0006",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "KEMARAU PANJANG : KEKERINGAN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gempa bumi : bangunan runtuh",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Banjir : hujan deras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Asap tebal : kebakaran hutan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sakit : dokter",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Panen : padi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sebab - akibat: kemarau panjang menyebabkan kekeringan, gempa bumi menyebabkan bangunan runtuh. Pada B dan C urutannya terbalik (akibat : sebab).",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0007",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "CANGKUL : MENGGEMBURKAN = SETRIKA : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pakaian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Listrik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Panas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Penjahit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Melicinkan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi alat - fungsi: cangkul dipakai untuk menggemburkan tanah, setrika dipakai untuk melicinkan pakaian. Pakaian hanya objeknya, panas dan listrik hanya sarana kerjanya.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0008",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "NELAYAN : JALA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Petani : sawah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dokter : stetoskop",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Guru : murid",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pilot : bandara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Arsitek : gedung bertingkat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi profesi - alat kerja: nelayan bekerja memakai jala, dokter memakai stetoskop. Sawah dan bandara adalah tempat kerja, gedung adalah hasil kerja.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0009",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "PETANI : SAWAH = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Nelayan : ikan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Penjahit : benang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Koki : pisau",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mekanik : bengkel",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pelukis : lukisan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi profesi - tempat kerja: petani bekerja di sawah, mekanik bekerja di bengkel. Ikan dan lukisan adalah hasil kerja, benang dan pisau adalah bahan atau alat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0010",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "PENYAIR : PUISI = KOMPONIS : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Piano",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Konser",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Lagu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Penyanyi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Nada",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi profesi - hasil karya: penyair menghasilkan puisi, komponis menghasilkan lagu. Piano adalah alat, konser adalah acara, penyanyi adalah pembawa lagu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0011",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "KEDELAI : TEMPE = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Padi : sawah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Roti : gandum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Susu : keju",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Gula : manis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kopi : cangkir",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi bahan - produk olahan: kedelai diolah menjadi tempe, susu diolah menjadi keju. Roti : gandum memuat relasi yang sama tetapi urutannya terbalik.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0012",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "LEMBAP : BASAH = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kesal : murka",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Murka : kesal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Basah : kering",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Marah : emosi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Air : basah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi tingkatan dari lemah ke kuat: lembap belum sampai basah, kesal belum sampai murka. B berada di ranah yang sama tetapi arahnya terbalik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0013",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "KEPOMPONG : KUPU-KUPU = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Katak : berudu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ulat : daun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sarang : burung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Berudu : katak",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kelinci : wortel",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi urutan tahap hidup: kepompong berkembang menjadi kupu-kupu, berudu berkembang menjadi katak. A memuat pasangan yang sama tetapi urutannya terbalik.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0014",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "HIGROMETER : KELEMBAPAN UDARA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kalkulator : hasil hitungan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ombrometer : curah hujan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Teleskop : benda langit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mikroskop : sel bakteri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Jam dinding : ruang tamu",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi alat ukur - besaran: higrometer mengukur kelembapan udara, ombrometer mengukur curah hujan. Teleskop dan mikroskop hanya alat bantu melihat objek, bukan pengukur besaran.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0015",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "PAUS : SAMUDRA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Burung : sayap",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ikan : insang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sapi : susu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Hutan hujan : orang utan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bekantan : hutan bakau",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi hewan - habitat: paus hidup di samudra, bekantan hidup di hutan bakau. D juga memuat relasi habitat, tetapi urutannya terbalik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0016",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "CUKA : ASAM = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Garam : laut",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kopi : gula",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Lada : bumbu dapur",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Madu : lebah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Empedu : pahit",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi benda - sifat khas: cuka khas rasanya asam, empedu khas rasanya pahit. Madu : lebah adalah hasil - penghasil, garam : laut adalah benda - asal.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0017",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "BENDERA SETENGAH TIANG : BERKABUNG = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lampu lalu lintas : jalan raya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Seragam : pegawai",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bendera putih : menyerah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sirene : ambulans",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Upacara : bendera",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi simbol - makna: bendera setengah tiang melambangkan suasana berkabung, bendera putih melambangkan menyerah. Pilihan lain hanya pasangan benda dengan tempat atau pemakainya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0018",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "ZAT BESI : ANEMIA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vitamin D : rakitis",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Gula : diabetes",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kalsium : susu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Vitamin A : wortel",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rokok : kanker paru",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi kekurangan - akibat: kekurangan zat besi menyebabkan anemia, kekurangan vitamin D menyebabkan rakitis. B dan E akibat kelebihan atau paparan, sedangkan C dan D adalah zat - sumbernya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0019",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "WASIT : MEMIMPIN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bola : menendang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hakim : memutuskan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Penonton : stadion",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pemain : peluit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Murid : sekolah",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi pelaku - tindakan: wasit bertugas memimpin pertandingan, hakim bertugas memutuskan perkara. Bola : menendang adalah objek - tindakan, bukan pelaku.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0020",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "NIRMALA : ... = ... : JEMU",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kotor - senang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Indah - lelah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Suci - riang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bersih - bosan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Murni - rindu",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sinonim: nirmala berarti bersih tanpa cela, dan bosan sama arti dengan jemu. Suci dan murni dekat maknanya dengan nirmala, tetapi riang dan rindu bukan sinonim jemu.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0021",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "VAKSINASI : KEKEBALAN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Obat : apotek",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Batuk : flu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dokter : resep",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Olahraga : kebugaran",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rumah sakit : pasien",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sebab - akibat: vaksinasi menghasilkan kekebalan tubuh, olahraga teratur menghasilkan kebugaran. Batuk : flu urutannya terbalik (gejala : penyebab).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0022",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "SARINGAN : MEMISAHKAN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sendok : piring",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tang : mencabut",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Palu : tukang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kunci : gembok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Cangkir : kopi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi alat - fungsi: saringan dipakai untuk memisahkan, tang dipakai untuk mencabut. Palu : tukang adalah alat - pemakai, cangkir : kopi adalah wadah - isi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0023",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "BAB : NOVEL = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Penulis : buku",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Siswa : kelas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Halaman : sampul",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Aktor : film",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Babak : drama",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi bagian - keseluruhan: bab adalah bagian isi novel, babak adalah bagian isi drama. Siswa : kelas dan aktor : film adalah anggota atau pemeran, bukan bagian isi karya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0024",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "... : GULA = KAKAO : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rasa manis - rasa pahit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tebu - kopi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tebu - cokelat",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Aren - susu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Teh - cokelat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi bahan - produk: tebu diolah menjadi gula, kakao diolah menjadi cokelat. Pada D, aren memang bahan gula, tetapi kakao tidak diolah menjadi susu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0025",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "NAKHODA : ANJUNGAN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pilot : kokpit",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pramugari : penumpang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sopir : kemudi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Masinis : rel kereta",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kapten : awak kapal",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi profesi - tempat kerja: nakhoda mengendalikan kapal dari anjungan, pilot mengendalikan pesawat dari kokpit. Kemudi adalah alat, rel bukan ruang kerja masinis, penumpang dan awak adalah orang yang dilayani atau dipimpin.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0026",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "MEMPERCEPAT : MEMPERLAMBAT = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Memperluas : mempersempit",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mempercepat : mempersingkat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Memperbaiki : memperbarui",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Memperlambat : menunda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Memperkuat : mempertegas",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi antonim: mempercepat lawan kata memperlambat, memperluas lawan kata mempersempit. Pasangan lain maknanya searah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0027",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "BADAI : ANGIN = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gerimis : hujan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Angin : layang-layang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Murka : marah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Petir : guntur",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Hujan : banjir",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi tingkatan dari kuat ke lemah: badai adalah angin yang sangat kencang, murka adalah marah yang sangat besar. Gerimis : hujan berada di ranah sejenis tetapi arahnya terbalik (lemah ke kuat).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0028",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "KARTOGRAFER : PETA = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fotografer : kamera",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Geografer : bumi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pelaut : kompas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Desainer : studio",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sutradara : film",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi profesi - hasil kerja: kartografer membuat peta, sutradara menghasilkan film. Kamera dan kompas adalah alat, studio adalah tempat kerja, bumi adalah objek kajian.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0029",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "UNGGAS : ITIK = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sapi : ternak",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kaki : meja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kain : baju kurung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rempah : cengkih",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Petani : padi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi kategori - jenis: itik termasuk unggas, cengkih termasuk rempah, dengan kategori disebut lebih dulu. Sapi : ternak memuat relasi yang sama tetapi urutannya terbalik.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0030",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "AMPEREMETER : ... = ... : MASSA",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Listrik - beras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kuat arus - neraca",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tegangan - timbangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kabel - kilogram",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kuat arus - kilogram",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi alat ukur - besaran: amperemeter mengukur kuat arus listrik, neraca mengukur massa. Tegangan diukur dengan voltmeter, dan kilogram adalah satuan, bukan alat ukur.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0031",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "PAKAR : AHLI :: GALAT : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Data",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kekeliruan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perhitungan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ketepatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kerusakan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sinonim: pakar sama arti dengan ahli, galat sama arti dengan kekeliruan. Ketepatan justru lawan maknanya.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0032",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "SURUT : PASANG = ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gelombang : ombak",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Laut : pantai",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Naik : tinggi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Senja : malam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mundur : maju",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi antonim: surut lawan kata pasang, mundur lawan kata maju. Gelombang : ombak bersinonim, senja : malam adalah urutan waktu.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0033",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "... : RABUN SENJA = YODIUM : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Vitamin A - gondok",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Wortel - garam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Vitamin C - gondok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Vitamin A - anemia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mata - leher",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi kekurangan - akibat: kekurangan vitamin A menyebabkan rabun senja, kekurangan yodium menyebabkan gondok. Wortel dan garam hanya sumber zatnya, bukan zat yang kurang.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0034",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "KUNCUP : MEKAR :: ... : ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bunga : taman kota",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Layu : segar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Daun : hijau",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mentah : matang",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Buah : manis",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi urutan proses: kuncup mendahului mekar, mentah mendahului matang. Layu : segar urutannya terbalik karena segar datang lebih dulu.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analogi-0035",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analogi",
+    "stem": "INFLASI : ... = ... : PENGANGGURAN",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Harga naik - lapangan kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Uang - pekerjaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Daya beli turun - PHK massal",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Deflasi - lowongan kerja",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bunga bank - gaji pegawai",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Relasi sebab - akibat: inflasi menurunkan daya beli, PHK massal menambah pengangguran. Pada A, kenaikan harga memang terkait inflasi, tetapi lapangan kerja tidak menyebabkan pengangguran.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0001",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua peserta yang lulus SKD mengikuti SKB.\nSemua peserta yang mengikuti SKB wajib mengunggah dokumen asli.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua peserta yang wajib mengunggah dokumen asli lulus SKD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua peserta yang lulus SKD wajib mengunggah dokumen asli",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian peserta yang lulus SKD tidak mengikuti SKB",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Peserta yang tidak lulus SKD tidak wajib mengunggah dokumen asli",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Silogisme rantai: semua A adalah B dan semua B adalah C, maka semua A adalah C (lulus SKD, ikut SKB, wajib unggah). A membalik arah premis, D menyangkal anteseden.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0002",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Sebagian relawan posyandu adalah mahasiswa kesehatan.\nSemua mahasiswa kesehatan telah mendapat pelatihan P3K.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua relawan posyandu telah mendapat pelatihan P3K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian relawan posyandu belum mendapat pelatihan P3K",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian relawan posyandu telah mendapat pelatihan P3K",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua yang mendapat pelatihan P3K adalah mahasiswa kesehatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola sebagian C adalah A dan semua A adalah B, maka sebagian C adalah B. B tidak pasti karena kata 'sebagian' tidak menjamin ada yang belum, sedangkan D membalik premis kedua.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0003",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak ada kendaraan dinas yang boleh dipakai untuk mudik.\nSemua mobil berpelat merah di kantor itu adalah kendaraan dinas.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ada mobil berpelat merah di kantor itu yang boleh dipakai mudik",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian mobil berpelat merah di kantor itu boleh dipakai untuk mudik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Semua kendaraan yang tidak boleh dipakai mudik berpelat merah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian kendaraan dinas di kantor itu bukan mobil berpelat merah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola tidak ada A yang B dan semua C adalah A, maka tidak ada C yang B. D tidak pasti karena bisa saja semua kendaraan dinas berpelat merah.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0004",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak ada peserta yang terlambat diizinkan masuk ruang ujian.\nSebagian peserta dari Kota Bogor terlambat.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua peserta dari Kota Bogor tidak diizinkan masuk",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian peserta dari Kota Bogor tidak diizinkan masuk",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian peserta dari Kota Bogor diizinkan masuk ruang ujian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua peserta yang terlambat berasal dari Kota Bogor",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola tidak ada A yang B dan sebagian C adalah A, maka sebagian C bukan B. A berlebihan karena premis hanya menyebut sebagian peserta dari Bogor yang terlambat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0005",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua peserta lomba cerdas cermat memakai seragam batik.\nSemua anggota paduan suara memakai seragam batik.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua peserta lomba cerdas cermat adalah anggota paduan suara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian peserta lomba cerdas cermat adalah anggota paduan suara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak ada peserta cerdas cermat yang menjadi anggota paduan suara",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian anggota paduan suara bukan peserta lomba cerdas cermat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Term tengah (memakai seragam batik) tidak pernah tercakup penuh, sehingga hubungan peserta cerdas cermat dan anggota paduan suara tidak bisa dipastikan. Kedua kelompok bisa sama, beririsan, atau terpisah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0006",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua pegawai yang menerima penghargaan Satyalancana telah bekerja minimal sepuluh tahun.\nPak Hendra belum bekerja sepuluh tahun.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Hendra tidak menerima penghargaan Satyalancana",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Hendra menerima penghargaan lain dari bupati",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pak Hendra menerima penghargaan Satyalancana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian penerima Satyalancana belum bekerja sepuluh tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Semua penerima Satyalancana sudah bekerja minimal sepuluh tahun, sedangkan Pak Hendra belum, maka Pak Hendra bukan penerima Satyalancana (modus tollens). C dan D bertentangan dengan premis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0007",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Sebagian guru honorer di kabupaten itu mengikuti seleksi PPPK.\nSebagian peserta seleksi PPPK berasal dari luar kabupaten.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sebagian guru honorer di kabupaten itu berasal dari luar kabupaten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua guru honorer di kabupaten itu berasal dari luar kabupaten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak ada guru honorer di kabupaten itu yang dari luar kabupaten",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua peserta seleksi PPPK adalah guru honorer di kabupaten itu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kedua premis berbentuk 'sebagian', sehingga tidak ada kesimpulan yang pasti. Guru honorer yang ikut seleksi belum tentu termasuk peserta yang berasal dari luar kabupaten.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0008",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua pengemudi ojek daring di kota itu memiliki SIM C.\nSebagian warga Kelurahan Sukamaju adalah pengemudi ojek daring di kota itu.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua warga Kelurahan Sukamaju memiliki SIM C",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua pemilik SIM C di kota itu adalah pengemudi ojek daring",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian warga Kelurahan Sukamaju tidak memiliki SIM C",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian pengemudi ojek daring bukan warga Kelurahan Sukamaju",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Semua kesimpulan di atas salah",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kesimpulan yang sah hanya 'sebagian warga Kelurahan Sukamaju memiliki SIM C', dan itu tidak ada di pilihan. A menggeneralisasi 'sebagian' menjadi 'semua', B membalik premis, C dan D tidak dijamin premis.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0009",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua operator drone di dinas itu memiliki sertifikat pilot jarak jauh.\nSebagian staf bidang pemetaan tidak memiliki sertifikat pilot jarak jauh.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sebagian staf bidang pemetaan adalah operator drone",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Tidak ada staf bidang pemetaan yang menjadi operator drone",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian staf bidang pemetaan bukan operator drone",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian pemilik sertifikat itu bukan operator drone",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola semua A adalah B dan sebagian C bukan B, maka sebagian C bukan A. Staf pemetaan yang tidak bersertifikat pasti bukan operator drone, tetapi staf lain belum tentu (B berlebihan).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0010",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua pemenang lomba inovasi daerah mempresentasikan karyanya di depan bupati.\nTidak ada pegawai Dinas Pertanian yang mempresentasikan karyanya di depan bupati.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sebagian pegawai Dinas Pertanian menjadi pemenang lomba inovasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua yang presentasi di depan bupati adalah pemenang lomba inovasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian pemenang lomba inovasi adalah pegawai Dinas Pertanian",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak ada pegawai Dinas Pertanian yang memenangi lomba inovasi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pola semua A adalah B dan tidak ada C yang B, maka tidak ada C yang A. Semua pemenang presentasi di depan bupati, jadi pegawai yang tidak presentasi tidak mungkin pemenang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0011",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua peserta yang lolos seleksi atlet daerah menjalani tes kebugaran.\nDimas menjalani tes kebugaran.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dimas lolos seleksi atlet daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dimas tidak lolos seleksi atlet daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Semua yang menjalani tes kebugaran lolos seleksi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dimas menjalani tes kebugaran dan lolos seleksi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Premis hanya menyatakan semua yang lolos menjalani tes, bukan sebaliknya. Menjalani tes kebugaran tidak menjamin Dimas lolos atau tidak lolos (kesalahan menegaskan konsekuen).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0012",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak ada kendaraan bermotor yang boleh masuk area hari bebas kendaraan.\nTidak ada sepeda listrik yang termasuk kendaraan bermotor.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua sepeda listrik boleh masuk area hari bebas kendaraan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian sepeda listrik boleh masuk area hari bebas kendaraan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tidak ada sepeda listrik yang boleh masuk area bebas kendaraan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua yang boleh masuk area itu adalah sepeda listrik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kedua premis negatif, sehingga tidak ada kesimpulan yang sah. Premis tidak menyebut syarat boleh masuk, jadi bukan kendaraan bermotor tidak otomatis boleh masuk.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0013",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua peserta magang di Bappeda adalah mahasiswa tingkat akhir.\nSemua mahasiswa tingkat akhir sedang menyusun skripsi.\nTidak ada mahasiswa yang sedang menyusun skripsi mengikuti program pertukaran pelajar.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sebagian peserta magang di Bappeda mengikuti program pertukaran pelajar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua yang sedang menyusun skripsi adalah peserta magang di Bappeda",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian peserta pertukaran pelajar adalah mahasiswa tingkat akhir",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tidak ada peserta magang di Bappeda yang mengikuti pertukaran pelajar",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rantai: magang di Bappeda, lalu mahasiswa tingkat akhir, lalu menyusun skripsi, dan tidak ada penyusun skripsi yang ikut pertukaran pelajar. Jadi tidak ada peserta magang Bappeda yang mengikuti pertukaran pelajar.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0014",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Sebagian pengunjung perpustakaan daerah adalah pelajar SMA.\nTidak ada pelajar SMA yang memiliki kartu anggota dewasa.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ada pengunjung perpustakaan daerah yang memiliki kartu anggota dewasa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian pengunjung perpustakaan daerah memiliki kartu anggota dewasa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian pengunjung perpustakaan daerah tidak memiliki kartu anggota dewasa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua pemilik kartu anggota dewasa bukan pengunjung perpustakaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pengunjung yang pelajar SMA pasti tidak memiliki kartu anggota dewasa, jadi sebagian pengunjung tidak memilikinya. A berlebihan karena pengunjung lain bisa saja memiliki kartu itu.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0015",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua pegawai yang bertugas di loket pengaduan telah mengikuti pelatihan layanan prima.\nTidak ada pegawai Bagian Keuangan yang bertugas di loket pengaduan.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ada pegawai Bagian Keuangan yang mengikuti pelatihan layanan prima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Semua pegawai Bagian Keuangan telah mengikuti pelatihan layanan prima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian pegawai Bagian Keuangan mengikuti pelatihan layanan prima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua peserta pelatihan layanan prima bertugas di loket pengaduan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Semua kesimpulan di atas salah",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Premis tidak menyebut apa pun tentang pelatihan pegawai Bagian Keuangan, sehingga A, B, dan C tidak pasti; A adalah kesalahan klasik memperluas term. D membalik premis pertama.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0016",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak ada penerima beasiswa daerah yang bekerja penuh waktu.\nSebagian penerima beasiswa daerah adalah anggota karang taruna.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Tidak ada anggota karang taruna yang bekerja penuh waktu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian anggota karang taruna tidak bekerja penuh waktu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian anggota karang taruna bekerja penuh waktu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua anggota karang taruna adalah penerima beasiswa daerah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Anggota karang taruna yang menerima beasiswa pasti tidak bekerja penuh waktu, jadi sebagian anggota karang taruna tidak bekerja penuh waktu. A menggeneralisasi ke semua anggota.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0017",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua juri lomba desain logo hari jadi kabupaten adalah desainer grafis.\nSebagian juri lomba itu adalah dosen.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Semua dosen adalah desainer grafis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sebagian dosen adalah desainer grafis",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Semua desainer grafis menjadi juri lomba itu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sebagian desainer grafis bukan dosen",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Juri yang dosen pasti juga desainer grafis, sehingga sebagian dosen adalah desainer grafis. D tidak pasti karena bisa saja semua desainer grafis juga dosen.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0018",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika curah hujan di atas 100 mm sehari, sekolah di kecamatan itu diliburkan.\nKemarin curah hujan di kecamatan itu di atas 100 mm.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kemarin sekolah di kecamatan itu tetap masuk",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kemarin curah hujan di kecamatan itu normal",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kemarin terjadi banjir di kecamatan itu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kemarin sekolah di kecamatan itu diliburkan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Modus ponens: jika p maka q, dan p terjadi, maka q terjadi. C menambahkan informasi (banjir) yang tidak ada di premis.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0019",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika server sedang dalam perawatan, layanan pendaftaran daring ditutup.\nHari ini layanan pendaftaran daring tidak ditutup.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hari ini server tidak sedang dalam perawatan",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hari ini server sedang dalam perawatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Hari ini layanan pendaftaran dibuka setengah hari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Besok server akan masuk masa perawatan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Modus tollens: jika p maka q, dan tidak q, maka tidak p. Layanan tidak ditutup berarti server tidak sedang dalam perawatan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0020",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika anggaran perubahan disetujui, renovasi puskesmas dimulai bulan depan.\nJika renovasi puskesmas dimulai bulan depan, layanan rawat inap dipindahkan sementara.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Jika anggaran perubahan disetujui, layanan rawat inap dipindahkan sementara",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Jika layanan rawat inap dipindahkan sementara, anggaran perubahan disetujui",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Jika anggaran perubahan tidak disetujui, layanan rawat inap tidak dipindahkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Anggaran perubahan disetujui dan renovasi puskesmas dimulai bulan depan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Silogisme hipotetis: p maka q dan q maka r menghasilkan p maka r. B membalik arah implikasi, C menyangkal anteseden.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0021",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Rapat koordinasi camat diadakan di aula kantor bupati atau secara daring.\nRapat koordinasi camat tidak diadakan di aula kantor bupati.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rapat koordinasi camat dibatalkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rapat koordinasi camat diadakan secara daring",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rapat koordinasi camat diadakan di aula dan daring",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rapat koordinasi camat ditunda ke minggu depan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Silogisme disjungtif: p atau q, dan tidak p, maka q. Karena tidak di aula, rapat pasti diadakan secara daring.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0022",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika Rina lulus seleksi administrasi, ia mengikuti SKD.\nJika Rina mengikuti SKD, ia berangkat ke Makassar pekan depan.\nRina tidak berangkat ke Makassar pekan depan.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rina mengikuti SKD, tetapi tidak lulus seleksi administrasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rina lulus seleksi administrasi, tetapi tidak mengikuti SKD",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Rina tidak lulus seleksi administrasi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rina mengikuti SKD di kota selain Makassar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rantai p maka q maka r, dengan tidak r. Modus tollens dua kali: tidak r, maka tidak q, maka tidak p. Jadi Rina tidak lulus seleksi administrasi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0023",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika suatu dokumen berstatus rahasia, dokumen itu disimpan di lemari berkunci.\nJika suatu dokumen disimpan di lemari berkunci, kuncinya dipegang sekretaris.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Jika kunci dokumen dipegang sekretaris, dokumen itu berstatus rahasia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Jika dokumen tidak berstatus rahasia, kuncinya tidak dipegang sekretaris",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Jika dokumen disimpan di lemari berkunci, dokumen itu berstatus rahasia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Jika kunci dokumen tidak dipegang sekretaris, dokumen itu tidak rahasia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rantai p maka q maka r setara dengan kontraposisinya: tidak r maka tidak p. A dan C membalik arah implikasi, B menyangkal anteseden.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0024",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika listrik PLN padam, genset kantor kecamatan menyala.\nSiang ini genset kantor kecamatan menyala.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Siang ini listrik PLN padam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Siang ini listrik PLN tidak padam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Jika listrik PLN tidak padam, genset tidak menyala",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Genset menyala karena ada uji coba rutin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menegaskan konsekuen (q, maka p) tidak sah, karena genset bisa menyala oleh sebab lain. Padam atau tidaknya listrik tidak dapat dipastikan.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0025",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika seorang pegawai meraih predikat kinerja sangat baik, ia memperoleh bonus akhir tahun.\nPak Darto tidak meraih predikat kinerja sangat baik.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Darto tidak memperoleh bonus akhir tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Darto memperoleh bonus akhir tahun",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pak Darto meraih predikat kinerja buruk",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pak Darto memperoleh bonus dari kegiatan lain",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Menyangkal anteseden (tidak p, maka tidak q) tidak sah. Premis tidak mengatur pegawai yang predikatnya bukan sangat baik, dan 'tidak sangat baik' juga belum tentu 'buruk'.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0026",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Bu Lestari mengirim laporan melalui surel atau melalui aplikasi SRIKANDI.\nJika laporan dikirim melalui aplikasi SRIKANDI, laporan itu sudah ditandatangani secara elektronik.\nLaporan Bu Lestari belum ditandatangani secara elektronik.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Laporan dikirim melalui aplikasi SRIKANDI",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Laporan dikirim melalui surel dan aplikasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Laporan Bu Lestari dikirim melalui surel",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Laporan Bu Lestari akan ditandatangani besok",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dari jika p maka r dan tidak r diperoleh tidak p (modus tollens). Lalu dari surel atau p, dan tidak p, diperoleh surel (silogisme disjungtif).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0027",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak benar bahwa Andi dan Bima sama-sama bertugas jaga malam di posko bencana.\nAndi bertugas jaga malam di posko bencana.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bima tidak bertugas jaga malam di posko bencana",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bima bertugas jaga malam di posko bencana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Andi dan Bima sama-sama tidak bertugas jaga malam di posko",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bima bertugas jaga siang di posko bencana",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Negasi konjungsi: tidak (a dan b) setara dengan tidak a atau tidak b. Karena a benar, maka tidak b: Bima tidak jaga malam. D tidak pasti karena tidak jaga malam belum tentu jaga siang.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0028",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Panitia memilih Gedung Serbaguna atau Balai Desa sebagai lokasi vaksinasi massal.\nJika dipilih Gedung Serbaguna, Puskesmas Sukajadi menyediakan tenaga vaksinator.\nJika dipilih Balai Desa, Puskesmas Sukajadi juga menyediakan tenaga vaksinator.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lokasi vaksinasi massal adalah Gedung Serbaguna",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Lokasi vaksinasi massal adalah Balai Desa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Puskesmas Sukajadi tidak menyediakan tenaga vaksinator",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Puskesmas Sukajadi menyediakan tenaga vaksinator",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dilema konstruktif: p atau q, p maka r, q maka r, maka r. Lokasi mana pun yang dipilih, Puskesmas Sukajadi tetap menyediakan vaksinator, sedangkan lokasinya sendiri tidak dapat dipastikan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0029",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika Desa Mekarsari mendapat dana hibah, desa itu menyusun laporan pertanggungjawaban.\nJika desa itu menyusun laporan pertanggungjawaban, kepala desa mengumumkannya di balai desa.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Desa Mekarsari mendapat dana hibah atau laporannya tidak diumumkan di balai desa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Desa Mekarsari tidak mendapat dana hibah atau laporannya diumumkan di balai desa",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Desa Mekarsari mendapat dana hibah dan laporannya diumumkan di balai desa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Jika laporan diumumkan di balai desa, Desa Mekarsari mendapat dana hibah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Rantai p maka q maka r menghasilkan p maka r, yang setara dengan tidak p atau r. A adalah bentuk setara dari r maka p, bukan p maka r.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0030",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Kantor pelayanan buka pada hari Sabtu jika dan hanya jika ada kegiatan jemput bola.\nSabtu ini kantor pelayanan tidak buka.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sabtu ini ada kegiatan jemput bola",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kantor pelayanan buka pada hari Minggu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sabtu ini tidak ada kegiatan jemput bola",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kegiatan jemput bola dipindahkan ke hari Jumat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Biimplikasi p jika dan hanya jika q berarti nilai keduanya selalu sama. Kantor tidak buka, maka tidak ada kegiatan jemput bola.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0031",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Semua pegawai yang terlambat lebih dari 30 menit dipotong tunjangan kinerjanya.\nJika tunjangan kinerja Sari dipotong, Sari mengajukan klarifikasi kepada atasan.\nSari tidak mengajukan klarifikasi kepada atasan.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sari tidak terlambat lebih dari 30 menit",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sari terlambat, tetapi tunjangannya tidak dipotong",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tunjangan kinerja Sari dipotong",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Semua pegawai yang tunjangannya dipotong terlambat lebih dari 30 menit",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Karena Sari tidak mengajukan klarifikasi, tunjangannya tidak dipotong (modus tollens). Semua yang terlambat lebih dari 30 menit dipotong, maka Sari pasti tidak terlambat lebih dari 30 menit.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0032",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Jika kuorum tidak terpenuhi, sidang paripurna DPRD ditunda.\nSidang paripurna DPRD hari ini tidak ditunda.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kuorum sidang paripurna hari ini tidak terpenuhi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sidang paripurna hari ini dibatalkan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sebagian anggota DPRD tidak hadir hari ini",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kuorum sidang paripurna hari ini terpenuhi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Modus tollens dengan anteseden negatif: jika tidak k maka t, dan tidak t, maka k. Sidang tidak ditunda berarti kuorum terpenuhi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0033",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak benar bahwa jika Pak Rahmat dimutasi, ia pindah rumah.\nJika Pak Rahmat dimutasi, ia menerima SK baru.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Rahmat tidak dimutasi dan juga tidak pindah rumah",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Rahmat menerima SK baru, tetapi tidak pindah rumah",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pak Rahmat dimutasi lalu pindah rumah bersama keluarganya",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pak Rahmat tidak menerima SK baru",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Negasi implikasi: tidak (p maka q) setara dengan p dan tidak q, jadi Pak Rahmat dimutasi tetapi tidak pindah rumah. Karena dimutasi, ia menerima SK baru (modus ponens).",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0034",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Tidak benar bahwa Galih atau Fajar ditunjuk sebagai ketua panitia.\nJika Fajar tidak ditunjuk sebagai ketua panitia, ia menjadi bendahara.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Galih ditunjuk sebagai ketua panitia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Fajar ditunjuk sebagai ketua panitia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Fajar menjadi bendahara panitia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Galih menjadi bendahara panitia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Negasi disjungsi: tidak (p atau q) setara dengan tidak p dan tidak q, jadi Galih dan Fajar sama-sama bukan ketua. Dengan modus ponens, Fajar menjadi bendahara.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-silogisme-0035",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "silogisme",
+    "stem": "Setiap kali stok vaksin di gudang farmasi kurang dari 100 dosis, petugas mengajukan permintaan tambahan ke dinas provinsi.\nPekan ini petugas tidak mengajukan permintaan tambahan.\nKesimpulan yang tepat adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pekan ini stok vaksin di gudang tidak kurang dari 100 dosis",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pekan ini stok vaksin di gudang kurang dari 100 dosis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pekan ini stok vaksin di gudang tepat 100 dosis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dinas provinsi tetap mengirim vaksin tambahan ke gudang pekan ini",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditarik kesimpulan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Modus tollens: jika p maka q, dan tidak q, maka tidak p. 'Tidak kurang dari 100 dosis' berarti 100 dosis atau lebih, belum tentu tepat 100 (C).",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0001",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima warga, yaitu Ayu, Bayu, Cici, Dedi, dan Euis, mengantre di loket Samsat untuk membayar pajak kendaraan. Euis berada di urutan kedua. Cici berada di urutan paling belakang. Bayu berada tepat di belakang Ayu. Dedi berada di depan Ayu.\nSiapa yang berada di urutan ketiga?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ayu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bayu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Cici",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dedi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Euis",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Euis di urutan 2 dan Cici di urutan 5, sehingga blok Ayu-Bayu hanya muat di urutan 3-4 dan Dedi di urutan 1. Urutannya: Dedi, Euis, Ayu, Bayu, Cici.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0002",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima finalis lomba pidato tingkat kecamatan, yaitu Fikri, Gilang, Hana, Indah, dan Joko, memperoleh peringkat 1 sampai 5 tanpa ada peringkat yang sama. Indah meraih peringkat 2. Joko berperingkat tepat satu tingkat di bawah Hana. Peringkat Gilang lebih rendah daripada peringkat Joko.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hana meraih peringkat 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Gilang meraih peringkat 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Fikri meraih peringkat 1",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Joko meraih peringkat 5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Hana meraih peringkat 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasangan Hana-Joko tidak bisa di 1-2 karena peringkat 2 milik Indah, dan tidak bisa di 4-5 karena Gilang harus di bawah Joko. Jadi Hana 3, Joko 4, Gilang 5, dan Fikri 1.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0003",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam bidang, yaitu Perencanaan, Keuangan, Umum, Kepegawaian, Hukum, dan Humas, menyampaikan presentasi bergiliran pada urutan 1 sampai 6 dalam rapat evaluasi. Humas tampil terakhir. Perencanaan tampil kedua. Keuangan tampil sebelum Umum dan sebelum Hukum. Kepegawaian tampil tepat setelah Hukum.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Umum tampil ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Hukum tampil keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Keuangan tampil pertama",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kepegawaian tampil kelima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Umum tampil sebelum Hukum",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutan 1 tidak bisa diisi Umum atau Hukum (harus didahului Keuangan) maupun Kepegawaian (harus didahului Hukum), jadi Keuangan pasti pertama. Umum bisa ketiga atau kelima, sehingga pilihan lain hanya mungkin.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0004",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pejabat, yaitu Pak Adi, Bu Bela, Pak Candra, Bu Dina, Pak Eko, dan Bu Fitri, duduk mengelilingi meja bundar dengan enam kursi berjarak sama dan semuanya menghadap ke tengah meja. Pak Adi berhadapan dengan Bu Dina. Bu Bela duduk tepat di sebelah kanan Pak Adi. Pak Candra tidak bersebelahan dengan Bu Dina. Pak Eko tidak bersebelahan dengan Bu Bela.\nSiapa yang duduk berhadapan dengan Pak Candra?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Adi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Bu Bela",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bu Dina",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pak Eko",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bu Fitri",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nomori kursi 1-6 searah jarum jam: Adi 1, Dina 4, dan kanan Adi (berlawanan arah jarum jam) adalah kursi 6 untuk Bela. Candra tidak boleh di 3 atau 5, jadi Candra 2; Eko tidak boleh di 5, jadi Eko 3 dan Fitri 5, tepat berhadapan dengan Candra.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0005",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima layanan di Mal Pelayanan Publik, yaitu Dukcapil, Perizinan, Pajak Daerah, Pendidikan, dan Kesehatan, menempati lantai 1 sampai 5, satu layanan per lantai. Dukcapil berada di lantai 1. Pajak Daerah berada tepat satu lantai di atas Perizinan. Perizinan tidak berada di lantai 2. Kesehatan tidak berada di lantai 5. Pendidikan berada di lantai yang lebih tinggi daripada Kesehatan.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pendidikan berada di lantai 5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pajak Daerah berada di lantai 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perizinan berada di lantai 3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kesehatan berada di lantai 2",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pajak Daerah berada di lantai 3",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Blok Perizinan-Pajak Daerah hanya bisa di lantai 3-4 atau 4-5. Pada kedua susunan, Kesehatan harus di bawah Pendidikan dan tidak boleh di lantai 5, sehingga Kesehatan selalu di lantai 2.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0006",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Empat pegawai, yaitu Rudi, Sinta, Tono, dan Umi, mendapat jadwal piket kantor pada hari Senin sampai Kamis, satu orang per hari. Umi piket tepat sehari setelah Tono. Rudi tidak piket pada hari Senin. Sinta piket setelah Umi.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rudi piket pada hari Rabu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sinta piket pada hari Kamis",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Umi piket pada hari Rabu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Tono piket pada hari Senin",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Rudi piket sebelum Sinta",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sinta harus setelah Umi, jadi Tono-Umi bukan Rabu-Kamis. Jika Tono-Umi Selasa-Rabu, Rudi terpaksa Senin, padahal dilarang. Jadi Tono Senin dan Umi Selasa, sedangkan Rudi dan Sinta mengisi Rabu-Kamis dalam urutan bebas.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0007",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima narasumber seminar, yaitu Bu Ratna, Pak Sigit, Bu Tari, Pak Umar, dan Bu Vina, duduk berderet di panggung pada kursi bernomor 1 sampai 5. Pak Sigit duduk di kursi 3. Bu Vina duduk tepat di sebelah Pak Sigit pada kursi bernomor lebih kecil. Bu Tari duduk di salah satu kursi ujung. Bu Ratna dan Pak Umar tidak duduk bersebelahan.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Bu Ratna duduk di kursi 1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Umar duduk di kursi 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bu Tari duduk di kursi 5",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bu Tari duduk di kursi 1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pak Umar bersebelahan dengan Bu Vina",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Sigit di kursi 3 dan Vina di kursi 2, sisa kursi 1, 4, 5. Jika Tari di kursi 1, Ratna dan Umar terpaksa di kursi 4-5 yang bersebelahan. Jadi Tari pasti di kursi 5, sedangkan Ratna dan Umar menempati kursi 1 dan 4 dalam urutan bebas.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0008",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pegawai, yaitu Arif, Bintang, Citra, Danu, Erna, dan Fani, tiba di kantor pada waktu yang berbeda. Danu tiba setelah Erna, tetapi sebelum Arif. Arif tiba sebelum Bintang. Citra tiba tepat setelah Bintang. Fani bukan yang pertama tiba dan bukan yang terakhir.\nPernyataan berikut yang pasti salah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fani tiba kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Danu tiba ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Arif tiba ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Fani tiba keempat",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Fani tiba kelima",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutan Erna, Danu, Arif, Bintang, Citra sudah tetap, dengan Bintang-Citra berurutan langsung. Fani hanya bisa disisipkan sebelum Bintang (urutan 2, 3, atau 4), sehingga Bintang selalu kelima dan Fani tidak mungkin kelima.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0009",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pegawai, yaitu Lukman, Maya, Nina, Oscar, Putri, dan Qori, dibagi menjadi Tim Verifikasi dan Tim Lapangan yang masing-masing beranggotakan tiga orang. Lukman dan Maya tidak boleh berada dalam satu tim. Nina harus satu tim dengan Oscar. Putri tidak satu tim dengan Nina. Jika Lukman masuk Tim Verifikasi, Qori masuk Tim Lapangan.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lukman satu tim dengan Nina",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Maya masuk Tim Verifikasi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Qori masuk Tim Lapangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Putri satu tim dengan Qori",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Oscar masuk Tim Verifikasi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Lukman dan Maya terpisah, jadi tiap tim memuat salah satu dari mereka. Tim yang memuat Nina dan Oscar sudah penuh dengan Lukman atau Maya, sehingga Putri dan Qori selalu berada di tim yang lain. Pilihan lain hanya benar pada sebagian susunan.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0010",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima desa, yaitu Sukamaju, Sukasari, Cibodas, Margahayu, dan Mekarjaya, memperoleh peringkat 1 sampai 5 dalam lomba desa terbaik tingkat kabupaten. Margahayu berada di peringkat 3. Mekarjaya berada tepat satu peringkat di bawah Cibodas. Sukamaju berperingkat lebih baik daripada Cibodas. Sukasari tidak berada di peringkat 1.\nDesa yang berada di peringkat 2 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sukamaju",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sukasari",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Cibodas",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Margahayu",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mekarjaya",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Blok Cibodas-Mekarjaya tidak bisa di 1-2 karena Sukamaju harus lebih baik daripada Cibodas, jadi blok itu di 4-5. Peringkat 1-2 untuk Sukamaju dan Sukasari, dan karena Sukasari bukan peringkat 1, Sukasari di peringkat 2.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0011",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam kepala seksi, yaitu Gita, Heru, Irma, Joni, Kartika, dan Lutfi, duduk mengelilingi meja bundar dengan enam kursi berjarak sama. Gita berhadapan dengan Joni. Heru duduk di antara Gita dan Irma, bersebelahan langsung dengan keduanya. Kartika tidak bersebelahan dengan Joni.\nSiapa yang duduk berhadapan dengan Lutfi?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Gita",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Heru",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Irma",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Joni",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kartika",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Misalkan Gita di kursi 1 dan Joni di kursi 4. Heru di sebelah Gita dan Irma di sebelah Heru, sehingga satu sisi meja terisi Gita-Heru-Irma. Kartika tidak boleh di sebelah Joni, jadi Kartika di sebelah Gita dan Lutfi di sebelah Joni, tepat berhadapan dengan Heru.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0012",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pegawai, yaitu Fajar, Gina, Hadi, Indra, Jaka, dan Kevin, dijadwalkan piket berpasangan pada hari Senin, Selasa, dan Rabu, dua orang setiap hari. Jaka piket pada hari Rabu. Fajar dan Gina piket pada hari yang sama. Indra piket tepat sehari setelah Hadi. Kevin tidak piket pada hari Senin.\nSiapa yang piket bersama Jaka?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Fajar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Gina",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Hadi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Indra",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Kevin",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Fajar-Gina tidak bisa Rabu karena sudah ada Jaka. Jika Fajar-Gina Selasa, Kevin harus Rabu dan Hadi-Indra tidak bisa di hari berurutan. Jadi Fajar-Gina Senin, Hadi dan Kevin Selasa, sedangkan Indra piket Rabu bersama Jaka.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0013",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Salah satu dari Lina, Mega, Nisa, Oki, dan Panji lupa mematikan proyektor di ruang rapat. Lina berkata, 'Bukan saya.' Mega berkata, 'Oki pelakunya.' Nisa berkata, 'Bukan Panji.' Oki berkata, 'Mega berbohong.' Panji berkata, 'Lina pelakunya.' Ternyata tepat dua orang yang berkata benar.\nSiapa yang lupa mematikan proyektor?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lina",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mega",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Nisa",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Oki",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Panji",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pernyataan Mega dan Oki saling bertentangan sehingga tepat satu yang benar; pernyataan Lina dan Panji juga selalu tepat satu yang benar. Karena hanya dua yang benar, Nisa pasti berbohong, artinya Panji pelakunya.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0014",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima pasien, yaitu Bu Asih, Pak Bowo, Bu Cucu, Pak Darmo, dan Bu Endang, dilayani satu per satu di poli umum puskesmas. Pak Bowo dilayani tepat setelah Bu Asih. Bu Cucu dilayani sebelum Pak Darmo. Bu Endang bukan pasien pertama dan bukan pasien terakhir. Pak Darmo bukan pasien terakhir.\nPernyataan berikut yang pasti salah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Darmo dilayani kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Bowo dilayani ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bu Endang dilayani ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pak Darmo dilayani ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bu Endang dilayani kedua",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutan terakhir tidak bisa Endang, Darmo, Cucu (harus sebelum Darmo), atau Asih (harus diikuti Bowo), jadi Bowo kelima dan Asih keempat. Karena itu Bowo tidak mungkin dilayani ketiga.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0015",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam mobil dinas berwarna merah, putih, hitam, abu-abu, biru, dan perak diparkir berderet di slot 1 sampai 6. Mobil putih diparkir di salah satu ujung. Mobil hitam diparkir tepat di sebelah mobil merah pada slot bernomor lebih besar. Mobil biru tidak bersebelahan dengan mobil putih. Mobil perak diparkir di slot 2.\nPernyataan berikut yang tidak mungkin benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Mobil putih di slot 6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mobil biru di slot 1",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mobil hitam di slot 3",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Mobil abu-abu di slot 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mobil merah di slot 5",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika mobil hitam di slot 3, mobil merah harus di slot 2, padahal slot 2 milik mobil perak. Pilihan lain muncul pada paling sedikit satu susunan sah, misalnya putih 1, perak 2, biru 3, abu-abu 4, merah 5, hitam 6.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0016",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Empat CPNS baru, yaitu Rani, Sapto, Tiara, dan Usman, masing-masing ditempatkan di kecamatan yang berbeda: Ciawi, Cisarua, Megamendung, dan Caringin. Rani tidak ditempatkan di Ciawi maupun Cisarua. Sapto tidak ditempatkan di Megamendung maupun Caringin. Usman tidak ditempatkan di Cisarua. Jika Tiara ditempatkan di Ciawi, Usman ditempatkan di Megamendung.\nPenempatan berikut yang tidak mungkin terjadi adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Usman di Caringin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sapto di Cisarua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tiara di Megamendung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Rani di Caringin dan Usman di Megamendung",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tiara di Ciawi dan Rani di Megamendung",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Tiara di Ciawi, Usman wajib di Megamendung, sehingga Rani (yang tidak boleh di Ciawi atau Cisarua) terpaksa di Caringin. Jadi Tiara di Ciawi bersamaan dengan Rani di Megamendung mustahil, sedangkan pilihan lain muncul pada susunan yang sah.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0017",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam sanggar tari dari Aceh, Bali, Jambi, Maluku, Papua, dan Riau tampil bergiliran pada urutan 1 sampai 6 dalam festival budaya. Sanggar Papua tampil terakhir. Sanggar Maluku tampil tepat sebelum sanggar Bali. Sanggar Bali tampil sebelum sanggar Aceh. Sanggar Jambi dan sanggar Riau tidak tampil berurutan.\nPernyataan berikut yang pasti salah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Sanggar Jambi tampil pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sanggar Riau tampil kelima",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Sanggar Aceh tampil ketiga",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sanggar Bali tampil kedua",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Sanggar Jambi tampil keempat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Aceh ketiga, blok Maluku-Bali harus di urutan 1-2, lalu Jambi dan Riau mengisi urutan 4-5 yang berurutan, padahal dilarang. Pilihan lain masing-masing mungkin terjadi.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0018",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam peserta rapat, yaitu Kurnia, Laras, Mahmud, Nadia, Opik, dan Prita, duduk di dua baris kursi yang saling berhadapan. Baris Utara berisi kursi U1, U2, U3 dan Baris Selatan berisi kursi S1, S2, S3, berurutan dari barat ke timur; U1 berhadapan dengan S1, U2 dengan S2, dan U3 dengan S3. Laras duduk di kursi U2. Kurnia dan Nadia duduk bersebelahan di baris yang sama. Opik duduk berhadapan dengan Kurnia. Prita duduk di Baris Utara.\nSiapa yang duduk berhadapan dengan Laras?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kurnia",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Mahmud",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Nadia",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Opik",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Prita",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Baris Utara tidak punya dua kursi bersebelahan yang kosong karena U2 milik Laras, jadi Kurnia dan Nadia di Baris Selatan. Kurnia tidak boleh di S2 karena lawannya U2 adalah Laras, bukan Opik; jadi Kurnia di ujung dan Nadia di S2, berhadapan dengan Laras.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0019",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Dari enam pegawai, yaitu Amir, Bela, Cahya, Dewi, Erik, dan Farah, akan dipilih tepat tiga orang untuk tim pengadaan barang. Jika Amir dipilih, Bela tidak dipilih. Cahya hanya dipilih jika Dewi juga dipilih. Tepat satu dari Erik dan Farah dipilih. Bela dan Dewi tidak boleh dipilih bersama.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dewi terpilih",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Amir terpilih",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Cahya terpilih",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Erik terpilih",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Farah terpilih",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Erik atau Farah mengisi satu tempat, sisa dua tempat dari Amir, Bela, Cahya, Dewi. Bela tidak bisa berpasangan dengan Amir, Dewi, maupun Cahya (Cahya butuh Dewi), jadi pasangan yang mungkin hanya Amir-Dewi atau Cahya-Dewi. Dewi pasti terpilih.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0020",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima kepala desa, yaitu Asep, Budi, Cecep, Dadang, dan Enjang, duduk mengelilingi meja bundar dengan lima kursi berjarak sama dan semuanya menghadap ke tengah meja. Budi duduk tepat di sebelah kanan Asep. Dadang duduk tepat di sebelah kiri Cecep. Cecep tidak bersebelahan dengan Budi.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Cecep duduk tepat di sebelah kiri Asep",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Enjang bersebelahan dengan Budi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dadang tidak bersebelahan dengan Asep",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Enjang duduk tepat di sebelah kanan Dadang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Cecep bersebelahan dengan Enjang",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nomori kursi 1-5 searah jarum jam dengan Asep di kursi 1; kanan berarti berlawanan arah jarum jam, jadi Budi di kursi 5. Cecep tidak boleh di kursi 4 dan Dadang di kiri Cecep, sehingga Cecep-Dadang menempati 2-3 atau 3-4. Dadang tidak pernah di kursi 2 atau 5 yang bersebelahan dengan Asep.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0021",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima dinas, yaitu Dinas Sosial, Dinas PUPR, Dinas Perhubungan, Dinas Kominfo, dan Dinas Pariwisata, menyerahkan laporan triwulan kepada bupati pada hari Senin sampai Jumat, satu dinas per hari. Dinas PUPR menyerahkan sebelum Dinas Perhubungan. Dinas Kominfo menyerahkan pada hari Rabu atau Kamis. Dinas Pariwisata menyerahkan tepat sehari setelah Dinas Sosial. Dinas Perhubungan tidak menyerahkan pada hari Jumat.\nDinas yang menyerahkan laporan pada hari Kamis adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Dinas Sosial",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Dinas PUPR",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Dinas Perhubungan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Dinas Kominfo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Dinas Pariwisata",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Kominfo hari Kamis, blok Sosial-Pariwisata menempati Senin-Selasa atau Selasa-Rabu, dan Perhubungan selalu terdorong ke Jumat. Jadi Kominfo Rabu, Sosial-Pariwisata Kamis-Jumat, PUPR Senin, dan Perhubungan Selasa.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0022",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pelari, yaitu Hadi, Ira, Jono, Kiki, Lala, dan Mamat, mengikuti lomba lari 10K hari jadi kota dan finis pada urutan yang berbeda. Tepat dua pelari finis di antara Hadi dan Ira. Jono finis lebih dulu daripada Hadi maupun Ira. Kiki finis tepat setelah Lala. Mamat bukan yang pertama dan bukan yang terakhir finis.\nSiapa yang pasti finis di urutan keempat?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Hadi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ira",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kiki",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Lala",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mamat",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Hadi dan Ira menempati urutan 2-5 atau 3-6 (1-4 mustahil karena Jono harus lebih dulu). Pada 2-5, blok Lala-Kiki memaksa Mamat di urutan 6, padahal dilarang. Jadi Hadi dan Ira di 3 dan 6, Jono 1, Mamat 2, Lala 4, dan Kiki 5.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0023",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima pegawai, yaitu Rina, Sani, Tomi, Umar, dan Wati, memiliki usia yang berbeda-beda. Tomi lebih tua daripada Rina, dan Rina lebih tua daripada Sani. Wati lebih tua daripada Tomi. Umar lebih muda daripada Rina, tetapi Umar bukan yang paling muda.\nSiapa pegawai yang paling muda?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Rina",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sani",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Tomi",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Umar",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Wati",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Urutan dari yang tertua: Wati, Tomi, Rina. Sani dan Umar sama-sama lebih muda daripada Rina, dan karena Umar bukan yang termuda, Sani yang paling muda.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0024",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Empat pegawai, yaitu Hesti, Irfan, Jihan, dan Kurnia, mengambil cuti tahunan pada bulan yang berbeda di antara Juni, Juli, Agustus, September, dan Oktober, sehingga ada satu bulan tanpa pegawai yang cuti. Jihan cuti pada bulan Agustus. Kurnia cuti tepat sebulan setelah Irfan. Hesti cuti sebelum Irfan.\nIrfan pasti cuti pada bulan ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Juni",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Juli",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Agustus",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "September",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Oktober",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pasangan Irfan-Kurnia tidak boleh melibatkan Agustus, dan tidak bisa Juni-Juli karena Hesti harus lebih dulu daripada Irfan. Satu-satunya pilihan adalah Irfan September dan Kurnia Oktober; Hesti bisa Juni atau Juli.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0025",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam peserta ujian, yaitu Ani, Beni, Caca, Doni, Eli, dan Feri, dibagi ke Ruang 1, Ruang 2, dan Ruang 3, masing-masing dua orang. Ani dan Beni tidak berada di ruang yang sama. Caca berada di Ruang 2. Doni berada di ruang yang sama dengan Eli. Feri tidak berada di Ruang 1.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ani berada di Ruang 2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Beni berada di Ruang 3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Eli berada di Ruang 3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Feri berada di Ruang 2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Doni berada di Ruang 1",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Doni dan Eli butuh satu ruang utuh, padahal Ruang 2 sudah berisi Caca. Jika mereka di Ruang 3, Ruang 1 harus diisi dua dari Ani, Beni, Feri, padahal Ani-Beni tidak boleh bersama dan Feri dilarang di Ruang 1. Maka Doni dan Eli pasti di Ruang 1.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0026",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam peserta rapat, yaitu Pak Yudi, Pak Zaki, Bu Arum, Bu Bunga, Bu Citra, dan Pak Dewo, duduk mengelilingi meja bundar dengan enam kursi berjarak sama dan semuanya menghadap ke tengah meja. Bu Arum berhadapan dengan Pak Zaki. Pak Yudi duduk tepat di sebelah kiri Bu Arum. Pak Dewo duduk tepat di sebelah kanan Pak Zaki. Bu Citra tidak bersebelahan dengan Bu Arum.\nSiapa yang duduk berhadapan dengan Bu Citra?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Yudi",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Zaki",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Bu Arum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Bu Bunga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pak Dewo",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Nomori kursi 1-6 searah jarum jam dengan Arum di kursi 1 dan Zaki di kursi 4. Kiri berarti searah jarum jam, jadi Yudi di kursi 2; kanan berarti berlawanan arah jarum jam, jadi Dewo di kursi 3. Citra tidak boleh di kursi 6 (sebelah Arum), sehingga Citra di kursi 5, berhadapan dengan Yudi.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0027",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam nasabah, yaitu Galang, Hilda, Ikhsan, Juwita, Kamal, dan Lestari, mengantre di teller sebuah bank daerah. Hilda berada tepat di belakang Galang. Ada tepat satu orang di antara Ikhsan dan Juwita, dengan Ikhsan lebih depan. Kamal bukan yang paling depan. Lestari berada di urutan keempat.\nPernyataan berikut yang pasti salah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Galang berada di urutan pertama",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Kamal berada di urutan kelima",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Juwita berada di urutan ketiga",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kamal berada di urutan keenam",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ikhsan berada di urutan pertama",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Dengan Lestari di urutan 4, blok Galang-Hilda hanya muat di 1-2 atau 5-6. Jika di 1-2, Ikhsan-Juwita di 3 dan 5 sehingga Kamal keenam; jika di 5-6, Ikhsan-Juwita di 1 dan 3 sehingga Kamal kedua. Kamal tidak pernah di urutan kelima.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0028",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima warga, yaitu Pak Amin, Pak Badu, Pak Cahyo, Pak Darno, dan Pak Edi, mendapat giliran ronda pada hari Senin sampai Jumat, satu orang per hari. Pak Cahyo bertugas hari Selasa dan Pak Edi bertugas hari Rabu. Pak Darno bertugas setelah Pak Edi. Pak Amin tidak bertugas hari Senin. Pak Amin dan Pak Badu tidak bertugas pada hari yang berurutan.\nSiapa yang pasti bertugas pada hari Senin?",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Pak Amin",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Pak Badu",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Pak Cahyo",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Pak Darno",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Pak Edi",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Senin hanya bisa diisi Amin, Badu, atau Darno. Darno harus setelah Rabu dan Amin dilarang pada Senin, jadi Senin pasti Pak Badu; Amin dan Darno mengisi Kamis dan Jumat.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0029",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Empat pegawai baru, yaitu Nanda, Okta, Puspa, dan Rizal, berasal dari kota yang berbeda (Medan, Padang, Palembang, Pontianak) dan ditempatkan di bagian yang berbeda (Keuangan, Umum, Perencanaan, Kepegawaian). Pegawai asal Medan ditempatkan di Bagian Umum. Nanda bukan berasal dari Medan dan tidak ditempatkan di Bagian Keuangan. Okta berasal dari Padang. Puspa ditempatkan di Bagian Perencanaan. Pegawai asal Pontianak tidak ditempatkan di Bagian Kepegawaian.\nPegawai asal Palembang ditempatkan di bagian ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Keuangan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Perencanaan",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kepegawaian",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Tidak dapat ditentukan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pegawai asal Medan bukan Nanda, Okta, atau Puspa, jadi Rizal dari Medan dan di Bagian Umum. Nanda tersisa di Kepegawaian dan Okta di Keuangan. Karena pegawai asal Pontianak tidak di Kepegawaian, Nanda berasal dari Palembang.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0030",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Kepala dinas menunjuk tepat tiga dari lima pegawai, yaitu Lia, Mamat, Nur, Oka, dan Pras, untuk mengikuti diklat teknis. Jika Lia ditunjuk, Mamat juga ditunjuk. Nur dan Oka tidak boleh ditunjuk bersamaan. Jika Pras tidak ditunjuk, Nur ditunjuk. Mamat dan Pras tidak boleh ditunjuk bersamaan.\nTiga pegawai yang ditunjuk adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Lia, Mamat, dan Nur",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Lia, Mamat, dan Pras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Mamat, Nur, dan Oka",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Nur, Oka, dan Pras",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Lia, Nur, dan Pras",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Pras ditunjuk, Mamat dan Lia tidak bisa ikut, sehingga Nur dan Oka harus ditunjuk bersama, padahal dilarang. Jadi Pras tidak ditunjuk, Nur ditunjuk, Oka tidak, dan dua tempat sisanya untuk Lia dan Mamat.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0031",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Gedung kantor kecamatan memiliki dua lantai. Lantai 1 berisi ruang 1, 2, 3 dan lantai 2 berisi ruang 4, 5, 6, masing-masing berderet dari barat ke timur; ruang 4 tepat di atas ruang 1, ruang 5 di atas ruang 2, dan ruang 6 di atas ruang 3. Enam unit, yaitu Arsip, Keuangan, Umum, Rapat, Server, dan Pimpinan, masing-masing menempati satu ruang. Ruang Pimpinan berada di lantai 2 pada salah satu ujung. Ruang Server tepat di bawah Ruang Pimpinan. Ruang Arsip bersebelahan dengan Ruang Server di lantai yang sama. Ruang Rapat berada di lantai 2 dan tidak bersebelahan dengan Ruang Pimpinan.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ruang Rapat menempati ruang 4",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Ruang Arsip menempati ruang 2",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Ruang Keuangan berada di lantai 2",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Ruang Umum menempati ruang 5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ruang Server menempati ruang 1",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Pimpinan di ruang 4 atau 6, sehingga Server di ruang 1 atau 3, yaitu ujung lantai 1. Satu-satunya ruang di lantai 1 yang bersebelahan dengan kedua ujung itu adalah ruang 2, jadi Arsip pasti di ruang 2.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0032",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima pesawat dari Ambon, Biak, Kupang, Manado, dan Ternate mendarat bergiliran di Bandara Sultan Hasanuddin. Pesawat dari Kupang mendarat setelah pesawat dari Manado, tetapi sebelum pesawat dari Ambon. Pesawat dari Biak mendarat tepat setelah pesawat dari Ambon. Pesawat dari Ternate bukan yang pertama mendarat.\nPesawat yang pasti mendarat pertama berasal dari ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ambon",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Biak",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kupang",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Manado",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Ternate",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Kupang, Ambon, dan Biak semuanya mendarat setelah pesawat dari Manado, sedangkan Ternate dilarang menjadi yang pertama. Jadi pesawat dari Manado pasti mendarat pertama.",
+    "difficulty": 1,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0033",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pegawai, yaitu Rosa, Seno, Tia, Ucok, Vivi, dan Wawan, masing-masing memakai satu loker berderet bernomor 1 sampai 6. Seno memakai loker bernomor genap. Rosa memakai loker bernomor ganjil, dan Tia memakai loker di sebelahnya yang bernomor satu lebih besar. Ucok memakai loker paling ujung (nomor 1 atau 6). Nomor loker Vivi lebih kecil daripada nomor loker Wawan.\nPernyataan berikut yang pasti salah adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Ucok memakai loker 6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Rosa memakai loker 5",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Seno memakai loker 6",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Vivi memakai loker 3",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Wawan memakai loker 2",
+        "score": 5,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Wawan di loker 2, Vivi harus di loker 1 sehingga Ucok di loker 6. Pasangan Rosa-Tia lalu hanya muat di 3-4, menyisakan loker 5 yang ganjil untuk Seno, padahal Seno harus genap.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0034",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Enam pejabat berfoto bersama dalam satu baris pada posisi 1 sampai 6 dari kiri: Kepala Dinas, Sekretaris, Kabid Data, Kabid Layanan, Kasubbag Umum, dan Bendahara. Kepala Dinas berdiri di posisi 3 atau 4. Sekretaris berdiri tepat di sebelah Kepala Dinas. Bendahara berdiri di salah satu ujung. Kasubbag Umum berdiri tepat di sebelah Bendahara. Kabid Data dan Kabid Layanan tidak berdiri bersebelahan.\nPernyataan yang pasti benar adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Kepala Dinas diapit Sekretaris dan seorang kabid",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Sekretaris berdiri bersebelahan dengan Kasubbag Umum",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Kabid Data berdiri di salah satu ujung barisan foto",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Kepala Dinas berdiri di posisi 4 dari kiri",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Bendahara berdiri di ujung paling kanan barisan",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Bendahara dan Kasubbag Umum menempati satu ujung (1-2 atau 5-6), lalu Kepala Dinas dan Sekretaris mengisi dua posisi tengah. Kedua kabid yang tidak boleh bersebelahan harus terpisah: satu di ujung yang lain dan satu tepat di sebelah Kepala Dinas. Jadi Kepala Dinas selalu diapit Sekretaris dan seorang kabid.",
+    "difficulty": 3,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  },
+  {
+    "id": "tiu-verbal-analitis-0035",
+    "subtest": "TIU",
+    "group": "verbal",
+    "tag": "analitis",
+    "stem": "Lima kelompok tani, yaitu Makmur, Subur, Lestari, Sejahtera, dan Mandiri, menerima bantuan bibit secara bergiliran pada pekan ke-1 sampai ke-5, satu kelompok per pekan. Kelompok Subur menerima sebelum kelompok Makmur. Kelompok Lestari menerima pada pekan ke-2 atau ke-4. Kelompok Mandiri menerima tepat sepekan setelah kelompok Sejahtera. Kelompok Makmur tidak menerima pada pekan terakhir.\nKelompok yang menerima bantuan pada pekan ke-3 adalah ...",
+    "image": null,
+    "options": [
+      {
+        "key": "A",
+        "text": "Makmur",
+        "score": 5,
+        "rationale": ""
+      },
+      {
+        "key": "B",
+        "text": "Subur",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "C",
+        "text": "Lestari",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "D",
+        "text": "Sejahtera",
+        "score": 0,
+        "rationale": ""
+      },
+      {
+        "key": "E",
+        "text": "Mandiri",
+        "score": 0,
+        "rationale": ""
+      }
+    ],
+    "explanation": "Jika Lestari pekan ke-4, blok Sejahtera-Mandiri memaksa Makmur ke pekan ke-5, padahal dilarang. Jadi Lestari pekan ke-2, Sejahtera-Mandiri pekan ke-4 dan ke-5, Subur pekan ke-1, dan Makmur pekan ke-3.",
+    "difficulty": 2,
+    "source": "ditulis sendiri",
+    "status": "draft"
+  }
+]

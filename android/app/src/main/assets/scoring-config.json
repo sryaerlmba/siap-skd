@@ -1,0 +1,12 @@
+{
+  "year": 2024,
+  "note": "KepmenPANRB 321/2024. Ganti saat Kepmen 2026 terbit.",
+  "counts": { "TWK": 30, "TIU": 35, "TKP": 45 },
+  "durationSec": 6000,
+  "durationSecNetra": 7800,
+  "categories": {
+    "UMUM": { "label": "Umum", "pgTWK": 65, "pgTIU": 80, "pgTKP": 166 },
+    "CUMLAUDE": { "label": "Cumlaude / diaspora", "pgCumulative": 311, "pgTIU": 85 },
+    "DISABILITAS": { "label": "Disabilitas / putra-putri Papua", "pgCumulative": 286, "pgTIU": 60 }
+  }
+}
