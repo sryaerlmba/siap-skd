@@ -12,7 +12,6 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
-import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.HorizontalDivider
@@ -192,36 +191,54 @@ fun MarkdownView(markdown: String, modifier: Modifier = Modifier) {
     }
 }
 
+/**
+ * Tabel ditampilkan menumpuk ke bawah, bukan digeser ke samping, supaya enak dibaca di layar HP.
+ * 2 kolom: label kecil di atas, isi di bawahnya. 3 kolom atau lebih: satu kartu per baris,
+ * kolom pertama jadi judul kartu dan kolom lain jadi pasangan "nama kolom: isi".
+ */
 @Composable
 private fun MdTable(t: MdBlock.Table, monoBg: Color) {
     val cols = t.header.size
-    // Lebar kolom tetap per tabel, dari isi terpanjang di kolom itu, supaya semua baris sejajar.
-    val widths = remember(t) {
-        (0 until cols).map { c ->
-            val longest = (listOf(t.header[c]) + t.rows.map { it.getOrNull(c) ?: "" }).maxOf { it.replace("*", "").length }
-            (longest * 6.5f + 24f).coerceIn(84f, 230f).dp
-        }
-    }
+    val allShort = remember(t) { t.rows.all { r -> r.all { it.length <= 14 } } && cols <= 3 }
+    if (allShort) { CompactTable(t, monoBg); return }
+
     Column(
         Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).border(1.dp, Line, RoundedCornerShape(10.dp))
-            .horizontalScroll(rememberScrollState())
     ) {
-        Row(Modifier.background(MaterialTheme.colorScheme.surfaceVariant)) {
-            t.header.forEachIndexed { c, h ->
-                Text(
-                    h.uppercase(), style = MaterialTheme.typography.labelSmall, color = Muted,
-                    modifier = Modifier.width(widths[c]).padding(horizontal = 10.dp, vertical = 8.dp)
-                )
+        t.rows.forEachIndexed { i, row ->
+            if (i > 0) HorizontalDivider(color = Line)
+            Column(Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 10.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                if (cols >= 3) {
+                    Text(inline(row.getOrNull(0) ?: "", monoBg), style = MaterialTheme.typography.titleSmall)
+                    (1 until cols).forEach { c ->
+                        val value = row.getOrNull(c).orEmpty()
+                        if (value.isBlank()) return@forEach
+                        Text(t.header[c].uppercase(), style = MaterialTheme.typography.labelSmall, color = Muted, modifier = Modifier.padding(top = 4.dp))
+                        Text(inline(value, monoBg), style = MaterialTheme.typography.bodyMedium)
+                    }
+                } else {
+                    Text(inline(row.getOrNull(0) ?: "", monoBg), style = MaterialTheme.typography.labelMedium, color = Primary)
+                    Text(inline(row.getOrNull(1) ?: "", monoBg), style = MaterialTheme.typography.bodyMedium)
+                }
+            }
+        }
+    }
+}
+
+/** Tabel kecil berisi angka atau kata pendek tetap digambar sebagai grid, muat tanpa geser. */
+@Composable
+private fun CompactTable(t: MdBlock.Table, monoBg: Color) {
+    Column(Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).border(1.dp, Line, RoundedCornerShape(10.dp))) {
+        Row(Modifier.fillMaxWidth().background(MaterialTheme.colorScheme.surfaceVariant)) {
+            t.header.forEach { h ->
+                Text(h.uppercase(), style = MaterialTheme.typography.labelSmall, color = Muted, modifier = Modifier.weight(1f).padding(horizontal = 10.dp, vertical = 8.dp))
             }
         }
         t.rows.forEach { row ->
             HorizontalDivider(color = Line)
-            Row {
-                (0 until cols).forEach { c ->
-                    Text(
-                        inline(row.getOrNull(c) ?: "", monoBg), style = MaterialTheme.typography.bodySmall,
-                        modifier = Modifier.width(widths[c]).padding(horizontal = 10.dp, vertical = 8.dp)
-                    )
+            Row(Modifier.fillMaxWidth()) {
+                t.header.indices.forEach { c ->
+                    Text(inline(row.getOrNull(c) ?: "", monoBg), style = MaterialTheme.typography.bodySmall, modifier = Modifier.weight(1f).padding(horizontal = 10.dp, vertical = 8.dp))
                 }
             }
         }
