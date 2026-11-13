@@ -24,8 +24,24 @@ def split_sections(text: str, level: int):
     return out
 
 
+OPTION_LINE = re.compile(r"^A\. .* · B\. ")
+KUNCI_LINE = re.compile(r"^\*\*Kunci [A-E]\.\*\*")
+
+
 def clean(md: str) -> str:
     md = re.sub(r"\n---\n", "\n", md)
+    # Contoh soal di tiu.md ditulis tiga baris rapat: "**N.** soal", "A. x · B. y ...", "**Kunci X.** ...".
+    # Markdown menggabungkan baris rapat jadi satu paragraf, jadi pisahkan: opsi jadi blok sendiri
+    # (dirender satu opsi per baris oleh aplikasi) dan kunci jadi kutipan berwarna.
+    out = []
+    for line in md.split("\n"):
+        if OPTION_LINE.match(line):
+            out += ["", line, ""]
+        elif KUNCI_LINE.match(line):
+            out += ["", "> " + line, ""]
+        else:
+            out.append(line)
+    md = "\n".join(out)
     md = re.sub(r"\n{3,}", "\n\n", md)
     return md.strip()
 
