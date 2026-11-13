@@ -19,6 +19,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
@@ -27,6 +28,7 @@ import androidx.compose.ui.text.SpanStyle
 import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.text.withStyle
 import androidx.compose.ui.unit.dp
 import com.belajar.cpns.ui.theme.Line
@@ -45,6 +47,8 @@ sealed class MdBlock {
     data class Bullets(val items: List<Pair<Int, String>>, val ordered: Boolean) : MdBlock()
     data class Table(val header: List<String>, val rows: List<List<String>>) : MdBlock()
     data class Quote(val text: String) : MdBlock()
+    /** Pilihan A-E yang di sumber ditulis mendatar "A. ... · B. ...", ditampilkan satu per baris. */
+    data class Options(val items: List<Pair<String, String>>) : MdBlock()
     data class Code(val text: String) : MdBlock()
     data object Rule : MdBlock()
 }
@@ -54,8 +58,18 @@ fun parseMarkdown(md: String): List<MdBlock> {
     val blocks = mutableListOf<MdBlock>()
     var i = 0
     val para = StringBuilder()
+    val inlineOptions = Regex("(?:^|\\s[·•]\\s)([A-E])\\.\\s")
     fun flushPara() {
-        if (para.isNotBlank()) blocks += MdBlock.Paragraph(para.toString().trim())
+        val text = para.toString().trim()
+        if (text.isNotBlank()) {
+            val marks = inlineOptions.findAll(text).toList()
+            blocks += if (text.startsWith("A. ") && marks.size >= 3) {
+                MdBlock.Options(marks.mapIndexed { i, m ->
+                    val end = if (i + 1 < marks.size) marks[i + 1].range.first else text.length
+                    m.groupValues[1] to text.substring(m.range.last + 1, end).trim()
+                })
+            } else MdBlock.Paragraph(text)
+        }
         para.clear()
     }
     while (i < lines.size) {
@@ -160,6 +174,19 @@ fun MarkdownView(markdown: String, modifier: Modifier = Modifier) {
                     modifier = Modifier.padding(top = if (b.level <= 3) 10.dp else 4.dp)
                 )
                 is MdBlock.Paragraph -> Text(inline(b.text, monoBg), style = MaterialTheme.typography.bodyMedium)
+                is MdBlock.Options -> Column(verticalArrangement = Arrangement.spacedBy(6.dp)) {
+                    b.items.forEach { (letter, text) ->
+                        Row(verticalAlignment = Alignment.Top) {
+                            Text(
+                                letter, style = MaterialTheme.typography.labelLarge, color = Primary,
+                                modifier = Modifier.width(26.dp).clip(RoundedCornerShape(6.dp)).background(PrimaryTint).padding(vertical = 2.dp),
+                                textAlign = TextAlign.Center
+                            )
+                            Spacer(Modifier.width(10.dp))
+                            Text(inline(text, monoBg), style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f))
+                        }
+                    }
+                }
                 is MdBlock.Quote -> Row(
                     Modifier.fillMaxWidth().clip(RoundedCornerShape(10.dp)).background(PrimaryTint).padding(12.dp)
                 ) {

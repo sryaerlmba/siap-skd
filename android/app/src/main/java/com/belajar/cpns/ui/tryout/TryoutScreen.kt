@@ -58,6 +58,8 @@ import com.belajar.cpns.data.model.Subtest
 import com.belajar.cpns.ui.AppViewModelProvider
 import com.belajar.cpns.ui.components.MonoText
 import com.belajar.cpns.ui.components.OptionLetter
+import com.belajar.cpns.ui.components.OptionView
+import com.belajar.cpns.ui.components.StemView
 import com.belajar.cpns.ui.components.SubtestChip
 import com.belajar.cpns.ui.components.formatClock
 import com.belajar.cpns.ui.theme.Fail
@@ -110,7 +112,7 @@ fun TryoutScreen(
         )
 
         Column(Modifier.weight(1f).verticalScroll(rememberScrollState()).padding(20.dp)) {
-            Text(q.stem, style = MaterialTheme.typography.bodyLarge)
+            StemView(q)
             Spacer(Modifier.height(16.dp))
             q.options.forEach { op ->
                 val selected = item.selected == op.key
@@ -125,7 +127,7 @@ fun TryoutScreen(
                 ) {
                     OptionLetter(op.key, selected, Primary)
                     Spacer(Modifier.width(12.dp))
-                    Text(op.text, style = MaterialTheme.typography.bodyMedium, fontWeight = if (selected) FontWeight.SemiBold else FontWeight.Normal, modifier = Modifier.weight(1f))
+                    OptionView(q, op.text, bold = selected, modifier = Modifier.weight(1f))
                 }
             }
             Spacer(Modifier.height(12.dp))

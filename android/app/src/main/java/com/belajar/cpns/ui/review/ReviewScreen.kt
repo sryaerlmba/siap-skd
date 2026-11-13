@@ -41,7 +41,9 @@ import com.belajar.cpns.data.model.Question
 import com.belajar.cpns.data.model.Subtest
 import com.belajar.cpns.ui.AppViewModelProvider
 import com.belajar.cpns.ui.components.MonoText
+import com.belajar.cpns.ui.components.OptionView
 import com.belajar.cpns.ui.components.Panel
+import com.belajar.cpns.ui.components.StemView
 import com.belajar.cpns.ui.components.Pill
 import com.belajar.cpns.ui.components.SubtestChip
 import com.belajar.cpns.ui.theme.Fail
@@ -91,7 +93,7 @@ fun ReviewScreen(onBack: () -> Unit, viewModel: ReviewViewModel = viewModel(fact
                 if (answer != null && answer.timeSpentMs > 0) Text(" · ${answer.timeSpentMs / 1000} dtk", style = MaterialTheme.typography.bodySmall, color = Muted)
             }
             Spacer(Modifier.height(10.dp))
-            Text(q.stem, style = MaterialTheme.typography.bodyLarge)
+            StemView(q)
             Spacer(Modifier.height(14.dp))
 
             // TKP: urutkan dari skor 5 ke 1 agar tangga skornya terbaca; TWK/TIU: urutan asli.
@@ -119,11 +121,7 @@ fun ReviewScreen(onBack: () -> Unit, viewModel: ReviewViewModel = viewModel(fact
                     Spacer(Modifier.width(12.dp))
                     Column(Modifier.weight(1f)) {
                         Row(verticalAlignment = Alignment.CenterVertically) {
-                            Text(
-                                (if (q.subtest == Subtest.TKP) "${op.key}. " else "") + op.text,
-                                style = MaterialTheme.typography.bodyMedium, modifier = Modifier.weight(1f),
-                                fontWeight = if (isKey) FontWeight.SemiBold else FontWeight.Normal
-                            )
+                            OptionView(q, (if (q.subtest == Subtest.TKP) "${op.key}. " else "") + op.text, bold = isKey, modifier = Modifier.weight(1f))
                             if (isMine) { Spacer(Modifier.width(6.dp)); Pill("Pilihanmu", Fail, Color.White) }
                         }
                         if (op.rationale.isNotBlank()) {

@@ -42,7 +42,9 @@ import com.belajar.cpns.data.model.SessionType
 import com.belajar.cpns.data.model.Subtest
 import com.belajar.cpns.ui.AppViewModelProvider
 import com.belajar.cpns.ui.components.MonoText
+import com.belajar.cpns.ui.components.OptionView
 import com.belajar.cpns.ui.components.Panel
+import com.belajar.cpns.ui.components.StemView
 import com.belajar.cpns.ui.components.SubtestChip
 import com.belajar.cpns.ui.theme.Fail
 import com.belajar.cpns.ui.theme.FailTint
@@ -93,7 +95,7 @@ fun QuizScreen(onExit: () -> Unit, viewModel: QuizViewModel = viewModel(factory 
                 Text(q.tag.replace('_', ' '), style = MaterialTheme.typography.bodySmall, color = Muted)
             }
             Spacer(Modifier.height(10.dp))
-            Text(q.stem, style = MaterialTheme.typography.bodyLarge)
+            StemView(q)
             Spacer(Modifier.height(14.dp))
             q.options.forEach { op ->
                 val isMine = op.key == s.selected
@@ -119,7 +121,7 @@ fun QuizScreen(onExit: () -> Unit, viewModel: QuizViewModel = viewModel(factory 
                     }
                     Spacer(Modifier.width(12.dp))
                     Column(Modifier.weight(1f)) {
-                        Text(op.text, style = MaterialTheme.typography.bodyMedium, fontWeight = if (s.revealed && isKey) FontWeight.SemiBold else FontWeight.Normal)
+                        OptionView(q, op.text, bold = s.revealed && isKey)
                         if (s.revealed && op.rationale.isNotBlank()) {
                             Spacer(Modifier.height(3.dp))
                             Text(op.rationale, style = MaterialTheme.typography.bodySmall, color = if (isKey) Pass else if (isMine) Fail else Muted)
